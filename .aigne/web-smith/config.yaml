@@ -1,0 +1,78 @@
+# Project information for page publishing
+projectName: Blocklet Platform
+projectDesc: The Blocklet Platform is a comprehensive ecosystem that simplifies
+  the development, deployment, and management of modern, decentralized web
+  applications with built-in identity and security.
+projectLogo: ""
+projectId: d386cd5e-4ede-41c2-bcab-0d100cfa5c80
+projectSlug: blocklet-platform-20251003
+
+# =============================================================================
+# Website Configuration
+# =============================================================================
+
+# Purpose: What's the main outcome you want readers to achieve?
+# Available options (uncomment and modify as needed):
+#   landingPage      - Landing page / Homepage: Convert visitors into users or customers
+#   ecommerce        - E-commerce / Online store: Sell products or services online
+#   portfolio        - Portfolio / Showcase: Display creative work, projects, or achievements
+#   corporate        - Corporate / Business: Professional business website with company information
+#   blog             - Blog / Content site: Share articles, news, and regular content updates
+#   saas             - SaaS / Software product: Promote and onboard users to software services
+#   nonprofit        - Non-profit / Community: Promote causes, accept donations, engage volunteers
+#   education        - Educational / Learning: Provide courses, tutorials, or educational content
+#   mixedPurpose     - Multi-purpose website: Comprehensive website covering multiple needs
+pagePurpose:
+  - landingPage
+
+# Target Audience: Who will be reading this most often?
+# Available options (uncomment and modify as needed):
+#   customers        - Customers / End users: People who buy or use your products/services
+#   businessOwners   - Business owners / Entrepreneurs: People running businesses looking for solutions
+#   marketers        - Marketing teams: People promoting products or managing campaigns
+#   designers        - Designers / Creative professionals: People focused on visual design and user experience
+#   developers       - Developers / Technical users: People building or integrating technical solutions
+#   investors        - Investors / Stakeholders: People evaluating business potential and growth
+#   jobSeekers       - Job seekers / Potential employees: People looking for career opportunities
+#   students         - Students / Learners: People seeking educational content or resources
+#   generalPublic    - General public / Mixed audience: Broad audience with varied interests and backgrounds
+targetAudienceTypes:
+  - developers
+  - customers
+
+# Website Scale: How many pages should your website have?
+# Available options (uncomment and modify as needed):
+#   singlePage         - Single Page (only 1 page): All content consolidated into 1 page
+#   minimal            - Minimal (2-6 pages): Core pages only - quick to launch
+#   standard           - Standard (7-12 pages): Complete website with main sections [RECOMMENDED]
+#   comprehensive      - Comprehensive (12+ pages): Full-featured website with detailed sections
+#   aiDecide           - Let AI decide: Analyze project complexity and suggest appropriate scale
+websiteScale: standard
+
+# Custom Rules: Define specific page generation rules and requirements
+rules: >-
+  1. Generate a home page for the whole blocklet platform and subpage for each
+  component of the platform
+
+  2. The home page should include a section for each component such as: blocklet
+  server, blocklet service, blocklet sdk, blocklet cli, blocklet store, blocklet
+  launcher, the section should link to corresponding subpage
+
+  3. Each component subpage should focus on the component itself, act as a
+  landing page for that component, and should link back to the home page
+
+# Glossary: Define project-specific terms and definitions
+# glossary: "@glossary.md"  # Path to markdown file containing glossary definitions
+
+locale: en
+translateLanguages:
+  - zh
+pagesDir: .aigne/web-smith/pages # Directory to save generated pages
+sourcesPath: # Source code paths to analyze
+  - ./src
+defaultDatasources:
+  - ./src/screenshots/SCREENSHOTS.md
+lastGitHead: 378eb7801ac9c2109f21bdca4de165bc173a1fd6
+# Checkout ID for website deployment service
+checkoutId: ""
+appUrl: https://staging.websmith.aigne.io
