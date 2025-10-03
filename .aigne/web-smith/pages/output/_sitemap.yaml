@@ -1,17 +1,17 @@
 sitemap:
-  - title: Blocklet Platform | Build, Deploy & Manage Modern Apps
+  - title: "Blocklet Platform: Build & Deploy Modern Apps with Ease"
     path: /home
-  - title: Blocklet Server | The Runtime for Decentralized Apps
-    path: /server
-  - title: Blocklet Services | Reusable, Built-in Functionality
-    path: /services
-  - title: Blocklet SDK | Developer Kits for Node.js & Browser
-    path: /sdk
-  - title: Blocklet CLI | Powerful Command-Line Interface
-    path: /cli
-  - title: Blocklet Store | The Marketplace for Blocklets
-    path: /store
-  - title: Blocklet Launcher | Simplified App Deployment & Billing
-    path: /launcher
-  - title: Platform Architecture
+  - title: "Blocklet Server: The Secure Runtime for Your Applications"
+    path: /blocklet-server
+  - title: "Blocklet Service: Reusable, Out-of-the-Box Functionalities"
+    path: /blocklet-service
+  - title: "Blocklet SDK: Powerful Tools for Building on the Platform"
+    path: /blocklet-sdk
+  - title: "Blocklet CLI: Full Control from Your Command Line"
+    path: /blocklet-cli
+  - title: "Blocklet Store: The Decentralized Marketplace for Your Apps"
+    path: /blocklet-store
+  - title: "Blocklet Launcher: Deploy Apps with No-Code Simplicity"
+    path: /blocklet-launcher
+  - title: Blocklet Platform Architecture
     path: /architecture

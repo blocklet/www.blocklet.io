@@ -1,95 +1,90 @@
-- title: Blocklet Platform | Build, Deploy & Manage Modern Apps
-  description: The main landing page for the Blocklet Platform. It provides a
-    high-level overview of the ecosystem and introduces each core
-    component—Server, Services, SDK, CLI, Store, and Launcher—acting as the
-    central hub for developers and businesses.
+- title: "Blocklet Platform: Build & Deploy Modern Apps with Ease"
+  description: An overview of the Blocklet Platform, a comprehensive ecosystem
+    that simplifies how you develop, deploy, and manage modern web applications,
+    from the core runtime to a decentralized app store.
   path: /home
   sourceIds:
-    - docs/arch/user.md
-    - docs/arch/overview.md
-    - docs/gemini/selling-points.md
-    - docs/claude/selling-points.md
-    - docs/screenshots/SCREENSHOTS.md
+    - src/overview.md
+    - src/architecture.md
+    - src/review/gemini.md
+    - src/review/claude.md
+    - src/screenshots/SCREENSHOTS.md
   parentId: ""
-- title: Blocklet Server | The Runtime for Decentralized Apps
-  description: Discover the Blocklet Server, the foundational runtime environment
-    for all blocklets. This page details its features, including the web
-    dashboard, lifecycle management, security, and flexible deployment options
-    for operators and developers.
-  path: /server
+- title: "Blocklet Server: The Secure Runtime for Your Applications"
+  description: Explore Blocklet Server, the foundational runtime environment for
+    executing Blocklets. It offers a secure, scalable, and manageable platform
+    with a full web dashboard for lifecycle management.
+  path: /blocklet-server
   sourceIds:
-    - docs/arch/tech.md
-    - docs/gemini/selling-points.md
-    - docs/claude/selling-points.md
-    - docs/gemini/features.md
-    - docs/screenshots/SCREENSHOTS.md
-  parentId: ""
-- title: Blocklet Services | Reusable, Built-in Functionality
-  description: Learn about the standardized, out-of-the-box services that
-    blocklets can use, such as Decentralized Identity (DID) Connect,
-    multi-channel notifications, and theme management, enabling developers to
-    build features faster.
-  path: /services
+    - src/components/server.md
+    - src/components.md
+    - src/architecture.md
+    - src/review/gemini.md
+    - src/review/claude.md
+    - src/screenshots/SCREENSHOTS.md
+  parentId: null
+- title: "Blocklet Service: Reusable, Out-of-the-Box Functionalities"
+  description: Discover Blocklet Services, a standardized set of functionalities
+    like authentication, notifications, and theming that any Blocklet can
+    expose, promoting a composable and efficient development model.
+  path: /blocklet-service
   sourceIds:
-    - docs/arch/service.md
-    - docs/arch/tech.md
-    - docs/gemini/features.md
-    - docs/screenshots/SCREENSHOTS.md
-  parentId: ""
-- title: Blocklet SDK | Developer Kits for Node.js & Browser
-  description: A dedicated resource for the Blocklet SDKs. This page explains how
-    developers can use the Node.js and Browser SDKs to integrate their
-    applications with the Blocklet Server, manage authentication, and utilize
-    platform services.
-  path: /sdk
+    - src/components/service.md
+    - src/components.md
+    - src/architecture.md
+    - src/screenshots/SCREENSHOTS.md
+  parentId: null
+- title: "Blocklet SDK: Powerful Tools for Building on the Platform"
+  description: A deep dive into the Blocklet SDK for Node.js and browsers,
+    providing a comprehensive set of APIs for authentication, wallet management,
+    inter-blocklet communication, and more.
+  path: /blocklet-sdk
   sourceIds:
-    - docs/arch/tech.md
-    - docs/arch/overview.md
-    - docs/gemini/selling-points.md
-  parentId: ""
-- title: Blocklet CLI | Powerful Command-Line Interface
-  description: Explore the Blocklet CLI, the essential tool for developers and
-    administrators. This page showcases commands for the entire application
-    lifecycle, from project initialization and local development to server
-    management and deployment.
-  path: /cli
+    - src/components.md
+    - src/architecture.md
+    - src/review/gemini.md
+  parentId: null
+- title: "Blocklet CLI: Full Control from Your Command Line"
+  description: Learn about the Blocklet CLI, the primary command-line tool for
+    developers and administrators to manage the entire lifecycle of both
+    Blocklets and the Blocklet Server.
+  path: /blocklet-cli
   sourceIds:
-    - docs/arch/tech.md
-    - docs/arch/overview.md
-    - docs/screenshots/SCREENSHOTS.md
-  parentId: ""
-- title: Blocklet Store | The Marketplace for Blocklets
-  description: An introduction to the Blocklet Store, the decentralized
-    marketplace for discovering, publishing, and deploying applications. Learn
-    about its features for developers to monetize apps and for users to find
-    trusted solutions.
-  path: /store
+    - src/components.md
+    - src/architecture.md
+    - src/screenshots/SCREENSHOTS.md
+  parentId: null
+- title: "Blocklet Store: The Decentralized Marketplace for Your Apps"
+  description: Explore the Blocklet Store, the central, decentralized marketplace
+    for discovering, publishing, and deploying Blocklets with a single click,
+    functioning as the 'App Store' for the ecosystem.
+  path: /blocklet-store
   sourceIds:
-    - docs/arch/store.md
-    - docs/arch/overview.md
-    - docs/screenshots/blocklet-store/SCREENSHOTS.md
-    - docs/screenshots/SCREENSHOTS.md
-  parentId: ""
-- title: Blocklet Launcher | Simplified App Deployment & Billing
-  description: Learn how the Blocklet Launcher streamlines the process of
-    purchasing, provisioning, and managing Blocklet Server instances. This page
-    is for users seeking a no-code, automated solution for getting their
-    applications running.
-  path: /launcher
+    - src/components/store.md
+    - src/components.md
+    - src/screenshots/SCREENSHOTS.md
+    - src/screenshots/blocklet-store/SCREENSHOTS.md
+  parentId: null
+- title: "Blocklet Launcher: Deploy Apps with No-Code Simplicity"
+  description: Discover the Blocklet Launcher, a hosted service providing a
+    streamlined, no-code 'app store' experience that abstracts away server
+    setup, making decentralized technology accessible to everyone.
+  path: /blocklet-launcher
   sourceIds:
-    - docs/arch/launcher.md
-    - docs/arch/overview.md
-    - docs/screenshots/blocklet-launcher/SCREENSHOTS.md
-    - docs/screenshots/SCREENSHOTS.md
-  parentId: ""
-- title: Platform Architecture
-  description: A deep dive into the technical architecture of the Blocklet
-    Platform. This page details the core components, design patterns, security
-    principles, and data flows, intended for developers and architects
-    evaluating the ecosystem.
+    - src/components/launcher.md
+    - src/components.md
+    - src/screenshots/SCREENSHOTS.md
+    - src/screenshots/blocklet-launcher/SCREENSHOTS.md
+  parentId: null
+- title: Blocklet Platform Architecture
+  description: A technical deep-dive into the Blocklet Platform's architecture,
+    covering its core components, microservices design, clean architecture
+    principles, and security patterns. Ideal for developers and system
+    architects.
   path: /architecture
+  parentId: null
   sourceIds:
-    - docs/arch/tech.md
-    - docs/arch/overview.md
-    - docs/arch/user.md
-  parentId: ""
+    - src/architecture.md
+    - src/components.md
+    - src/review/claude.md
+    - src/review/gemini.md

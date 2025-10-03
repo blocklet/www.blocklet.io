@@ -1,7 +1,7 @@
-id: 7634f95449a037df
-createdAt: 2025-10-03T22:43:32.830Z
-updatedAt: 2025-10-03T22:43:32.830Z
-publishedAt: 2025-10-03T22:43:32.830Z
+id: 6e6993d63f04af99
+createdAt: 2025-10-03T23:33:53.508Z
+updatedAt: 2025-10-03T23:33:53.508Z
+publishedAt: 2025-10-03T23:33:53.508Z
 isPublic: true
 locales:
   en:
@@ -10,12 +10,11 @@ locales:
       maxWidth: custom:1440px
       paddingY: normal
       paddingX: normal
-    title: Blocklet CLI | Powerful Command-Line Interface
-    description: Explore the Blocklet CLI, the essential tool for developers and
-      administrators. This page showcases commands for the entire application
-      lifecycle, from project initialization and local development to server
-      management and deployment.
-    image: mediakit://cli-help-main-commands.png
+    title: "Blocklet Service: Reusable, Out-of-the-Box Functionalities"
+    description: Discover Blocklet Services, a standardized set of functionalities
+      like authentication, notifications, and theming that any Blocklet can
+      expose, promoting a composable and efficient development model.
+    image: mediakit://service-blocklets-overview.png
     header:
       sticky: true
   zh:
@@ -24,119 +23,161 @@ locales:
       maxWidth: custom:1440px
       paddingY: normal
       paddingX: normal
-    title: Blocklet CLI | 强大的命令行界面
-    description: 探索 Blocklet CLI，这是开发者和管理员的必备工具。本页面展示了贯穿整个应用生命周期的命令，从项目初始化、本地开发到服务器管理和部署。
-    image: mediakit://cli-help-main-commands.png
+    title: Blocklet 服务：可复用、开箱即用的功能
+    description: 了解 Blocklet 服务，这是一套标准化的功能集，如身份验证、通知和主题化，任何 Blocklet
+      都可以暴露这些功能，从而促进可组合且高效的开发模型。
+    image: mediakit://service-blocklets-overview.png
     header:
       sticky: true
 sections:
-  c1a363268b47d70a:
-    id: c1a363268b47d70a
-    name: Split Hero_2
+  e1c97b3710d489a2:
+    id: e1c97b3710d489a2
+    name: Feature Grid_left
     component: layout-block
     sections:
-      3df2360f8b62087b:
-        id: 3df2360f8b62087b
-        name: CTA
+      78e3421030dcbdd5:
+        id: 78e3421030dcbdd5
+        name: Content
         component: layout-block
         sections:
-          baa1a11b0afb9cd6:
-            id: baa1a11b0afb9cd6
-            name: Description
-            component: custom-component
-            config:
-              useCache: true
-              componentId: xoHu0J44322kDYc-
-            sectionIds: []
-          e7e5534f37d6aa1c:
-            id: e7e5534f37d6aa1c
-            name: Section Layout
+          2595d95961e10014:
+            id: 2595d95961e10014
+            name: CTA
             component: layout-block
             sections:
-              8bf4363f8d1d08a7:
-                id: 8bf4363f8d1d08a7
-                name: Code
+              087e8576fefadf0f:
+                id: 087e8576fefadf0f
+                name: Description
                 component: custom-component
                 config:
                   useCache: true
-                  componentId: 2EHGy3vwxlS9JGr2
+                  componentId: xoHu0J44322kDYc-
+                sectionIds: []
+              5455a7046747c6d7:
+                id: 5455a7046747c6d7
+                name: Action
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: a44r0SiGV9AFn2Fj
                 sectionIds: []
             sectionIds:
-              - 8bf4363f8d1d08a7
+              - 087e8576fefadf0f
+              - 5455a7046747c6d7
             config:
               gridSettings:
                 desktop:
-                  8bf4363f8d1d08a7:
+                  087e8576fefadf0f:
                     x: 0
                     y: 0
                     w: 12
                     h: 1
-              border: terminal
-              borderRadius: small
+                  5455a7046747c6d7:
+                    x: 0
+                    y: 1
+                    w: 12
+                    h: 1
+              paddingY: normal
+              gap: normal
+              maxWidth: full
+              paddingX: none
+          ccdf0179b25ef747:
+            id: ccdf0179b25ef747
+            name: Image
+            component: layout-block
+            sections:
+              f98b98ffd13b8a1d:
+                id: f98b98ffd13b8a1d
+                name: Media
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: xoHu0JPjPs122kaaa-
+                sectionIds: []
+            sectionIds:
+              - f98b98ffd13b8a1d
+            config:
+              borderRadius: medium
+              gridSettings:
+                desktop:
+                  f98b98ffd13b8a1d:
+                    x: 0
+                    y: 0
+                    w: 12
+                    h: 1
+              background: mediakit://service-blocklets-overview.png
         sectionIds:
-          - baa1a11b0afb9cd6
-          - e7e5534f37d6aa1c
+          - 2595d95961e10014
+          - ccdf0179b25ef747
         config:
+          borderRadius: small
+          paddingX: none
+          paddingY: normal
+          maxWidth: full
           gridSettings:
             desktop:
-              baa1a11b0afb9cd6:
+              2595d95961e10014:
                 x: 0
                 y: 0
-                w: 12
+                w: 6
                 h: 1
-          paddingY: normal
+              ccdf0179b25ef747:
+                x: 6
+                y: 0
+                w: 6
+                h: 1
           gap: normal
-          maxWidth: full
     sectionIds:
-      - 3df2360f8b62087b
+      - 78e3421030dcbdd5
     config:
       gridSettings:
         desktop:
-          3df2360f8b62087b:
+          78e3421030dcbdd5:
             x: 0
             y: 0
-            w: 8
+            w: 12
             h: 1
-      paddingX: none
+      gap: normal
       paddingY: none
-      maxWidth: full
-      backgroundFullWidth: true
-  ed72cd5b470fab3d:
-    id: ed72cd5b470fab3d
-    name: Feature Grid (2x2)_2
+      background: transparent
+      border: none
+      paddingX: none
+  671827b9508f92f3:
+    id: 671827b9508f92f3
+    name: Testimonials/Reviews
     component: layout-block
     sections:
-      41cff286cd6d8256:
-        id: 41cff286cd6d8256
+      84dac969276de5a3:
+        id: 84dac969276de5a3
         name: Title
         component: layout-block
         sections:
-          140ff9923541c999:
-            id: 140ff9923541c999
-            name: RichText
+          d79cdf28faac3108:
+            id: d79cdf28faac3108
+            name: LayoutTitle
             component: custom-component
             config:
               useCache: true
               componentId: xoHu0J44322kDYc-
             sectionIds: []
         sectionIds:
-          - 140ff9923541c999
+          - d79cdf28faac3108
         config:
           gap: small
           paddingX: none
+          alignContent: start
           gridSettings:
             desktop:
-              140ff9923541c999:
+              d79cdf28faac3108:
                 x: 0
                 y: 0
                 w: 12
                 h: 1
             mobile:
-              140ff9923541c999:
-                id: 140ff9923541c999
-          alignContent: start
-      8beeea461be257a1:
-        id: 8beeea461be257a1
+              d79cdf28faac3108:
+                id: d79cdf28faac3108
+      029ef42ecf2f3c2d:
+        id: 029ef42ecf2f3c2d
         name: Cards
         component: layout-block
         sections:
@@ -208,8 +249,8 @@ sections:
                     w: 12
                     h: 1
               background: transparent
-              paddingX: custom:32px
-              paddingY: custom:32px
+              paddingX: small
+              paddingY: small
               borderRadius: small
               gap: normal
               border: solid
@@ -282,8 +323,8 @@ sections:
                     w: 12
                     h: 1
               background: transparent
-              paddingX: custom:32px
-              paddingY: custom:32px
+              paddingX: small
+              paddingY: small
               borderRadius: small
               gap: normal
               border: solid
@@ -356,82 +397,8 @@ sections:
                     w: 12
                     h: 1
               background: transparent
-              paddingX: custom:32px
-              paddingY: custom:32px
-              borderRadius: small
-              gap: normal
-              border: solid
-              alignContent: start
-          95e04be57343246b:
-            id: 95e04be57343246b
-            name: Cards-4
-            component: layout-block
-            sections:
-              6c7d6356a9593b08:
-                id: 6c7d6356a9593b08
-                name: Title
-                component: custom-component
-                config:
-                  useCache: true
-                  componentId: xoHu0J44322kDYc-
-                sectionIds: []
-              e54d5c77b851d15a:
-                id: e54d5c77b851d15a
-                name: Icon
-                component: layout-block
-                sections:
-                  3146007f1ae8e627:
-                    id: 3146007f1ae8e627
-                    name: Icon
-                    component: custom-component
-                    config:
-                      useCache: true
-                      componentId: YwuDiIbyyF5vfGpt
-                    sectionIds: []
-                sectionIds:
-                  - 3146007f1ae8e627
-                config:
-                  gridSettings:
-                    desktop:
-                      3146007f1ae8e627:
-                        x: 0
-                        y: 0
-                        w: 12
-                        h: 1
-                  background: transparent
-                  height: 100%
-                  borderRadius: custom:0px
-                  alignContent: start
-            sectionIds:
-              - 6c7d6356a9593b08
-              - e54d5c77b851d15a
-            config:
-              gridSettings:
-                desktop:
-                  6c7d6356a9593b08:
-                    x: 0
-                    y: 1
-                    w: 12
-                    h: 1
-                  e54d5c77b851d15a:
-                    x: 0
-                    y: 0
-                    w: 6
-                    h: 1
-                mobile:
-                  6c7d6356a9593b08:
-                    x: 0
-                    y: 1
-                    w: 12
-                    h: 1
-                  e54d5c77b851d15a:
-                    x: 0
-                    y: 0
-                    w: 12
-                    h: 1
-              background: transparent
-              paddingX: custom:32px
-              paddingY: custom:32px
+              paddingX: small
+              paddingY: small
               borderRadius: small
               gap: normal
               border: solid
@@ -440,29 +407,23 @@ sections:
           - 9736a35b6204c1d8
           - c2753e6a35792fc3
           - 4c12062dd7030da4
-          - 95e04be57343246b
         config:
           gridSettings:
             desktop:
               9736a35b6204c1d8:
                 x: 0
                 y: 0
-                w: 6
+                w: 4
                 h: 1
               c2753e6a35792fc3:
-                x: 6
+                x: 4
                 y: 0
-                w: 6
+                w: 4
                 h: 1
               4c12062dd7030da4:
-                x: 0
-                y: 1
-                w: 6
-                h: 1
-              95e04be57343246b:
-                x: 6
-                y: 1
-                w: 6
+                x: 8
+                y: 0
+                w: 4
                 h: 1
             mobile:
               9736a35b6204c1d8:
@@ -480,25 +441,20 @@ sections:
                 y: 2
                 w: 12
                 h: 1
-              95e04be57343246b:
-                x: 0
-                y: 3
-                w: 12
-                h: 1
           gap: small
           paddingX: none
     sectionIds:
-      - 41cff286cd6d8256
-      - 8beeea461be257a1
+      - 84dac969276de5a3
+      - 029ef42ecf2f3c2d
     config:
       gridSettings:
         desktop:
-          8beeea461be257a1:
+          029ef42ecf2f3c2d:
             x: 0
             y: 1
             w: 12
             h: 1
-          41cff286cd6d8256:
+          84dac969276de5a3:
             x: 0
             y: 0
             w: 12
@@ -506,151 +462,18 @@ sections:
       gap: normal
       paddingY: none
       paddingX: none
-  5f14927719c542c3:
-    id: 5f14927719c542c3
-    name: Card01
-    component: layout-block
-    sections:
-      ab5b42fb4510ff3e:
-        id: ab5b42fb4510ff3e
-        name: RichText
-        component: custom-component
-        config:
-          useCache: true
-          componentId: xoHu0J44322kDYc-
-        sectionIds: []
-      8f3842eca05b45a2:
-        id: 8f3842eca05b45a2
-        name: Section Layout
-        component: layout-block
-        sections:
-          352c83f76a988a1d:
-            id: 352c83f76a988a1d
-            name: Code
-            component: custom-component
-            config:
-              useCache: true
-              componentId: 2EHGy3vwxlS9JGr2
-            sectionIds: []
-        sectionIds:
-          - 352c83f76a988a1d
-        config:
-          gridSettings:
-            desktop:
-              352c83f76a988a1d:
-                x: 0
-                y: 0
-                w: 12
-                h: 1
-          borderRadius: small
-          border: terminal
-    sectionIds:
-      - ab5b42fb4510ff3e
-      - 8f3842eca05b45a2
-    config:
-      gridSettings:
-        desktop:
-          ab5b42fb4510ff3e:
-            x: 0
-            y: 0
-            w: 5
-            h: 1
-          8f3842eca05b45a2:
-            x: 5
-            y: 0
-            w: 7
-            h: 1
-        mobile:
-          ab5b42fb4510ff3e:
-            x: 0
-            y: 0
-            w: 12
-            h: 1
-          8f3842eca05b45a2:
-            x: 0
-            y: 1
-            w: 12
-            h: 1
-      paddingX: none
-      gap: normal
-      paddingY: none
-      background: transparent
-      border: none
-      borderRadius: none
-      alignContent: start
-  39aa2de56acad889:
-    id: 39aa2de56acad889
-    name: Card01
-    component: layout-block
-    sections:
-      0beb0276d388eb3c:
-        id: 0beb0276d388eb3c
-        name: RichText
-        component: custom-component
-        config:
-          useCache: true
-          componentId: xoHu0J44322kDYc-
-        sectionIds: []
-      d562906363ed8310:
-        id: d562906363ed8310
-        name: Section Layout
-        component: layout-block
-        sections:
-          02ad5617d7f5af52:
-            id: 02ad5617d7f5af52
-            name: Code
-            component: custom-component
-            config:
-              useCache: true
-              componentId: 2EHGy3vwxlS9JGr2
-            sectionIds: []
-        sectionIds:
-          - 02ad5617d7f5af52
-        config:
-          gridSettings:
-            desktop:
-              02ad5617d7f5af52:
-                x: 0
-                y: 0
-                w: 12
-                h: 1
-          borderRadius: small
-          border: terminal
-    sectionIds:
-      - 0beb0276d388eb3c
-      - d562906363ed8310
-    config:
-      gridSettings:
-        desktop:
-          0beb0276d388eb3c:
-            x: 7
-            y: 0
-            w: 5
-            h: 1
-          d562906363ed8310:
-            x: 0
-            y: 0
-            w: 7
-            h: 1
-      paddingX: none
-      gap: normal
-      paddingY: none
-      background: transparent
-      border: none
-      borderRadius: none
-      alignContent: start
-  50fc12ab8b75ac40:
-    id: 50fc12ab8b75ac40
+  0bd9c287b4dac2cd:
+    id: 0bd9c287b4dac2cd
     name: Testimonials/Reviews
     component: layout-block
     sections:
-      f4c8c07152aa7dae:
-        id: f4c8c07152aa7dae
+      3671fed2c6e10a65:
+        id: 3671fed2c6e10a65
         name: Title
         component: layout-block
         sections:
-          66660b01fa5df1ed:
-            id: 66660b01fa5df1ed
+          10c868964f4822ae:
+            id: 10c868964f4822ae
             name: LayoutTitle
             component: custom-component
             config:
@@ -658,41 +481,41 @@ sections:
               componentId: xoHu0J44322kDYc-
             sectionIds: []
         sectionIds:
-          - 66660b01fa5df1ed
+          - 10c868964f4822ae
         config:
           gap: small
           paddingX: none
           alignContent: start
           gridSettings:
             desktop:
-              66660b01fa5df1ed:
+              10c868964f4822ae:
                 x: 0
                 y: 0
                 w: 12
                 h: 1
             mobile:
-              66660b01fa5df1ed:
-                id: 66660b01fa5df1ed
-      255a120fd46a5e1b:
-        id: 255a120fd46a5e1b
+              10c868964f4822ae:
+                id: 10c868964f4822ae
+      9c29689559529814:
+        id: 9c29689559529814
         name: Cards
         component: layout-block
         sections:
-          c72f31398d004172:
-            id: c72f31398d004172
+          "5164097510530111":
+            id: "5164097510530111"
             name: Cards-1
             component: layout-block
             sections:
-              a212237148c0a46b:
-                id: a212237148c0a46b
+              8b2f99e2d9684e40:
+                id: 8b2f99e2d9684e40
                 name: RichText
                 component: custom-component
                 config:
                   useCache: true
                   componentId: xoHu0J44322kDYc-
                 sectionIds: []
-              962e1a97829fb3cb:
-                id: 962e1a97829fb3cb
+              4ef5a8f1e8f87f5f:
+                id: 4ef5a8f1e8f87f5f
                 name: Media
                 component: custom-component
                 config:
@@ -700,20 +523,20 @@ sections:
                   componentId: xoHu0JPjPs122kaaa-
                 sectionIds: []
             sectionIds:
-              - a212237148c0a46b
-              - 962e1a97829fb3cb
+              - 8b2f99e2d9684e40
+              - 4ef5a8f1e8f87f5f
             config:
               gridSettings:
                 desktop:
-                  a212237148c0a46b:
+                  8b2f99e2d9684e40:
                     x: 0
                     y: 0
-                    w: 12
+                    w: 4
                     h: 1
-                  962e1a97829fb3cb:
-                    x: 0
-                    y: 1
-                    w: 12
+                  4ef5a8f1e8f87f5f:
+                    x: 4
+                    y: 0
+                    w: 8
                     h: 1
               paddingX: small
               gap: normal
@@ -721,22 +544,22 @@ sections:
               background: transparent
               border: solid
               borderRadius: small
-              alignContent: space-between
-          a3934be9ea536915:
-            id: a3934be9ea536915
+              alignContent: start
+          86655f8104493cd6:
+            id: 86655f8104493cd6
             name: Cards-2
             component: layout-block
             sections:
-              0da102477671e45b:
-                id: 0da102477671e45b
+              95f080b03630f07b:
+                id: 95f080b03630f07b
                 name: RichText
                 component: custom-component
                 config:
                   useCache: true
                   componentId: xoHu0J44322kDYc-
                 sectionIds: []
-              61c434b14b656f5e:
-                id: 61c434b14b656f5e
+              40692db2b79d3348:
+                id: 40692db2b79d3348
                 name: Media
                 component: custom-component
                 config:
@@ -744,20 +567,20 @@ sections:
                   componentId: xoHu0JPjPs122kaaa-
                 sectionIds: []
             sectionIds:
-              - 0da102477671e45b
-              - 61c434b14b656f5e
+              - 95f080b03630f07b
+              - 40692db2b79d3348
             config:
               gridSettings:
                 desktop:
-                  0da102477671e45b:
+                  95f080b03630f07b:
+                    x: 8
+                    y: 0
+                    w: 4
+                    h: 1
+                  40692db2b79d3348:
                     x: 0
                     y: 0
-                    w: 12
-                    h: 1
-                  61c434b14b656f5e:
-                    x: 0
-                    y: 1
-                    w: 12
+                    w: 8
                     h: 1
               paddingX: small
               gap: normal
@@ -765,22 +588,22 @@ sections:
               background: transparent
               border: solid
               borderRadius: small
-              alignContent: space-between
-          92fc98136f9427c8:
-            id: 92fc98136f9427c8
+              alignContent: start
+          04fe785cbdf80e9e:
+            id: 04fe785cbdf80e9e
             name: Cards-3
             component: layout-block
             sections:
-              d36701201e90b2dd:
-                id: d36701201e90b2dd
+              68b65ddda964c9b7:
+                id: 68b65ddda964c9b7
                 name: RichText
                 component: custom-component
                 config:
                   useCache: true
                   componentId: xoHu0J44322kDYc-
                 sectionIds: []
-              c8719a0d7df2a913:
-                id: c8719a0d7df2a913
+              274d9e0248315cf3:
+                id: 274d9e0248315cf3
                 name: Media
                 component: custom-component
                 config:
@@ -788,20 +611,20 @@ sections:
                   componentId: xoHu0JPjPs122kaaa-
                 sectionIds: []
             sectionIds:
-              - d36701201e90b2dd
-              - c8719a0d7df2a913
+              - 68b65ddda964c9b7
+              - 274d9e0248315cf3
             config:
               gridSettings:
                 desktop:
-                  d36701201e90b2dd:
+                  68b65ddda964c9b7:
                     x: 0
                     y: 0
-                    w: 12
+                    w: 4
                     h: 1
-                  c8719a0d7df2a913:
-                    x: 0
-                    y: 1
-                    w: 12
+                  274d9e0248315cf3:
+                    x: 4
+                    y: 0
+                    w: 8
                     h: 1
               paddingX: small
               gap: normal
@@ -809,59 +632,59 @@ sections:
               background: transparent
               border: solid
               borderRadius: small
-              alignContent: space-between
+              alignContent: start
         sectionIds:
-          - c72f31398d004172
-          - a3934be9ea536915
-          - 92fc98136f9427c8
+          - "5164097510530111"
+          - 86655f8104493cd6
+          - 04fe785cbdf80e9e
         config:
           gridSettings:
             desktop:
-              c72f31398d004172:
-                x: 0
-                y: 0
-                w: 4
-                h: 1
-              a3934be9ea536915:
-                x: 4
-                y: 0
-                w: 4
-                h: 1
-              92fc98136f9427c8:
-                x: 8
-                y: 0
-                w: 4
-                h: 1
-            mobile:
-              c72f31398d004172:
+              "5164097510530111":
                 x: 0
                 y: 0
                 w: 12
                 h: 1
-              a3934be9ea536915:
+              86655f8104493cd6:
                 x: 0
                 y: 1
                 w: 12
                 h: 1
-              92fc98136f9427c8:
+              04fe785cbdf80e9e:
                 x: 0
                 y: 2
                 w: 12
                 h: 1
-          gap: small
+            mobile:
+              "5164097510530111":
+                x: 0
+                y: 0
+                w: 12
+                h: 1
+              86655f8104493cd6:
+                x: 0
+                y: 1
+                w: 12
+                h: 1
+              04fe785cbdf80e9e:
+                x: 0
+                y: 2
+                w: 12
+                h: 1
+          gap: normal
           paddingX: none
     sectionIds:
-      - f4c8c07152aa7dae
-      - 255a120fd46a5e1b
+      - 3671fed2c6e10a65
+      - 9c29689559529814
     config:
       gridSettings:
         desktop:
-          255a120fd46a5e1b:
+          9c29689559529814:
             x: 0
             y: 1
             w: 12
             h: 1
-          f4c8c07152aa7dae:
+          3671fed2c6e10a65:
             x: 0
             y: 0
             w: 12
@@ -869,6 +692,176 @@ sections:
       gap: normal
       paddingY: none
       paddingX: none
+  94ce47f3e1c3fcde:
+    id: 94ce47f3e1c3fcde
+    name: Feature Section_2
+    component: layout-block
+    sections:
+      b977cd6410271e9c:
+        id: b977cd6410271e9c
+        name: Title
+        component: layout-block
+        sections:
+          5c61b99269881c93:
+            id: 5c61b99269881c93
+            name: Title
+            component: custom-component
+            config:
+              useCache: true
+              componentId: xoHu0J44322kDYc-
+            sectionIds: []
+          2f4eaa4bb8f44700:
+            id: 2f4eaa4bb8f44700
+            name: Action
+            component: custom-component
+            config:
+              useCache: true
+              componentId: a44r0SiGV9AFn2Fj
+            sectionIds: []
+        sectionIds:
+          - 5c61b99269881c93
+          - 2f4eaa4bb8f44700
+        config:
+          gap: small
+          paddingX: none
+          gridSettings:
+            desktop:
+              5c61b99269881c93:
+                x: 0
+                y: 0
+                w: 6
+                h: 1
+              2f4eaa4bb8f44700:
+                x: 0
+                y: 1
+                w: 12
+                h: 1
+            mobile:
+              5c61b99269881c93:
+                id: 5c61b99269881c93
+          alignContent: start
+      d61e3f7d0e5a208c:
+        id: d61e3f7d0e5a208c
+        name: Logs
+        component: layout-block
+        sections:
+          a0b836312d0fb927:
+            id: a0b836312d0fb927
+            name: Card01
+            component: layout-block
+            sections:
+              7fec4103171b93d2:
+                id: 7fec4103171b93d2
+                name: Media
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: xoHu0JPjPs122kaaa-
+                sectionIds: []
+            sectionIds:
+              - 7fec4103171b93d2
+            config:
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
+              borderRadius: small
+              gap: normal
+              border: solid
+              alignContent: center
+              gridSettings:
+                desktop:
+                  7fec4103171b93d2:
+                    x: 0
+                    y: 0
+                    w: 12
+                    h: 1
+                mobile:
+                  t7hco63shuiga559:
+                    x: 0
+                    y: 1
+                    w: 12
+                    h: 1
+                    id: t7hco63shuiga559
+                  7fec4103171b93d2:
+                    id: 7fec4103171b93d2
+        sectionIds:
+          - a0b836312d0fb927
+        config:
+          gap: small
+          paddingX: none
+          gridSettings:
+            desktop:
+              a0b836312d0fb927:
+                x: 0
+                y: 0
+                w: 12
+                h: 1
+            mobile:
+              a0b836312d0fb927:
+                x: 0
+                y: 2
+                w: 12
+                h: 1
+                id: a0b836312d0fb927
+    sectionIds:
+      - b977cd6410271e9c
+      - d61e3f7d0e5a208c
+    config:
+      gridSettings:
+        desktop:
+          b977cd6410271e9c:
+            x: 0
+            y: 0
+            w: 12
+            h: 1
+          d61e3f7d0e5a208c:
+            x: 0
+            y: 1
+            w: 12
+            h: 1
+      gap: normal
+      paddingY: none
+      paddingX: none
+  45e93fb05e9fd0dc:
+    id: 45e93fb05e9fd0dc
+    name: FAQs_2
+    component: layout-block
+    sections:
+      be2459a9b19a18c1:
+        id: be2459a9b19a18c1
+        name: Title
+        component: custom-component
+        config:
+          useCache: true
+          componentId: xoHu0J44322kDYc-
+        sectionIds: []
+      dbb2035e9969526a:
+        id: dbb2035e9969526a
+        name: FaqComponentV2
+        component: custom-component
+        config:
+          useCache: true
+          componentId: 4MikfrDpecX9hUD6
+        sectionIds: []
+    sectionIds:
+      - be2459a9b19a18c1
+      - dbb2035e9969526a
+    config:
+      gridSettings:
+        desktop:
+          dbb2035e9969526a:
+            x: 0
+            y: 1
+            w: 12
+            h: 1
+          be2459a9b19a18c1:
+            x: 0
+            y: 0
+            w: 12
+            h: 1
+      paddingX: none
+      gap: normal
+      paddingY: none
   6edec3e84b5a8e8d:
     id: 6edec3e84b5a8e8d
     name: Full Background Hero
@@ -932,132 +925,149 @@ sections:
       backgroundFullWidth: false
       paddingX: none
 sectionIds:
-  - c1a363268b47d70a
-  - ed72cd5b470fab3d
-  - 5f14927719c542c3
-  - 39aa2de56acad889
-  - 50fc12ab8b75ac40
+  - e1c97b3710d489a2
+  - 671827b9508f92f3
+  - 0bd9c287b4dac2cd
+  - 94ce47f3e1c3fcde
+  - 45e93fb05e9fd0dc
   - 6edec3e84b5a8e8d
 dataSource:
-  baa1a11b0afb9cd6:
+  087e8576fefadf0f:
     en:
       properties:
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        kyg0hdy5uqq4gc1o:
-          value: flex-start
-        gs1rn5jmxfvpxptx:
-          value:
-            text: Your Entire Workflow, in One Terminal
-            style:
-              variant: h1
         9ajrz12ik7esfk1z:
           value:
             list:
-              - id: item-1759364500601-4gbj76l4x
+              - id: item-1759121327460-gc8w9kaxt
                 type: text
-                text: From scaffolding a new project to deploying and managing a production
-                  server, the Blocklet CLI is your all-in-one command center.
-                  It's fast, intuitive, and built for modern development.
+                text: Stop reinventing the wheel! Blocklet Services provide a rich set of
+                  out-of-the-box functionalities like authentication,
+                  notifications, and theming that your applications can use
+                  instantly. Build faster, smarter, and more consistently.
                 style:
                   color: ""
                   fontSize: 16px
                   variant: body1
-    zh:
-      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Plug-and-Play Power for Your Apps
+            style:
+              variant: h1
         v5utpm7bu9yvdpnq:
           value: flex-start
         kyg0hdy5uqq4gc1o:
           value: flex-start
-        gs1rn5jmxfvpxptx:
-          value:
-            text: 您的整个工作流，尽在一个终端
-            style:
-              variant: h1
+    zh:
+      properties:
         9ajrz12ik7esfk1z:
           value:
             list:
-              - id: item-1759364500601-4gbj76l4x
+              - id: item-1759121327460-gc8w9kaxt
                 type: text
-                text: 从搭建新项目到部署和管理生产服务器，Blocklet CLI 是您的一站式指挥中心。它快速、直观，专为现代开发而生。
+                text: 告别重复造轮子！Blocklet
+                  服务提供了一套丰富的开箱即用功能，如身份验证、通知和主题化，您的应用程序可以立即使用。构建速度更快、更智能、更一致。
                 style:
                   color: ""
                   fontSize: 16px
                   variant: body1
-  8bf4363f8d1d08a7:
-    en:
-      properties:
-        a7frn5jmx5vpxpt3:
-          value: |-
-            # 1. Initialize a new Blocklet project
-            blocklet init my-awesome-app --template react
-
-            # 2. Start the local development server
-            blocklet dev
-
-            # 3. Bundle for production
-            blocklet bundle
-
-            # 4. Deploy to your server
-            blocklet deploy
-        qvxiyadgn5bj6oq8:
-          value: false
-        c4kvf6b7zyskk8m:
-          value: false
-        b2jrz12ik7esf93z:
-          value: Typical Workflow
-        7mp2u9tibl03thp6:
-          value: shell
-        d8hvf7cxz93jk5p:
-          value: 1rem
-    zh:
-      properties:
-        a7frn5jmx5vpxpt3:
-          value: |-
-            # 1. 初始化一个新的 Blocklet 项目
-            blocklet init my-awesome-app --template react
-
-            # 2. 启动本地开发服务器
-            blocklet dev
-
-            # 3. 为生产环境打包
-            blocklet bundle
-
-            # 4. 部署到您的服务器
-            blocklet deploy
-        qvxiyadgn5bj6oq8:
-          value: false
-        c4kvf6b7zyskk8m:
-          value: false
-        b2jrz12ik7esf93z:
-          value: 典型工作流
-        7mp2u9tibl03thp6:
-          value: shell
-        d8hvf7cxz93jk5p:
-          value: 1rem
-  140ff9923541c999:
-    en:
-      properties:
         gs1rn5jmxfvpxptx:
           value:
-            text: Everything You Need, Right From Your Keyboard
+            text: 为您的应用提供即插即用的强大功能
             style:
-              variant: h2
+              variant: h1
         v5utpm7bu9yvdpnq:
           value: flex-start
         kyg0hdy5uqq4gc1o:
           value: flex-start
-    zh:
+  5455a7046747c6d7:
+    en:
       properties:
-        gs1rn5jmxfvpxptx:
+        b8x4m3n9kp7qtw5r:
           value:
-            text: 您所需的一切，尽在指尖
-            style:
-              variant: h2
+            - id: btn-default-1
+              type: link
+              text: Explore the Full Platform
+              url: link:///home
+              variant: contained
+              size: large
+              target: _self
+              needLogin: false
+            - id: btn-1759121436561-6r9xmg35x
+              text: View Architecture
+              variant: outlined
+              borderColor: primary.main
+              size: large
+              url: link:///architecture
+        r8t5y6u7i1o2p3a4:
+          value: 16
         v5utpm7bu9yvdpnq:
           value: flex-start
-        kyg0hdy5uqq4gc1o:
+        v9979xeclpsbvn0n:
           value: flex-start
+    zh:
+      properties:
+        b8x4m3n9kp7qtw5r:
+          value:
+            - id: btn-default-1
+              type: link
+              text: 探索完整平台
+              url: link:///home
+              variant: contained
+              size: large
+              target: _self
+              needLogin: false
+            - id: btn-1759121436561-6r9xmg35x
+              text: 查看架构
+              variant: outlined
+              borderColor: primary.main
+              size: large
+              url: link:///architecture
+        r8t5y6u7i1o2p3a4:
+          value: 16
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        v9979xeclpsbvn0n:
+          value: flex-start
+  f98b98ffd13b8a1d:
+    en:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: ""
+            mediaKitUrl: ""
+            width: 2445
+            height: 1394
+    zh:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: ""
+            mediaKitUrl: ""
+            width: 2445
+            height: 1394
+  d79cdf28faac3108:
+    en:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: center
+        kyg0hdy5uqq4gc1o:
+          value: center
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Your Production-Ready Toolkit
+            style:
+              variant: h2
+    zh:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: center
+        kyg0hdy5uqq4gc1o:
+          value: center
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 您的生产就绪工具包
+            style:
+              variant: h2
   8a0319c7be20285c:
     en:
       properties:
@@ -1067,7 +1077,7 @@ dataSource:
           value: flex-start
         gs1rn5jmxfvpxptx:
           value:
-            text: Full Application Lifecycle
+            text: Centralized User & Identity
             style:
               variant: h4
         9ajrz12ik7esfk1z:
@@ -1075,8 +1085,9 @@ dataSource:
             list:
               - id: item-1759143324880-zr95ywd04
                 type: text
-                text: Initialize, develop with hot-reloading, test, bundle, and deploy your
-                  blocklets using simple, powerful commands.
+                text: Manage all users, issue verifiable credentials, and configure login
+                  methods like DID Connect and OAuth from a single, unified
+                  interface.
                 style:
                   color: ""
                   fontSize: 16px
@@ -1089,7 +1100,7 @@ dataSource:
           value: flex-start
         gs1rn5jmxfvpxptx:
           value:
-            text: 完整的应用生命周期
+            text: 集中的用户与身份管理
             style:
               variant: h4
         9ajrz12ik7esfk1z:
@@ -1097,7 +1108,7 @@ dataSource:
             list:
               - id: item-1759143324880-zr95ywd04
                 type: text
-                text: 使用简单而强大的命令，即可完成 Blocklet 的初始化、热重载开发、测试、打包和部署。
+                text: 通过单一的统一界面管理所有用户、颁发可验证凭证，并配置 DID Connect 和 OAuth 等登录方法。
                 style:
                   color: ""
                   fontSize: 16px
@@ -1106,7 +1117,7 @@ dataSource:
     en:
       properties:
         5ek4m0kw9cu0ndns:
-          value: mdi:package-variant-closed
+          value: mdi:account-group-outline
         gugqsxx3xyveuu8n:
           value: primary.main
         529qbwiam7oypw8e:
@@ -1114,7 +1125,7 @@ dataSource:
     zh:
       properties:
         5ek4m0kw9cu0ndns:
-          value: mdi:package-variant-closed
+          value: mdi:account-group-outline
         gugqsxx3xyveuu8n:
           value: primary.main
         529qbwiam7oypw8e:
@@ -1128,7 +1139,7 @@ dataSource:
           value: flex-start
         gs1rn5jmxfvpxptx:
           value:
-            text: Complete Server Control
+            text: Complete Website Control
             style:
               variant: h4
         9ajrz12ik7esfk1z:
@@ -1136,8 +1147,8 @@ dataSource:
             list:
               - id: item-1759143324880-zr95ywd04
                 type: text
-                text: Manage your Blocklet Server instances. Start, stop, check status, view
-                  logs, and perform upgrades without ever leaving the terminal.
+                text: Effortlessly manage domains, branding, and theming to create a polished,
+                  consistent look and feel across all your applications.
                 style:
                   color: ""
                   fontSize: 16px
@@ -1150,7 +1161,7 @@ dataSource:
           value: flex-start
         gs1rn5jmxfvpxptx:
           value:
-            text: 全面的服务器控制
+            text: 完整的网站控制
             style:
               variant: h4
         9ajrz12ik7esfk1z:
@@ -1158,7 +1169,7 @@ dataSource:
             list:
               - id: item-1759143324880-zr95ywd04
                 type: text
-                text: 管理您的 Blocklet Server 实例。无需离开终端，即可启动、停止、检查状态、查看日志和执行升级。
+                text: 轻松管理域名、品牌和主题，为您的所有应用程序创建精致、一致的外观和感觉。
                 style:
                   color: ""
                   fontSize: 16px
@@ -1167,7 +1178,7 @@ dataSource:
     en:
       properties:
         5ek4m0kw9cu0ndns:
-          value: mdi:server-network
+          value: mdi:palette-swatch-outline
         gugqsxx3xyveuu8n:
           value: primary.main
         529qbwiam7oypw8e:
@@ -1175,7 +1186,7 @@ dataSource:
     zh:
       properties:
         5ek4m0kw9cu0ndns:
-          value: mdi:server-network
+          value: mdi:palette-swatch-outline
         gugqsxx3xyveuu8n:
           value: primary.main
         529qbwiam7oypw8e:
@@ -1189,7 +1200,7 @@ dataSource:
           value: flex-start
         gs1rn5jmxfvpxptx:
           value:
-            text: Interactive & User-Friendly
+            text: Robust Operations & Analytics
             style:
               variant: h4
         9ajrz12ik7esfk1z:
@@ -1197,8 +1208,9 @@ dataSource:
             list:
               - id: item-1759143324880-zr95ywd04
                 type: text
-                text: Enjoy an intuitive experience with interactive prompts, auto-complete, and
-                  helpful guides that make complex tasks feel easy.
+                text: Get deep insights with built-in analytics, monitor activity with audit
+                  logs, and ensure data safety with automated DID Spaces
+                  backups.
                 style:
                   color: ""
                   fontSize: 16px
@@ -1211,7 +1223,7 @@ dataSource:
           value: flex-start
         gs1rn5jmxfvpxptx:
           value:
-            text: 交互友好，简单易用
+            text: 强大的运维与分析
             style:
               variant: h4
         9ajrz12ik7esfk1z:
@@ -1219,7 +1231,7 @@ dataSource:
             list:
               - id: item-1759143324880-zr95ywd04
                 type: text
-                text: 通过交互式提示、自动补全和实用的指南，享受直观的体验，让复杂任务变得轻而易举。
+                text: 通过内置分析获得深入洞察，使用审计日志监控活动，并通过自动化的 DID Spaces 备份确保数据安全。
                 style:
                   color: ""
                   fontSize: 16px
@@ -1228,7 +1240,7 @@ dataSource:
     en:
       properties:
         5ek4m0kw9cu0ndns:
-          value: mdi:cursor-text
+          value: mdi:chart-line
         gugqsxx3xyveuu8n:
           value: primary.main
         529qbwiam7oypw8e:
@@ -1236,263 +1248,12 @@ dataSource:
     zh:
       properties:
         5ek4m0kw9cu0ndns:
-          value: mdi:cursor-text
+          value: mdi:chart-line
         gugqsxx3xyveuu8n:
           value: primary.main
         529qbwiam7oypw8e:
           value: 40px
-  6c7d6356a9593b08:
-    en:
-      properties:
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        kyg0hdy5uqq4gc1o:
-          value: flex-start
-        gs1rn5jmxfvpxptx:
-          value:
-            text: Seamless Store Publishing
-            style:
-              variant: h4
-        9ajrz12ik7esfk1z:
-          value:
-            list:
-              - id: item-1759143324880-zr95ywd04
-                type: text
-                text: Connect to any Blocklet Store, manage your credentials, and upload your
-                  bundled blocklets to share with the world.
-                style:
-                  color: ""
-                  fontSize: 16px
-                  variant: body1
-    zh:
-      properties:
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        kyg0hdy5uqq4gc1o:
-          value: flex-start
-        gs1rn5jmxfvpxptx:
-          value:
-            text: 无缝发布到商店
-            style:
-              variant: h4
-        9ajrz12ik7esfk1z:
-          value:
-            list:
-              - id: item-1759143324880-zr95ywd04
-                type: text
-                text: 连接到任何 Blocklet Store，管理您的凭据，并上传您打包好的 Blocklet 与世界分享。
-                style:
-                  color: ""
-                  fontSize: 16px
-                  variant: body1
-  3146007f1ae8e627:
-    en:
-      properties:
-        5ek4m0kw9cu0ndns:
-          value: mdi:store-outline
-        gugqsxx3xyveuu8n:
-          value: primary.main
-        529qbwiam7oypw8e:
-          value: 40px
-    zh:
-      properties:
-        5ek4m0kw9cu0ndns:
-          value: mdi:store-outline
-        gugqsxx3xyveuu8n:
-          value: primary.main
-        529qbwiam7oypw8e:
-          value: 40px
-  ab5b42fb4510ff3e:
-    en:
-      properties:
-        gs1rn5jmxfvpxptx:
-          value:
-            text: Develop and Deploy with Ease
-            style:
-              variant: h4
-        9ajrz12ik7esfk1z:
-          value:
-            list:
-              - id: item-1759185456428-p8i1jjk33
-                type: text
-                text: The `blocklet` command set is your toolkit for the entire development
-                  journey. Scaffold projects from templates, run a
-                  live-reloading dev server, and deploy your finished
-                  application to any Blocklet Server instance. It's built to
-                  make you productive.
-                style:
-                  color: ""
-                  fontSize: 16px
-                  variant: body1
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        kyg0hdy5uqq4gc1o:
-          value: flex-start
-    zh:
-      properties:
-        gs1rn5jmxfvpxptx:
-          value:
-            text: 轻松开发与部署
-            style:
-              variant: h4
-        9ajrz12ik7esfk1z:
-          value:
-            list:
-              - id: item-1759185456428-p8i1jjk33
-                type: text
-                text: "`blocklet` 命令集是您整个开发旅程的工具包。您可以从模板搭建项目，运行支持实时重载的开发服务器，并将完成的应用程序部署到任何
-                  Blocklet Server 实例。它旨在让您高效工作。"
-                style:
-                  color: ""
-                  fontSize: 16px
-                  variant: body1
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        kyg0hdy5uqq4gc1o:
-          value: flex-start
-  352c83f76a988a1d:
-    en:
-      properties:
-        a7frn5jmx5vpxpt3:
-          value: >-
-            Commands:
-              bundle [options] [path]   Bundle the blocklet for deployment
-              deploy [options] <path>   Deploy the blocklet to a server
-              dev [options] [path]      Run the blocklet in development mode
-              test [options] [path]     Run the blocklet test cases
-              init [options] <name>     Initialize a blocklet project
-              meta [options] [path]     Read and display the blocklet metadata
-              version [options] [path]  Bump the blocklet version
-              upload [options] [path]   Upload the blocklet to a blocklet store
-              exec [options] <cmd>      Execute a command in the blocklet context
-              debug [options] [path]    Debug the blocklet
-              connect <url>             Connect to a blocklet store
-              create [options] <name>   Create a new blocklet project
-              server                    Manage the blocklet server
-              help [command]            Display help for command
-        b2jrz12ik7esf93z:
-          value: blocklet --help
-        d8hvf7cxz93jk5p:
-          value: 1rem
-        qvxiyadgn5bj6oq8:
-          value: false
-    zh:
-      properties:
-        a7frn5jmx5vpxpt3:
-          value: |-
-            Commands:
-              bundle [options] [path]   为部署打包 Blocklet
-              deploy [options] <path>   将 Blocklet 部署到服务器
-              dev [options] [path]      在开发模式下运行 Blocklet
-              test [options] [path]     运行 Blocklet 测试用例
-              init [options] <name>     初始化一个 Blocklet 项目
-              meta [options] [path]     读取并显示 Blocklet 元数据
-              version [options] [path]  提升 Blocklet 版本号
-              upload [options] [path]   将 Blocklet 上传到一个 blocklet 商店
-              exec [options] <cmd>      在 Blocklet 上下文中执行命令
-              debug [options] [path]    调试 Blocklet
-              connect <url>             连接到一个 blocklet 商店
-              create [options] <name>   创建一个新的 Blocklet 项目
-              server                    管理 Blocklet Server
-              help [command]            显示命令的帮助信息
-        b2jrz12ik7esf93z:
-          value: blocklet --help
-        d8hvf7cxz93jk5p:
-          value: 1rem
-        qvxiyadgn5bj6oq8:
-          value: false
-  0beb0276d388eb3c:
-    en:
-      properties:
-        gs1rn5jmxfvpxptx:
-          value:
-            text: Administer Your Server Like a Pro
-            style:
-              variant: h4
-        9ajrz12ik7esfk1z:
-          value:
-            list:
-              - id: item-1759185456428-p8i1jjk33
-                type: text
-                text: The `blocklet server` command set gives you full administrative control.
-                  Initialize new servers, manage their lifecycle, monitor status
-                  and logs, and handle upgrades seamlessly. It’s the ultimate
-                  tool for reliable server management.
-                style:
-                  color: ""
-                  fontSize: 16px
-                  variant: body1
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        kyg0hdy5uqq4gc1o:
-          value: flex-start
-    zh:
-      properties:
-        gs1rn5jmxfvpxptx:
-          value:
-            text: 像专家一样管理您的服务器
-            style:
-              variant: h4
-        9ajrz12ik7esfk1z:
-          value:
-            list:
-              - id: item-1759185456428-p8i1jjk33
-                type: text
-                text: "`blocklet server`
-                  命令集为您提供全面的管理控制权。您可以初始化新服务器、管理其生命周期、监控状态和日志，并无缝处理升级。它是实现可靠服务器管\
-                  理的终极工具。"
-                style:
-                  color: ""
-                  fontSize: 16px
-                  variant: body1
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        kyg0hdy5uqq4gc1o:
-          value: flex-start
-  02ad5617d7f5af52:
-    en:
-      properties:
-        a7frn5jmx5vpxpt3:
-          value: |-
-            Commands:
-              start [options]       Start the blocklet server
-              init [options]        Initialize the blocklet server
-              status [options]      Show the blocklet server status
-              logs [options]        Show the blocklet server logs
-              stop [options]        Stop the blocklet server
-              info [options]        Show the blocklet server info
-              upgrade [options]     Upgrade the blocklet server
-              help [command]        Display help for command
-        b2jrz12ik7esf93z:
-          value: blocklet server --help
-        d8hvf7cxz93jk5p:
-          value: 1rem
-        qvxiyadgn5bj6oq8:
-          value: false
-        c4kvf6b7zyskk8m:
-          value: true
-    zh:
-      properties:
-        a7frn5jmx5vpxpt3:
-          value: |-
-            Commands:
-              start [options]       启动 Blocklet Server
-              init [options]        初始化 Blocklet Server
-              status [options]      显示 Blocklet Server 状态
-              logs [options]        显示 Blocklet Server 日志
-              stop [options]        停止 Blocklet Server
-              info [options]        显示 Blocklet Server 信息
-              upgrade [options]     升级 Blocklet Server
-              help [command]        显示命令的帮助信息
-        b2jrz12ik7esf93z:
-          value: blocklet server --help
-        d8hvf7cxz93jk5p:
-          value: 1rem
-        qvxiyadgn5bj6oq8:
-          value: false
-        c4kvf6b7zyskk8m:
-          value: true
-  66660b01fa5df1ed:
+  10c868964f4822ae:
     en:
       properties:
         v5utpm7bu9yvdpnq:
@@ -1501,7 +1262,7 @@ dataSource:
           value: center
         gs1rn5jmxfvpxptx:
           value:
-            text: "See It in Action: Real-World Output"
+            text: "See It In Action: Key Services"
             style:
               variant: h2
     zh:
@@ -1512,15 +1273,15 @@ dataSource:
           value: center
         gs1rn5jmxfvpxptx:
           value:
-            text: 运行效果：真实输出
+            text: 实际应用：关键服务
             style:
               variant: h2
-  a212237148c0a46b:
+  8b2f99e2d9684e40:
     en:
       properties:
         gs1rn5jmxfvpxptx:
           value:
-            text: Comprehensive Server Status
+            text: Unified User Management with DID Connect
             style:
               variant: h4
         9ajrz12ik7esfk1z:
@@ -1528,8 +1289,10 @@ dataSource:
             list:
               - id: item-1759185456428-p8i1jjk33
                 type: text
-                text: Get a complete overview of your server's health, running blocklets, and
-                  configuration with a single command.
+                text: Effortlessly manage your entire user base, from owners to subscribers.
+                  Integrate decentralized identity for secure, passwordless
+                  access and get a complete, auditable view of all user
+                  activity.
                 style:
                   color: ""
                   fontSize: 16px
@@ -1542,7 +1305,7 @@ dataSource:
       properties:
         gs1rn5jmxfvpxptx:
           value:
-            text: 全面的服务器状态
+            text: 使用 DID Connect 进行统一用户管理
             style:
               variant: h4
         9ajrz12ik7esfk1z:
@@ -1550,7 +1313,7 @@ dataSource:
             list:
               - id: item-1759185456428-p8i1jjk33
                 type: text
-                text: 通过一个命令，全面了解您服务器的健康状况、正在运行的 Blocklet 和配置。
+                text: 轻松管理您的整个用户群，从所有者到订阅者。集成去中心化身份以实现安全的无密码访问，并获得所有用户活动的完整、可审计的视图。
                 style:
                   color: ""
                   fontSize: 16px
@@ -1559,13 +1322,13 @@ dataSource:
           value: flex-start
         kyg0hdy5uqq4gc1o:
           value: flex-start
-  962e1a97829fb3cb:
+  4ef5a8f1e8f87f5f:
     en:
       properties:
         7m5pz8nefl5j9hqq:
           value:
-            url: mediakit://cli-server-status-output.png
-            mediaKitUrl: mediakit://cli-server-status-output.png
+            url: mediakit://service-did-connect-members.png
+            mediaKitUrl: mediakit://service-did-connect-members.png
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
@@ -1574,18 +1337,18 @@ dataSource:
       properties:
         7m5pz8nefl5j9hqq:
           value:
-            url: mediakit://cli-server-status-output.png
-            mediaKitUrl: mediakit://cli-server-status-output.png
+            url: mediakit://service-did-connect-members.png
+            mediaKitUrl: mediakit://service-did-connect-members.png
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
           value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
-  0da102477671e45b:
+  95f080b03630f07b:
     en:
       properties:
         gs1rn5jmxfvpxptx:
           value:
-            text: In-Depth System Information
+            text: Total Control Over Your Brand
             style:
               variant: h4
         9ajrz12ik7esfk1z:
@@ -1593,73 +1356,10 @@ dataSource:
             list:
               - id: item-1759185456428-p8i1jjk33
                 type: text
-                text: Dive deep into your server's configuration, from hardware specs and
-                  network details to software versions.
-                style:
-                  color: ""
-                  fontSize: 16px
-                  variant: body1
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        kyg0hdy5uqq4gc1o:
-          value: flex-start
-    zh:
-      properties:
-        gs1rn5jmxfvpxptx:
-          value:
-            text: 深入的系统信息
-            style:
-              variant: h4
-        9ajrz12ik7esfk1z:
-          value:
-            list:
-              - id: item-1759185456428-p8i1jjk33
-                type: text
-                text: 深入了解您服务器的配置，从硬件规格、网络详情到软件版本。
-                style:
-                  color: ""
-                  fontSize: 16px
-                  variant: body1
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        kyg0hdy5uqq4gc1o:
-          value: flex-start
-  61c434b14b656f5e:
-    en:
-      properties:
-        7m5pz8nefl5j9hqq:
-          value:
-            url: mediakit://cli-server-info-output.png
-            mediaKitUrl: mediakit://cli-server-info-output.png
-            width: 1270
-            height: 520
-        70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
-    zh:
-      properties:
-        7m5pz8nefl5j9hqq:
-          value:
-            url: mediakit://cli-server-info-output.png
-            mediaKitUrl: mediakit://cli-server-info-output.png
-            width: 1270
-            height: 520
-        70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
-  d36701201e90b2dd:
-    en:
-      properties:
-        gs1rn5jmxfvpxptx:
-          value:
-            text: Transparent Startup Process
-            style:
-              variant: h4
-        9ajrz12ik7esfk1z:
-          value:
-            list:
-              - id: item-1759185456428-p8i1jjk33
-                type: text
-                text: Watch the server come to life with detailed, color-coded logs that show
-                  every step of the initialization process.
+                text: Customize every aspect of your site's appearance. Manage domains, upload
+                  logos for light and dark modes, and configure global theming
+                  to ensure your brand identity shines through, no matter the
+                  context.
                 style:
                   color: ""
                   fontSize: 16px
@@ -1672,7 +1372,7 @@ dataSource:
       properties:
         gs1rn5jmxfvpxptx:
           value:
-            text: 透明的启动过程
+            text: 完全掌控您的品牌
             style:
               variant: h4
         9ajrz12ik7esfk1z:
@@ -1680,7 +1380,7 @@ dataSource:
             list:
               - id: item-1759185456428-p8i1jjk33
                 type: text
-                text: 通过详细、带颜色编码的日志，观察服务器的启动过程，其中显示了初始化过程的每一步。
+                text: 自定义您网站外观的每一个方面。管理域名，为亮色和暗色模式上传徽标，并配置全局主题，以确保您的品牌标识在任何情况下都能脱颖而出。
                 style:
                   color: ""
                   fontSize: 16px
@@ -1689,13 +1389,13 @@ dataSource:
           value: flex-start
         kyg0hdy5uqq4gc1o:
           value: flex-start
-  c8719a0d7df2a913:
+  40692db2b79d3348:
     en:
       properties:
         7m5pz8nefl5j9hqq:
           value:
-            url: mediakit://cli-server-start-output.png
-            mediaKitUrl: mediakit://cli-server-start-output.png
+            url: mediakit://service-website-branding.png
+            mediaKitUrl: mediakit://service-website-branding.png
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
@@ -1704,12 +1404,268 @@ dataSource:
       properties:
         7m5pz8nefl5j9hqq:
           value:
-            url: mediakit://cli-server-start-output.png
-            mediaKitUrl: mediakit://cli-server-start-output.png
+            url: mediakit://service-website-branding.png
+            mediaKitUrl: mediakit://service-website-branding.png
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
           value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+  68b65ddda964c9b7:
+    en:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Keep Your Finger on the Pulse
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759185456428-p8i1jjk33
+                type: text
+                text: Dive into comprehensive analytics to track requests, visitors, and
+                  performance. View detailed, real-time logs to debug issues
+                  instantly and use the audit trail to monitor all
+                  administrative actions for full transparency.
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+    zh:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 实时掌控动态
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759185456428-p8i1jjk33
+                type: text
+                text: 深入了解全面的分析数据，以跟踪请求、访问者和性能。查看详细的实时日志以立即调试问题，并使用审计追踪来监控所有管理操作，实现完全透明。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+  274d9e0248315cf3:
+    en:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: mediakit://service-operations-analytics.png
+            mediaKitUrl: mediakit://service-operations-analytics.png
+            width: 1270
+            height: 520
+        70d4dvbqgjal3z6j:
+          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+    zh:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: mediakit://service-operations-analytics.png
+            mediaKitUrl: mediakit://service-operations-analytics.png
+            width: 1270
+            height: 520
+        70d4dvbqgjal3z6j:
+          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+  5c61b99269881c93:
+    en:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Designed for Composability
+            style:
+              variant: h2
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759204484222-0kvkmgmke
+                type: text
+                text: Blocklet Services expose standardized functionalities through predictable
+                  endpoints. This means any Blocklet can discover and use
+                  services from any other Blocklet, letting you build complex
+                  applications by combining powerful, pre-built components. It's
+                  the ultimate 'Don't Repeat Yourself' principle, built right
+                  into the platform.
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+    zh:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 为可组合性而设计
+            style:
+              variant: h2
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759204484222-0kvkmgmke
+                type: text
+                text: Blocklet 服务通过可预测的端点暴露标准化的功能。这意味着任何 Blocklet 都可以发现并使用来自任何其他 Blocklet
+                  的服务，让您通过组合强大的预构建组件来构建复杂的应用程序。这是内建于平台中的终极“不要重复自己”原则。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+  2f4eaa4bb8f44700:
+    en:
+      properties:
+        b8x4m3n9kp7qtw5r:
+          value:
+            - id: btn-default-1
+              type: link
+              text: Learn about the architecture
+              url: link:///architecture
+              variant: text
+              size: medium
+              target: _self
+              needLogin: false
+              endIcon: ""
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        v9979xeclpsbvn0n:
+          value: flex-start
+    zh:
+      properties:
+        b8x4m3n9kp7qtw5r:
+          value:
+            - id: btn-default-1
+              type: link
+              text: 了解架构
+              url: link:///architecture
+              variant: text
+              size: medium
+              target: _self
+              needLogin: false
+              endIcon: ""
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        v9979xeclpsbvn0n:
+          value: flex-start
+  7fec4103171b93d2:
+    en:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: mediakit://service-add-blocklet-modal.png
+            mediaKitUrl: mediakit://service-add-blocklet-modal.png
+            width: 3024
+            height: 1034
+    zh:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: mediakit://service-add-blocklet-modal.png
+            mediaKitUrl: mediakit://service-add-blocklet-modal.png
+            width: 3024
+            height: 1034
+  be2459a9b19a18c1:
+    en:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Frequently Asked Questions
+            style:
+              variant: h2
+        v5utpm7bu9yvdpnq:
+          value: center
+        kyg0hdy5uqq4gc1o:
+          value: center
+        9ajrz12ik7esfk1z:
+          value:
+            list: []
+    zh:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 常见问题
+            style:
+              variant: h2
+        v5utpm7bu9yvdpnq:
+          value: center
+        kyg0hdy5uqq4gc1o:
+          value: center
+        9ajrz12ik7esfk1z:
+          value:
+            list: []
+  dbb2035e9969526a:
+    en:
+      properties:
+        4221qi1bxy322mf4:
+          value:
+            - title: What exactly is a Blocklet Service?
+              answer: Think of it as a standardized, reusable feature-set (like authentication
+                or notifications) that a Blocklet offers. Other apps can then
+                'plug into' this service without needing to build it themselves.
+            - title: How do different Blocklets find and use these services?
+              answer: Services are discoverable through predictable URL endpoints, typically
+                starting with `/.well-known/service`. This allows for automated
+                and reliable inter-blocklet communication.
+            - title: Can I create my own shareable Blocklet Service?
+              answer: Yes, absolutely! The framework is designed for you to package your own
+                unique functionalities as a service, contributing to a richer,
+                more powerful ecosystem for everyone.
+            - title: How is this different from a standard API?
+              answer: While a service uses an API, the 'service' pattern standardizes how it's
+                discovered, described, and consumed. This ensures true
+                composability, where components from different developers can
+                reliably work together.
+            - title: ""
+              answer: ""
+            - title: ""
+              answer: ""
+            - title: ""
+              answer: ""
+            - title: ""
+              answer: ""
+            - title: ""
+              answer: ""
+            - title: ""
+              answer: ""
+    zh:
+      properties:
+        4221qi1bxy322mf4:
+          value:
+            - title: Blocklet 服务到底是什么？
+              answer: 可以把它看作是 Blocklet 提供的一套标准化的、可复用的功能集（如身份验证或通知）。其他应用程序可以直接“接入”这项服务，而无需自己构建。
+            - title: 不同的 Blocklet 如何找到并使用这些服务？
+              answer: 服务通过可预测的 URL 端点被发现，通常以 `/.well-known/service` 开头。这实现了自动化且可靠的 Blocklet
+                间通信。
+            - title: 我可以创建自己的可共享 Blocklet 服务吗？
+              answer: 当然可以！该框架旨在让您将自己独特的功能打包成服务，为所有人贡献一个更丰富、更强大的生态系统。
+            - title: 这与标准 API 有何不同？
+              answer: 虽然服务使用 API，但“服务”模式标准化了其被发现、描述和使用的方式。这确保了真正的可组合性，使得来自不同开发者的组件能够可靠地协同工作。
+            - title: ""
+              answer: ""
+            - title: ""
+              answer: ""
+            - title: ""
+              answer: ""
+            - title: ""
+              answer: ""
+            - title: ""
+              answer: ""
+            - title: ""
+              answer: ""
   b2fd4755c489229c:
     en:
       properties:
@@ -1718,16 +1674,16 @@ dataSource:
             list:
               - id: item-1759121327460-gc8w9kaxt
                 type: text
-                text: Install the Blocklet CLI and take control of your development and
-                  deployment pipeline today. Check out the documentation for
-                  installation guides and advanced usage.
+                text: Blocklet Services are just one piece of the puzzle. Explore the entire
+                  Blocklet Platform to see how all the components work together
+                  to supercharge your development workflow.
                 style:
                   color: ""
                   fontSize: 16px
                   variant: body1
         gs1rn5jmxfvpxptx:
           value:
-            text: Ready to Supercharge Your Workflow?
+            text: Ready to Build with Composable Power?
             style:
               color: ""
               variant: h1
@@ -1742,14 +1698,14 @@ dataSource:
             list:
               - id: item-1759121327460-gc8w9kaxt
                 type: text
-                text: 立即安装 Blocklet CLI，掌控您的开发和部署流程。查看文档以获取安装指南和高级用法。
+                text: Blocklet 服务只是整个拼图中的一块。探索整个 Blocklet 平台，了解所有组件如何协同工作，为您的开发工作流程注入强大动力。
                 style:
                   color: ""
                   fontSize: 16px
                   variant: body1
         gs1rn5jmxfvpxptx:
           value:
-            text: 准备好为您的工作流加速了吗？
+            text: 准备好使用可组合的力量进行构建了吗？
             style:
               color: ""
               variant: h1
@@ -1764,18 +1720,18 @@ dataSource:
           value:
             - id: btn-default-1
               type: link
-              text: Get Started Now
-              url: link:///architecture
+              text: Explore the Full Platform
+              url: link:///home
               variant: contained
               size: large
               target: _self
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
-              text: Explore the Platform
+              text: Dive into the Docs
               variant: outlined
               borderColor: common.white
               size: large
-              url: link:///home
+              url: link:///architecture
         r8t5y6u7i1o2p3a4:
           value: 16
         v5utpm7bu9yvdpnq:
@@ -1786,18 +1742,18 @@ dataSource:
           value:
             - id: btn-default-1
               type: link
-              text: 立即开始
-              url: link:///architecture
+              text: 探索完整平台
+              url: link:///home
               variant: contained
               size: large
               target: _self
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
-              text: 探索平台
+              text: 深入了解文档
               variant: outlined
               borderColor: common.white
               size: large
-              url: link:///home
+              url: link:///architecture
         r8t5y6u7i1o2p3a4:
           value: 16
         v5utpm7bu9yvdpnq:
