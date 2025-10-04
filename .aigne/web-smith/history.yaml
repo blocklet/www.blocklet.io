@@ -1,4 +1,36 @@
 entries:
+  - timestamp: 2025-10-04T01:11:17.926Z
+    operation: page_update
+    feedback: "Update the faq section: removing quotes around blocklet, and add docker related entry"
+    page: /blocklet-server
+  - timestamp: 2025-10-04T01:07:11.639Z
+    operation: page_update
+    feedback: Split section 5 into multiple sections, each section includes a feature, must keep the
+      screenshot
+    page: /blocklet-server
+  - timestamp: 2025-10-04T01:00:21.677Z
+    operation: page_update
+    feedback: make the desction for section 3 shorter without change its meaning
+    page: /home
+  - timestamp: 2025-10-04T00:51:37.621Z
+    operation: page_update
+    feedback: Split section 3 into multiple sections, each section introduces a component, must keep the link
+    page: /home
+  - timestamp: 2025-10-04T00:30:28.939Z
+    operation: page_update
+    feedback: I want separate sections for blocklet store related commands such as blocklet connect and
+      blocklet upload
+    page: /blocklet-cli
+  - timestamp: 2025-10-04T00:29:10.528Z
+    operation: page_update
+    feedback: I want separate sections for blocklet sub commands, such as blocklet init, blocklet dev,
+      blocklet version, blocklet bundle, blocklet deploy
+    page: /blocklet-cli
+  - timestamp: 2025-10-04T00:27:40.629Z
+    operation: page_update
+    feedback: "I want separate sections for blocklet server sub commands, such as: blocklet server init,
+      blocklet server start, blocklet server stop, blocklet server info, blocklet server status"
+    page: /blocklet-cli
   - timestamp: 2025-10-04T00:15:51.906Z
     operation: page_update
     feedback: Please remove the code block in hero section

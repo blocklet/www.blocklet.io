@@ -18,52 +18,180 @@
         "link": "https://docs.arcblock.io/en/getting-started/installation"
       - "text": "Explore the Platform"
         "link": "link:///home"
-  - "sectionName": "cliCommandSets"
-    "sectionSummary": "A detailed breakdown of the two primary command sets in the
-      CLI, 'blocklet' for app development and 'blocklet server' for
-      administration, using code examples to illustrate their functions."
-    "oneColumnGridTitle": "Two Toolkits, One Powerful CLI"
+  - "sectionName": "appLifecycleCommands"
+    "sectionSummary": "A detailed breakdown of the 'blocklet' subcommands for
+      managing the application lifecycle, from creation to deployment."
+    "oneColumnGridTitle": "Manage Your Application Lifecycle, Step-by-Step"
     "list":
-      - "sectionName": "appLifecycleCommands"
-        "sectionSummary": "Focuses on the 'blocklet' command set for the application
-          development lifecycle."
-        "contentCardTitle": "Manage Your Application Lifecycle"
-        "contentCardDescription": "From zero to deployed! Use the `blocklet` commands to
-          handle everything related to your application's development. Scaffold
-          new projects, run a hot-reloading dev server, bundle for production,
-          and deploy to any Blocklet Server instance. It’s your entire dev
-          workflow, streamlined."
-        "contentCardRightCode":
-          "name": "bash"
-          "content": "blocklet init   # Scaffold a new project
+      - "sectionName": "blockletInitCommand"
+        "sectionSummary": "Explains the 'blocklet init' command for scaffolding new projects."
+        "contentCardTitle": "Scaffold New Projects with `init`"
+        "contentCardDescription": "Kickstart your next big idea in seconds! The `init`
+          command sets up a new Blocklet project from a template, giving you a
+          ready-to-code structure right out of the box. Just pick a template and
+          you're off!
 
-            blocklet dev    # Start the dev server
 
-            blocklet bundle # Package your application
+          ```bash
 
-            blocklet deploy # Deploy to a server
+          blocklet init my-app --template react
 
-            blocklet upload # Publish to the store"
-      - "sectionName": "serverAdminCommands"
-        "sectionSummary": "Focuses on the 'blocklet server' command set for managing the
-          server runtime."
-        "contentCardTitle": "Administer Your Server with Ease"
-        "contentCardDescription": "Take full control of your infrastructure. The
-          `blocklet server` commands let you manage the Blocklet Server daemon
-          itself. Initialize new instances, check the status of all running
-          blocklets, view real-time logs, and perform upgrades, all without ever
-          leaving your terminal."
-        "contentCardLeftCode":
-          "name": "bash"
-          "content": "blocklet server init   # Initialize a new server
+          ```"
+        "contentCardRightImage": "https://placehold.co/800x450?text=blocklet+init"
+      - "sectionName": "blockletDevCommand"
+        "sectionSummary": "Explains the 'blocklet dev' command for running the
+          development server."
+        "contentCardTitle": "Develop in Real-Time with `dev`"
+        "contentCardDescription": "See your changes live! The `dev` command fires up a
+          local development server with hot-reloading. Every time you save a
+          file, your app updates instantly. It’s the fastest way to build and
+          iterate.
 
-            blocklet server start  # Start the server daemon
 
-            blocklet server status # Check server & blocklet status
+          ```bash
 
-            blocklet server logs   # Tail server logs
+          blocklet dev
 
-            blocklet server upgrade# Upgrade the server"
+          ```"
+        "contentCardRightImage": "https://placehold.co/800x450?text=blocklet+dev"
+      - "sectionName": "blockletVersionCommand"
+        "sectionSummary": "Explains the 'blocklet version' command for managing
+          application versions."
+        "contentCardTitle": "Manage Releases with `version`"
+        "contentCardDescription": "Keep your releases clean and predictable. This
+          command helps you bump your Blocklet's version number following
+          semantic versioning rules (patch, minor, major). It's essential for
+          managing updates and publishing new releases.
+
+
+          ```bash
+
+          blocklet version patch
+
+          ```"
+        "contentCardRightImage": "https://placehold.co/800x450?text=blocklet+version"
+      - "sectionName": "blockletBundleCommand"
+        "sectionSummary": "Explains the 'blocklet bundle' command for packaging applications."
+        "contentCardTitle": "Package for Production with `bundle`"
+        "contentCardDescription": "Ready to go live? The `bundle` command packages your
+          application and all its dependencies into a single, optimized file.
+          This distributable artifact is all you need for deployment.
+
+
+          ```bash
+
+          blocklet bundle
+
+          ```"
+        "contentCardRightImage": "https://placehold.co/800x450?text=blocklet+bundle"
+      - "sectionName": "blockletDeployCommand"
+        "sectionSummary": "Explains the 'blocklet deploy' command for deploying applications."
+        "contentCardTitle": "Ship It with `deploy`"
+        "contentCardDescription": "Push your creation to the world! The `deploy` command
+          sends your bundled Blocklet to a running Blocklet Server instance.
+          Your app will be live and accessible in moments. It’s that simple.
+
+
+          ```bash
+
+          blocklet deploy .blocklet/bundle --endpoint http://server.example.com
+
+          ```"
+        "contentCardRightImage": "https://placehold.co/800x450?text=blocklet+deploy"
+  - "sectionName": "storeCommands"
+    "sectionSummary": "Details the commands for interacting with the Blocklet Store,
+      such as connecting to a store instance and uploading blocklets."
+    "oneColumnGridTitle": "Publish and Distribute Your Blocklets"
+    "list":
+      - "sectionName": "blockletConnectCommand"
+        "sectionSummary": "Explains the 'blocklet connect' command for linking to a
+          Blocklet Store."
+        "contentCardTitle": "Connect to a Blocklet Store"
+        "contentCardDescription": "Link your local CLI to a Blocklet Store instance.
+          This is the first step to publishing your creations and sharing them
+          with the world. Just point it to the store's URL!
+
+
+          ```bash
+
+          blocklet connect https://store.blocklet.io
+
+          ```"
+        "contentCardRightImage": "https://placehold.co/800x450?text=blocklet+connect"
+      - "sectionName": "blockletUploadCommand"
+        "sectionSummary": "Explains the 'blocklet upload' command for publishing a
+          blocklet to the store."
+        "contentCardTitle": "Publish Your Creation with `upload`"
+        "contentCardDescription": "Share your work! The `upload` command sends your
+          bundled Blocklet to a connected Blocklet Store, making it available
+          for others to discover, install, and use. Time to get famous!
+
+
+          ```bash
+
+          blocklet upload .blocklet/bundle
+
+          ```"
+        "contentCardRightImage": "https://placehold.co/800x450?text=blocklet+upload"
+  - "sectionName": "serverCommands"
+    "sectionSummary": "A section detailing the various 'blocklet server' subcommands
+      for administration."
+    "oneColumnGridTitle": "Administer Your Server with Ease"
+    "list":
+      - "sectionName": "serverInitCommand"
+        "sectionSummary": "Explains the 'blocklet server init' command."
+        "contentCardTitle": "Initialize a New Server with `init`"
+        "contentCardDescription": "Set up a new Blocklet Server instance in seconds.
+          This command scaffolds a new server environment, creating all the
+          necessary configuration files and directories. It's the first step to
+          launching your own decentralized application hub.
+
+
+          ```bash
+
+          blocklet server init
+
+          ```"
+        "contentCardRightImage": "https://placehold.co/800x450?text=blocklet+server+init"
+      - "sectionName": "serverStartCommand"
+        "sectionSummary": "Explains the 'blocklet server start' command with a visual."
+        "contentCardTitle": "Boot Up the Server with `start`"
+        "contentCardDescription": "Kick things off and bring your server online. This
+          command boots up the server daemon, runs necessary migrations, and
+          starts all your blocklets. Watch the detailed startup sequence to see
+          everything come to life."
+        "contentCardRightImage": "mediakit://cli-server-start-output.png"
+      - "sectionName": "serverStopCommand"
+        "sectionSummary": "Explains the 'blocklet server stop' command."
+        "contentCardTitle": "Shut Down Safely with `stop`"
+        "contentCardDescription": "Safely shut down the Blocklet Server daemon. This
+          command gracefully terminates all running processes, ensuring a clean
+          shutdown without data corruption. It’s essential for maintenance and
+          server management.
+
+
+          ```bash
+
+          blocklet server stop
+
+          ```"
+        "contentCardRightImage": "https://placehold.co/800x450?text=blocklet+server+stop"
+      - "sectionName": "serverInfoCommand"
+        "sectionSummary": "Explains the 'blocklet server info' command with a visual."
+        "contentCardTitle": "Get Deep Insights with `info`"
+        "contentCardDescription": "Dive deep into your server's configuration. This
+          command gives you an exhaustive breakdown of everything from versions
+          and file paths to host CPU, memory, and network details. Perfect for
+          advanced troubleshooting."
+        "contentCardRightImage": "mediakit://cli-server-info-output.png"
+      - "sectionName": "serverStatusCommand"
+        "sectionSummary": "Explains the 'blocklet server status' command with a visual."
+        "contentCardTitle": "Check Real-Time `status`"
+        "contentCardDescription": "Get an instant snapshot of your server's health. It
+          provides a comprehensive overview, including server version, Docker
+          status, and the current state of every running blocklet. It's your
+          go-to command for a quick health check."
+        "contentCardRightImage": "mediakit://cli-server-status-output.png"
   - "sectionName": "cliKeyFeatures"
     "sectionSummary": "Highlights the key, user-friendly features of the CLI in a
       scannable 3-column grid, emphasizing the developer experience."
@@ -90,17 +218,6 @@
           control and detailed status info right in your terminal. See
           everything at a glance."
         "iconName": "mdi:console-line"
-  - "sectionName": "cliInAction"
-    "sectionSummary": "Showcases the detailed output of a CLI command to provide
-      tangible proof of its power and the depth of information it provides to
-      administrators."
-    "featureSectionTitle": "Get a Complete Picture of Your Server"
-    "featureSectionDescription": "Instantly check the health and status of your
-      entire Blocklet Server. The `blocklet server status` command gives you a
-      comprehensive overview of everything, from the server version and Docker
-      status to the state of every single blocklet running on the instance. No
-      more guesswork—just clear, actionable information."
-    "featureSectionBottomImage": "mediakit://cli-server-status-output.png"
   - "sectionName": "cliCta"
     "sectionSummary": "A final, action-oriented section to encourage visitors to
       start using the CLI or explore other parts of the platform."

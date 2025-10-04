@@ -1,79 +1,175 @@
 "meta":
-  "title": "Blocklet CLI：通过命令行实现完全控制"
-  "description": "掌握 Blocklet CLI！它是一款一站式命令行工具，可以快速、精确地搭建、开发、部署和管理 Blocklet 及 Blocklet Server。"
+  "title": "Blocklet CLI：从命令行完全掌控"
+  "description": "掌握 Blocklet CLI！您的一站式命令行工具，可用于快速、精确地搭建、开发、部署和管理 Blocklet 及 Blocklet Server。"
 "sections":
   - "sectionName": "cliHero"
-    "sectionSummary": "一个引人入胜的英雄部分，介绍 Blocklet CLI，突出其强大功能并提供明确的行动号召。"
-    "splitHeroTitle": "整个工作流，一个命令即可搞定"
-    "splitHeroDescription": "告别手忙脚乱地切换工具。Blocklet CLI 将 Blocklet 平台的全部功能带到你的工作环境中——终端。从搭建新项目到管理生产服务器，一切都可以通过快如闪电的命令完成。"
+    "sectionSummary": "一个引人入胜的英雄区，介绍 Blocklet CLI，突出其强大功能并提供明确的行动号召。"
+    "splitHeroTitle": "您的整个工作流，一个命令即可搞定"
+    "splitHeroDescription": "告别在工具之间来回切换。Blocklet CLI 将 Blocklet 平台的全部功能直接带到您的工作环境中——终端。从搭建新项目到管理生产服务器，一切都可通过闪电般快速的命令完成。"
     "splitHeroRightImage": "mediakit://cli-help-main-commands.png"
     "splitHeroActions":
       - "text": "查看文档"
         "link": "https://docs.arcblock.io/zh/getting-started/installation"
       - "text": "探索平台"
         "link": "link:///home"
-  - "sectionName": "cliCommandSets"
-    "sectionSummary": "详细分解 CLI 中的两个主要命令集：“blocklet”用于应用开发，“blocklet server”用于管理，并使用代码示例说明其功能。"
-    "oneColumnGridTitle": "两大工具套件，一个强大 CLI"
+  - "sectionName": "appLifecycleCommands"
+    "sectionSummary": "详细分解用于管理应用生命周期（从创建到部署）的 'blocklet' 子命令。"
+    "oneColumnGridTitle": "分步管理您的应用生命周期"
     "list":
-      - "sectionName": "appLifecycleCommands"
-        "sectionSummary": "专注于应用开发生命周期的“blocklet”命令集。"
-        "contentCardTitle": "管理你的应用生命周期"
-        "contentCardDescription": "从零到部署！使用 `blocklet` 命令处理与应用开发相关的一切。搭建新项目、运行支持热重载的开发服务器、为生产环境打包，以及部署到任何 Blocklet Server 实例。它简化了你的整个开发工作流。"
-        "contentCardRightCode":
-          "name": "bash"
-          "content": "blocklet init   # 搭建一个新项目
+      - "sectionName": "blockletInitCommand"
+        "sectionSummary": "解释用于搭建新项目的 'blocklet init' 命令。"
+        "contentCardTitle": "使用 `init` 搭建新项目"
+        "contentCardDescription": "在几秒钟内启动您的下一个伟大创意！`init` 命令从模板设置一个新的 Blocklet 项目，为您提供一个开箱即用的代码结构。只需选择一个模板，即可开始！
 
-            blocklet dev    # 启动开发服务器
 
-            blocklet bundle # 打包你的应用
+          ```bash
 
-            blocklet deploy # 部署到服务器
+          blocklet init my-app --template react
 
-            blocklet upload # 发布到应用市场"
-      - "sectionName": "serverAdminCommands"
-        "sectionSummary": "专注于管理服务器运行时的“blocklet server”命令集。"
-        "contentCardTitle": "轻松管理你的服务器"
-        "contentCardDescription": "完全掌控你的基础设施。`blocklet server` 命令让你能够管理 Blocklet Server 守护进程本身。初始化新实例、检查所有运行中 blocklet 的状态、查看实时日志以及执行升级，所有这些都无需离开你的终端。"
-        "contentCardLeftCode":
-          "name": "bash"
-          "content": "blocklet server init   # 初始化一个新服务器
+          ```"
+        "contentCardRightImage": "https://placehold.co/800x450?text=blocklet+init"
+      - "sectionName": "blockletDevCommand"
+        "sectionSummary": "解释用于运行开发服务器的 'blocklet dev' 命令。"
+        "contentCardTitle": "使用 `dev` 进行实时开发"
+        "contentCardDescription": "实时查看您的更改！`dev` 命令会启动一个带有热重载功能的本地开发服务器。每当您保存文件时，您的应用都会立即更新。这是构建和迭代的最快方式。
 
-            blocklet server start  # 启动服务器守护进程
 
-            blocklet server status # 检查服务器和 blocklet 状态
+          ```bash
 
-            blocklet server logs   # 跟踪服务器日志
+          blocklet dev
 
-            blocklet server upgrade# 升级服务器"
+          ```"
+        "contentCardRightImage": "https://placehold.co/800x450?text=blocklet+dev"
+      - "sectionName": "blockletVersionCommand"
+        "sectionSummary": "解释用于管理应用版本的 'blocklet version' 命令。"
+        "contentCardTitle": "使用 `version` 管理发布"
+        "contentCardDescription": "保持您的发布干净且可预测。此命令帮助您遵循语义化版本规则（补丁、次版本、主版本）来提升 Blocklet 的版本号。这对于管理更新和发布新版本至关重要。
+
+
+          ```bash
+
+          blocklet version patch
+
+          ```"
+        "contentCardRightImage": "https://placehold.co/800x450?text=blocklet+version"
+      - "sectionName": "blockletBundleCommand"
+        "sectionSummary": "解释用于打包应用的 'blocklet bundle' 命令。"
+        "contentCardTitle": "使用 `bundle` 打包用于生产"
+        "contentCardDescription": "准备好上线了吗？`bundle` 命令将您的应用程序及其所有依赖项打包成一个单一的、经过优化的文件。这个可分发的产物就是您部署所需的全部。
+
+
+          ```bash
+
+          blocklet bundle
+
+          ```"
+        "contentCardRightImage": "https://placehold.co/800x450?text=blocklet+bundle"
+      - "sectionName": "blockletDeployCommand"
+        "sectionSummary": "解释用于部署应用的 'blocklet deploy' 命令。"
+        "contentCardTitle": "使用 `deploy` 进行交付"
+        "contentCardDescription": "将您的创作推向世界！`deploy` 命令将您打包好的 Blocklet 发送到一个正在运行的 Blocklet Server 实例。您的应用将在片刻之间上线并可访问。就这么简单。
+
+
+          ```bash
+
+          blocklet deploy .blocklet/bundle --endpoint http://server.example.com
+
+          ```"
+        "contentCardRightImage": "https://placehold.co/800x450?text=blocklet+deploy"
+  - "sectionName": "storeCommands"
+    "sectionSummary": "详细介绍用于与 Blocklet Store 交互的命令，例如连接到商店实例和上传 blocklet。"
+    "oneColumnGridTitle": "发布和分发您的 Blocklet"
+    "list":
+      - "sectionName": "blockletConnectCommand"
+        "sectionSummary": "解释用于链接到 Blocklet Store 的 'blocklet connect' 命令。"
+        "contentCardTitle": "连接到 Blocklet Store"
+        "contentCardDescription": "将您的本地 CLI 链接到一个 Blocklet Store 实例。这是发布您的创作并与世界分享的第一步。只需将其指向商店的 URL！
+
+
+          ```bash
+
+          blocklet connect https://store.blocklet.io
+
+          ```"
+        "contentCardRightImage": "https://placehold.co/800x450?text=blocklet+connect"
+      - "sectionName": "blockletUploadCommand"
+        "sectionSummary": "解释用于将 blocklet 发布到商店的 'blocklet upload' 命令。"
+        "contentCardTitle": "使用 `upload` 发布您的创作"
+        "contentCardDescription": "分享您的作品！`upload` 命令将您打包好的 Blocklet 发送到已连接的 Blocklet Store，使其可供他人发现、安装和使用。是时候出名了！
+
+
+          ```bash
+
+          blocklet upload .blocklet/bundle
+
+          ```"
+        "contentCardRightImage": "https://placehold.co/800x450?text=blocklet+upload"
+  - "sectionName": "serverCommands"
+    "sectionSummary": "一个详细介绍各种用于管理的 'blocklet server' 子命令的章节。"
+    "oneColumnGridTitle": "轻松管理您的服务器"
+    "list":
+      - "sectionName": "serverInitCommand"
+        "sectionSummary": "解释 'blocklet server init' 命令。"
+        "contentCardTitle": "使用 `init` 初始化新服务器"
+        "contentCardDescription": "在几秒钟内设置一个新的 Blocklet Server 实例。此命令会搭建一个新的服务器环境，创建所有必需的配置文件和目录。这是启动您自己的去中心化应用中心的第一步。
+
+
+          ```bash
+
+          blocklet server init
+
+          ```"
+        "contentCardRightImage": "https://placehold.co/800x450?text=blocklet+server+init"
+      - "sectionName": "serverStartCommand"
+        "sectionSummary": "通过视觉化方式解释 'blocklet server start' 命令。"
+        "contentCardTitle": "使用 `start` 启动服务器"
+        "contentCardDescription": "启动一切，让您的服务器上线。此命令会启动服务器守护进程，运行必要的迁移，并启动您所有的 blocklet。观察详细的启动顺序，看一切如何变得生机勃勃。"
+        "contentCardRightImage": "mediakit://cli-server-start-output.png"
+      - "sectionName": "serverStopCommand"
+        "sectionSummary": "解释 'blocklet server stop' 命令。"
+        "contentCardTitle": "使用 `stop` 安全关机"
+        "contentCardDescription": "安全地关闭 Blocklet Server 守护进程。此命令会优雅地终止所有正在运行的进程，确保干净地关闭而不会造成数据损坏。这对于维护和服务器管理至关重要。
+
+
+          ```bash
+
+          blocklet server stop
+
+          ```"
+        "contentCardRightImage": "https://placehold.co/800x450?text=blocklet+server+stop"
+      - "sectionName": "serverInfoCommand"
+        "sectionSummary": "通过视觉化方式解释 'blocklet server info' 命令。"
+        "contentCardTitle": "使用 `info` 获取深度洞察"
+        "contentCardDescription": "深入了解您的服务器配置。此命令为您提供详尽的分析，涵盖从版本和文件路径到主机 CPU、内存和网络详细信息的所有内容。非常适合高级故障排除。"
+        "contentCardRightImage": "mediakit://cli-server-info-output.png"
+      - "sectionName": "serverStatusCommand"
+        "sectionSummary": "通过视觉化方式解释 'blocklet server status' 命令。"
+        "contentCardTitle": "查看实时 `status`"
+        "contentCardDescription": "即时获取您服务器的健康快照。它提供了一个全面的概览，包括服务器版本、Docker 状态以及每个正在运行的 blocklet 的当前状态。这是您进行快速健康检查的首选命令。"
+        "contentCardRightImage": "mediakit://cli-server-status-output.png"
   - "sectionName": "cliKeyFeatures"
-    "sectionSummary": "在一个易于浏览的 3 列网格中突出 CLI 的关键、用户友好的特性，强调开发者体验。"
+    "sectionSummary": "以可浏览的三列网格突出显示 CLI 的关键、用户友好的功能，强调开发者体验。"
     "threeColumnGridTitle": "为快速、流畅的工作流而构建"
     "list":
       - "sectionName": "interactiveCli"
         "sectionSummary": "突出 CLI 的交互性和直观性。"
-        "cardTitle": "交互式 & 直观易用"
-        "cardDescription": "无需记忆各种标志。我们的 CLI 使用交互式提示、自动补全和实用的指南，让每个命令都变得轻而易举。"
+        "cardTitle": "交互式 & 直观"
+        "cardDescription": "忘记记忆参数。我们的 CLI 使用交互式提示、自动补全和有用的指南，使每个命令都轻而易举。"
         "iconName": "mdi:cursor-default-click-outline"
       - "sectionName": "automationReady"
         "sectionSummary": "强调 CLI 适用于自动化和 CI/CD 管道。"
-        "cardTitle": "可脚本化 & 支持 CI/CD"
-        "cardDescription": "自动化一切！该 CLI 专为脚本化而设计，让你能够轻松地将部署管道与 GitHub Actions、Jenkins 等工具集成。"
+        "cardTitle": "可脚本化 & 适用于 CI/CD"
+        "cardDescription": "自动化一切！CLI 专为脚本编写而设计，使您可以轻松地将部署管道与 GitHub Actions、Jenkins 等集成。"
         "iconName": "mdi:cogs"
       - "sectionName": "comprehensiveControl"
         "sectionSummary": "展示 CLI 对整个平台提供的精细控制。"
         "cardTitle": "全面控制"
-        "cardDescription": "从单个 blocklet 到整个服务器，都可以在你的终端中进行精细控制并获取详细的状态信息。一切一目了然。"
+        "cardDescription": "从单个 blocklet 到整个服务器，直接在您的终端中获得精细的控制和详细的状态信息。一切一目了然。"
         "iconName": "mdi:console-line"
-  - "sectionName": "cliInAction"
-    "sectionSummary": "展示 CLI 命令的详细输出，以提供其强大功能和为管理员提供信息深度的实际证明。"
-    "featureSectionTitle": "全面了解你的服务器状况"
-    "featureSectionDescription": "即时检查你的整个 Blocklet Server 的健康状况和状态。`blocklet server status` 命令为你提供全面的概览，涵盖从服务器版本、Docker 状态到实例上运行的每个 blocklet 的状态等所有信息。不再需要猜测——只有清晰、可操作的信息。"
-    "featureSectionBottomImage": "mediakit://cli-server-status-output.png"
   - "sectionName": "cliCta"
-    "sectionSummary": "最后一个以行动为导向的部分，鼓励访问者开始使用 CLI 或探索平台的其他部分。"
-    "ctaTitle": "准备好开始掌控了吗？"
-    "ctaDescription": "立即安装 Blocklet CLI，开始通过命令行构建、部署和管理你的应用。这是在 Blocklet 平台上实现高效生产的最快方式。"
+    "sectionSummary": "最后一个以行动为导向的章节，鼓励访问者开始使用 CLI 或探索平台的其他部分。"
+    "ctaTitle": "准备好掌控一切了吗？"
+    "ctaDescription": "立即安装 Blocklet CLI，开始从命令行构建、部署和管理您的应用程序。这是在 Blocklet 平台上提高生产力的最快方式。"
     "cta":
       - "text": "查看文档"
         "link": "https://docs.arcblock.io/zh/getting-started/installation"

@@ -46,72 +46,85 @@
         "cardDescription": "Discover, install, and manage incredible applications with a
           single click from our decentralized marketplace. It's your gateway to
           a world of blocklets."
-  - "sectionName": "Layout2ColumnGridLeft"
-    "sectionSummary": "Introduces the core components of the Blocklet Platform,
-      providing a snapshot of each tool and linking to its dedicated page for a
-      deeper dive."
-    "twoColumnGridTitle": "Your Complete Toolkit for Modern Development"
-    "list":
-      - "sectionName": "FeatureSectionWithAction"
-        "sectionSummary": "Introduces the Blocklet Server, the core runtime of the platform."
-        "featureSectionTitle": "Blocklet Server"
-        "featureSectionDescription": "The foundational runtime for your applications.
-          Get a powerful web dashboard to manage, monitor, and scale everything
-          with total control and enterprise-grade security."
-        "featureSectionBottomImage": "mediakit://blocklets-management-list.png"
-        "featureSectionAction":
-          "text": "Learn More"
-          "link": "link:///blocklet-server"
-      - "sectionName": "FeatureSectionWithAction"
-        "sectionSummary": "Introduces Blocklet Service, the shared functionalities layer."
-        "featureSectionTitle": "Blocklet Service"
-        "featureSectionDescription": "Stop reinventing the wheel! Leverage a rich suite
-          of out-of-the-box services for authentication, notifications,
-          payments, and more that any blocklet can use instantly."
-        "featureSectionBottomImage": "mediakit://service-blocklets-overview.png"
-        "featureSectionAction":
-          "text": "Learn More"
-          "link": "link:///blocklet-service"
-      - "sectionName": "FeatureSectionWithAction"
-        "sectionSummary": "Introduces the Blocklet SDK, the developer's toolkit."
-        "featureSectionTitle": "Blocklet SDK"
-        "featureSectionDescription": "Supercharge your development with our
-          comprehensive SDKs for Node.js and browsers. Easily integrate with
-          platform services, manage identity, and build amazing features."
-        "featureSectionBottomImage": "mediakit://cli-help-main-commands.png"
-        "featureSectionAction":
-          "text": "Learn More"
-          "link": "link:///blocklet-sdk"
-      - "sectionName": "FeatureSectionWithAction"
-        "sectionSummary": "Introduces the Blocklet CLI, the command-line interface."
-        "featureSectionTitle": "Blocklet CLI"
-        "featureSectionDescription": "Take full command of your workflow. From
-          initializing a new project to deploying it globally, our intuitive CLI
-          makes every step of the development lifecycle a breeze."
-        "featureSectionBottomImage": "mediakit://cli-server-status-output.png"
-        "featureSectionAction":
-          "text": "Learn More"
-          "link": "link:///blocklet-cli"
-      - "sectionName": "FeatureSectionWithAction"
-        "sectionSummary": "Introduces the Blocklet Store, the application marketplace."
-        "featureSectionTitle": "Blocklet Store"
-        "featureSectionDescription": "Discover, publish, and deploy a universe of
-          applications. Our decentralized marketplace makes distributing and
-          finding new blocklets incredibly simple and fun."
-        "featureSectionBottomImage": "mediakit://explore-trending-blocklets.png"
-        "featureSectionAction":
-          "text": "Learn More"
-          "link": "link:///blocklet-store"
-      - "sectionName": "FeatureSectionWithAction"
-        "sectionSummary": "Introduces the Blocklet Launcher, the no-code deployment solution."
-        "featureSectionTitle": "Blocklet Launcher"
-        "featureSectionDescription": "Experience the power of decentralized apps without
-          touching a server. Our hosted launcher provides a no-code,
-          app-store-like experience for everyone."
-        "featureSectionBottomImage": "mediakit://purchase-space-subscription.jpg"
-        "featureSectionAction":
-          "text": "Learn More"
-          "link": "link:///blocklet-launcher"
+  - "sectionName": "platformComponentsTitle"
+    "sectionSummary": "Title for the platform components showcase."
+    "featureSectionTitle": "Your Complete Toolkit for Modern Development"
+    "featureSectionDescription": "Explore the core components of the Blocklet
+      Platform. Each is powerful on its own, but together they create a
+      seamless, exhilarating development experience."
+    "featureSectionBottomImage": ""
+  - "sectionName": "blockletServerIntro"
+    "sectionSummary": "Introduces the Blocklet Server, the core runtime of the platform."
+    "splitHeroTitle": "Blocklet Server"
+    "splitHeroDescription": "The foundational runtime for your applications. Get a
+      powerful web dashboard to manage, monitor, and scale everything with total
+      control and enterprise-grade security."
+    "splitHeroRightImage": "mediakit://blocklets-management-list.png"
+    "splitHeroActions":
+      - "text": "Learn More"
+        "link": "link:///blocklet-server"
+      - "text": ""
+        "link": ""
+  - "sectionName": "blockletServiceIntro"
+    "sectionSummary": "Introduces Blocklet Service, the shared functionalities layer."
+    "splitHeroTitle": "Blocklet Service"
+    "splitHeroDescription": "Stop reinventing the wheel! Leverage a rich suite of
+      out-of-the-box services for authentication, notifications, payments, and
+      more that any blocklet can use instantly."
+    "splitHeroLeftImage": "mediakit://service-blocklets-overview.png"
+    "splitHeroActions":
+      - "text": "Learn More"
+        "link": "link:///blocklet-service"
+      - "text": ""
+        "link": ""
+  - "sectionName": "blockletSdkIntro"
+    "sectionSummary": "Introduces the Blocklet SDK, the developer's toolkit."
+    "splitHeroTitle": "Blocklet SDK"
+    "splitHeroDescription": "Supercharge your development with our comprehensive
+      SDKs for Node.js and browsers. Easily integrate with platform services,
+      manage identity, and build amazing features."
+    "splitHeroRightImage": "mediakit://cli-help-main-commands.png"
+    "splitHeroActions":
+      - "text": "Learn More"
+        "link": "link:///blocklet-sdk"
+      - "text": ""
+        "link": ""
+  - "sectionName": "blockletCliIntro"
+    "sectionSummary": "Introduces the Blocklet CLI, the command-line interface."
+    "splitHeroTitle": "Blocklet CLI"
+    "splitHeroDescription": "Take full command of your workflow. From initializing a
+      new project to deploying it globally, our intuitive CLI makes every step
+      of the development lifecycle a breeze."
+    "splitHeroLeftImage": "mediakit://cli-server-status-output.png"
+    "splitHeroActions":
+      - "text": "Learn More"
+        "link": "link:///blocklet-cli"
+      - "text": ""
+        "link": ""
+  - "sectionName": "blockletStoreIntro"
+    "sectionSummary": "Introduces the Blocklet Store, the application marketplace."
+    "splitHeroTitle": "Blocklet Store"
+    "splitHeroDescription": "Discover, publish, and deploy a universe of
+      applications. Our decentralized marketplace makes distributing and finding
+      new blocklets incredibly simple and fun."
+    "splitHeroRightImage": "mediakit://explore-trending-blocklets.png"
+    "splitHeroActions":
+      - "text": "Learn More"
+        "link": "link:///blocklet-store"
+      - "text": ""
+        "link": ""
+  - "sectionName": "blockletLauncherIntro"
+    "sectionSummary": "Introduces the Blocklet Launcher, the no-code deployment solution."
+    "splitHeroTitle": "Blocklet Launcher"
+    "splitHeroDescription": "Experience the power of decentralized apps without
+      touching a server. Our hosted launcher provides a no-code, app-store-like
+      experience for everyone."
+    "splitHeroLeftImage": "mediakit://purchase-space-subscription.jpg"
+    "splitHeroActions":
+      - "text": "Learn More"
+        "link": "link:///blocklet-launcher"
+      - "text": ""
+        "link": ""
   - "sectionName": "Layout4ColumnGridCenter"
     "sectionSummary": "Highlights the key benefits of the Blocklet Platform,
       reinforcing its value proposition around speed, security, and developer
