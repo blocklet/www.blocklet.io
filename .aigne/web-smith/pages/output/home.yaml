@@ -1,7 +1,7 @@
 id: 616571b7c79a8472
-createdAt: 2025-10-03T23:33:53.519Z
-updatedAt: 2025-10-03T23:33:53.519Z
-publishedAt: 2025-10-03T23:33:53.519Z
+createdAt: 2025-10-04T00:17:09.633Z
+updatedAt: 2025-10-04T00:17:09.633Z
+publishedAt: 2025-10-04T00:17:09.633Z
 isPublic: true
 locales:
   en:
@@ -14,17 +14,6 @@ locales:
     description: An overview of the Blocklet Platform, a comprehensive ecosystem
       that simplifies how you develop, deploy, and manage modern web
       applications, from the core runtime to a decentralized app store.
-    image: mediakit://analytics-runtime-dashboard.png
-    header:
-      sticky: true
-  zh:
-    backgroundColor: ""
-    style:
-      maxWidth: custom:1440px
-      paddingY: normal
-      paddingX: normal
-    title: Blocklet 平台：轻松构建和部署现代应用
-    description: Blocklet 平台概述，这是一个全面的生态系统，可简化您开发、部署和管理现代 Web 应用的方式，涵盖从核心运行时到去中心化应用商店的方方面面。
     image: mediakit://analytics-runtime-dashboard.png
     header:
       sticky: true
@@ -500,6 +489,138 @@ sections:
         name: Cards
         component: layout-block
         sections:
+          143506043716ed52:
+            id: 143506043716ed52
+            name: Cards-1
+            component: layout-block
+            sections:
+              c6ffe1f0d2432b7f:
+                id: c6ffe1f0d2432b7f
+                name: Title
+                component: layout-block
+                sections:
+                  f3402f20609bef00:
+                    id: f3402f20609bef00
+                    name: Title
+                    component: custom-component
+                    config:
+                      useCache: true
+                      componentId: xoHu0J44322kDYc-
+                    sectionIds: []
+                  7288e8b1655973df:
+                    id: 7288e8b1655973df
+                    name: Action
+                    component: custom-component
+                    config:
+                      useCache: true
+                      componentId: a44r0SiGV9AFn2Fj
+                    sectionIds: []
+                sectionIds:
+                  - f3402f20609bef00
+                  - 7288e8b1655973df
+                config:
+                  gap: small
+                  paddingX: none
+                  gridSettings:
+                    desktop:
+                      f3402f20609bef00:
+                        x: 0
+                        y: 0
+                        w: 6
+                        h: 1
+                      7288e8b1655973df:
+                        x: 0
+                        y: 1
+                        w: 12
+                        h: 1
+                    mobile:
+                      f3402f20609bef00:
+                        id: f3402f20609bef00
+                  alignContent: start
+              4b1ebc9a49c7de18:
+                id: 4b1ebc9a49c7de18
+                name: Logs
+                component: layout-block
+                sections:
+                  a24eb7d486c528a1:
+                    id: a24eb7d486c528a1
+                    name: Card01
+                    component: layout-block
+                    sections:
+                      38b6a85f0dd9a822:
+                        id: 38b6a85f0dd9a822
+                        name: Media
+                        component: custom-component
+                        config:
+                          useCache: true
+                          componentId: xoHu0JPjPs122kaaa-
+                        sectionIds: []
+                    sectionIds:
+                      - 38b6a85f0dd9a822
+                    config:
+                      background: background.paper
+                      paddingX: custom:32px
+                      paddingY: custom:32px
+                      borderRadius: small
+                      gap: normal
+                      border: solid
+                      alignContent: center
+                      gridSettings:
+                        desktop:
+                          38b6a85f0dd9a822:
+                            x: 0
+                            y: 0
+                            w: 12
+                            h: 1
+                        mobile:
+                          t7hco63shuiga559:
+                            x: 0
+                            y: 1
+                            w: 12
+                            h: 1
+                            id: t7hco63shuiga559
+                          38b6a85f0dd9a822:
+                            id: 38b6a85f0dd9a822
+                sectionIds:
+                  - a24eb7d486c528a1
+                config:
+                  gap: small
+                  paddingX: none
+                  gridSettings:
+                    desktop:
+                      a24eb7d486c528a1:
+                        x: 0
+                        y: 0
+                        w: 12
+                        h: 1
+                    mobile:
+                      a24eb7d486c528a1:
+                        x: 0
+                        y: 2
+                        w: 12
+                        h: 1
+                        id: a24eb7d486c528a1
+            sectionIds:
+              - c6ffe1f0d2432b7f
+              - 4b1ebc9a49c7de18
+            config:
+              gridSettings:
+                desktop:
+                  c6ffe1f0d2432b7f:
+                    x: 0
+                    y: 0
+                    w: 12
+                    h: 1
+                  4b1ebc9a49c7de18:
+                    x: 0
+                    y: 1
+                    w: 12
+                    h: 1
+              gap: normal
+              paddingY: custom:32px
+              paddingX: custom:32px
+              borderRadius: small
+              border: solid
           f6e7fb31f3ca9bea:
             id: f6e7fb31f3ca9bea
             name: Cards-2
@@ -1161,6 +1282,7 @@ sections:
               borderRadius: small
               border: solid
         sectionIds:
+          - 143506043716ed52
           - f6e7fb31f3ca9bea
           - fc2c63d044353671
           - a1943eeea8e26110
@@ -1169,6 +1291,11 @@ sections:
         config:
           gridSettings:
             desktop:
+              143506043716ed52:
+                x: 0
+                y: 0
+                w: 6
+                h: 1
               f6e7fb31f3ca9bea:
                 x: 6
                 y: 0
@@ -1195,6 +1322,11 @@ sections:
                 w: 6
                 h: 1
             mobile:
+              143506043716ed52:
+                x: 0
+                y: 0
+                w: 12
+                h: 1
               f6e7fb31f3ca9bea:
                 x: 0
                 y: 1
@@ -1730,27 +1862,6 @@ dataSource:
           value: flex-start
         kyg0hdy5uqq4gc1o:
           value: flex-start
-    zh:
-      properties:
-        9ajrz12ik7esfk1z:
-          value:
-            list:
-              - id: item-1759121327460-gc8w9kaxt
-                type: text
-                text: 欢迎来到 Blocklet 平台，这是您开发、部署和管理内置去中心化身份的 Web 应用的一站式生态系统。在几分钟内将想法变为现实，而非数月。
-                style:
-                  color: ""
-                  fontSize: 16px
-                  variant: body1
-        gs1rn5jmxfvpxptx:
-          value:
-            text: 即刻构建和部署现代应用！
-            style:
-              variant: h1
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        kyg0hdy5uqq4gc1o:
-          value: flex-start
   5455a7046747c6d7:
     en:
       properties:
@@ -1776,40 +1887,8 @@ dataSource:
           value: flex-start
         v9979xeclpsbvn0n:
           value: flex-start
-    zh:
-      properties:
-        b8x4m3n9kp7qtw5r:
-          value:
-            - id: btn-default-1
-              type: link
-              text: 立即开始
-              url: link:///blocklet-cli
-              variant: contained
-              size: large
-              target: _self
-              needLogin: false
-            - id: btn-1759121436561-6r9xmg35x
-              text: 探索平台
-              variant: outlined
-              borderColor: primary.main
-              size: large
-              url: link:///architecture
-        r8t5y6u7i1o2p3a4:
-          value: 16
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        v9979xeclpsbvn0n:
-          value: flex-start
   f98b98ffd13b8a1d:
     en:
-      properties:
-        7m5pz8nefl5j9hqq:
-          value:
-            url: ""
-            mediaKitUrl: ""
-            width: 2445
-            height: 1394
-    zh:
       properties:
         7m5pz8nefl5j9hqq:
           value:
@@ -1827,17 +1906,6 @@ dataSource:
         gs1rn5jmxfvpxptx:
           value:
             text: It's As Simple As Using Your Phone
-            style:
-              variant: h2
-    zh:
-      properties:
-        v5utpm7bu9yvdpnq:
-          value: center
-        kyg0hdy5uqq4gc1o:
-          value: center
-        gs1rn5jmxfvpxptx:
-          value:
-            text: 就像使用手机一样简单
             style:
               variant: h2
   8a0319c7be20285c:
@@ -1863,37 +1931,8 @@ dataSource:
                   color: ""
                   fontSize: 16px
                   variant: body1
-    zh:
-      properties:
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        kyg0hdy5uqq4gc1o:
-          value: flex-start
-        gs1rn5jmxfvpxptx:
-          value:
-            text: Blocklet = 你的应用
-            style:
-              variant: h4
-        9ajrz12ik7esfk1z:
-          value:
-            list:
-              - id: item-1759143324880-zr95ywd04
-                type: text
-                text: Blocklet 是模块化、可复用的应用或组件。可以把它们想象成你每天下载和使用的那些应用。
-                style:
-                  color: ""
-                  fontSize: 16px
-                  variant: body1
   3ee66b593de1e036:
     en:
-      properties:
-        5ek4m0kw9cu0ndns:
-          value: mdi:application-braces-outline
-        gugqsxx3xyveuu8n:
-          value: primary.main
-        529qbwiam7oypw8e:
-          value: 40px
-    zh:
       properties:
         5ek4m0kw9cu0ndns:
           value: mdi:application-braces-outline
@@ -1924,37 +1963,8 @@ dataSource:
                   color: ""
                   fontSize: 16px
                   variant: body1
-    zh:
-      properties:
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        kyg0hdy5uqq4gc1o:
-          value: flex-start
-        gs1rn5jmxfvpxptx:
-          value:
-            text: Blocklet Server = 你的操作系统
-            style:
-              variant: h4
-        9ajrz12ik7esfk1z:
-          value:
-            list:
-              - id: item-1759143324880-zr95ywd04
-                type: text
-                text: Server 是 Blocklet 赖以生存的强大运行时环境。它是你所有应用的安全、可托管的操作系统。
-                style:
-                  color: ""
-                  fontSize: 16px
-                  variant: body1
   8aee431fd7b453d4:
     en:
-      properties:
-        5ek4m0kw9cu0ndns:
-          value: mdi:server
-        gugqsxx3xyveuu8n:
-          value: primary.main
-        529qbwiam7oypw8e:
-          value: 40px
-    zh:
       properties:
         5ek4m0kw9cu0ndns:
           value: mdi:server
@@ -1986,37 +1996,8 @@ dataSource:
                   color: ""
                   fontSize: 16px
                   variant: body1
-    zh:
-      properties:
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        kyg0hdy5uqq4gc1o:
-          value: flex-start
-        gs1rn5jmxfvpxptx:
-          value:
-            text: Blocklet Store = 你的应用商店
-            style:
-              variant: h4
-        9ajrz12ik7esfk1z:
-          value:
-            list:
-              - id: item-1759143324880-zr95ywd04
-                type: text
-                text: 从我们的去中心化市场中一键发现、安装和管理出色的应用。它是你通往 Blocklet 世界的门户。
-                style:
-                  color: ""
-                  fontSize: 16px
-                  variant: body1
   835229da4540f842:
     en:
-      properties:
-        5ek4m0kw9cu0ndns:
-          value: mdi:store-outline
-        gugqsxx3xyveuu8n:
-          value: primary.main
-        529qbwiam7oypw8e:
-          value: 40px
-    zh:
       properties:
         5ek4m0kw9cu0ndns:
           value: mdi:store-outline
@@ -2036,23 +2017,63 @@ dataSource:
           value: flex-start
         kyg0hdy5uqq4gc1o:
           value: flex-start
-    zh:
+  f3402f20609bef00:
+    en:
       properties:
         gs1rn5jmxfvpxptx:
           value:
-            text: 你的完整现代开发工具包
+            text: Blocklet Server
             style:
               variant: h2
         v5utpm7bu9yvdpnq:
           value: flex-start
         kyg0hdy5uqq4gc1o:
           value: flex-start
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759204484222-0kvkmgmke
+                type: text
+                text: The foundational runtime for your applications. Get a powerful web
+                  dashboard to manage, monitor, and scale everything with total
+                  control and enterprise-grade security.
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+  7288e8b1655973df:
+    en:
+      properties:
+        b8x4m3n9kp7qtw5r:
+          value:
+            - id: btn-default-1
+              type: link
+              text: Learn More
+              url: link:///blocklet-server
+              variant: text
+              size: medium
+              target: _self
+              needLogin: false
+              endIcon: ""
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        v9979xeclpsbvn0n:
+          value: flex-start
+  38b6a85f0dd9a822:
+    en:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: mediakit://blocklets-management-list.png
+            mediaKitUrl: mediakit://blocklets-management-list.png
+            width: 3024
+            height: 1034
   5096ec4c2b9c87f5:
     en:
       properties:
         gs1rn5jmxfvpxptx:
           value:
-            text: Blocklet Services
+            text: Blocklet Service
             style:
               variant: h2
         v5utpm7bu9yvdpnq:
@@ -2067,27 +2088,6 @@ dataSource:
                 text: Stop reinventing the wheel! Leverage a rich suite of out-of-the-box
                   services for authentication, notifications, payments, and more
                   that any blocklet can use instantly.
-                style:
-                  color: ""
-                  fontSize: 16px
-                  variant: body1
-    zh:
-      properties:
-        gs1rn5jmxfvpxptx:
-          value:
-            text: Blocklet Services
-            style:
-              variant: h2
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        kyg0hdy5uqq4gc1o:
-          value: flex-start
-        9ajrz12ik7esfk1z:
-          value:
-            list:
-              - id: item-1759204484222-0kvkmgmke
-                type: text
-                text: 无需重复造轮子！利用一套丰富的开箱即用服务，包括身份验证、通知、支付等，任何 Blocklet 都可以即时使用。
                 style:
                   color: ""
                   fontSize: 16px
@@ -2110,33 +2110,8 @@ dataSource:
           value: flex-start
         v9979xeclpsbvn0n:
           value: flex-start
-    zh:
-      properties:
-        b8x4m3n9kp7qtw5r:
-          value:
-            - id: btn-default-1
-              type: link
-              text: 了解更多
-              url: link:///blocklet-service
-              variant: text
-              size: medium
-              target: _self
-              needLogin: false
-              endIcon: ""
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        v9979xeclpsbvn0n:
-          value: flex-start
   99525ae148de8370:
     en:
-      properties:
-        7m5pz8nefl5j9hqq:
-          value:
-            url: mediakit://service-blocklets-overview.png
-            mediaKitUrl: mediakit://service-blocklets-overview.png
-            width: 3024
-            height: 1034
-    zh:
       properties:
         7m5pz8nefl5j9hqq:
           value:
@@ -2168,27 +2143,6 @@ dataSource:
                   color: ""
                   fontSize: 16px
                   variant: body1
-    zh:
-      properties:
-        gs1rn5jmxfvpxptx:
-          value:
-            text: Blocklet SDK
-            style:
-              variant: h2
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        kyg0hdy5uqq4gc1o:
-          value: flex-start
-        9ajrz12ik7esfk1z:
-          value:
-            list:
-              - id: item-1759204484222-0kvkmgmke
-                type: text
-                text: 使用我们为 Node.js 和浏览器提供的综合 SDK，为你的开发注入强大动力。轻松集成平台服务、管理身份并构建出色的功能。
-                style:
-                  color: ""
-                  fontSize: 16px
-                  variant: body1
   4be614ba4aebc74b:
     en:
       properties:
@@ -2207,33 +2161,8 @@ dataSource:
           value: flex-start
         v9979xeclpsbvn0n:
           value: flex-start
-    zh:
-      properties:
-        b8x4m3n9kp7qtw5r:
-          value:
-            - id: btn-default-1
-              type: link
-              text: 了解更多
-              url: link:///blocklet-sdk
-              variant: text
-              size: medium
-              target: _self
-              needLogin: false
-              endIcon: ""
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        v9979xeclpsbvn0n:
-          value: flex-start
   686af8d5524fc49f:
     en:
-      properties:
-        7m5pz8nefl5j9hqq:
-          value:
-            url: mediakit://cli-help-main-commands.png
-            mediaKitUrl: mediakit://cli-help-main-commands.png
-            width: 3024
-            height: 1034
-    zh:
       properties:
         7m5pz8nefl5j9hqq:
           value:
@@ -2265,27 +2194,6 @@ dataSource:
                   color: ""
                   fontSize: 16px
                   variant: body1
-    zh:
-      properties:
-        gs1rn5jmxfvpxptx:
-          value:
-            text: Blocklet CLI
-            style:
-              variant: h2
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        kyg0hdy5uqq4gc1o:
-          value: flex-start
-        9ajrz12ik7esfk1z:
-          value:
-            list:
-              - id: item-1759204484222-0kvkmgmke
-                type: text
-                text: 完全掌控你的工作流。从初始化新项目到全球部署，我们直观的 CLI 让开发生命周期的每一步都变得轻而易举。
-                style:
-                  color: ""
-                  fontSize: 16px
-                  variant: body1
   2288649c1c5dc5a8:
     en:
       properties:
@@ -2304,33 +2212,8 @@ dataSource:
           value: flex-start
         v9979xeclpsbvn0n:
           value: flex-start
-    zh:
-      properties:
-        b8x4m3n9kp7qtw5r:
-          value:
-            - id: btn-default-1
-              type: link
-              text: 了解更多
-              url: link:///blocklet-cli
-              variant: text
-              size: medium
-              target: _self
-              needLogin: false
-              endIcon: ""
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        v9979xeclpsbvn0n:
-          value: flex-start
   bf8f6f5c4866bd45:
     en:
-      properties:
-        7m5pz8nefl5j9hqq:
-          value:
-            url: mediakit://cli-server-status-output.png
-            mediaKitUrl: mediakit://cli-server-status-output.png
-            width: 3024
-            height: 1034
-    zh:
       properties:
         7m5pz8nefl5j9hqq:
           value:
@@ -2362,27 +2245,6 @@ dataSource:
                   color: ""
                   fontSize: 16px
                   variant: body1
-    zh:
-      properties:
-        gs1rn5jmxfvpxptx:
-          value:
-            text: Blocklet Store
-            style:
-              variant: h2
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        kyg0hdy5uqq4gc1o:
-          value: flex-start
-        9ajrz12ik7esfk1z:
-          value:
-            list:
-              - id: item-1759204484222-0kvkmgmke
-                type: text
-                text: 发现、发布和部署海量应用。我们的去中心化市场让分发和寻找新的 Blocklet 变得异常简单和有趣。
-                style:
-                  color: ""
-                  fontSize: 16px
-                  variant: body1
   0a515ebbd3262abb:
     en:
       properties:
@@ -2401,33 +2263,8 @@ dataSource:
           value: flex-start
         v9979xeclpsbvn0n:
           value: flex-start
-    zh:
-      properties:
-        b8x4m3n9kp7qtw5r:
-          value:
-            - id: btn-default-1
-              type: link
-              text: 了解更多
-              url: link:///blocklet-store
-              variant: text
-              size: medium
-              target: _self
-              needLogin: false
-              endIcon: ""
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        v9979xeclpsbvn0n:
-          value: flex-start
   8b6c5bb705e24f0a:
     en:
-      properties:
-        7m5pz8nefl5j9hqq:
-          value:
-            url: mediakit://explore-trending-blocklets.png
-            mediaKitUrl: mediakit://explore-trending-blocklets.png
-            width: 3024
-            height: 1034
-    zh:
       properties:
         7m5pz8nefl5j9hqq:
           value:
@@ -2459,27 +2296,6 @@ dataSource:
                   color: ""
                   fontSize: 16px
                   variant: body1
-    zh:
-      properties:
-        gs1rn5jmxfvpxptx:
-          value:
-            text: Blocklet Launcher
-            style:
-              variant: h2
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        kyg0hdy5uqq4gc1o:
-          value: flex-start
-        9ajrz12ik7esfk1z:
-          value:
-            list:
-              - id: item-1759204484222-0kvkmgmke
-                type: text
-                text: 无需接触服务器，即可体验去中心化应用的强大功能。我们托管的启动器为每个人提供了无代码、类似应用商店的体验。
-                style:
-                  color: ""
-                  fontSize: 16px
-                  variant: body1
   169e9d899eb3aa3f:
     en:
       properties:
@@ -2488,23 +2304,6 @@ dataSource:
             - id: btn-default-1
               type: link
               text: Learn More
-              url: link:///blocklet-launcher
-              variant: text
-              size: medium
-              target: _self
-              needLogin: false
-              endIcon: ""
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        v9979xeclpsbvn0n:
-          value: flex-start
-    zh:
-      properties:
-        b8x4m3n9kp7qtw5r:
-          value:
-            - id: btn-default-1
-              type: link
-              text: 了解更多
               url: link:///blocklet-launcher
               variant: text
               size: medium
@@ -2524,31 +2323,12 @@ dataSource:
             mediaKitUrl: mediakit://purchase-space-subscription.jpg
             width: 3024
             height: 1034
-    zh:
-      properties:
-        7m5pz8nefl5j9hqq:
-          value:
-            url: mediakit://purchase-space-subscription.jpg
-            mediaKitUrl: mediakit://purchase-space-subscription.jpg
-            width: 3024
-            height: 1034
   dd19747480bbfb01:
     en:
       properties:
         gs1rn5jmxfvpxptx:
           value:
             text: Why You'll Love Building on Blocklet
-            style:
-              variant: h2
-        v5utpm7bu9yvdpnq:
-          value: center
-        kyg0hdy5uqq4gc1o:
-          value: center
-    zh:
-      properties:
-        gs1rn5jmxfvpxptx:
-          value:
-            text: 爱上在 Blocklet 上构建的理由
             style:
               variant: h2
         v5utpm7bu9yvdpnq:
@@ -2578,37 +2358,8 @@ dataSource:
                   color: ""
                   fontSize: 16px
                   variant: body1
-    zh:
-      properties:
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        kyg0hdy5uqq4gc1o:
-          value: flex-start
-        gs1rn5jmxfvpxptx:
-          value:
-            text: 极速推向市场
-            style:
-              variant: h4
-        9ajrz12ik7esfk1z:
-          value:
-            list:
-              - id: item-1759143324880-zr95ywd04
-                type: text
-                text: 在几分钟内将新想法变为已上线部署的应用。我们的模板和工具消除了样板代码和复杂性。
-                style:
-                  color: ""
-                  fontSize: 16px
-                  variant: body1
   9a4665f91027d3f7:
     en:
-      properties:
-        5ek4m0kw9cu0ndns:
-          value: mdi:rocket-launch-outline
-        gugqsxx3xyveuu8n:
-          value: primary.main
-        529qbwiam7oypw8e:
-          value: 40px
-    zh:
       properties:
         5ek4m0kw9cu0ndns:
           value: mdi:rocket-launch-outline
@@ -2639,37 +2390,8 @@ dataSource:
                   color: ""
                   fontSize: 16px
                   variant: body1
-    zh:
-      properties:
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        kyg0hdy5uqq4gc1o:
-          value: flex-start
-        gs1rn5jmxfvpxptx:
-          value:
-            text: 安全第一，而非事后弥补
-            style:
-              variant: h4
-        9ajrz12ik7esfk1z:
-          value:
-            list:
-              - id: item-1759143324880-zr95ywd04
-                type: text
-                text: 获得开箱即用的企业级安全性，包括 WAF、速率限制以及用于无密码认证的去中心化身份。
-                style:
-                  color: ""
-                  fontSize: 16px
-                  variant: body1
   834e8f1413211851:
     en:
-      properties:
-        5ek4m0kw9cu0ndns:
-          value: mdi:shield-check-outline
-        gugqsxx3xyveuu8n:
-          value: primary.main
-        529qbwiam7oypw8e:
-          value: 40px
-    zh:
       properties:
         5ek4m0kw9cu0ndns:
           value: mdi:shield-check-outline
@@ -2700,37 +2422,8 @@ dataSource:
                   color: ""
                   fontSize: 16px
                   variant: body1
-    zh:
-      properties:
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        kyg0hdy5uqq4gc1o:
-          value: flex-start
-        gs1rn5jmxfvpxptx:
-          value:
-            text: 专注于你的独特逻辑
-            style:
-              variant: h4
-        9ajrz12ik7esfk1z:
-          value:
-            list:
-              - id: item-1759143324880-zr95ywd04
-                type: text
-                text: 我们处理身份验证、通知、扩展等棘手问题，因此你可以专注于构建对用户至关重要的功能。
-                style:
-                  color: ""
-                  fontSize: 16px
-                  variant: body1
   75224870c5e4c765:
     en:
-      properties:
-        5ek4m0kw9cu0ndns:
-          value: mdi:lightbulb-on-outline
-        gugqsxx3xyveuu8n:
-          value: primary.main
-        529qbwiam7oypw8e:
-          value: 40px
-    zh:
       properties:
         5ek4m0kw9cu0ndns:
           value: mdi:lightbulb-on-outline
@@ -2761,37 +2454,8 @@ dataSource:
                   color: ""
                   fontSize: 16px
                   variant: body1
-    zh:
-      properties:
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        kyg0hdy5uqq4gc1o:
-          value: flex-start
-        gs1rn5jmxfvpxptx:
-          value:
-            text: 随处部署，无限扩展
-            style:
-              variant: h4
-        9ajrz12ik7esfk1z:
-          value:
-            list:
-              - id: item-1759143324880-zr95ywd04
-                type: text
-                text: 从单个服务器到全球云集群，我们的现代架构旨在实现灵活性、可扩展性并面向未来。
-                style:
-                  color: ""
-                  fontSize: 16px
-                  variant: body1
   a8774863f186f747:
     en:
-      properties:
-        5ek4m0kw9cu0ndns:
-          value: mdi:cloud-sync-outline
-        gugqsxx3xyveuu8n:
-          value: primary.main
-        529qbwiam7oypw8e:
-          value: 40px
-    zh:
       properties:
         5ek4m0kw9cu0ndns:
           value: mdi:cloud-sync-outline
@@ -2824,28 +2488,6 @@ dataSource:
           value: center
         kyg0hdy5uqq4gc1o:
           value: center
-    zh:
-      properties:
-        9ajrz12ik7esfk1z:
-          value:
-            list:
-              - id: item-1759121327460-gc8w9kaxt
-                type: text
-                text: 加入不断壮大的开发者和企业社区，共同构建下一代 Web 应用。你的旅程就从此时此地开始！
-                style:
-                  color: ""
-                  fontSize: 16px
-                  variant: body1
-        gs1rn5jmxfvpxptx:
-          value:
-            text: 准备好变革你的构建方式了吗？
-            style:
-              color: ""
-              variant: h1
-        v5utpm7bu9yvdpnq:
-          value: center
-        kyg0hdy5uqq4gc1o:
-          value: center
   06080d017bac5b6d:
     en:
       properties:
@@ -2869,74 +2511,3 @@ dataSource:
           value: 16
         v5utpm7bu9yvdpnq:
           value: center
-    zh:
-      properties:
-        b8x4m3n9kp7qtw5r:
-          value:
-            - id: btn-default-1
-              type: link
-              text: 立即开始构建
-              url: link:///blocklet-cli
-              variant: contained
-              size: large
-              target: _self
-              needLogin: false
-            - id: btn-1759121436561-6r9xmg35x
-              text: 浏览文档
-              variant: outlined
-              borderColor: common.white
-              size: large
-              url: link:///architecture
-        r8t5y6u7i1o2p3a4:
-          value: 16
-        v5utpm7bu9yvdpnq:
-          value: center
-  f3402f20609bef00:
-    zh:
-      properties:
-        gs1rn5jmxfvpxptx:
-          value:
-            text: Blocklet Server
-            style:
-              variant: h2
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        kyg0hdy5uqq4gc1o:
-          value: flex-start
-        9ajrz12ik7esfk1z:
-          value:
-            list:
-              - id: item-1759204484222-0kvkmgmke
-                type: text
-                text: 你应用的基础运行时。通过强大的 Web 仪表盘，以完全的控制力和企业级安全性来管理、监控和扩展一切。
-                style:
-                  color: ""
-                  fontSize: 16px
-                  variant: body1
-  7288e8b1655973df:
-    zh:
-      properties:
-        b8x4m3n9kp7qtw5r:
-          value:
-            - id: btn-default-1
-              type: link
-              text: 了解更多
-              url: link:///blocklet-server
-              variant: text
-              size: medium
-              target: _self
-              needLogin: false
-              endIcon: ""
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        v9979xeclpsbvn0n:
-          value: flex-start
-  38b6a85f0dd9a822:
-    zh:
-      properties:
-        7m5pz8nefl5j9hqq:
-          value:
-            url: mediakit://blocklets-management-list.png
-            mediaKitUrl: mediakit://blocklets-management-list.png
-            width: 3024
-            height: 1034

@@ -1,12 +1,12 @@
 meta:
   title: "Blocklet Service: Reusable, Out-of-the-Box Functionalities"
-  description: "Discover Blocklet Services, a standardized set of functionalities like authentication, notifications, and theming that any Blocklet can expose, promoting a composable and efficient development model."
+  description: "Discover Blocklet Service, a standardized set of functionalities like authentication, notifications, and theming that any Blocklet can expose, promoting a composable and efficient development model."
   image: "mediakit://service-blocklets-overview.png"
 sections:
   - sectionName: "hero"
-    sectionSummary: "Introduces Blocklet Services with a strong value proposition, highlighting the benefits of reusability and faster development, supported by a visual overview and clear calls-to-action."
+    sectionSummary: "Introduces Blocklet Service with a strong value proposition, highlighting the benefits of reusability and faster development, supported by a visual overview and clear calls-to-action."
     splitHeroTitle: "Plug-and-Play Power for Your Apps"
-    splitHeroDescription: "Stop reinventing the wheel! Blocklet Services provide a rich set of out-of-the-box functionalities like authentication, notifications, and theming that your applications can use instantly. Build faster, smarter, and more consistently."
+    splitHeroDescription: "Stop reinventing the wheel! Blocklet Service provide a rich set of out-of-the-box functionalities like authentication, notifications, and theming that your applications can use instantly. Build faster, smarter, and more consistently."
     splitHeroRightImage: "mediakit://service-blocklets-overview.png"
     splitHeroActions:
       - text: "Explore the Full Platform"
@@ -14,7 +14,7 @@ sections:
       - text: "View Architecture"
         link: "link:///architecture"
   - sectionName: "keyBenefits"
-    sectionSummary: "Highlights the three core advantages of using Blocklet Services—centralized identity, website control, and operations—in a scannable, icon-driven grid format to quickly convey value."
+    sectionSummary: "Highlights the three core advantages of using Blocklet Service—centralized identity, website control, and operations—in a scannable, icon-driven grid format to quickly convey value."
     threeColumnGridTitle: "Your Production-Ready Toolkit"
     list:
       - sectionName: "centralizedIdentity"
@@ -54,13 +54,13 @@ sections:
   - sectionName: "composabilityPrinciple"
     sectionSummary: "Explains the core architectural principle of composability, using a visual of the 'Add Blocklet' modal to reinforce the idea of building applications by combining components."
     featureSectionTitle: "Designed for Composability"
-    featureSectionDescription: "Blocklet Services expose standardized functionalities through predictable endpoints. This means any Blocklet can discover and use services from any other Blocklet, letting you build complex applications by combining powerful, pre-built components. It's the ultimate 'Don't Repeat Yourself' principle, built right into the platform."
+    featureSectionDescription: "Blocklet Service expose standardized functionalities through predictable endpoints. This means any Blocklet can discover and use services from any other Blocklet, letting you build complex applications by combining powerful, pre-built components. It's the ultimate 'Don't Repeat Yourself' principle, built right into the platform."
     featureSectionBottomImage: "mediakit://service-add-blocklet-modal.png"
     featureSectionAction:
       text: "Learn about the architecture"
       link: "link:///architecture"
   - sectionName: "faq"
-    sectionSummary: "Addresses common developer questions about Blocklet Services to clarify their purpose, function, and advantages over traditional APIs, building confidence and understanding."
+    sectionSummary: "Addresses common developer questions about Blocklet Service to clarify their purpose, function, and advantages over traditional APIs, building confidence and understanding."
     faqTitle: "Frequently Asked Questions"
     faqList:
       - question: "What exactly is a Blocklet Service?"
@@ -74,7 +74,7 @@ sections:
   - sectionName: "finalCta"
     sectionSummary: "A final, energetic call-to-action that encourages visitors to move from learning about this specific component to exploring the entire Blocklet Platform, driving deeper engagement."
     ctaTitle: "Ready to Build with Composable Power?"
-    ctaDescription: "Blocklet Services are just one piece of the puzzle. Explore the entire Blocklet Platform to see how all the components work together to supercharge your development workflow."
+    ctaDescription: "Blocklet Service are just one piece of the puzzle. Explore the entire Blocklet Platform to see how all the components work together to supercharge your development workflow."
     cta:
       - text: "Explore the Full Platform"
         link: "link:///home"

@@ -41,7 +41,7 @@ The Blocklet Platform is a comprehensive ecosystem for developing, deploying, an
 - `src/App.jsx` - React application entry point
 - `api/gql/` - GraphQL schema and resolvers
 
-### 2. Blocklet Services (@core/blocklet-services)
+### 2. Blocklet Service (@core/blocklet-services)
 
 **Purpose**: Provides unified, standardized services that every blocklet can utilize without reimplementation.
 
@@ -257,7 +257,7 @@ The platform follows clean architecture principles with clear separation of conc
 ### Microservices Design
 
 - **Blocklet Server**: Main orchestration service
-- **Blocklet Services**: Shared service layer
+- **Blocklet Service**: Shared service layer
 - **Individual Blocklets**: Independent microservices
 - **Gateway Routing**: Nginx-based routing with Node.js fallback
 
@@ -343,7 +343,7 @@ blocklet upload .blocklet/bundle
 
 1. **Gateway Router** (Nginx/Node.js) receives requests
 2. **Authentication Middleware** validates tokens/sessions
-3. **Blocklet Services** provide shared functionality
+3. **Blocklet Service** provide shared functionality
 4. **Target Blocklet** processes business logic
 5. **Response** flows back through the same path
 

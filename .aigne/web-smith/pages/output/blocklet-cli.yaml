@@ -1,7 +1,7 @@
 id: ea3dcb114380f306
-createdAt: 2025-10-03T23:33:53.484Z
-updatedAt: 2025-10-03T23:33:53.484Z
-publishedAt: 2025-10-03T23:33:53.484Z
+createdAt: 2025-10-04T00:17:09.599Z
+updatedAt: 2025-10-04T00:17:09.599Z
+publishedAt: 2025-10-04T00:17:09.599Z
 isPublic: true
 locales:
   en:
@@ -22,82 +22,124 @@ locales:
       maxWidth: custom:1440px
       paddingY: normal
       paddingX: normal
-    title: Blocklet CLI：从命令行完全掌控
-    description: 掌握 Blocklet CLI！您的一站式命令行工具，用于快速、精确地搭建、开发、部署和管理 Blocklet 及 Blocklet Server。
+    title: Blocklet CLI：通过命令行实现完全控制
+    description: 掌握 Blocklet CLI！它是一款一站式命令行工具，可以快速、精确地搭建、开发、部署和管理 Blocklet 及
+      Blocklet Server。
     header:
       sticky: true
 sections:
-  c1a363268b47d70a:
-    id: c1a363268b47d70a
-    name: Split Hero_2
+  e1c97b3710d489a2:
+    id: e1c97b3710d489a2
+    name: Feature Grid_left
     component: layout-block
     sections:
-      3df2360f8b62087b:
-        id: 3df2360f8b62087b
-        name: CTA
+      78e3421030dcbdd5:
+        id: 78e3421030dcbdd5
+        name: Content
         component: layout-block
         sections:
-          baa1a11b0afb9cd6:
-            id: baa1a11b0afb9cd6
-            name: Description
-            component: custom-component
-            config:
-              useCache: true
-              componentId: xoHu0J44322kDYc-
-            sectionIds: []
-          e7e5534f37d6aa1c:
-            id: e7e5534f37d6aa1c
-            name: Section Layout
+          2595d95961e10014:
+            id: 2595d95961e10014
+            name: CTA
             component: layout-block
             sections:
-              8bf4363f8d1d08a7:
-                id: 8bf4363f8d1d08a7
-                name: Code
+              087e8576fefadf0f:
+                id: 087e8576fefadf0f
+                name: Description
                 component: custom-component
                 config:
                   useCache: true
-                  componentId: 2EHGy3vwxlS9JGr2
+                  componentId: xoHu0J44322kDYc-
+                sectionIds: []
+              5455a7046747c6d7:
+                id: 5455a7046747c6d7
+                name: Action
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: a44r0SiGV9AFn2Fj
                 sectionIds: []
             sectionIds:
-              - 8bf4363f8d1d08a7
+              - 087e8576fefadf0f
+              - 5455a7046747c6d7
             config:
               gridSettings:
                 desktop:
-                  8bf4363f8d1d08a7:
+                  087e8576fefadf0f:
                     x: 0
                     y: 0
                     w: 12
                     h: 1
-              border: terminal
-              borderRadius: small
+                  5455a7046747c6d7:
+                    x: 0
+                    y: 1
+                    w: 12
+                    h: 1
+              paddingY: normal
+              gap: normal
+              maxWidth: full
+              paddingX: none
+          ccdf0179b25ef747:
+            id: ccdf0179b25ef747
+            name: Image
+            component: layout-block
+            sections:
+              f98b98ffd13b8a1d:
+                id: f98b98ffd13b8a1d
+                name: Media
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: xoHu0JPjPs122kaaa-
+                sectionIds: []
+            sectionIds:
+              - f98b98ffd13b8a1d
+            config:
+              borderRadius: medium
+              gridSettings:
+                desktop:
+                  f98b98ffd13b8a1d:
+                    x: 0
+                    y: 0
+                    w: 12
+                    h: 1
+              background: mediakit://cli-help-main-commands.png
         sectionIds:
-          - baa1a11b0afb9cd6
-          - e7e5534f37d6aa1c
+          - 2595d95961e10014
+          - ccdf0179b25ef747
         config:
+          borderRadius: small
+          paddingX: none
+          paddingY: normal
+          maxWidth: full
           gridSettings:
             desktop:
-              baa1a11b0afb9cd6:
+              2595d95961e10014:
                 x: 0
                 y: 0
-                w: 12
+                w: 6
                 h: 1
-          paddingY: normal
+              ccdf0179b25ef747:
+                x: 6
+                y: 0
+                w: 6
+                h: 1
           gap: normal
-          maxWidth: full
     sectionIds:
-      - 3df2360f8b62087b
+      - 78e3421030dcbdd5
     config:
       gridSettings:
         desktop:
-          3df2360f8b62087b:
+          78e3421030dcbdd5:
             x: 0
             y: 0
-            w: 8
+            w: 12
             h: 1
-      paddingX: none
+      gap: normal
       paddingY: none
-      maxWidth: full
-      backgroundFullWidth: true
+      background: transparent
+      border: none
+      paddingX: none
   132fd8695b7e37f9:
     id: 132fd8695b7e37f9
     name: Testimonials/Reviews
@@ -829,28 +871,19 @@ sections:
       backgroundFullWidth: false
       paddingX: none
 sectionIds:
-  - c1a363268b47d70a
+  - e1c97b3710d489a2
   - 132fd8695b7e37f9
   - 0204804ba50155ce
   - 7e5a4ced24f9c9f1
   - d56d9e831889abb5
 dataSource:
-  baa1a11b0afb9cd6:
+  087e8576fefadf0f:
     en:
       properties:
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        kyg0hdy5uqq4gc1o:
-          value: flex-start
-        gs1rn5jmxfvpxptx:
-          value:
-            text: Your Entire Workflow, One Command Away
-            style:
-              variant: h1
         9ajrz12ik7esfk1z:
           value:
             list:
-              - id: item-1759364500601-4gbj76l4x
+              - id: item-1759121327460-gc8w9kaxt
                 type: text
                 text: Stop juggling tools. The Blocklet CLI puts the full power of the Blocklet
                   Platform right where you work—in the terminal. From
@@ -860,73 +893,103 @@ dataSource:
                   color: ""
                   fontSize: 16px
                   variant: body1
-    zh:
-      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Your Entire Workflow, One Command Away
+            style:
+              variant: h1
         v5utpm7bu9yvdpnq:
           value: flex-start
         kyg0hdy5uqq4gc1o:
           value: flex-start
-        gs1rn5jmxfvpxptx:
-          value:
-            text: 一个命令，掌控您的整个工作流
-            style:
-              variant: h1
+    zh:
+      properties:
         9ajrz12ik7esfk1z:
           value:
             list:
-              - id: item-1759364500601-4gbj76l4x
+              - id: item-1759121327460-gc8w9kaxt
                 type: text
-                text: 告别在各种工具间切换。Blocklet CLI 将 Blocklet
-                  平台的全部功能直接带到您的工作环境中——终端。从搭建新项目到管理生产服务器，一切都可通过快如闪电的命令完成。
+                text: 告别手忙脚乱地切换工具。Blocklet CLI 将 Blocklet
+                  平台的全部功能带到你的工作环境中——终端。从搭建新项目到管理生产服务器，一切都可以通过快如闪电的命令完成。
                 style:
                   color: ""
                   fontSize: 16px
                   variant: body1
-  8bf4363f8d1d08a7:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 整个工作流，一个命令即可搞定
+            style:
+              variant: h1
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+  5455a7046747c6d7:
     en:
       properties:
-        a7frn5jmx5vpxpt3:
-          value: |-
-            # 1. Create a new React blocklet
-            blocklet init my-app --template react
-
-            # 2. Jump into the directory
-            cd my-app
-
-            # 3. Start the dev server with hot-reloading!
-            blocklet dev
-        qvxiyadgn5bj6oq8:
-          value: false
-        c4kvf6b7zyskk8m:
-          value: false
-        b2jrz12ik7esf93z:
-          value: bash
-        7mp2u9tibl03thp6:
-          value: shell
-        d8hvf7cxz93jk5p:
-          value: 1rem
+        b8x4m3n9kp7qtw5r:
+          value:
+            - id: btn-default-1
+              type: link
+              text: View Documentation
+              url: https://docs.arcblock.io/en/getting-started/installation
+              variant: contained
+              size: large
+              target: _self
+              needLogin: false
+            - id: btn-1759121436561-6r9xmg35x
+              text: Explore the Platform
+              variant: outlined
+              borderColor: primary.main
+              size: large
+              url: link:///home
+        r8t5y6u7i1o2p3a4:
+          value: 16
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        v9979xeclpsbvn0n:
+          value: flex-start
     zh:
       properties:
-        a7frn5jmx5vpxpt3:
-          value: |-
-            # 1. 创建一个新的 React blocklet
-            blocklet init my-app --template react
-
-            # 2. 进入目录
-            cd my-app
-
-            # 3. 启动支持热重载的开发服务器！
-            blocklet dev
-        qvxiyadgn5bj6oq8:
-          value: false
-        c4kvf6b7zyskk8m:
-          value: false
-        b2jrz12ik7esf93z:
-          value: bash
-        7mp2u9tibl03thp6:
-          value: shell
-        d8hvf7cxz93jk5p:
-          value: 1rem
+        b8x4m3n9kp7qtw5r:
+          value:
+            - id: btn-default-1
+              type: link
+              text: 查看文档
+              url: https://docs.arcblock.io/zh/getting-started/installation
+              variant: contained
+              size: large
+              target: _self
+              needLogin: false
+            - id: btn-1759121436561-6r9xmg35x
+              text: 探索平台
+              variant: outlined
+              borderColor: primary.main
+              size: large
+              url: link:///home
+        r8t5y6u7i1o2p3a4:
+          value: 16
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        v9979xeclpsbvn0n:
+          value: flex-start
+  f98b98ffd13b8a1d:
+    en:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: ""
+            mediaKitUrl: ""
+            width: 2445
+            height: 1394
+    zh:
+      properties:
+        7m5pz8nefl5j9hqq:
+          value:
+            url: ""
+            mediaKitUrl: ""
+            width: 2445
+            height: 1394
   11087eae134dbead:
     en:
       properties:
@@ -947,7 +1010,7 @@ dataSource:
           value: center
         gs1rn5jmxfvpxptx:
           value:
-            text: 两套工具，一个强大的 CLI
+            text: 两大工具套件，一个强大 CLI
             style:
               variant: h2
   74831d0c4d066fa9:
@@ -980,7 +1043,7 @@ dataSource:
       properties:
         gs1rn5jmxfvpxptx:
           value:
-            text: 管理您的应用生命周期
+            text: 管理你的应用生命周期
             style:
               variant: h4
         9ajrz12ik7esfk1z:
@@ -988,8 +1051,8 @@ dataSource:
             list:
               - id: item-1759185456428-p8i1jjk33
                 type: text
-                text: 从零到部署！使用 `blocklet` 命令处理与您的应用开发相关的一切。搭建新项目、运行支持热重载的开发服务器、为生产环境打包以及部署到任何
-                  Blocklet Server 实例。它简化了您的整个开发工作流。
+                text: 从零到部署！使用 `blocklet` 命令处理与应用开发相关的一切。搭建新项目、运行支持热重载的开发服务器、为生产环境打包，以及部署到任何
+                  Blocklet Server 实例。它简化了你的整个开发工作流。
                 style:
                   color: ""
                   fontSize: 16px
@@ -1020,7 +1083,7 @@ dataSource:
           value: |-
             blocklet init   # 搭建一个新项目
             blocklet dev    # 启动开发服务器
-            blocklet bundle # 打包您的应用
+            blocklet bundle # 打包你的应用
             blocklet deploy # 部署到服务器
             blocklet upload # 发布到应用市场
         b2jrz12ik7esf93z:
@@ -1059,7 +1122,7 @@ dataSource:
       properties:
         gs1rn5jmxfvpxptx:
           value:
-            text: 轻松管理您的服务器
+            text: 轻松管理你的服务器
             style:
               variant: h4
         9ajrz12ik7esfk1z:
@@ -1067,9 +1130,8 @@ dataSource:
             list:
               - id: item-1759185456428-p8i1jjk33
                 type: text
-                text: 完全控制您的基础设施。`blocklet server` 命令让您可以管理 Blocklet Server
-                  守护进程本身。初始化新实例、检查所有正在运行的 blocklet
-                  的状态、查看实时日志以及执行升级，所有操作都无需离开您的终端。
+                text: 完全掌控你的基础设施。`blocklet server` 命令让你能够管理 Blocklet Server
+                  守护进程本身。初始化新实例、检查所有运行中 blocklet 的状态、查看实时日志以及执行升级，所有这些都无需离开你的终端。
                 style:
                   color: ""
                   fontSize: 16px
@@ -1102,8 +1164,8 @@ dataSource:
           value: |-
             blocklet server init   # 初始化一个新服务器
             blocklet server start  # 启动服务器守护进程
-            blocklet server status # 检查服务器和 blocklet 的状态
-            blocklet server logs   # 查看服务器日志
+            blocklet server status # 检查服务器和 blocklet 状态
+            blocklet server logs   # 跟踪服务器日志
             blocklet server upgrade# 升级服务器
         b2jrz12ik7esf93z:
           value: bash
@@ -1175,7 +1237,7 @@ dataSource:
             list:
               - id: item-1759143324880-zr95ywd04
                 type: text
-                text: 忘记记忆各种参数。我们的 CLI 使用交互式提示、自动补全和有用的指南，使每个命令都轻而易举。
+                text: 无需记忆各种标志。我们的 CLI 使用交互式提示、自动补全和实用的指南，让每个命令都变得轻而易举。
                 style:
                   color: ""
                   fontSize: 16px
@@ -1229,7 +1291,7 @@ dataSource:
           value: flex-start
         gs1rn5jmxfvpxptx:
           value:
-            text: 可编写脚本 & 支持 CI/CD
+            text: 可脚本化 & 支持 CI/CD
             style:
               variant: h4
         9ajrz12ik7esfk1z:
@@ -1237,7 +1299,7 @@ dataSource:
             list:
               - id: item-1759143324880-zr95ywd04
                 type: text
-                text: 自动化一切！CLI 专为编写脚本而设计，让您可以轻松地将部署流程与 GitHub Actions、Jenkins 等工具集成。
+                text: 自动化一切！该 CLI 专为脚本化而设计，让你能够轻松地将部署管道与 GitHub Actions、Jenkins 等工具集成。
                 style:
                   color: ""
                   fontSize: 16px
@@ -1291,7 +1353,7 @@ dataSource:
           value: flex-start
         gs1rn5jmxfvpxptx:
           value:
-            text: 全面掌控
+            text: 全面控制
             style:
               variant: h4
         9ajrz12ik7esfk1z:
@@ -1299,7 +1361,7 @@ dataSource:
             list:
               - id: item-1759143324880-zr95ywd04
                 type: text
-                text: 从单个 blocklet 到整个服务器，直接在您的终端中获得精细的控制和详细的状态信息。一切都一目了然。
+                text: 从单个 blocklet 到整个服务器，都可以在你的终端中进行精细控制并获取详细的状态信息。一切一目了然。
                 style:
                   color: ""
                   fontSize: 16px
@@ -1337,7 +1399,7 @@ dataSource:
       properties:
         gs1rn5jmxfvpxptx:
           value:
-            text: 全面了解您的服务器状况
+            text: 全面了解你的服务器状况
             style:
               variant: h2
         v5utpm7bu9yvdpnq:
@@ -1387,8 +1449,8 @@ dataSource:
             list:
               - id: item-1759204131040-9gxbxfmi5
                 type: text
-                text: 即时检查您的整个 Blocklet Server 的健康状况和状态。`blocklet server status`
-                  命令为您提供全面的概览，涵盖从服务器版本、Docker 状态到实例上运行的每个 blocklet
+                text: 即时检查你的整个 Blocklet Server 的健康状况和状态。`blocklet server status`
+                  命令为你提供全面的概览，涵盖从服务器版本、Docker 状态到实例上运行的每个 blocklet
                   的状态等所有信息。不再需要猜测——只有清晰、可操作的信息。
                 style:
                   color: ""
@@ -1443,14 +1505,14 @@ dataSource:
             list:
               - id: item-1759121327460-gc8w9kaxt
                 type: text
-                text: 立即安装 Blocklet CLI，开始从命令行构建、部署和管理您的应用。这是在 Blocklet 平台上实现高效生产的最快方式。
+                text: 立即安装 Blocklet CLI，开始通过命令行构建、部署和管理你的应用。这是在 Blocklet 平台上实现高效生产的最快方式。
                 style:
                   color: ""
                   fontSize: 16px
                   variant: body1
         gs1rn5jmxfvpxptx:
           value:
-            text: 准备好发号施令了吗？
+            text: 准备好开始掌控了吗？
             style:
               color: ""
               variant: h1
@@ -1488,7 +1550,7 @@ dataSource:
             - id: btn-default-1
               type: link
               text: 查看文档
-              url: https://docs.arcblock.io/en/getting-started/installation
+              url: https://docs.arcblock.io/zh/getting-started/installation
               variant: contained
               size: large
               target: _self

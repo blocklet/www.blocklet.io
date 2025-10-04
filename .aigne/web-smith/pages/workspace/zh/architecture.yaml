@@ -22,7 +22,7 @@ sections:
         contentCardDescription: "基础运行时。为您构建和运行的每个 Blocklet 提供安全、可扩展的操作系统。"
         contentCardBottomImage: "mediakit://blocklets-management-list.png"
       - sectionName: "blockletServiceCard"
-        sectionSummary: "重点介绍可重用的、开箱即用的 Blocklet Services。"
+        sectionSummary: "重点介绍可重用的、开箱即用的 Blocklet Service。"
         contentCardTitle: "Blocklet Service"
         contentCardDescription: "标准化的可重用服务，如身份验证和通知，可供您即时使用。"
         contentCardBottomImage: "mediakit://service-blocklets-overview.png"

@@ -22,7 +22,7 @@ sections:
         contentCardDescription: "The foundational runtime. Your secure, scalable OS for every blocklet you build and run."
         contentCardBottomImage: "mediakit://blocklets-management-list.png"
       - sectionName: "blockletServiceCard"
-        sectionSummary: "Highlights the reusable, out-of-the-box Blocklet Services."
+        sectionSummary: "Highlights the reusable, out-of-the-box Blocklet Service."
         contentCardTitle: "Blocklet Service"
         contentCardDescription: "Standardized, reusable services like auth and notifications, ready for you to use instantly."
         contentCardBottomImage: "mediakit://service-blocklets-overview.png"

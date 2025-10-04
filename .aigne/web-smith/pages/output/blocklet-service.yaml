@@ -1,7 +1,7 @@
 id: 6e6993d63f04af99
-createdAt: 2025-10-03T23:33:53.508Z
-updatedAt: 2025-10-03T23:33:53.508Z
-publishedAt: 2025-10-03T23:33:53.508Z
+createdAt: 2025-10-04T00:17:09.623Z
+updatedAt: 2025-10-04T00:17:09.623Z
+publishedAt: 2025-10-04T00:17:09.623Z
 isPublic: true
 locales:
   en:
@@ -11,7 +11,7 @@ locales:
       paddingY: normal
       paddingX: normal
     title: "Blocklet Service: Reusable, Out-of-the-Box Functionalities"
-    description: Discover Blocklet Services, a standardized set of functionalities
+    description: Discover Blocklet Service, a standardized set of functionalities
       like authentication, notifications, and theming that any Blocklet can
       expose, promoting a composable and efficient development model.
     image: mediakit://service-blocklets-overview.png
@@ -940,7 +940,7 @@ dataSource:
             list:
               - id: item-1759121327460-gc8w9kaxt
                 type: text
-                text: Stop reinventing the wheel! Blocklet Services provide a rich set of
+                text: Stop reinventing the wheel! Blocklet Service provide a rich set of
                   out-of-the-box functionalities like authentication,
                   notifications, and theming that your applications can use
                   instantly. Build faster, smarter, and more consistently.
@@ -1494,7 +1494,7 @@ dataSource:
             list:
               - id: item-1759204484222-0kvkmgmke
                 type: text
-                text: Blocklet Services expose standardized functionalities through predictable
+                text: Blocklet Service expose standardized functionalities through predictable
                   endpoints. This means any Blocklet can discover and use
                   services from any other Blocklet, letting you build complex
                   applications by combining powerful, pre-built components. It's
@@ -1674,7 +1674,7 @@ dataSource:
             list:
               - id: item-1759121327460-gc8w9kaxt
                 type: text
-                text: Blocklet Services are just one piece of the puzzle. Explore the entire
+                text: Blocklet Service are just one piece of the puzzle. Explore the entire
                   Blocklet Platform to see how all the components work together
                   to supercharge your development workflow.
                 style:

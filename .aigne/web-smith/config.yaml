@@ -72,7 +72,7 @@ sourcesPath: # Source code paths to analyze
   - ./src
 defaultDatasources:
   - ./src/screenshots/SCREENSHOTS.md
-lastGitHead: 5ab9126b68a3204a3de0414704b60ca2f48b5682
+lastGitHead: 3d71ed856402346c9966d0ac3d5a11e3d8ca7438
 # Checkout ID for website deployment service
 checkoutId: ""
 appUrl: https://staging.websmith.aigne.io

@@ -1,62 +1,115 @@
-meta:
-  title: "Blocklet CLI: Full Control from Your Command Line"
-  description: "Master the Blocklet CLI! Your one-stop command-line tool for scaffolding, developing, deploying, and managing Blocklets and the Blocklet Server with speed and precision."
-sections:
-  - sectionName: "cliHero"
-    sectionSummary: "An engaging hero section that immediately demonstrates the power and simplicity of the Blocklet CLI with a common command, targeting developers."
-    verticalHeroTitle: "Your Entire Workflow, One Command Away"
-    verticalHeroDescription: "Stop juggling tools. The Blocklet CLI puts the full power of the Blocklet Platform right where you work—in the terminal. From scaffolding a new project to managing a production server, do it all with lightning-fast commands."
-    verticalHeroCode:
-      name: "bash"
-      content: "# 1. Create a new React blocklet\nblocklet init my-app --template react\n\n# 2. Jump into the directory\ncd my-app\n\n# 3. Start the dev server with hot-reloading!\nblocklet dev"
-  - sectionName: "cliCommandSets"
-    sectionSummary: "A detailed breakdown of the two primary command sets in the CLI, 'blocklet' for app development and 'blocklet server' for administration, using code examples to illustrate their functions."
-    oneColumnGridTitle: "Two Toolkits, One Powerful CLI"
-    list:
-      - sectionName: "appLifecycleCommands"
-        sectionSummary: "Focuses on the 'blocklet' command set for the application development lifecycle."
-        contentCardTitle: "Manage Your Application Lifecycle"
-        contentCardDescription: "From zero to deployed! Use the `blocklet` commands to handle everything related to your application's development. Scaffold new projects, run a hot-reloading dev server, bundle for production, and deploy to any Blocklet Server instance. It’s your entire dev workflow, streamlined."
-        contentCardRightCode:
-          name: "bash"
-          content: "blocklet init   # Scaffold a new project\nblocklet dev    # Start the dev server\nblocklet bundle # Package your application\nblocklet deploy # Deploy to a server\nblocklet upload # Publish to the store"
-      - sectionName: "serverAdminCommands"
-        sectionSummary: "Focuses on the 'blocklet server' command set for managing the server runtime."
-        contentCardTitle: "Administer Your Server with Ease"
-        contentCardDescription: "Take full control of your infrastructure. The `blocklet server` commands let you manage the Blocklet Server daemon itself. Initialize new instances, check the status of all running blocklets, view real-time logs, and perform upgrades, all without ever leaving your terminal."
-        contentCardLeftCode:
-          name: "bash"
-          content: "blocklet server init   # Initialize a new server\nblocklet server start  # Start the server daemon\nblocklet server status # Check server & blocklet status\nblocklet server logs   # Tail server logs\nblocklet server upgrade# Upgrade the server"
-  - sectionName: "cliKeyFeatures"
-    sectionSummary: "Highlights the key, user-friendly features of the CLI in a scannable 3-column grid, emphasizing the developer experience."
-    threeColumnGridTitle: "Built for a Fast, Fluid Workflow"
-    list:
-      - sectionName: "interactiveCli"
-        sectionSummary: "Highlights the interactive and intuitive nature of the CLI."
-        cardTitle: "Interactive & Intuitive"
-        cardDescription: "Forget memorizing flags. Our CLI uses interactive prompts, autocomplete, and helpful guides to make every command a breeze."
-        iconName: "mdi:cursor-default-click-outline"
-      - sectionName: "automationReady"
-        sectionSummary: "Emphasizes the CLI's suitability for automation and CI/CD pipelines."
-        cardTitle: "Scriptable & CI/CD Ready"
-        cardDescription: "Automate everything! The CLI is designed for scripting, allowing you to easily integrate your deployment pipeline with GitHub Actions, Jenkins, and more."
-        iconName: "mdi:cogs"
-      - sectionName: "comprehensiveControl"
-        sectionSummary: "Showcases the granular control the CLI provides over the entire platform."
-        cardTitle: "Comprehensive Control"
-        cardDescription: "From a single blocklet to the entire server, get granular control and detailed status info right in your terminal. See everything at a glance."
-        iconName: "mdi:console-line"
-  - sectionName: "cliInAction"
-    sectionSummary: "Showcases the detailed output of a CLI command to provide tangible proof of its power and the depth of information it provides to administrators."
-    featureSectionTitle: "Get a Complete Picture of Your Server"
-    featureSectionDescription: "Instantly check the health and status of your entire Blocklet Server. The `blocklet server status` command gives you a comprehensive overview of everything, from the server version and Docker status to the state of every single blocklet running on the instance. No more guesswork—just clear, actionable information."
-    featureSectionBottomImage: "mediakit://cli-server-status-output.png"
-  - sectionName: "cliCta"
-    sectionSummary: "A final, action-oriented section to encourage visitors to start using the CLI or explore other parts of the platform."
-    ctaTitle: "Ready to Take Command?"
-    ctaDescription: "Install the Blocklet CLI and start building, deploying, and managing your applications from the command line today. It's the fastest way to get productive on the Blocklet Platform."
-    cta:
-      - text: "View Documentation"
-        link: "https://docs.arcblock.io/en/getting-started/installation"
-      - text: "Explore the Platform"
-        link: "link:///home"
+"meta":
+  "title": "Blocklet CLI: Full Control from Your Command Line"
+  "description": "Master the Blocklet CLI! Your one-stop command-line tool for
+    scaffolding, developing, deploying, and managing Blocklets and the Blocklet
+    Server with speed and precision."
+"sections":
+  - "sectionName": "cliHero"
+    "sectionSummary": "An engaging hero section that introduces the Blocklet CLI,
+      highlighting its power and providing clear calls to action."
+    "splitHeroTitle": "Your Entire Workflow, One Command Away"
+    "splitHeroDescription": "Stop juggling tools. The Blocklet CLI puts the full
+      power of the Blocklet Platform right where you work—in the terminal. From
+      scaffolding a new project to managing a production server, do it all with
+      lightning-fast commands."
+    "splitHeroRightImage": "mediakit://cli-help-main-commands.png"
+    "splitHeroActions":
+      - "text": "View Documentation"
+        "link": "https://docs.arcblock.io/en/getting-started/installation"
+      - "text": "Explore the Platform"
+        "link": "link:///home"
+  - "sectionName": "cliCommandSets"
+    "sectionSummary": "A detailed breakdown of the two primary command sets in the
+      CLI, 'blocklet' for app development and 'blocklet server' for
+      administration, using code examples to illustrate their functions."
+    "oneColumnGridTitle": "Two Toolkits, One Powerful CLI"
+    "list":
+      - "sectionName": "appLifecycleCommands"
+        "sectionSummary": "Focuses on the 'blocklet' command set for the application
+          development lifecycle."
+        "contentCardTitle": "Manage Your Application Lifecycle"
+        "contentCardDescription": "From zero to deployed! Use the `blocklet` commands to
+          handle everything related to your application's development. Scaffold
+          new projects, run a hot-reloading dev server, bundle for production,
+          and deploy to any Blocklet Server instance. It’s your entire dev
+          workflow, streamlined."
+        "contentCardRightCode":
+          "name": "bash"
+          "content": "blocklet init   # Scaffold a new project
+
+            blocklet dev    # Start the dev server
+
+            blocklet bundle # Package your application
+
+            blocklet deploy # Deploy to a server
+
+            blocklet upload # Publish to the store"
+      - "sectionName": "serverAdminCommands"
+        "sectionSummary": "Focuses on the 'blocklet server' command set for managing the
+          server runtime."
+        "contentCardTitle": "Administer Your Server with Ease"
+        "contentCardDescription": "Take full control of your infrastructure. The
+          `blocklet server` commands let you manage the Blocklet Server daemon
+          itself. Initialize new instances, check the status of all running
+          blocklets, view real-time logs, and perform upgrades, all without ever
+          leaving your terminal."
+        "contentCardLeftCode":
+          "name": "bash"
+          "content": "blocklet server init   # Initialize a new server
+
+            blocklet server start  # Start the server daemon
+
+            blocklet server status # Check server & blocklet status
+
+            blocklet server logs   # Tail server logs
+
+            blocklet server upgrade# Upgrade the server"
+  - "sectionName": "cliKeyFeatures"
+    "sectionSummary": "Highlights the key, user-friendly features of the CLI in a
+      scannable 3-column grid, emphasizing the developer experience."
+    "threeColumnGridTitle": "Built for a Fast, Fluid Workflow"
+    "list":
+      - "sectionName": "interactiveCli"
+        "sectionSummary": "Highlights the interactive and intuitive nature of the CLI."
+        "cardTitle": "Interactive & Intuitive"
+        "cardDescription": "Forget memorizing flags. Our CLI uses interactive prompts,
+          autocomplete, and helpful guides to make every command a breeze."
+        "iconName": "mdi:cursor-default-click-outline"
+      - "sectionName": "automationReady"
+        "sectionSummary": "Emphasizes the CLI's suitability for automation and CI/CD pipelines."
+        "cardTitle": "Scriptable & CI/CD Ready"
+        "cardDescription": "Automate everything! The CLI is designed for scripting,
+          allowing you to easily integrate your deployment pipeline with GitHub
+          Actions, Jenkins, and more."
+        "iconName": "mdi:cogs"
+      - "sectionName": "comprehensiveControl"
+        "sectionSummary": "Showcases the granular control the CLI provides over the
+          entire platform."
+        "cardTitle": "Comprehensive Control"
+        "cardDescription": "From a single blocklet to the entire server, get granular
+          control and detailed status info right in your terminal. See
+          everything at a glance."
+        "iconName": "mdi:console-line"
+  - "sectionName": "cliInAction"
+    "sectionSummary": "Showcases the detailed output of a CLI command to provide
+      tangible proof of its power and the depth of information it provides to
+      administrators."
+    "featureSectionTitle": "Get a Complete Picture of Your Server"
+    "featureSectionDescription": "Instantly check the health and status of your
+      entire Blocklet Server. The `blocklet server status` command gives you a
+      comprehensive overview of everything, from the server version and Docker
+      status to the state of every single blocklet running on the instance. No
+      more guesswork—just clear, actionable information."
+    "featureSectionBottomImage": "mediakit://cli-server-status-output.png"
+  - "sectionName": "cliCta"
+    "sectionSummary": "A final, action-oriented section to encourage visitors to
+      start using the CLI or explore other parts of the platform."
+    "ctaTitle": "Ready to Take Command?"
+    "ctaDescription": "Install the Blocklet CLI and start building, deploying, and
+      managing your applications from the command line today. It's the fastest
+      way to get productive on the Blocklet Platform."
+    "cta":
+      - "text": "View Documentation"
+        "link": "https://docs.arcblock.io/en/getting-started/installation"
+      - "text": "Explore the Platform"
+        "link": "link:///home"

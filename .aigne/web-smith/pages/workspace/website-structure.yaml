@@ -24,7 +24,7 @@
     - src/screenshots/SCREENSHOTS.md
   parentId: null
 - title: "Blocklet Service: Reusable, Out-of-the-Box Functionalities"
-  description: Discover Blocklet Services, a standardized set of functionalities
+  description: Discover Blocklet Service, a standardized set of functionalities
     like authentication, notifications, and theming that any Blocklet can
     expose, promoting a composable and efficient development model.
   path: /blocklet-service

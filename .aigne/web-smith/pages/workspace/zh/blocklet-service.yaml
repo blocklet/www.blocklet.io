@@ -4,7 +4,7 @@ meta:
   image: "mediakit://service-blocklets-overview.png"
 sections:
   - sectionName: "hero"
-    sectionSummary: "Introduces Blocklet Services with a strong value proposition, highlighting the benefits of reusability and faster development, supported by a visual overview and clear calls-to-action."
+    sectionSummary: "Introduces Blocklet Service with a strong value proposition, highlighting the benefits of reusability and faster development, supported by a visual overview and clear calls-to-action."
     splitHeroTitle: "为您的应用提供即插即用的强大功能"
     splitHeroDescription: "告别重复造轮子！Blocklet 服务提供了一套丰富的开箱即用功能，如身份验证、通知和主题化，您的应用程序可以立即使用。构建速度更快、更智能、更一致。"
     splitHeroRightImage: "mediakit://service-blocklets-overview.png"
@@ -14,7 +14,7 @@ sections:
       - text: "查看架构"
         link: "link:///architecture"
   - sectionName: "keyBenefits"
-    sectionSummary: "Highlights the three core advantages of using Blocklet Services—centralized identity, website control, and operations—in a scannable, icon-driven grid format to quickly convey value."
+    sectionSummary: "Highlights the three core advantages of using Blocklet Service—centralized identity, website control, and operations—in a scannable, icon-driven grid format to quickly convey value."
     threeColumnGridTitle: "您的生产就绪工具包"
     list:
       - sectionName: "centralizedIdentity"
@@ -60,7 +60,7 @@ sections:
       text: "了解架构"
       link: "link:///architecture"
   - sectionName: "faq"
-    sectionSummary: "Addresses common developer questions about Blocklet Services to clarify their purpose, function, and advantages over traditional APIs, building confidence and understanding."
+    sectionSummary: "Addresses common developer questions about Blocklet Service to clarify their purpose, function, and advantages over traditional APIs, building confidence and understanding."
     faqTitle: "常见问题"
     faqList:
       - question: "Blocklet 服务到底是什么？"

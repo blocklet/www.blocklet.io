@@ -55,7 +55,7 @@
       - "sectionName": "FeatureSectionWithAction"
         "sectionSummary": "Introduces the Blocklet Server, the core runtime of the platform."
         "featureSectionTitle": "Blocklet Server"
-        "featureSectionDescription\"": "The foundational runtime for your applications.
+        "featureSectionDescription": "The foundational runtime for your applications.
           Get a powerful web dashboard to manage, monitor, and scale everything
           with total control and enterprise-grade security."
         "featureSectionBottomImage": "mediakit://blocklets-management-list.png"
@@ -63,8 +63,8 @@
           "text": "Learn More"
           "link": "link:///blocklet-server"
       - "sectionName": "FeatureSectionWithAction"
-        "sectionSummary": "Introduces Blocklet Services, the shared functionalities layer."
-        "featureSectionTitle": "Blocklet Services"
+        "sectionSummary": "Introduces Blocklet Service, the shared functionalities layer."
+        "featureSectionTitle": "Blocklet Service"
         "featureSectionDescription": "Stop reinventing the wheel! Leverage a rich suite
           of out-of-the-box services for authentication, notifications,
           payments, and more that any blocklet can use instantly."
