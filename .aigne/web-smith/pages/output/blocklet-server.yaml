@@ -1,7 +1,7 @@
 id: 81ae0055156bda48
-createdAt: 2025-10-04T01:12:27.374Z
-updatedAt: 2025-10-04T01:12:27.374Z
-publishedAt: 2025-10-04T01:12:27.374Z
+createdAt: 2025-10-12T12:05:11.335Z
+updatedAt: 2025-10-12T12:05:11.335Z
+publishedAt: 2025-10-12T12:05:11.335Z
 isPublic: true
 locales:
   en:
@@ -97,7 +97,7 @@ sections:
             sectionIds:
               - f98b98ffd13b8a1d
             config:
-              borderRadius: medium
+              borderRadius: small
               gridSettings:
                 desktop:
                   f98b98ffd13b8a1d:
@@ -105,7 +105,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: mediakit://blocklets-management-list.png
+              background: background.paper
+              paddingX: small
+              paddingY: small
         sectionIds:
           - 2595d95961e10014
           - ccdf0179b25ef747
@@ -119,7 +121,7 @@ sections:
               2595d95961e10014:
                 x: 0
                 y: 0
-                w: 6
+                w: 5
                 h: 1
               ccdf0179b25ef747:
                 x: 6
@@ -138,7 +140,7 @@ sections:
             w: 12
             h: 1
       gap: normal
-      paddingY: none
+      paddingY: normal
       background: transparent
       border: none
       paddingX: none
@@ -248,9 +250,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: transparent
-              paddingX: small
-              paddingY: small
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
               borderRadius: small
               gap: normal
               border: solid
@@ -322,9 +324,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: transparent
-              paddingX: small
-              paddingY: small
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
               borderRadius: small
               gap: normal
               border: solid
@@ -396,9 +398,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: transparent
-              paddingX: small
-              paddingY: small
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
               borderRadius: small
               gap: normal
               border: solid
@@ -470,9 +472,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: transparent
-              paddingX: small
-              paddingY: small
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
               borderRadius: small
               gap: normal
               border: solid
@@ -544,9 +546,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: transparent
-              paddingX: small
-              paddingY: small
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
               borderRadius: small
               gap: normal
               border: solid
@@ -618,9 +620,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: transparent
-              paddingX: small
-              paddingY: small
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
               borderRadius: small
               gap: normal
               border: solid
@@ -899,7 +901,7 @@ sections:
             sectionIds:
               - 005d360889ff8e49
             config:
-              borderRadius: medium
+              borderRadius: small
               gridSettings:
                 desktop:
                   005d360889ff8e49:
@@ -907,7 +909,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: mediakit://settings-gateway-configuration.png
+              background: background.paper
+              paddingX: small
+              paddingY: small
         sectionIds:
           - d0590e7fa65e81f7
           - 1292a3b10f0dda5e
@@ -921,7 +925,7 @@ sections:
               d0590e7fa65e81f7:
                 x: 0
                 y: 0
-                w: 6
+                w: 5
                 h: 1
               1292a3b10f0dda5e:
                 x: 6
@@ -940,7 +944,7 @@ sections:
             w: 12
             h: 1
       gap: normal
-      paddingY: none
+      paddingY: normal
       background: transparent
       border: none
       paddingX: none
@@ -997,7 +1001,7 @@ sections:
             sectionIds:
               - 0a6c9b45d3d0007d
             config:
-              borderRadius: medium
+              borderRadius: small
               gridSettings:
                 desktop:
                   0a6c9b45d3d0007d:
@@ -1005,7 +1009,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: mediakit://team-members-management.png
+              background: background.paper
+              paddingX: small
+              paddingY: small
         sectionIds:
           - 6ec60a92a4f28240
           - f5cc9ff8b47e462a
@@ -1017,9 +1023,9 @@ sections:
           gridSettings:
             desktop:
               6ec60a92a4f28240:
-                x: 6
+                x: 7
                 y: 0
-                w: 6
+                w: 5
                 h: 1
               f5cc9ff8b47e462a:
                 x: 0
@@ -1038,7 +1044,7 @@ sections:
             w: 12
             h: 1
       gap: normal
-      paddingY: none
+      paddingY: normal
       background: transparent
       border: none
       paddingX: none
@@ -1095,7 +1101,7 @@ sections:
             sectionIds:
               - cb2d2b331117760f
             config:
-              borderRadius: medium
+              borderRadius: small
               gridSettings:
                 desktop:
                   cb2d2b331117760f:
@@ -1103,7 +1109,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: mediakit://blocklet-server-logs-view.png
+              background: background.paper
+              paddingX: small
+              paddingY: small
         sectionIds:
           - 0275800b0891b00e
           - ac07d35c9952af63
@@ -1117,7 +1125,7 @@ sections:
               0275800b0891b00e:
                 x: 0
                 y: 0
-                w: 6
+                w: 5
                 h: 1
               ac07d35c9952af63:
                 x: 6
@@ -1136,7 +1144,7 @@ sections:
             w: 12
             h: 1
       gap: normal
-      paddingY: none
+      paddingY: normal
       background: transparent
       border: none
       paddingX: none
@@ -1193,7 +1201,7 @@ sections:
             sectionIds:
               - 61cdd16af39eac95
             config:
-              borderRadius: medium
+              borderRadius: small
               gridSettings:
                 desktop:
                   61cdd16af39eac95:
@@ -1201,7 +1209,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: mediakit://store-browse-blocklets.png
+              background: background.paper
+              paddingX: small
+              paddingY: small
         sectionIds:
           - f450cd7860d1e5ed
           - 9d3fc998bffd2671
@@ -1213,9 +1223,9 @@ sections:
           gridSettings:
             desktop:
               f450cd7860d1e5ed:
-                x: 6
+                x: 7
                 y: 0
-                w: 6
+                w: 5
                 h: 1
               9d3fc998bffd2671:
                 x: 0
@@ -1234,7 +1244,7 @@ sections:
             w: 12
             h: 1
       gap: normal
-      paddingY: none
+      paddingY: normal
       background: transparent
       border: none
       paddingX: none
@@ -1291,7 +1301,7 @@ sections:
             sectionIds:
               - cd30158ead220337
             config:
-              borderRadius: medium
+              borderRadius: small
               gridSettings:
                 desktop:
                   cd30158ead220337:
@@ -1299,7 +1309,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: mediakit://settings-about-upgrade.png
+              background: background.paper
+              paddingX: small
+              paddingY: small
         sectionIds:
           - b7546ebf920facf6
           - 9662465cc97855b3
@@ -1313,7 +1325,7 @@ sections:
               b7546ebf920facf6:
                 x: 0
                 y: 0
-                w: 6
+                w: 5
                 h: 1
               9662465cc97855b3:
                 x: 6
@@ -1332,7 +1344,7 @@ sections:
             w: 12
             h: 1
       gap: normal
-      paddingY: none
+      paddingY: normal
       background: transparent
       border: none
       paddingX: none
@@ -1551,18 +1563,22 @@ dataSource:
       properties:
         7m5pz8nefl5j9hqq:
           value:
-            url: ""
-            mediaKitUrl: ""
+            url: mediakit://blocklets-management-list.png
+            mediaKitUrl: mediakit://blocklets-management-list.png
             width: 2445
             height: 1394
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
           value:
-            url: ""
-            mediaKitUrl: ""
+            url: mediakit://blocklets-management-list.png
+            mediaKitUrl: mediakit://blocklets-management-list.png
             width: 2445
             height: 1394
+        jjv0hvr8wrixt1f3:
+          value: 1
   d79cdf28faac3108:
     en:
       properties:
@@ -2156,18 +2172,22 @@ dataSource:
       properties:
         7m5pz8nefl5j9hqq:
           value:
-            url: ""
-            mediaKitUrl: ""
+            url: mediakit://settings-gateway-configuration.png
+            mediaKitUrl: mediakit://settings-gateway-configuration.png
             width: 2445
             height: 1394
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
           value:
-            url: ""
-            mediaKitUrl: ""
+            url: mediakit://settings-gateway-configuration.png
+            mediaKitUrl: mediakit://settings-gateway-configuration.png
             width: 2445
             height: 1394
+        jjv0hvr8wrixt1f3:
+          value: 1
   aa7fa5a07de8cc73:
     en:
       properties:
@@ -2218,18 +2238,22 @@ dataSource:
       properties:
         7m5pz8nefl5j9hqq:
           value:
-            url: ""
-            mediaKitUrl: ""
+            url: mediakit://team-members-management.png
+            mediaKitUrl: mediakit://team-members-management.png
             width: 2445
             height: 1394
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
           value:
-            url: ""
-            mediaKitUrl: ""
+            url: mediakit://team-members-management.png
+            mediaKitUrl: mediakit://team-members-management.png
             width: 2445
             height: 1394
+        jjv0hvr8wrixt1f3:
+          value: 1
   7d6959c5d0403451:
     en:
       properties:
@@ -2280,18 +2304,22 @@ dataSource:
       properties:
         7m5pz8nefl5j9hqq:
           value:
-            url: ""
-            mediaKitUrl: ""
+            url: mediakit://blocklet-server-logs-view.png
+            mediaKitUrl: mediakit://blocklet-server-logs-view.png
             width: 2445
             height: 1394
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
           value:
-            url: ""
-            mediaKitUrl: ""
+            url: mediakit://blocklet-server-logs-view.png
+            mediaKitUrl: mediakit://blocklet-server-logs-view.png
             width: 2445
             height: 1394
+        jjv0hvr8wrixt1f3:
+          value: 1
   49237d3bae550f13:
     en:
       properties:
@@ -2342,18 +2370,22 @@ dataSource:
       properties:
         7m5pz8nefl5j9hqq:
           value:
-            url: ""
-            mediaKitUrl: ""
+            url: mediakit://store-browse-blocklets.png
+            mediaKitUrl: mediakit://store-browse-blocklets.png
             width: 2445
             height: 1394
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
           value:
-            url: ""
-            mediaKitUrl: ""
+            url: mediakit://store-browse-blocklets.png
+            mediaKitUrl: mediakit://store-browse-blocklets.png
             width: 2445
             height: 1394
+        jjv0hvr8wrixt1f3:
+          value: 1
   63edd97b0f61c921:
     en:
       properties:
@@ -2404,18 +2436,22 @@ dataSource:
       properties:
         7m5pz8nefl5j9hqq:
           value:
-            url: ""
-            mediaKitUrl: ""
+            url: mediakit://settings-about-upgrade.png
+            mediaKitUrl: mediakit://settings-about-upgrade.png
             width: 2445
             height: 1394
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
           value:
-            url: ""
-            mediaKitUrl: ""
+            url: mediakit://settings-about-upgrade.png
+            mediaKitUrl: mediakit://settings-about-upgrade.png
             width: 2445
             height: 1394
+        jjv0hvr8wrixt1f3:
+          value: 1
   a5b3aa477bc1560a:
     en:
       properties:

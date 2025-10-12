@@ -1,7 +1,7 @@
 id: ea3dcb114380f306
-createdAt: 2025-10-04T01:12:27.351Z
-updatedAt: 2025-10-04T01:12:27.351Z
-publishedAt: 2025-10-04T01:12:27.351Z
+createdAt: 2025-10-12T12:05:11.313Z
+updatedAt: 2025-10-12T12:05:11.313Z
+publishedAt: 2025-10-12T12:05:11.313Z
 isPublic: true
 locales:
   en:
@@ -94,7 +94,7 @@ sections:
             sectionIds:
               - f98b98ffd13b8a1d
             config:
-              borderRadius: medium
+              borderRadius: small
               gridSettings:
                 desktop:
                   f98b98ffd13b8a1d:
@@ -102,7 +102,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: mediakit://cli-help-main-commands.png
+              background: background.paper
+              paddingX: small
+              paddingY: small
         sectionIds:
           - 2595d95961e10014
           - ccdf0179b25ef747
@@ -116,7 +118,7 @@ sections:
               2595d95961e10014:
                 x: 0
                 y: 0
-                w: 6
+                w: 5
                 h: 1
               ccdf0179b25ef747:
                 x: 6
@@ -135,7 +137,7 @@ sections:
             w: 12
             h: 1
       gap: normal
-      paddingY: none
+      paddingY: normal
       background: transparent
       border: none
       paddingX: none
@@ -215,13 +217,13 @@ sections:
                     y: 0
                     w: 8
                     h: 1
-              paddingX: small
+              paddingX: custom:32px
               gap: normal
-              paddingY: small
-              background: transparent
+              paddingY: custom:32px
+              background: background.paper
               border: solid
               borderRadius: small
-              alignContent: start
+              alignContent: center
           9921e4df14fe9bbb:
             id: 9921e4df14fe9bbb
             name: Cards-2
@@ -259,13 +261,13 @@ sections:
                     y: 0
                     w: 8
                     h: 1
-              paddingX: small
+              paddingX: custom:32px
               gap: normal
-              paddingY: small
-              background: transparent
+              paddingY: custom:32px
+              background: background.paper
               border: solid
               borderRadius: small
-              alignContent: start
+              alignContent: center
           a856e6bdb7a6ed53:
             id: a856e6bdb7a6ed53
             name: Cards-3
@@ -303,13 +305,13 @@ sections:
                     y: 0
                     w: 8
                     h: 1
-              paddingX: small
+              paddingX: custom:32px
               gap: normal
-              paddingY: small
-              background: transparent
+              paddingY: custom:32px
+              background: background.paper
               border: solid
               borderRadius: small
-              alignContent: start
+              alignContent: center
           cd40ee4410da334c:
             id: cd40ee4410da334c
             name: Cards-4
@@ -347,13 +349,13 @@ sections:
                     y: 0
                     w: 8
                     h: 1
-              paddingX: small
+              paddingX: custom:32px
               gap: normal
-              paddingY: small
-              background: transparent
+              paddingY: custom:32px
+              background: background.paper
               border: solid
               borderRadius: small
-              alignContent: start
+              alignContent: center
           cfafc4431cb95e1f:
             id: cfafc4431cb95e1f
             name: Cards-5
@@ -391,13 +393,13 @@ sections:
                     y: 0
                     w: 8
                     h: 1
-              paddingX: small
+              paddingX: custom:32px
               gap: normal
-              paddingY: small
-              background: transparent
+              paddingY: custom:32px
+              background: background.paper
               border: solid
               borderRadius: small
-              alignContent: start
+              alignContent: center
         sectionIds:
           - 054aa05a26360513
           - 9921e4df14fe9bbb
@@ -545,13 +547,13 @@ sections:
                     y: 0
                     w: 8
                     h: 1
-              paddingX: small
+              paddingX: custom:32px
               gap: normal
-              paddingY: small
-              background: transparent
+              paddingY: custom:32px
+              background: background.paper
               border: solid
               borderRadius: small
-              alignContent: start
+              alignContent: center
           f9cae8c6eca50e9e:
             id: f9cae8c6eca50e9e
             name: Cards-2
@@ -589,13 +591,13 @@ sections:
                     y: 0
                     w: 8
                     h: 1
-              paddingX: small
+              paddingX: custom:32px
               gap: normal
-              paddingY: small
-              background: transparent
+              paddingY: custom:32px
+              background: background.paper
               border: solid
               borderRadius: small
-              alignContent: start
+              alignContent: center
         sectionIds:
           - "5164097510530111"
           - f9cae8c6eca50e9e
@@ -720,13 +722,13 @@ sections:
                     y: 0
                     w: 8
                     h: 1
-              paddingX: small
+              paddingX: custom:32px
               gap: normal
-              paddingY: small
-              background: transparent
+              paddingY: custom:32px
+              background: background.paper
               border: solid
               borderRadius: small
-              alignContent: start
+              alignContent: center
           4dcce2b2afe8e11e:
             id: 4dcce2b2afe8e11e
             name: Cards-2
@@ -764,13 +766,13 @@ sections:
                     y: 0
                     w: 8
                     h: 1
-              paddingX: small
+              paddingX: custom:32px
               gap: normal
-              paddingY: small
-              background: transparent
+              paddingY: custom:32px
+              background: background.paper
               border: solid
               borderRadius: small
-              alignContent: start
+              alignContent: center
           3ced4a41bdaa0fda:
             id: 3ced4a41bdaa0fda
             name: Cards-3
@@ -808,13 +810,13 @@ sections:
                     y: 0
                     w: 8
                     h: 1
-              paddingX: small
+              paddingX: custom:32px
               gap: normal
-              paddingY: small
-              background: transparent
+              paddingY: custom:32px
+              background: background.paper
               border: solid
               borderRadius: small
-              alignContent: start
+              alignContent: center
           a845cbab95be503b:
             id: a845cbab95be503b
             name: Cards-4
@@ -852,13 +854,13 @@ sections:
                     y: 0
                     w: 8
                     h: 1
-              paddingX: small
+              paddingX: custom:32px
               gap: normal
-              paddingY: small
-              background: transparent
+              paddingY: custom:32px
+              background: background.paper
               border: solid
               borderRadius: small
-              alignContent: start
+              alignContent: center
           ac4857043d9aadff:
             id: ac4857043d9aadff
             name: Cards-5
@@ -896,13 +898,13 @@ sections:
                     y: 0
                     w: 8
                     h: 1
-              paddingX: small
+              paddingX: custom:32px
               gap: normal
-              paddingY: small
-              background: transparent
+              paddingY: custom:32px
+              background: background.paper
               border: solid
               borderRadius: small
-              alignContent: start
+              alignContent: center
         sectionIds:
           - 26f45f1e041b53de
           - 4dcce2b2afe8e11e
@@ -1080,9 +1082,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: transparent
-              paddingX: small
-              paddingY: small
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
               borderRadius: small
               gap: normal
               border: solid
@@ -1154,9 +1156,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: transparent
-              paddingX: small
-              paddingY: small
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
               borderRadius: small
               gap: normal
               border: solid
@@ -1228,9 +1230,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: transparent
-              paddingX: small
-              paddingY: small
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
               borderRadius: small
               gap: normal
               border: solid
@@ -1465,18 +1467,22 @@ dataSource:
       properties:
         7m5pz8nefl5j9hqq:
           value:
-            url: ""
-            mediaKitUrl: ""
+            url: mediakit://cli-help-main-commands.png
+            mediaKitUrl: mediakit://cli-help-main-commands.png
             width: 2445
             height: 1394
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
           value:
-            url: ""
-            mediaKitUrl: ""
+            url: mediakit://cli-help-main-commands.png
+            mediaKitUrl: mediakit://cli-help-main-commands.png
             width: 2445
             height: 1394
+        jjv0hvr8wrixt1f3:
+          value: 1
   11087eae134dbead:
     en:
       properties:
@@ -1573,7 +1579,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
@@ -1583,7 +1591,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
   3cd1c3ba67049a03:
     en:
       properties:
@@ -1657,7 +1667,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
@@ -1667,7 +1679,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
   442c4ab837f1b362:
     en:
       properties:
@@ -1741,7 +1755,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
@@ -1751,7 +1767,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
   b47f4644ee123ffd:
     en:
       properties:
@@ -1825,7 +1843,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
@@ -1835,7 +1855,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
   3b375fb904554ac3:
     en:
       properties:
@@ -1911,7 +1933,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
@@ -1921,7 +1945,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
   10c868964f4822ae:
     en:
       properties:
@@ -2017,7 +2043,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
@@ -2027,7 +2055,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
   f262507ce32fcebd:
     en:
       properties:
@@ -2100,7 +2130,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
@@ -2110,7 +2142,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
   5b658d0ac413cd4c:
     en:
       properties:
@@ -2207,7 +2241,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
@@ -2217,7 +2253,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
   c8d407d63f249fe9:
     en:
       properties:
@@ -2275,7 +2313,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
@@ -2285,7 +2325,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
   17d85f221cef54b9:
     en:
       properties:
@@ -2359,7 +2401,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
@@ -2369,7 +2413,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
   079758c90603c38a:
     en:
       properties:
@@ -2426,7 +2472,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
@@ -2436,7 +2484,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
   13d9f4e6b61e7c92:
     en:
       properties:
@@ -2494,7 +2544,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
@@ -2504,7 +2556,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
   66660b01fa5df1ed:
     en:
       properties:

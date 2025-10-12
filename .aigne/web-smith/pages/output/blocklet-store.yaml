@@ -1,7 +1,7 @@
 id: ddb35a2fc1a0f21e
-createdAt: 2025-10-04T01:12:27.387Z
-updatedAt: 2025-10-04T01:12:27.387Z
-publishedAt: 2025-10-04T01:12:27.387Z
+createdAt: 2025-10-12T12:05:11.349Z
+updatedAt: 2025-10-12T12:05:11.349Z
+publishedAt: 2025-10-12T12:05:11.349Z
 isPublic: true
 locales:
   en:
@@ -96,7 +96,7 @@ sections:
             sectionIds:
               - f98b98ffd13b8a1d
             config:
-              borderRadius: medium
+              borderRadius: small
               gridSettings:
                 desktop:
                   f98b98ffd13b8a1d:
@@ -104,7 +104,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: mediakit://explore-trending-blocklets.png
+              background: background.paper
+              paddingX: small
+              paddingY: small
         sectionIds:
           - 2595d95961e10014
           - ccdf0179b25ef747
@@ -118,7 +120,7 @@ sections:
               2595d95961e10014:
                 x: 0
                 y: 0
-                w: 6
+                w: 5
                 h: 1
               ccdf0179b25ef747:
                 x: 6
@@ -137,7 +139,7 @@ sections:
             w: 12
             h: 1
       gap: normal
-      paddingY: none
+      paddingY: normal
       background: transparent
       border: none
       paddingX: none
@@ -247,9 +249,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: transparent
-              paddingX: small
-              paddingY: small
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
               borderRadius: small
               gap: normal
               border: solid
@@ -321,9 +323,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: transparent
-              paddingX: small
-              paddingY: small
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
               borderRadius: small
               gap: normal
               border: solid
@@ -395,9 +397,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: transparent
-              paddingX: small
-              paddingY: small
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
               borderRadius: small
               gap: normal
               border: solid
@@ -668,10 +670,10 @@ sections:
               paddingX: custom:32px
               gap: normal
               paddingY: custom:32px
-              background: transparent
+              background: background.paper
               border: solid
               borderRadius: small
-              alignContent: start
+              alignContent: center
           00eb75f9c74350c3:
             id: 00eb75f9c74350c3
             name: Cards-2
@@ -712,10 +714,10 @@ sections:
               paddingX: custom:32px
               gap: normal
               paddingY: custom:32px
-              background: transparent
+              background: background.paper
               border: solid
               borderRadius: small
-              alignContent: start
+              alignContent: center
         sectionIds:
           - 392bbee080b0602c
           - 00eb75f9c74350c3
@@ -870,9 +872,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: transparent
-              paddingX: small
-              paddingY: small
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
               borderRadius: small
               gap: normal
               border: solid
@@ -944,9 +946,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: transparent
-              paddingX: small
-              paddingY: small
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
               borderRadius: small
               gap: normal
               border: solid
@@ -1018,9 +1020,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: transparent
-              paddingX: small
-              paddingY: small
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
               borderRadius: small
               gap: normal
               border: solid
@@ -1294,18 +1296,22 @@ dataSource:
       properties:
         7m5pz8nefl5j9hqq:
           value:
-            url: ""
-            mediaKitUrl: ""
+            url: mediakit://explore-trending-blocklets.png
+            mediaKitUrl: mediakit://explore-trending-blocklets.png
             width: 2445
             height: 1394
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
           value:
-            url: ""
-            mediaKitUrl: ""
+            url: mediakit://explore-trending-blocklets.png
+            mediaKitUrl: mediakit://explore-trending-blocklets.png
             width: 2445
             height: 1394
+        jjv0hvr8wrixt1f3:
+          value: 1
   d79cdf28faac3108:
     en:
       properties:
@@ -1678,7 +1684,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
@@ -1688,7 +1696,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
   08f3a7e793d21926:
     en:
       properties:
@@ -1744,7 +1754,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
@@ -1754,7 +1766,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
   66660b01fa5df1ed:
     en:
       properties:

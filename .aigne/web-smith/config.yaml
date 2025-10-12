@@ -4,8 +4,8 @@ projectDesc: The Blocklet Platform is a comprehensive ecosystem that simplifies
   the development, deployment, and management of modern, decentralized web
   applications with built-in identity and security.
 projectLogo: ""
-projectId: d386cd5e-4ede-41c2-bcab-0d100cfa5c80
-projectSlug: blocklet-platform-20251003
+projectId: pg4d0000-0000-4000-a000-000000000000
+projectSlug: "/"
 
 # =============================================================================
 # Website Configuration
@@ -70,9 +70,7 @@ translateLanguages:
 pagesDir: .aigne/web-smith/pages # Directory to save generated pages
 sourcesPath: # Source code paths to analyze
   - ./src
-defaultDatasources:
-  - ./src/screenshots/SCREENSHOTS.md
-lastGitHead: 2a97c462fbbd069cf0f4e2e3c932f21171be7d08
+lastGitHead: 151002c334913aa7b5bb28c0a5d3a03d82b21ed0
 # Checkout ID for website deployment service
 checkoutId: ""
-appUrl: https://staging.websmith.aigne.io
+appUrl: https://www.blocklet.io

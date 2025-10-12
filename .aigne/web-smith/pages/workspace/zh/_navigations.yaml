@@ -1,0 +1,133 @@
+- path: /home
+  navigation:
+    nav:
+      home:
+        title: 首页
+        description: 返回网站首页
+      products:
+        title: 产品中心
+        description: 浏览我们的产品目录
+      about:
+        title: 关于我们
+        description: 了解我们的公司
+      contact:
+        title: 联系我们
+        description: 与我们取得联系
+- path: /blocklet-server
+  navigation:
+    home:
+      title: 首页
+      description: 回到网站主页
+    about:
+      title: 关于我们
+      description: 了解我们公司的更多信息
+    products:
+      title: 我们的产品
+      description: 浏览我们的产品目录
+    contact:
+      title: 联系我们
+      description: 与我们的团队取得联系
+- path: /blocklet-service
+  navigation:
+    nav:
+      home:
+        title: 首页
+        description: 返回网站主页
+      features:
+        title: 产品功能
+        description: 探索产品功能
+      pricing:
+        title: 定价方案
+        description: 查看套餐与价格
+      contact:
+        title: 联系我们
+        description: 联系销售团队
+- path: /blocklet-sdk
+  navigation:
+    nav:
+      home:
+        title: 网站首页
+        description: 返回网站主页
+      products:
+        title: 查看产品
+        description: 浏览我们的产品目录
+      about:
+        title: 关于我们
+        description: 了解我们的公司使命
+      contact:
+        title: 联系我们
+        description: 与我们的团队取得联系
+- path: /blocklet-cli
+  navigation:
+    home:
+      title: 网站首页
+      description: 返回我们的网站首页
+    products:
+      title: 我们的产品
+      description: 浏览我们的产品目录
+    solutions:
+      title: 解决方案
+      description: 寻找适合您的解决方案
+    about:
+      title: 关于我们
+      description: 了解更多关于我们的信息
+    contact:
+      title: 联系我们
+      description: 与我们的团队取得联系
+- path: /blocklet-store
+  navigation:
+    nav:
+      home:
+        title: 返回首页
+        description: 导航至主页面。
+      products:
+        title: 我们的产品
+        description: 探索我们的系列产品。
+      solutions:
+        title: 业务解决方案
+        description: 查找适合您行业的解决方案。
+      pricing:
+        title: 方案与定价
+        description: 查看我们灵活的定价方案。
+      about:
+        title: 了解我们
+        description: 进一步了解我们的使命。
+      contact:
+        title: 联系销售
+        description: 与我们的专家团队取得联系。
+- path: /blocklet-launcher
+  navigation:
+    nav:
+      home:
+        title: 首页
+        description: 返回主页。
+      products:
+        title: 我们的产品
+        description: 探索我们的系列产品。
+      solutions:
+        title: 解决方案
+        description: 查找适合您行业的解决方案。
+      pricing:
+        title: 查看定价
+        description: 了解我们灵活的定价方案。
+      about:
+        title: 关于我们
+        description: 进一步了解我们的公司。
+      contact:
+        title: 联系销售
+        description: 与我们的专家团队取得联系。
+- path: /architecture
+  navigation:
+    nav:
+      products:
+        title: 我们的产品
+        description: 探索我们的产品与服务。
+      solutions:
+        title: 查看解决方案
+        description: 为您的企业寻找解决方案。
+      pricing:
+        title: 定价方案
+        description: 查看我们灵活的定价选项。
+      contact:
+        title: 联系销售
+        description: 联系我们的专家团队。

@@ -1,90 +1,107 @@
-- title: "Blocklet Platform: Build & Deploy Modern Apps with Ease"
+- title: "Blocklet Platform: Build, Deploy & Manage Modern Apps"
   description: An overview of the Blocklet Platform, a comprehensive ecosystem
     that simplifies how you develop, deploy, and manage modern web applications,
     from the core runtime to a decentralized app store.
   path: /home
+  navigation:
+    title: Platform Home
+    description: Get a complete overview of the ecosystem
   sourceIds:
     - src/overview.md
     - src/architecture.md
     - src/review/gemini.md
     - src/review/claude.md
-    - src/screenshots/SCREENSHOTS.md
   parentId: ""
 - title: "Blocklet Server: The Secure Runtime for Your Applications"
   description: Explore Blocklet Server, the foundational runtime environment for
     executing Blocklets. It offers a secure, scalable, and manageable platform
     with a full web dashboard for lifecycle management.
   path: /blocklet-server
+  navigation:
+    title: Blocklet Server
+    description: Explore the core runtime environment
   sourceIds:
     - src/components/server.md
     - src/components.md
     - src/architecture.md
     - src/review/gemini.md
     - src/review/claude.md
-    - src/screenshots/SCREENSHOTS.md
-  parentId: null
+  parentId: ""
 - title: "Blocklet Service: Reusable, Out-of-the-Box Functionalities"
   description: Discover Blocklet Service, a standardized set of functionalities
     like authentication, notifications, and theming that any Blocklet can
     expose, promoting a composable and efficient development model.
   path: /blocklet-service
+  navigation:
+    title: Blocklet Service
+    description: Discover reusable, built-in services
   sourceIds:
     - src/components/service.md
     - src/components.md
     - src/architecture.md
-    - src/screenshots/SCREENSHOTS.md
-  parentId: null
+  parentId: ""
 - title: "Blocklet SDK: Powerful Tools for Building on the Platform"
   description: A deep dive into the Blocklet SDK for Node.js and browsers,
     providing a comprehensive set of APIs for authentication, wallet management,
     inter-blocklet communication, and more.
   path: /blocklet-sdk
+  navigation:
+    title: Blocklet SDK
+    description: Start building with our developer SDKs
   sourceIds:
     - src/components.md
     - src/architecture.md
-    - src/review/gemini.md
-  parentId: null
+  parentId: ""
 - title: "Blocklet CLI: Full Control from Your Command Line"
   description: Learn about the Blocklet CLI, the primary command-line tool for
     developers and administrators to manage the entire lifecycle of both
     Blocklets and the Blocklet Server.
   path: /blocklet-cli
+  navigation:
+    title: Blocklet CLI
+    description: Manage everything via command line
   sourceIds:
     - src/components.md
     - src/architecture.md
-    - src/screenshots/SCREENSHOTS.md
-  parentId: null
+  parentId: ""
 - title: "Blocklet Store: The Decentralized Marketplace for Your Apps"
   description: Explore the Blocklet Store, the central, decentralized marketplace
     for discovering, publishing, and deploying Blocklets with a single click,
     functioning as the 'App Store' for the ecosystem.
   path: /blocklet-store
+  navigation:
+    title: Blocklet Store
+    description: Browse the app marketplace
   sourceIds:
     - src/components/store.md
     - src/components.md
-    - src/screenshots/SCREENSHOTS.md
     - src/screenshots/blocklet-store/SCREENSHOTS.md
-  parentId: null
+  parentId: ""
 - title: "Blocklet Launcher: Deploy Apps with No-Code Simplicity"
   description: Discover the Blocklet Launcher, a hosted service providing a
     streamlined, no-code 'app store' experience that abstracts away server
     setup, making decentralized technology accessible to everyone.
   path: /blocklet-launcher
+  navigation:
+    title: Blocklet Launcher
+    description: Launch apps with one click
   sourceIds:
     - src/components/launcher.md
     - src/components.md
-    - src/screenshots/SCREENSHOTS.md
     - src/screenshots/blocklet-launcher/SCREENSHOTS.md
-  parentId: null
+  parentId: ""
 - title: Blocklet Platform Architecture
   description: A technical deep-dive into the Blocklet Platform's architecture,
     covering its core components, microservices design, clean architecture
     principles, and security patterns. Ideal for developers and system
     architects.
   path: /architecture
-  parentId: null
+  navigation:
+    title: Architecture
+    description: View the technical design and patterns
   sourceIds:
     - src/architecture.md
     - src/components.md
     - src/review/claude.md
     - src/review/gemini.md
+  parentId: ""

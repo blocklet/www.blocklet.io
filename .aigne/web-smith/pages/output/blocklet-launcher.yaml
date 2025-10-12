@@ -1,7 +1,7 @@
 id: 9def252e383a80a5
-createdAt: 2025-10-04T01:12:27.362Z
-updatedAt: 2025-10-04T01:12:27.362Z
-publishedAt: 2025-10-04T01:12:27.362Z
+createdAt: 2025-10-12T12:05:11.324Z
+updatedAt: 2025-10-12T12:05:11.324Z
+publishedAt: 2025-10-12T12:05:11.324Z
 isPublic: true
 locales:
   en:
@@ -96,7 +96,7 @@ sections:
             sectionIds:
               - f98b98ffd13b8a1d
             config:
-              borderRadius: medium
+              borderRadius: small
               gridSettings:
                 desktop:
                   f98b98ffd13b8a1d:
@@ -104,7 +104,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: mediakit://purchase-space-subscription.jpg
+              background: background.paper
+              paddingX: small
+              paddingY: small
         sectionIds:
           - 2595d95961e10014
           - ccdf0179b25ef747
@@ -118,7 +120,7 @@ sections:
               2595d95961e10014:
                 x: 0
                 y: 0
-                w: 6
+                w: 5
                 h: 1
               ccdf0179b25ef747:
                 x: 6
@@ -137,7 +139,7 @@ sections:
             w: 12
             h: 1
       gap: normal
-      paddingY: none
+      paddingY: normal
       background: transparent
       border: none
       paddingX: none
@@ -247,9 +249,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: transparent
-              paddingX: small
-              paddingY: custom:24px
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
               borderRadius: small
               gap: normal
               border: solid
@@ -321,9 +323,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: transparent
-              paddingX: small
-              paddingY: custom:24px
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
               borderRadius: small
               gap: normal
               border: solid
@@ -395,9 +397,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: transparent
-              paddingX: small
-              paddingY: custom:24px
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
               borderRadius: small
               gap: normal
               border: solid
@@ -469,9 +471,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: transparent
-              paddingX: small
-              paddingY: custom:24px
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
               borderRadius: small
               gap: normal
               border: solid
@@ -780,9 +782,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: transparent
-              paddingX: small
-              paddingY: small
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
               borderRadius: small
               gap: normal
               border: solid
@@ -854,9 +856,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: transparent
-              paddingX: small
-              paddingY: small
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
               borderRadius: small
               gap: normal
               border: solid
@@ -928,9 +930,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: transparent
-              paddingX: small
-              paddingY: small
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
               borderRadius: small
               gap: normal
               border: solid
@@ -1203,18 +1205,22 @@ dataSource:
       properties:
         7m5pz8nefl5j9hqq:
           value:
-            url: ""
-            mediaKitUrl: ""
+            url: mediakit://purchase-space-subscription.jpg
+            mediaKitUrl: mediakit://purchase-space-subscription.jpg
             width: 2445
             height: 1394
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
           value:
-            url: ""
-            mediaKitUrl: ""
+            url: mediakit://purchase-space-subscription.jpg
+            mediaKitUrl: mediakit://purchase-space-subscription.jpg
             width: 2445
             height: 1394
+        jjv0hvr8wrixt1f3:
+          value: 1
   1817a56164d329c8:
     en:
       properties:

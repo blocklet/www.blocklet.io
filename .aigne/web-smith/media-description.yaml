@@ -1,0 +1,300 @@
+descriptions:
+  e7da7bfdcbee38ea8dcd8b17f10cd3069302e888bea851d547fcd4710ee8c041:
+    path: ../../../src/screenshots/blocklet-store/blocklet-version-history.png
+    description: A screenshot of the "Blocklet Store" web application displays the
+      "Versions" history tab for the "Blocklet Store" item itself. It showcases
+      detailed changelog entries for different software versions like 0.14.20
+      and 0.14.18, each providing a timestamp and a bulleted list of changes
+      including features, chores, fixes, and refactors. The interface also
+      highlights the current version number and package size.
+    generatedAt: 2025-10-12T12:04:32.919Z
+  5b05353ebf5eb89ca2c3279709257ec6c3ca5f060dc128e1000babbe7e4f5152:
+    path: ../../../src/screenshots/blocklet-store/blocklet-reviews-comments.png
+    description: This screenshot displays the "Blocklet Store" user interface,
+      focusing on the "Reviews" section for a specific Blocklet. It features an
+      input field with rich text formatting options for users to write comments
+      and showcases an existing user review. The interface also provides
+      navigation tabs for Blocklet details, versions, and donation information.
+    generatedAt: 2025-10-12T12:04:32.919Z
+  bc96234a1b6e32785cae2b99c2555fdd944ebcb1d4a9824a306ef438be60b3aa:
+    path: ../../../src/screenshots/blocklet-store/blocklet-catalog-grid.png
+    description: This image is a screenshot of the "Blocklet Store" interface,
+      showcasing a catalog of decentralized applications or "Blocklets." The
+      layout features a left sidebar for category navigation (e.g., "All,"
+      "Photos," "Productivity") and a main grid displaying various blocklets
+      like "Media Kit," "NFT Store," and "AI Kit," each with a description,
+      developer, usage count, and a "Launch" button. The top bar includes a
+      search function and filtering options like "Free" and "Most Popular."
+    generatedAt: 2025-10-12T12:04:32.919Z
+  c52a24fb5209311c3fafe063a8710723b912db2d29218bb5aa5fc000c3018322:
+    path: ../../../src/screenshots/blocklet-service/service-website-domains.png
+    description: This screenshot displays the 'Domains' management interface within
+      a web service dashboard, specifically under the 'Website' section. It
+      offers options to purchase new domains or configure existing ones, and
+      lists both user-managed domains (e.g., `www.aikit.rocks`) and
+      system-generated default domains. The clean UI features a left-hand
+      navigation menu and tabs for different website settings.
+    generatedAt: 2025-10-12T12:04:32.919Z
+  51c9613bfd8be845cfbfc1b0fd7c6e3e630e2391f513386c2c06233322404b68:
+    path: ../../../src/screenshots/blocklet-service/service-website-branding.png
+    description: This image is a screenshot of the "Branding" configuration page
+      within the "AIGNE Hub" web application. It displays settings for basic
+      information like app name, description, URL, copyright, and supported
+      languages, as well as "Visual Information" for uploading light and dark
+      mode logos. The interface features a clean, modern design with a left
+      sidebar navigation and distinct sections for managing branding assets.
+    generatedAt: 2025-10-12T12:04:32.919Z
+  aea33c8f7b82b9936ddc513a590e72f6c731aa4cc045f8652ca928b8b8f55727:
+    path: ../../../src/screenshots/blocklet-service/service-operations-analytics.png
+    description: A screenshot displays a web application's "Analytics" dashboard,
+      showcasing various operational trends through nine distinct line graphs.
+      Metrics like total requests, success and failed requests, unique visitors,
+      and log size are presented, with data spanning September 1 to September
+      30, 2025. The clean user interface includes a left-hand navigation menu
+      where "Operations" is highlighted, emphasizing the focus on service
+      performance monitoring.
+    generatedAt: 2025-10-12T12:04:32.919Z
+  e7abf6fccecae3657954c43bb67db48fcdd0fdefea0695ef8602c28c45623fd4:
+    path: ../../../src/screenshots/blocklet-service/service-did-spaces-backup.png
+    description: This image is a screenshot of a web application's "DID Spaces"
+      backup management interface. It displays a connected "Team Backup" space,
+      a calendar-style grid visualizing backup successes and failures over
+      several months, and a detailed table of individual backup records showing
+      their start/end times and "Succeeded" status. The UI also features an
+      "Auto backup" toggle and options to connect to DID Spaces.
+    generatedAt: 2025-10-12T12:04:32.919Z
+  93c284a8b832b8bdf7c194984273fbcdfabfcad509fec6a0b9e4a12c15a3662a:
+    path: ../../../src/screenshots/blocklet-service/service-did-connect-members.png
+    description: A full screenshot of a web application dashboard displaying the
+      "Members" management section within the "DID Connect" service of "AIGNE /
+      Hub." The interface shows a detailed table listing various users with
+      their names, decentralized identity addresses, last login times,
+      registration sources, and active sessions. It also features a left-hand
+      navigation bar, a top header with utility icons, and options to filter
+      members by role or invite new users.
+    generatedAt: 2025-10-12T12:04:32.919Z
+  21a572e083bdaa4370f6abc7ba042db6cbb037bde3a2bb49e995c4b22897a318:
+    path: ../../../src/screenshots/blocklet-service/service-blocklet-preferences.png
+    description: A screenshot displays the "Preferences for Media Kit" modal dialog,
+      which is overlaid on the AIGNE Hub's Blocklets management interface. This
+      modal allows users to configure settings such as supported media file
+      extensions, maximum file upload size, hotlink protection (beta), and the
+      option to use AI for image generation, including specifying supported AI
+      models. The background shows a list of running blocklets within the web
+      application dashboard.
+    generatedAt: 2025-10-12T12:04:32.919Z
+  22abdd12ac3b06be05f0781d38f10d0882c35a5c72c5c2d5e5867e8336575c4d:
+    path: ../../../src/screenshots/blocklet-service/service-blocklets-overview.png
+    description: This image is a screenshot of the AIGNE Hub web application's
+      "Blocklets" management screen, showcasing a dashboard-style interface. It
+      lists various software components like "AIGNE Hub," "Media Kit," and
+      "Payment Kit," displaying their running status, versions, and file paths.
+      The UI includes controls to start, stop, restart, add new blocklets, and
+      check for updates, along with a left-hand navigation sidebar and top
+      administrative icons.
+    generatedAt: 2025-10-12T12:04:32.919Z
+  8318a6935edaeb0f2761a74e662438a69e8ebed9db7c2460fd3be892d87e2d67:
+    path: ../../../src/screenshots/blocklet-service/service-blocklet-environments.png
+    description: 'This screenshot depicts a web application dashboard focused on
+      blocklet management, with a list of three running blocklets: AIGNE Hub,
+      Media Kit, and Payment Kit. A modal dialog titled "Environments for
+      Payment Kit" overlays the content, displaying a list of editable
+      environment variables such as API keys and domain settings for the Payment
+      Kit. The interface allows users to add, edit, or delete these variables,
+      with a clear instruction that changes require a restart of the application
+      to be applied.'
+    generatedAt: 2025-10-12T12:04:32.919Z
+  039d2d1fdbefbabb29616205f5f484a630e7e48bea10f1ab1ffe9825c0cf4cc5:
+    path: ../../../src/screenshots/blocklet-service/service-add-blocklet-modal.png
+    description: A screenshot of a web application shows a modal dialog titled "Add
+      Blocklet To AIGNE Hub" overlaid on the main interface. The modal presents
+      a grid of various blocklets (applications or modules) from an "Official
+      Store," each with an icon, title, description, and download count. It also
+      features a search bar, filtering options, and a step-by-step progress
+      indicator on the left highlighting the "Select Blocklet" stage.
+    generatedAt: 2025-10-12T12:04:32.919Z
+  c5ab29084d727d402967fa4a363f858b845b771baa9df4ee2151af690ea636d8:
+    path: ../../../src/screenshots/blocklet-server/team-members-management.png
+    description: This is a screenshot of a web application's team management
+      interface, specifically showing the "Members" tab. It displays a table
+      with various team members, detailing their names, DID wallet addresses,
+      last login times, and registration sources. The interface also includes a
+      sidebar navigation, role-based filters (e.g., Owner, Admin, Member), and
+      buttons to "Invite New" members or "Transfer Ownership."
+    generatedAt: 2025-10-12T12:04:32.919Z
+  f6c7bc3a1e8b37c1aaacf105fd9599cd31076b9ee9d088e44e1a5bd942cd5dd5:
+    path: ../../../src/screenshots/blocklet-server/store-browse-blocklets.png
+    description: This image is a screenshot of a web application's "Store"
+      interface, showcasing a marketplace for "Blocklets." The UI features a
+      left-hand navigation menu with "Store" highlighted, a central content area
+      displaying a grid of various Blocklets with their descriptions and
+      "Launch" buttons, and options to search and filter listings by category
+      and popularity. The overall design is clean and organized, indicating a
+      platform for discovering and installing software components.
+    generatedAt: 2025-10-12T12:04:32.919Z
+  e82a3f47c2b20f3d6c17973f26a552d91c429be09f982e90dd1a9e696329dfb1:
+    path: ../../../src/screenshots/blocklet-server/settings-gateway-configuration.png
+    description: This screenshot displays the "Gateway" configuration section within
+      a web application's settings interface. It presents various toggles for
+      enabling gateway cache, request limiting, request blocking, and proxy
+      policy, alongside detailed controls for a Web Application Firewall
+      (ModSecurity), including its mode, anomaly score thresholds, and log
+      level, all savable via a prominent "Save" button.
+    generatedAt: 2025-10-12T12:04:32.919Z
+  a103b89f2a218ba19353c5d4c275764e277a57c0a0d8434d08d3411917486232:
+    path: ../../../src/screenshots/blocklet-server/settings-basic-configuration.png
+    description: A screenshot of a web application's 'Settings' page, specifically
+      showing the 'Basic' configuration tab. It displays input fields for server
+      names, descriptions, various URLs (like Blocklet Launcher, NFT Domain, and
+      DID Wallet), and a disk usage alert threshold. The lower section features
+      toggle switches for managing operational features such as auto updates,
+      beta releases, and security settings like session hardening and container
+      isolation, with a prominent 'Save Changes' button.
+    generatedAt: 2025-10-12T12:04:32.919Z
+  d1460a2639a94f1b96d34a55cd18229a82de6dd421de72471673c243afa63890:
+    path: ../../../src/screenshots/blocklet-server/settings-about-upgrade.png
+    description: This screenshot displays the "About" tab within a web application's
+      "Settings" page for a "Debug Server" in "production mode." It shows
+      detailed server information like version, node, owner, routing engine, and
+      operating system, alongside administrative actions such as upgrading the
+      Blocklet Server, restarting components, clearing cache, and rotating
+      session salt. A prominent green notification banner at the top right
+      indicates that a "Blocklet Server upgrade is available."
+    generatedAt: 2025-10-12T12:04:32.919Z
+  7adebe24c863485e5913f0f06a8bbc9dd3e038130bc11967ee15e0b11edde4b7:
+    path: ../../../src/screenshots/blocklet-server/blocklets-management-list.png
+    description: This screenshot displays a web application's "Manage Your
+      Blocklets" page, featuring a clean, modern interface. It presents a
+      detailed table listing various installed blocklets, including their names
+      (with associated icons), uptime, installation and update timestamps, and
+      their operational status, primarily "Running" in green, with one "Stopped"
+      instance. The UI also includes a left-hand navigation sidebar and a top
+      header with server information and an "+ Install New Blocklets" button.
+    generatedAt: 2025-10-12T12:04:32.919Z
+  ca4c478ea91cbad8bc831a4ceb5b9716b1065d97ffd2af006121e21d9463fb2d:
+    path: ../../../src/screenshots/blocklet-launcher/purchase-space-subscription.jpg
+    description: This image is a screenshot of a web application's "Purchase Space"
+      screen, displaying a user interface for subscribing to a service or space
+      within the "Blocklet Launcher" platform. It shows details for launching
+      "AIGNE Studio," including a list of 8 components, their daily costs in
+      ABT, and payment options for ABT or USD. The screen also features a
+      progress tracker indicating "Purchase Space" as the current step, user
+      input fields for name and email, and an explanation of the postpaid
+      staking strategy.
+    generatedAt: 2025-10-12T12:04:32.919Z
+  27faade5fae0d5ec9331c4896269ced67644303a97a71c03317e61553834475b:
+    path: ../../../src/screenshots/blocklet-server/analytics-runtime-dashboard.png
+    description: This screenshot displays a detailed analytics runtime dashboard for
+      a 'Debug Server' in production mode. It features trend graphs illustrating
+      CPU, memory, and disk usage over 24 hours, alongside a comprehensive
+      breakdown table of various services, their memory, CPU usage, and runtime
+      details. This interface provides critical performance monitoring and
+      resource utilization insights for server management.
+    generatedAt: 2025-10-12T12:04:32.919Z
+  21a778141c2d78aca15fd3c49837b9d79d71d1c8d407cbc11dcf7127789677bf:
+    path: ../../../src/screenshots/blocklet-launcher/app-overview-domains.jpg
+    description: This image is a screenshot of a dashboard for a "Media Kit"
+      application, presenting an overview of its configuration. The main section
+      displays a list of associated domain names and detailed basic information,
+      including the application's DID, status, installation time, owner, wallet
+      type, and server version. The interface features a left sidebar
+      navigation, top-level tabs for different sections (e.g., Blocklets,
+      Configuration), and control buttons for managing the application.
+    generatedAt: 2025-10-12T12:04:32.919Z
+  44a433f71b2ada9df3b6434eb2ee50a3d887d416491a34d97255e58167488cda:
+    path: ../../../src/screenshots/blocklet-launcher/app-details-invoices.jpg
+    description: This screenshot displays the 'Media Kit' app details page within
+      the Blocklet Launcher web interface, showing the app's running status and
+      unique identifiers. The primary focus is the 'Invoices' section, which
+      lists past subscription transactions, including a 'Subscription cancel'
+      and a 'Subscription staking' entry, both marked as 'Paid' with their
+      respective dates, IDs, amounts, and timestamps.
+    generatedAt: 2025-10-12T12:04:32.919Z
+  5ed32a62473a614009164b778478d08c4f3d8d4f81f162bc30b0fb34687fdf8a:
+    path: ../../../src/screenshots/blocklet-cli/cli-server-status-output.png
+    description: A screenshot of a command-line interface (CLI) displaying the
+      detailed status output of a blocklet server. The dark terminal window
+      shows information such as the server version, Docker installation status,
+      "Running" status in "Production" mode with PostgreSQL, and a table listing
+      multiple blocklets with their individual statuses (running or stopped) and
+      associated URLs.
+    generatedAt: 2025-10-12T12:04:32.919Z
+  c147f9ee033462a2d6589d7ec2475b9fdffc2fd0b60f44cf77ef9d6585141b72:
+    path: ../../../src/screenshots/blocklet-cli/cli-server-start-output.png
+    description: A screenshot of a command-line interface (CLI) terminal displays
+      the successful output from starting a "blocklet server" process. The
+      output details various initialization steps, including schema migrations,
+      database connections, Docker status, and certificate updates, with
+      successful actions indicated by green checkmarks. The final section
+      provides a list of secure HTTPS and HTTP URLs for accessing the running
+      Blocklet Server.
+    generatedAt: 2025-10-12T12:04:32.919Z
+  362c95fbe6e707c3fd3d99f7269b4ef52a8186e30b41a788e4f62b2edea5b64d:
+    path: ../../../src/screenshots/blocklet-cli/cli-server-help-commands.png
+    description: This image is a screenshot of a command-line interface (CLI)
+      displaying the help documentation for the `blocklet server` command. It
+      presents the usage syntax, a list of general options like `--version` and
+      `--help`, and various sub-commands for server management such as `start`,
+      `stop`, `status`, `logs`, `upgrade`, and more, each with a brief
+      description. The content is shown on a dark teal background with light
+      green and white text, characteristic of a terminal window.
+    generatedAt: 2025-10-12T12:04:32.919Z
+  940f4ea7da4e8965606ec1176bf1ebfe7430556014aba9a6e8fb69a29d34d2af:
+    path: ../../../src/screenshots/blocklet-cli/cli-server-info-output.png
+    description: This image is a screenshot of a command-line interface (CLI)
+      displaying the output of the `blocklet server info` command. It provides a
+      detailed overview of a server's configuration and status, including system
+      information like OS, CPU, memory, network details (IPs, ports), Docker
+      enablement, and versions of installed binaries such as Node, npm, and
+      Nginx. This output is valuable for understanding server health and
+      installed components.
+    generatedAt: 2025-10-12T12:04:32.919Z
+  1b0daeb11a41a92a72418a6ca06a4ed3b7e871dceeca214c42a16a309ab6e579:
+    path: ../../../src/screenshots/blocklet-cli/cli-help-main-commands.png
+    description: This image is a screenshot of a command-line interface (CLI)
+      displaying the help output for the `blocklet` command. It lists the usage
+      syntax, global options like `--version` and `--help`, and a comprehensive
+      catalog of commands such as `bundle`, `deploy`, `init`, and `connect`,
+      each with a brief description of its function. The terminal features light
+      green text on a dark teal background.
+    generatedAt: 2025-10-12T12:04:32.919Z
+  78acf2de654bc57dc443b5eb35291235c827b68becbde78dbc9c0ca330f83760:
+    path: ../../../src/screenshots/blocklet-store/blocklet-detail-overview.png
+    description: This image is a screenshot of the "Blocklet Store" web interface,
+      specifically showcasing the detail page for a listed blocklet. It displays
+      the blocklet's name, logo, description, category ("Productivity"),
+      version, package size, and a "Launch" button. The page also features a
+      carousel of three application screenshots and a textual explanation of
+      what a "blocklet" is.
+    generatedAt: 2025-10-12T12:04:32.919Z
+  00775ae522c45186f6e1a1d2a2d1ad6bfb1006f52f649407235dcc98cc697b54:
+    path: ../../../src/screenshots/blocklet-store/explore-trending-blocklets.png
+    description: This image is a screenshot of a "Blocklet Store" web interface,
+      showing the "Explore" section of a digital marketplace. It features a
+      left-hand navigation pane with various categories and a main content area
+      displaying a featured "AIGNE Studio" blocklet with a preview, along with a
+      "Trending" section showcasing applications like "Media Kit" and "NFT
+      Store" with their icons and download statistics. The UI is clean and
+      modern, designed for browsing and discovering digital applications.
+    generatedAt: 2025-10-12T12:04:32.919Z
+  2e13b533a311fe83ec23d46bb785dc84c7cb1eeef771b93c85add4612397f44a:
+    path: ../../../src/screenshots/blocklet-server/blocklet-server-logs-view.png
+    description: This image captures a "Debug Server" web application interface,
+      specifically showing the "Logs" section selected in the left sidebar. The
+      main content area displays detailed server access logs, with a dropdown
+      menu allowing selection of logs from different components like "Service
+      Gateway (nginx)," and tabs to view "Error," "Access," or "Security" logs.
+      The UI provides a comprehensive view for monitoring server activity and
+      troubleshooting issues.
+    generatedAt: 2025-10-12T12:04:32.919Z
+  5dbccb8a6694ee5a555e73ea1741d36895c0a8bc99bc8a863b21529900e4f7a4:
+    path: ../../../src/screenshots/blocklet-service/service-operations-logs.png
+    description: This image is a screenshot of a web application interface
+      displaying detailed service operation logs within the AIGNE platform. The
+      central panel shows a scrollable view of HTTP access logs for a "Payment
+      Kit" service, complete with timestamps, IP addresses, request methods,
+      URLs, and response details. The UI features a left-hand navigation pane,
+      tabs for Logs, Performance, and Docs, and filters for different log types
+      like Error, Info, and Access.
+    generatedAt: 2025-10-12T12:04:32.919Z
+lastUpdated: 2025-10-12T12:04:32.924Z

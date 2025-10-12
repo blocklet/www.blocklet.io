@@ -1,7 +1,7 @@
 id: 20f6e7abccbdbba5
-createdAt: 2025-10-04T01:12:27.332Z
-updatedAt: 2025-10-04T01:12:27.332Z
-publishedAt: 2025-10-04T01:12:27.332Z
+createdAt: 2025-10-12T12:05:11.293Z
+updatedAt: 2025-10-12T12:05:11.293Z
+publishedAt: 2025-10-12T12:05:11.293Z
 isPublic: true
 locales:
   en:
@@ -95,7 +95,7 @@ sections:
             sectionIds:
               - f98b98ffd13b8a1d
             config:
-              borderRadius: medium
+              borderRadius: small
               gridSettings:
                 desktop:
                   f98b98ffd13b8a1d:
@@ -103,7 +103,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: mediakit://analytics-runtime-dashboard.png
+              background: background.paper
+              paddingX: small
+              paddingY: small
         sectionIds:
           - 2595d95961e10014
           - ccdf0179b25ef747
@@ -117,7 +119,7 @@ sections:
               2595d95961e10014:
                 x: 0
                 y: 0
-                w: 6
+                w: 5
                 h: 1
               ccdf0179b25ef747:
                 x: 6
@@ -136,7 +138,7 @@ sections:
             w: 12
             h: 1
       gap: normal
-      paddingY: none
+      paddingY: normal
       background: transparent
       border: none
       paddingX: none
@@ -216,10 +218,10 @@ sections:
                     y: 1
                     w: 12
                     h: 1
-              paddingX: small
+              paddingX: custom:32px
               gap: normal
-              paddingY: small
-              background: transparent
+              paddingY: custom:32px
+              background: background.paper
               border: solid
               borderRadius: small
               alignContent: space-between
@@ -260,10 +262,10 @@ sections:
                     y: 1
                     w: 12
                     h: 1
-              paddingX: small
+              paddingX: custom:32px
               gap: normal
-              paddingY: small
-              background: transparent
+              paddingY: custom:32px
+              background: background.paper
               border: solid
               borderRadius: small
               alignContent: space-between
@@ -304,10 +306,10 @@ sections:
                     y: 1
                     w: 12
                     h: 1
-              paddingX: small
+              paddingX: custom:32px
               gap: normal
-              paddingY: small
-              background: transparent
+              paddingY: custom:32px
+              background: background.paper
               border: solid
               borderRadius: small
               alignContent: space-between
@@ -348,10 +350,10 @@ sections:
                     y: 1
                     w: 12
                     h: 1
-              paddingX: small
+              paddingX: custom:32px
               gap: normal
-              paddingY: small
-              background: transparent
+              paddingY: custom:32px
+              background: background.paper
               border: solid
               borderRadius: small
               alignContent: space-between
@@ -392,10 +394,10 @@ sections:
                     y: 1
                     w: 12
                     h: 1
-              paddingX: small
+              paddingX: custom:32px
               gap: normal
-              paddingY: small
-              background: transparent
+              paddingY: custom:32px
+              background: background.paper
               border: solid
               borderRadius: small
               alignContent: space-between
@@ -436,10 +438,10 @@ sections:
                     y: 1
                     w: 12
                     h: 1
-              paddingX: small
+              paddingX: custom:32px
               gap: normal
-              paddingY: small
-              background: transparent
+              paddingY: custom:32px
+              background: background.paper
               border: solid
               borderRadius: small
               alignContent: space-between
@@ -626,9 +628,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: transparent
-              paddingX: small
-              paddingY: small
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
               borderRadius: small
               gap: normal
               border: solid
@@ -700,9 +702,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: transparent
-              paddingX: small
-              paddingY: small
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
               borderRadius: small
               gap: normal
               border: solid
@@ -774,9 +776,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: transparent
-              paddingX: small
-              paddingY: small
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
               borderRadius: small
               gap: normal
               border: solid
@@ -1061,10 +1063,10 @@ sections:
                     y: 1
                     w: 12
                     h: 1
-              paddingX: small
+              paddingX: custom:32px
               gap: normal
-              paddingY: small
-              background: transparent
+              paddingY: custom:32px
+              background: background.paper
               border: solid
               borderRadius: small
               alignContent: space-between
@@ -1122,10 +1124,10 @@ sections:
                     y: 1
                     w: 12
                     h: 1
-              paddingX: small
+              paddingX: custom:32px
               gap: normal
-              paddingY: small
-              background: transparent
+              paddingY: custom:32px
+              background: background.paper
               border: solid
               borderRadius: small
               alignContent: space-between
@@ -1183,10 +1185,10 @@ sections:
                     y: 1
                     w: 12
                     h: 1
-              paddingX: small
+              paddingX: custom:32px
               gap: normal
-              paddingY: small
-              background: transparent
+              paddingY: custom:32px
+              background: background.paper
               border: solid
               borderRadius: small
               alignContent: space-between
@@ -1244,10 +1246,10 @@ sections:
                     y: 1
                     w: 12
                     h: 1
-              paddingX: small
+              paddingX: custom:32px
               gap: normal
-              paddingY: small
-              background: transparent
+              paddingY: custom:32px
+              background: background.paper
               border: solid
               borderRadius: small
               alignContent: space-between
@@ -1422,9 +1424,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: transparent
-              paddingX: small
-              paddingY: small
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
               borderRadius: small
               gap: normal
               border: solid
@@ -1496,9 +1498,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: transparent
-              paddingX: small
-              paddingY: small
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
               borderRadius: small
               gap: normal
               border: solid
@@ -1570,9 +1572,9 @@ sections:
                     y: 0
                     w: 12
                     h: 1
-              background: transparent
-              paddingX: small
-              paddingY: small
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
               borderRadius: small
               gap: normal
               border: solid
@@ -1849,18 +1851,22 @@ dataSource:
       properties:
         7m5pz8nefl5j9hqq:
           value:
-            url: ""
-            mediaKitUrl: ""
+            url: mediakit://analytics-runtime-dashboard.png
+            mediaKitUrl: mediakit://analytics-runtime-dashboard.png
             width: 2445
             height: 1394
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
           value:
-            url: ""
-            mediaKitUrl: ""
+            url: mediakit://analytics-runtime-dashboard.png
+            mediaKitUrl: mediakit://analytics-runtime-dashboard.png
             width: 2445
             height: 1394
+        jjv0hvr8wrixt1f3:
+          value: 1
   d79cdf28faac3108:
     en:
       properties:
@@ -1938,7 +1944,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
@@ -1948,7 +1956,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
   754b2f62a1024308:
     en:
       properties:
@@ -2003,7 +2013,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
@@ -2013,7 +2025,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
   9b37430071dddfa8:
     en:
       properties:
@@ -2068,7 +2082,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
@@ -2078,7 +2094,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
   9192ab3b7e1dff00:
     en:
       properties:
@@ -2133,7 +2151,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
@@ -2143,7 +2163,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
   a283a0b51e2b4f7f:
     en:
       properties:
@@ -2198,7 +2220,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
@@ -2208,7 +2232,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
   0e17fc393c04f9dd:
     en:
       properties:
@@ -2263,7 +2289,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
     zh:
       properties:
         7m5pz8nefl5j9hqq:
@@ -2273,7 +2301,9 @@ dataSource:
             width: 1270
             height: 520
         70d4dvbqgjal3z6j:
-          value: linear-gradient(90deg, RGBA(53,53,108,1) 0%, rgba(78,78,117,1) 100%)
+          value: ""
+        jjv0hvr8wrixt1f3:
+          value: 1
   6cbb8bd38caa66a4:
     en:
       properties:
