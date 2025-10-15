@@ -6,6 +6,8 @@ Launch, manage, and bill Blocklet Server instances and serverless apps — end t
 
 Blocklet Launcher streamlines purchasing, provisioning, and managing Blocklet Server instances (dedicated or serverless) with integrated billing and lifecycle automation. Users get from idea to running DApp in minutes.
 
+> **Note**: The launcher is optional. If you self-host a blocklet server, it comes with a built-in launcher for starting blocklets.
+
 ## Key Features & Benefits
 
 - Dedicated and serverless launching (AWS supported)
