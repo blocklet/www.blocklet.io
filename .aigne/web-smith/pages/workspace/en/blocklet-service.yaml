@@ -1,82 +1,137 @@
 meta:
-  title: "Blocklet Service: Reusable, Out-of-the-Box Functionalities"
-  description: "Discover Blocklet Service, a standardized set of functionalities like authentication, notifications, and theming that any Blocklet can expose, promoting a composable and efficient development model."
-  image: "mediakit://service-blocklets-overview.png"
+  title: "Blocklet Service: Reusable, Standardized Functionality"
+  description: "Explore Blocklet Services, the standardized, out-of-the-box functionalities
+    that any Blocklet can use. This page covers features like authentication, notifications,
+    and theming, highlighting the platform's composability."
+  image: "mediakit://blocklet-service-social-card.png"
 sections:
-  - sectionName: "hero"
-    sectionSummary: "Introduces Blocklet Service with a strong value proposition, highlighting the benefits of reusability and faster development, supported by a visual overview and clear calls-to-action."
-    splitHeroTitle: "Plug-and-Play Power for Your Apps"
-    splitHeroDescription: "Stop reinventing the wheel! Blocklet Service provide a rich set of out-of-the-box functionalities like authentication, notifications, and theming that your applications can use instantly. Build faster, smarter, and more consistently."
-    splitHeroRightImage: "mediakit://service-blocklets-overview.png"
+  - sectionName: "blockletServiceHero"
+    sectionSummary: "Introduces Blocklet Service with its core value proposition of providing
+      reusable, standardized functionalities to accelerate development, using a
+      split-screen layout with text on the left and a supporting visual on the right."
+    splitHeroTitle: "Build Faster, Not Harder. Welcome to Blocklet Service."
+    splitHeroDescription: "Stop reinventing the wheel! Blocklet Services are your ready-to-go
+      toolkit for essential functions like authentication, notifications, and theming.
+      Plug them into any Blocklet and watch your development speed soar."
     splitHeroActions:
-      - text: "Explore the Full Platform"
-        link: "link:///home"
-      - text: "View Architecture"
-        link: "link:///architecture"
-  - sectionName: "keyBenefits"
-    sectionSummary: "Highlights the three core advantages of using Blocklet Service—centralized identity, website control, and operations—in a scannable, icon-driven grid format to quickly convey value."
-    threeColumnGridTitle: "Your Production-Ready Toolkit"
+      - text: "Explore Features"
+        link: "#coreFeaturesGrid"
+      - text: ""
+        link: ""
+    splitHeroRightImage: "mediakit://blocklet-service-architecture.png"
+  - sectionName: "coreFeaturesGrid"
+    sectionSummary: "Provides a high-level, scannable overview of the main categories
+      of services available, helping users quickly grasp the breadth of the platform's
+      capabilities."
+    threeColumnGridTitle: "Your Out-of-the-Box Powerhouse"
     list:
-      - sectionName: "centralizedIdentity"
-        sectionSummary: "Feature card for centralized user and identity management."
-        iconName: "mdi:account-group-outline"
-        cardTitle: "Centralized User & Identity"
-        cardDescription: "Manage all users, issue verifiable credentials, and configure login methods like DID Connect and OAuth from a single, unified interface."
-      - sectionName: "websiteControl"
-        sectionSummary: "Feature card for complete website branding and theming control."
-        iconName: "mdi:palette-swatch-outline"
-        cardTitle: "Complete Website Control"
-        cardDescription: "Effortlessly manage domains, branding, and theming to create a polished, consistent look and feel across all your applications."
-      - sectionName: "robustOperations"
-        sectionSummary: "Feature card for robust operations, analytics, and backup features."
-        iconName: "mdi:chart-line"
-        cardTitle: "Robust Operations & Analytics"
-        cardDescription: "Get deep insights with built-in analytics, monitor activity with audit logs, and ensure data safety with automated DID Spaces backups."
-  - sectionName: "serviceShowcase"
-    sectionSummary: "Provides a visual deep-dive into specific, high-impact services with alternating image-and-text layouts to showcase the power and polish of the management interfaces."
-    oneColumnGridTitle: "See It In Action: Key Services"
+      - sectionName: "unifiedAuthenticationCard"
+        sectionSummary: "Highlights the comprehensive and ready-to-use authentication
+          services provided by the platform."
+        iconName: "lucide:shield-check"
+        cardTitle: "Unified Authentication"
+        cardDescription: "Secure user access instantly with DID Connect, Passkeys,
+          OAuth, and more. All managed for you."
+      - sectionName: "multiChannelCommunicationCard"
+        sectionSummary: "Showcases the built-in communication tools that enable developers
+          to easily engage with their users."
+        iconName: "lucide:message-square-plus"
+        cardTitle: "Multi-Channel Communication"
+        cardDescription: "Reach users everywhere with built-in email services, push
+          notifications, and webhooks."
+      - sectionName: "dynamicThemingEngineCard"
+        sectionSummary: "Features the powerful theming capabilities that allow for
+          consistent branding across applications."
+        iconName: "lucide:palette"
+        cardTitle: "Dynamic Theming Engine"
+        cardDescription: "Effortlessly manage branding, colors, and typography across
+          all your Blocklets for a consistent look and feel."
+  - sectionName: "serviceDeepDive"
+    sectionSummary: "Offers a more detailed look into key service areas using a dynamic,
+      alternating layout to keep the user engaged while providing more substantial
+      information."
+    oneColumnGridTitle: "Dive Deeper: What's Inside?"
     list:
-      - sectionName: "didConnectShowcase"
-        sectionSummary: "Showcases the DID Connect user management interface."
-        contentCardTitle: "Unified User Management with DID Connect"
-        contentCardDescription: "Effortlessly manage your entire user base, from owners to subscribers. Integrate decentralized identity for secure, passwordless access and get a complete, auditable view of all user activity."
-        contentCardRightImage: "mediakit://service-did-connect-members.png"
-      - sectionName: "brandingShowcase"
-        sectionSummary: "Showcases the website branding and customization interface."
+      - sectionName: "didConnectManagement"
+        sectionSummary: "Details the advanced user and identity management features,
+          supported by a relevant screenshot of the user management interface."
+        contentCardTitle: "Effortless User & Group Management"
+        contentCardDescription: "Go beyond simple logins. Manage user profiles, create
+          custom groups, issue verifiable 'Passports,' and configure KYC workflows,
+          all from a centralized hub. It's identity management, supercharged."
+        contentCardLeftImage: "mediakit://service-did-connect-members.png"
+      - sectionName: "websiteBrandingControl"
+        sectionSummary: "Explains the comprehensive branding and customization options,
+          paired with a visual of the branding configuration panel."
         contentCardTitle: "Total Control Over Your Brand"
-        contentCardDescription: "Customize every aspect of your site's appearance. Manage domains, upload logos for light and dark modes, and configure global theming to ensure your brand identity shines through, no matter the context."
-        contentCardLeftImage: "mediakit://service-website-branding.png"
-      - sectionName: "analyticsShowcase"
-        sectionSummary: "Showcases the operations and analytics dashboard."
-        contentCardTitle: "Keep Your Finger on the Pulse"
-        contentCardDescription: "Dive into comprehensive analytics to track requests, visitors, and performance. View detailed, real-time logs to debug issues instantly and use the audit trail to monitor all administrative actions for full transparency."
-        contentCardRightImage: "mediakit://service-operations-analytics.png"
-  - sectionName: "composabilityPrinciple"
-    sectionSummary: "Explains the core architectural principle of composability, using a visual of the 'Add Blocklet' modal to reinforce the idea of building applications by combining components."
-    featureSectionTitle: "Designed for Composability"
-    featureSectionDescription: "Blocklet Service expose standardized functionalities through predictable endpoints. This means any Blocklet can discover and use services from any other Blocklet, letting you build complex applications by combining powerful, pre-built components. It's the ultimate 'Don't Repeat Yourself' principle, built right into the platform."
+        contentCardDescription: "Your brand, your rules. Manage custom domains, configure
+          multi-language support, upload logos, and customize your entire visual
+          design system—from typography to color schemes. Make every application
+          unmistakably yours."
+        contentCardRightImage: "mediakit://service-website-branding.png"
+      - sectionName: "operationsAnalytics"
+        sectionSummary: "Showcases the built-in tools for monitoring and operations,
+          demonstrating the platform's production-readiness with an analytics dashboard
+          screenshot."
+        contentCardTitle: "Monitor, Audit, and Optimize with Confidence"
+        contentCardDescription: "Keep your finger on the pulse. Access comprehensive
+          audit logs, analyze traffic with built-in analytics, and manage notifications
+          across all channels. Production-grade operations are built right in."
+        contentCardLeftImage: "mediakit://service-operations-analytics.png"
+  - sectionName: "howItWorks"
+    sectionSummary: "Explains the underlying technical mechanism of Blocklet Services
+      in an accessible way, emphasizing the platform's composable architecture."
+    featureSectionTitle: "Composability in Action"
+    featureSectionDescription: "Blocklet Services are exposed through standardized URL
+      endpoints. This simple yet powerful pattern allows any Blocklet to discover
+      and consume functionality from another, creating a truly composable ecosystem
+      where you can build complex apps by connecting powerful, pre-built services."
     featureSectionBottomImage: "mediakit://service-add-blocklet-modal.png"
-    featureSectionAction:
-      text: "Learn about the architecture"
-      link: "link:///architecture"
-  - sectionName: "faq"
-    sectionSummary: "Addresses common developer questions about Blocklet Service to clarify their purpose, function, and advantages over traditional APIs, building confidence and understanding."
-    faqTitle: "Frequently Asked Questions"
-    faqList:
-      - question: "What exactly is a Blocklet Service?"
-        answer: "Think of it as a standardized, reusable feature-set (like authentication or notifications) that a Blocklet offers. Other apps can then 'plug into' this service without needing to build it themselves."
-      - question: "How do different Blocklets find and use these services?"
-        answer: "Services are discoverable through predictable URL endpoints, typically starting with `/.well-known/service`. This allows for automated and reliable inter-blocklet communication."
-      - question: "Can I create my own shareable Blocklet Service?"
-        answer: "Yes, absolutely! The framework is designed for you to package your own unique functionalities as a service, contributing to a richer, more powerful ecosystem for everyone."
-      - question: "How is this different from a standard API?"
-        answer: "While a service uses an API, the 'service' pattern standardizes how it's discovered, described, and consumed. This ensures true composability, where components from different developers can reliably work together."
-  - sectionName: "finalCta"
-    sectionSummary: "A final, energetic call-to-action that encourages visitors to move from learning about this specific component to exploring the entire Blocklet Platform, driving deeper engagement."
-    ctaTitle: "Ready to Build with Composable Power?"
-    ctaDescription: "Blocklet Service are just one piece of the puzzle. Explore the entire Blocklet Platform to see how all the components work together to supercharge your development workflow."
+  - sectionName: "getStartedCta"
+    sectionSummary: "A final, energetic call-to-action designed to convert interested
+      visitors into active users by guiding them to the next logical steps."
+    ctaTitle: "Ready to Supercharge Your Blocklets?"
+    ctaDescription: "Stop coding from scratch and start composing. Leverage the full
+      power of Blocklet Services to build secure, feature-rich applications faster
+      than ever before."
     cta:
-      - text: "Explore the Full Platform"
+      - text: "Back to Platform Home"
         link: "link:///home"
-      - text: "Dive into the Docs"
-        link: "link:///architecture"
+      - text: ""
+        link: ""
+  - sectionName: "footer"
+    sectionSummary: "Provides clear, consistent navigation to all other main pages
+      of the website, ensuring a cohesive user experience and easy exploration
+      of the entire platform."
+    twoColumnGridTitle: "Explore the Blocklet Platform"
+    list:
+      - sectionName: "homeLinkCard"
+        sectionSummary: "A navigational card linking back to the main homepage."
+        cardTitle: "Blocklet Platform Home"
+        cardDescription: "Get a complete overview of the ecosystem."
+        iconName: ""
+      - sectionName: "serverLinkCard"
+        sectionSummary: "A navigational card linking to the Blocklet Server page."
+        cardTitle: "Blocklet Server"
+        cardDescription: "The foundational runtime for your apps."
+        iconName: ""
+      - sectionName: "sdkLinkCard"
+        sectionSummary: "A navigational card linking to the Blocklet SDK page."
+        cardTitle: "Blocklet SDK"
+        cardDescription: "Your essential toolkit for development."
+        iconName: ""
+      - sectionName: "cliLinkCard"
+        sectionSummary: "A navigational card linking to the Blocklet CLI page."
+        cardTitle: "Blocklet CLI"
+        cardDescription: "Master the command line for total control."
+        iconName: ""
+      - sectionName: "storeLinkCard"
+        sectionSummary: "A navigational card linking to the Blocklet Store page."
+        cardTitle: "Blocklet Store"
+        cardDescription: "Discover and publish amazing Blocklets."
+        iconName: ""
+      - sectionName: "launcherLinkCard"
+        sectionSummary: "A navigational card linking to the Blocklet Launcher page."
+        cardTitle: "Blocklet Launcher"
+        cardDescription: "Deploy dApps with zero code."
+        iconName: ""

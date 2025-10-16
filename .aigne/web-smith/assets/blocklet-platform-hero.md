@@ -1,0 +1,1 @@
+A hero image for the Blocklet Platform homepage. It visually represents the interconnected, comprehensive nature of the platform with an abstract network graphic. This image should convey technology, scalability, and modernity to create a strong first impression.

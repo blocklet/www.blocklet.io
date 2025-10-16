@@ -1,202 +1,144 @@
-"meta":
-  "title": "Blocklet Server: The Secure Runtime for Your Applications"
-  "description": "Explore Blocklet Server, the foundational runtime environment
-    for executing Blocklets. It offers a secure, scalable, and manageable
-    platform with a full web dashboard for lifecycle management."
-  "image": "mediakit://blocklets-management-list.png"
-"sections":
-  - "sectionName": "SplitHero"
-    "sectionSummary": "Introduces Blocklet Server with a powerful headline, a brief,
-      energetic description, and clear calls-to-action, paired with a visual of
-      the main dashboard to immediately showcase its capability."
-    "splitHeroTitle": "Your Ultimate Playground for Modern Applications"
-    "splitHeroDescription": "Welcome to Blocklet Server, the high-energy, secure
-      runtime that lets you launch, manage, and scale your modular applications
-      with a smile. It's everything you need to build, deploy, and operate with
-      total confidence, all from one beautiful dashboard."
-    "splitHeroActions":
-      - "text": "Get Started Now"
-        "link": "https://docs.arcblock.io/en/"
-      - "text": "Back to Platform"
-        "link": "link:///home"
-    "splitHeroRightImage": "mediakit://blocklets-management-list.png"
-  - "sectionName": "FeatureGrid"
-    "sectionSummary": "Highlights the core benefits of Blocklet Server in a
-      scannable 3-column grid. Each card uses an icon to visually represent a
-      key feature, making it easy for users to grasp the value proposition
-      quickly."
-    "threeColumnGridTitle": "Everything You Need to Succeed"
-    "list":
-      - "sectionName": "FeatureCard1"
-        "sectionSummary": "Focuses on the modular and composable architecture of
-          Blocklet Server."
-        "iconName": "mdi:widgets-outline"
-        "cardTitle": "Modular & Composable"
-        "cardDescription": "Build your apps like LEGOs! Create reusable, independent
-          Blocklets that make your code cleaner, easier to maintain, and
-          incredibly extensible."
-      - "sectionName": "FeatureCard2"
-        "sectionSummary": "Highlights the all-in-one management dashboard for easy operations."
-        "iconName": "mdi:view-dashboard-outline"
-        "cardTitle": "Centralized Dashboard"
-        "cardDescription": "Manage your entire application lifecycle from a single,
-          intuitive web interface. Install, monitor, and configure everything
-          with just a few clicks!"
-      - "sectionName": "FeatureCard3"
-        "sectionSummary": "Showcases the powerful, built-in services that accelerate
-          development."
-        "iconName": "mdi:flash-outline"
-        "cardTitle": "Rich Services Out-of-the-Box"
-        "cardDescription": "Stop reinventing the wheel! Leverage built-in services for
-          DID authentication, automated routing, notifications, and more to
-          build faster than ever."
-      - "sectionName": "FeatureCard4"
-        "sectionSummary": "Emphasizes the platform's commitment to security by design."
-        "iconName": "mdi:shield-check-outline"
-        "cardTitle": "Secure by Design"
-        "cardDescription": "Sleep easy knowing your applications are protected with
-          fine-grained access control, automated security best practices, and
-          complete audit trails."
-      - "sectionName": "FeatureCard5"
-        "sectionSummary": "Communicates the flexibility of deploying Blocklet Server in
-          any environment."
-        "iconName": "mdi:server-network"
-        "cardTitle": "Run Anywhere"
-        "cardDescription": "From your local machine to any cloud provider, you're in
-          control. Deploy on any server with an SSH connection—no vendor
-          lock-in, ever."
-      - "sectionName": "FeatureCard6"
-        "sectionSummary": "Promotes the professional-grade tooling available for developers."
-        "iconName": "mdi:code-braces"
-        "cardTitle": "Developer-Friendly Tooling"
-        "cardDescription": "Get into your flow with our powerful SDK and versatile CLI.
-          We provide the tools you need to script, automate, and manage like a
-          pro."
-  - "sectionName": "FeatureSectionForDevelopers"
-    "sectionSummary": "Speaks directly to developers, showcasing how Blocklet Server
-      boosts their productivity with a compelling title, benefit-oriented
-      description, and a visual of the analytics dashboard."
-    "featureSectionTitle": "Build Faster, Smarter, and Have More Fun"
-    "featureSectionDescription": "Focus on creating amazing features, not
-      maintaining infrastructure. With a powerful SDK, hot-reloading, and
-      git-based deployment, you'll ship better code, faster. It's the developer
-      experience you've always dreamed of!"
-    "featureSectionAction":
-      "text": "Explore the SDK"
-      "link": "link:///blocklet-sdk"
-    "featureSectionBottomImage": "mediakit://analytics-runtime-dashboard.png"
-  - "sectionName": "FeatureSectionForOperators"
-    "sectionSummary": "Targets operators and administrators, highlighting the ease
-      of management and robust security features, complemented by a screenshot
-      of the gateway configuration."
-    "splitHeroTitle": "Deploy and Manage with Total Confidence"
-    "splitHeroDescription": "Blocklet Server is designed for rock-solid stability
-      and simple administration. From one-click deployment and automated backups
-      to a Web Application Firewall, you have enterprise-grade control without
-      the headache. Your server, your rules."
-    "splitHeroActions":
-      - "text": "See Deployment Guides"
-        "link": "https://docs.arcblock.io/en/"
-      - "text": ""
-        "link": ""
-    "splitHeroRightImage": "mediakit://settings-gateway-configuration.png"
-  - "sectionName": "TeamCollaborationFeature"
-    "sectionSummary": "Highlights team collaboration features with a visual of the
-      management dashboard."
-    "splitHeroTitle": "Collaborate Seamlessly with Your Team"
-    "splitHeroDescription": "Ready to build together? Invite your team, assign
-      roles, and manage permissions with our slick, DID-based access control.
-      It’s secure, collaborative, and keeps everyone in sync."
-    "splitHeroLeftImage": "mediakit://team-members-management.png"
-    "splitHeroActions":
-      - "text": ""
-        "link": ""
-      - "text": ""
-        "link": ""
-  - "sectionName": "LiveDebuggingFeature"
-    "sectionSummary": "Showcases the real-time log viewer for easy debugging and monitoring."
-    "splitHeroTitle": "Troubleshoot Like a Pro"
-    "splitHeroDescription": "Say goodbye to hunting through log files! Get a live,
-      color-coded terminal right in your browser. You can monitor your
-      Blocklet's operations in real-time, making debugging an absolute breeze."
-    "splitHeroRightImage": "mediakit://blocklet-server-logs-view.png"
-    "splitHeroActions":
-      - "text": ""
-        "link": ""
-      - "text": ""
-        "link": ""
-  - "sectionName": "DiscoverBlockletsFeature"
-    "sectionSummary": "Highlights the integrated Blocklet Store for discovering and
-      installing new applications."
-    "splitHeroTitle": "Your App Store is Built-In"
-    "splitHeroDescription": "Why search for tools when they can come to you? Browse
-      the official Blocklet Store directly from your dashboard, discover amazing
-      new apps, and install them with a single, satisfying click."
-    "splitHeroLeftImage": "mediakit://store-browse-blocklets.png"
-    "splitHeroActions":
-      - "text": ""
-        "link": ""
-      - "text": ""
-        "link": ""
-  - "sectionName": "EffortlessUpgradesFeature"
-    "sectionSummary": "Shows how easy it is to keep the server updated with one-click upgrades."
-    "splitHeroTitle": "Stay Fresh with One-Click Upgrades"
-    "splitHeroDescription": "Keep your server humming with the latest features and
-      security patches. We’ll notify you when an upgrade is ready—just click the
-      button, and we'll handle the rest. It’s that simple."
-    "splitHeroRightImage": "mediakit://settings-about-upgrade.png"
-    "splitHeroActions":
-      - "text": ""
-        "link": ""
-      - "text": ""
-        "link": ""
-  - "sectionName": "FAQ"
-    "sectionSummary": "Answers common questions about Blocklet Server in a clear,
-      concise accordion format, helping to resolve potential user doubts and
-      reduce friction."
-    "faqTitle": "Frequently Asked Questions"
-    "faqList":
-      - "question": "What exactly is Blocklet Server?"
-        "answer": "Think of it as the operating system for your modern, decentralized
-          applications! It's a secure and powerful runtime environment that
-          manages the entire lifecycle of your Blocklets, from installation to
-          scaling."
-      - "question": "What is a Blocklet?"
-        "answer": "A Blocklet is a modular, reusable application component. You can
-          build entire applications by composing multiple Blocklets together,
-          which makes development faster, cleaner, and more scalable."
-      - "question": "What languages and frameworks can I use?"
-        "answer": "Pretty much anything you love! Blocklet Server is language-agnostic,
-          with first-class support for Node.js, but you can run apps built with
-          Python, Go, PHP, or even static sites."
-      - "question": "Where can I deploy Blocklet Server?"
-        "answer": "Anywhere you want! You can run it on your local machine for
-          development, or deploy it to any cloud provider like AWS and
-          DigitalOcean. You have complete control over your infrastructure."
-      - "question": "Can I run my existing Docker applications on Blocklet Server?"
-        "answer": "Absolutely! Blocklet Server has built-in Docker support, allowing you
-          to deploy and manage your containerized applications seamlessly. You
-          get the best of both worlds—the power of Blocklets and the flexibility
-          of your existing Docker workflow."
-      - "question": "How does it handle security?"
-        "answer": "Security is at our core! We provide DID-based authentication,
-          fine-grained access control, a Web Application Firewall, automated
-          SSL, and much more right out of the box."
-      - "question": "Is this only for Web3 or blockchain apps?"
-        "answer": "Not at all! While it has powerful, built-in Web3 capabilities like
-          Decentralized Identity (DID), it's also a fantastic platform for
-          building and deploying traditional web applications. You get the best
-          of both worlds!"
-  - "sectionName": "FinalCTA"
-    "sectionSummary": "A final, high-energy call-to-action section designed to
-      convert visitors by encouraging them to start building or explore the main
-      platform further."
-    "ctaTitle": "Ready to Launch Your Next Big Idea?"
-    "ctaDescription": "Join a community of forward-thinking developers and
-      operators. Get started with Blocklet Server today and experience the
-      future of application deployment."
-    "cta":
-      - "text": "Start Building Now"
-        "link": "https://docs.arcblock.io/en/"
-      - "text": "Explore the Platform"
-        "link": "link:///home"
+meta:
+  title: "Blocklet Server: The Runtime for Your Applications"
+  description: "Discover Blocklet Server, the powerful, secure runtime for modular apps. Build faster with rich services, deploy anywhere, and manage with ease. Perfect for developers and admins."
+  image: "mediakit://blocklet-server-hero-visual.png"
+sections:
+  - sectionName: "BlockletServerHero"
+    sectionSummary: "Introduces Blocklet Server with a powerful headline, a brief explanation of its value, and clear calls-to-action, paired with an abstract visual to capture the user's attention immediately."
+    splitHeroTitle: "The Ultimate Runtime for Your Decentralized Apps"
+    splitHeroDescription: "Blocklet Server is the powerhouse OS for your applications. It's a secure, flexible, and developer-friendly environment designed to run your Blocklets anywhere, from the cloud to your local machine. Let's build something amazing!"
+    splitHeroActions:
+      - text: "Get Started"
+        link: "link:///home"
+      - text: "Explore Docs"
+        link: "https://docs.arcblock.io/"
+    splitHeroRightImage: "mediakit://blocklet-server-hero-visual.png"
+  - sectionName: "CoreArchitecture"
+    sectionSummary: "Breaks down the three fundamental pillars of Blocklet Server's architecture—Gateway, Runtime, and Security—in a clean, three-column grid. This section establishes technical credibility and explains how the system works at a high level."
+    threeColumnGridTitle: "A Rock-Solid Foundation for Your Apps"
+    list:
+      - sectionName: "BlockletGateway"
+        sectionSummary: "Explains the function of the Blocklet Gateway, focusing on its role as a smart reverse proxy that handles traffic, SSL, and service discovery automatically."
+        iconName: "lucide:network"
+        cardTitle: "Intelligent Gateway"
+        cardDescription: "Forget complex DevOps! Our built-in gateway handles service discovery, load balancing, and automatic SSL/TLS, making your apps securely accessible on the web in seconds."
+      - sectionName: "BlockletRuntime"
+        sectionSummary: "Details the sandboxed execution environment, emphasizing security, isolation, and lifecycle management for each Blocklet."
+        iconName: "lucide:box"
+        cardTitle: "Sandboxed Runtime"
+        cardDescription: "Every Blocklet runs in its own isolated process. The runtime manages the full lifecycle—install, start, stop, and upgrade—ensuring stability and security for all your apps."
+      - sectionName: "BlockletSecurity"
+        sectionSummary: "Highlights the security-first design of the server, covering access control, authentication, and integrated logging to protect applications."
+        iconName: "lucide:shield-check"
+        cardTitle: "Security by Design"
+        cardDescription: "Security isn't an afterthought; it's built-in. Benefit from a robust auth layer, access key management, integrated logging, and role-based access for your team."
+  - sectionName: "DeveloperFeatures"
+    sectionSummary: "Showcases the key benefits for developers in a two-column grid, focusing on features that accelerate development and streamline workflows, like the modular architecture and Git-based deployment."
+    twoColumnGridTitle: "For Developers: Build Faster and Smarter"
+    list:
+      - sectionName: "ModularArchitecture"
+        sectionSummary: "Highlights the benefit of building with modular Blocklets, promoting code reuse and maintainability."
+        contentCardTitle: "Modular & Composable Architecture"
+        contentCardDescription: "Build your apps as a collection of independent Blocklets. This microservices-style approach makes your code cleaner, easier to maintain, and incredibly extensible. Mix, match, and create!"
+        contentCardBottomImage: "mediakit://service-add-blocklet-modal.png"
+      - sectionName: "MultiLanguageSupport"
+        sectionSummary: "Emphasizes that Blocklet Server is language-agnostic, giving developers the freedom to use their favorite tools."
+        contentCardTitle: "Any Language, Any Framework"
+        contentCardDescription: "You bring the code, we'll run it. Blocklet Server is language-agnostic, supporting Node.js, Python, Go, and more. Use the tools you already love to build amazing things."
+        contentCardBottomImage: "mediakit://service-blocklet-environments.png"
+      - sectionName: "GitBasedDeployment"
+        sectionSummary: "Explains the seamless push-to-deploy workflow, a major productivity booster for developers."
+        contentCardTitle: "Effortless Git-Based Deployment"
+        contentCardDescription: "Connect your favorite Git providers like GitHub or GitLab for a seamless 'push-to-deploy' workflow. Automate your CI/CD pipeline and ship updates faster than ever."
+        contentCardBottomImage: "mediakit://service-did-spaces-backup.png"
+      - sectionName: "RichServices"
+        sectionSummary: "Promotes the built-in services like DID and notifications that save developers from reinventing the wheel."
+        contentCardTitle: "Rich Services Out-of-the-Box"
+        contentCardDescription: "Stop rebuilding foundational services! Leverage a suite of built-in services for Decentralized Identity (DID), notifications, payments, and more. Focus on what makes your app unique."
+        contentCardBottomImage: "mediakit://service-did-connect-members.png"
+  - sectionName: "AdminFeatures"
+    sectionSummary: "Presents the top features for administrators in an engaging, alternating layout. This section focuses on ease of management, security, and operational control."
+    oneColumnGridTitle: "For Admins: Deploy & Manage with Confidence"
+    list:
+      - sectionName: "CentralizedDashboard"
+        sectionSummary: "Showcases the user-friendly web dashboard for complete server and application management."
+        contentCardTitle: "Your Central Command Center"
+        contentCardDescription: "Our clean, intuitive web dashboard gives you complete control. Manage the full Blocklet lifecycle, monitor node health, view logs, and manage user access from a single, beautiful interface."
+        contentCardRightImage: "mediakit://blocklets-management-list.png"
+      - sectionName: "TotalSecurityControl"
+        sectionSummary: "Details the robust, built-in security features like the WAF and fine-grained access control that appeal to administrators."
+        contentCardTitle: "Enterprise-Grade Security, Simplified"
+        contentCardDescription: "Protect your applications with a built-in Web Application Firewall (WAF), automated SSL, and fine-grained access controls. Track every critical action with comprehensive audit trails for total peace of mind."
+        contentCardLeftImage: "mediakit://settings-gateway-configuration.png"
+      - sectionName: "EffortlessOperations"
+        sectionSummary: "Highlights the automation and monitoring tools that simplify server management and operations."
+        contentCardTitle: "Automated & Easy Operations"
+        contentCardDescription: "Keep your server in top shape with automated database backups, health monitoring, and real-time resource analytics. Get notifications on Discord, Telegram, or email so you're always in the know."
+        contentCardRightImage: "mediakit://analytics-runtime-dashboard.png"
+  - sectionName: "FAQs"
+    sectionSummary: "Addresses frequently asked questions about Blocklet Server in a collapsible accordion format, providing quick answers to common developer and administrator queries."
+    faqTitle: "Frequently Asked Questions"
+    faqList:
+      - question: "What exactly is a Blocklet?"
+        answer: "Think of a Blocklet as a modular, independent application component. It's like an app from an app store, but for your server. This architecture promotes code reusability and makes your applications highly extensible and easy to manage!"
+      - question: "What languages and frameworks can I use?"
+        answer: "Pretty much anything you want! Blocklet Server is language-agnostic, with native support for Node.js, Python, Go, PHP, and even static sites. You can use your favorite frameworks like React, Vue, or Express without any hassle."
+      - question: "How does Blocklet Server handle security?"
+        answer: "Security is at our core! We provide a multi-layered approach including a built-in Web Application Firewall (WAF), automated SSL, process isolation for each Blocklet, and a robust Decentralized Identity (DID) based authentication system."
+      - question: "Can I deploy Blocklet Server on my own hardware?"
+        answer: "Absolutely! You have complete freedom. Deploy it on any cloud provider like AWS or DigitalOcean, on-premise servers, your local development machine, or even a Raspberry Pi. No vendor lock-in, ever."
+      - question: "How is this different from tools like Docker or Coolify?"
+        answer: "While tools like Docker manage containers, Blocklet Server is a complete application ecosystem. It provides a higher-level abstraction with a built-in app store, reusable components, Web3-native identity, and integrated services, letting you focus on features, not just infrastructure."
+  - sectionName: "FinalCTA"
+    sectionSummary: "A final, energetic call-to-action section designed to convert interested visitors into active users by prompting them to start building or explore the documentation."
+    ctaTitle: "Ready to Build on a Better Foundation?"
+    ctaDescription: "Join the growing community of developers and businesses choosing Blocklet Server to power the next generation of web applications. Your journey starts here!"
+    cta:
+      - text: "Start Building Now"
+        link: "link:///home"
+      - text: "Read the Docs"
+        link: "https://docs.arcblock.io/"
+  - sectionName: "FooterNavigation"
+    sectionSummary: "Provides comprehensive navigation at the bottom of the page, with links to all major components of the Blocklet platform, ensuring users can easily explore the entire ecosystem."
+    fourColumnGridTitle: "Explore the Blocklet Platform"
+    list:
+      - sectionName: "HomeLink"
+        sectionSummary: "Link to the main homepage."
+        cardTitle: "Home"
+        cardDescription: ""
+        iconName: ""
+      - sectionName: "ServerLink"
+        sectionSummary: "Link to the Blocklet Server page."
+        cardTitle: "Blocklet Server"
+        cardDescription: ""
+        iconName: ""
+      - sectionName: "ServiceLink"
+        sectionSummary: "Link to the Blocklet Service page."
+        cardTitle: "Blocklet Service"
+        cardDescription: ""
+        iconName: ""
+      - sectionName: "SDKLink"
+        sectionSummary: "Link to the Blocklet SDK page."
+        cardTitle: "Blocklet SDK"
+        cardDescription: ""
+        iconName: ""
+      - sectionName: "CLILink"
+        sectionSummary: "Link to the Blocklet CLI page."
+        cardTitle: "Blocklet CLI"
+        cardDescription: ""
+        iconName: ""
+      - sectionName: "StoreLink"
+        sectionSummary: "Link to the Blocklet Store page."
+        cardTitle: "Blocklet Store"
+        cardDescription: ""
+        iconName: ""
+      - sectionName: "LauncherLink"
+        sectionSummary: "Link to the Blocklet Launcher page."
+        cardTitle: "Blocklet Launcher"
+        cardDescription: ""
+        iconName: ""
+      - sectionName: "DocsLink"
+        sectionSummary: "External link to the official documentation."
+        cardTitle: "Documentation"
+        cardDescription: ""
+        iconName: ""

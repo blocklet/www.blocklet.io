@@ -1,0 +1,1 @@
+An abstract hero image for the Blocklet Server page, visually representing the concept of a powerful, modular runtime environment. The central glowing core symbolizes the server, while the interconnected blocks represent the applications it runs, creating a dynamic and futuristic visual that captures the essence of the technology.

@@ -1,0 +1,1 @@
+Social media sharing card for the Blocklet Service page. It visually communicates the key features of Blocklet Service—such as authentication, notifications, and theming—through clear iconography and text, making it ideal for sharing on social platforms.

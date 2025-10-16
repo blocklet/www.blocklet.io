@@ -1,7 +1,7 @@
 id: 6e6993d63f04af99
-createdAt: 2025-10-12T12:05:11.343Z
-updatedAt: 2025-10-12T12:05:11.343Z
-publishedAt: 2025-10-12T12:05:11.343Z
+createdAt: 2025-10-16T22:03:49.297Z
+updatedAt: 2025-10-16T22:03:49.297Z
+publishedAt: 2025-10-16T22:03:49.297Z
 isPublic: true
 locales:
   en:
@@ -10,11 +10,12 @@ locales:
       maxWidth: custom:1440px
       paddingY: normal
       paddingX: normal
-    title: "Blocklet Service: Reusable, Out-of-the-Box Functionalities"
-    description: Discover Blocklet Service, a standardized set of functionalities
-      like authentication, notifications, and theming that any Blocklet can
-      expose, promoting a composable and efficient development model.
-    image: mediakit://service-blocklets-overview.png
+    title: "Blocklet Service: Reusable, Standardized Functionality"
+    description: Explore Blocklet Services, the standardized, out-of-the-box
+      functionalities that any Blocklet can use. This page covers features like
+      authentication, notifications, and theming, highlighting the platform's
+      composability.
+    image: mediakit://blocklet-service-social-card.png
     header:
       sticky: true
   zh:
@@ -23,10 +24,10 @@ locales:
       maxWidth: custom:1440px
       paddingY: normal
       paddingX: normal
-    title: Blocklet 服务：可复用、开箱即用的功能
-    description: 了解 Blocklet 服务，这是一套标准化的功能集，如身份验证、通知和主题化，任何 Blocklet
-      都可以暴露这些功能，从而促进可组合且高效的开发模型。
-    image: mediakit://service-blocklets-overview.png
+    title: Blocklet 服务：可复用、标准化的功能
+    description: 探索 Blocklet 服务，这是一种任何 Blocklet
+      都可以使用的标准化、开箱即用的功能。本页介绍了身份验证、通知和主题等特性，突出了平台的可组合性。
+    image: mediakit://blocklet-service-social-card.png
     header:
       sticky: true
 sections:
@@ -503,21 +504,21 @@ sections:
         name: Cards
         component: layout-block
         sections:
-          "5164097510530111":
-            id: "5164097510530111"
+          10170e77762ef29b:
+            id: 10170e77762ef29b
             name: Cards-1
             component: layout-block
             sections:
-              8b2f99e2d9684e40:
-                id: 8b2f99e2d9684e40
+              2a3fca09e28bfeab:
+                id: 2a3fca09e28bfeab
                 name: RichText
                 component: custom-component
                 config:
                   useCache: true
                   componentId: xoHu0J44322kDYc-
                 sectionIds: []
-              4ef5a8f1e8f87f5f:
-                id: 4ef5a8f1e8f87f5f
+              91fc97fe054b72a7:
+                id: 91fc97fe054b72a7
                 name: Media
                 component: custom-component
                 config:
@@ -525,61 +526,17 @@ sections:
                   componentId: xoHu0JPjPs122kaaa-
                 sectionIds: []
             sectionIds:
-              - 8b2f99e2d9684e40
-              - 4ef5a8f1e8f87f5f
+              - 2a3fca09e28bfeab
+              - 91fc97fe054b72a7
             config:
               gridSettings:
                 desktop:
-                  8b2f99e2d9684e40:
-                    x: 0
-                    y: 0
-                    w: 4
-                    h: 1
-                  4ef5a8f1e8f87f5f:
-                    x: 4
-                    y: 0
-                    w: 8
-                    h: 1
-              paddingX: custom:32px
-              gap: normal
-              paddingY: custom:32px
-              background: background.paper
-              border: solid
-              borderRadius: small
-              alignContent: center
-          86655f8104493cd6:
-            id: 86655f8104493cd6
-            name: Cards-2
-            component: layout-block
-            sections:
-              95f080b03630f07b:
-                id: 95f080b03630f07b
-                name: RichText
-                component: custom-component
-                config:
-                  useCache: true
-                  componentId: xoHu0J44322kDYc-
-                sectionIds: []
-              40692db2b79d3348:
-                id: 40692db2b79d3348
-                name: Media
-                component: custom-component
-                config:
-                  useCache: true
-                  componentId: xoHu0JPjPs122kaaa-
-                sectionIds: []
-            sectionIds:
-              - 95f080b03630f07b
-              - 40692db2b79d3348
-            config:
-              gridSettings:
-                desktop:
-                  95f080b03630f07b:
+                  2a3fca09e28bfeab:
                     x: 8
                     y: 0
                     w: 4
                     h: 1
-                  40692db2b79d3348:
+                  91fc97fe054b72a7:
                     x: 0
                     y: 0
                     w: 8
@@ -591,21 +548,21 @@ sections:
               border: solid
               borderRadius: small
               alignContent: center
-          04fe785cbdf80e9e:
-            id: 04fe785cbdf80e9e
-            name: Cards-3
+          f9cae8c6eca50e9e:
+            id: f9cae8c6eca50e9e
+            name: Cards-2
             component: layout-block
             sections:
-              68b65ddda964c9b7:
-                id: 68b65ddda964c9b7
+              f262507ce32fcebd:
+                id: f262507ce32fcebd
                 name: RichText
                 component: custom-component
                 config:
                   useCache: true
                   componentId: xoHu0J44322kDYc-
                 sectionIds: []
-              274d9e0248315cf3:
-                id: 274d9e0248315cf3
+              8cdc896b98d1d149:
+                id: 8cdc896b98d1d149
                 name: Media
                 component: custom-component
                 config:
@@ -613,18 +570,62 @@ sections:
                   componentId: xoHu0JPjPs122kaaa-
                 sectionIds: []
             sectionIds:
-              - 68b65ddda964c9b7
-              - 274d9e0248315cf3
+              - f262507ce32fcebd
+              - 8cdc896b98d1d149
             config:
               gridSettings:
                 desktop:
-                  68b65ddda964c9b7:
+                  f262507ce32fcebd:
                     x: 0
                     y: 0
                     w: 4
                     h: 1
-                  274d9e0248315cf3:
+                  8cdc896b98d1d149:
                     x: 4
+                    y: 0
+                    w: 8
+                    h: 1
+              paddingX: custom:32px
+              gap: normal
+              paddingY: custom:32px
+              background: background.paper
+              border: solid
+              borderRadius: small
+              alignContent: center
+          f09cccbc579f85be:
+            id: f09cccbc579f85be
+            name: Cards-3
+            component: layout-block
+            sections:
+              162420dc6d35d186:
+                id: 162420dc6d35d186
+                name: RichText
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: xoHu0J44322kDYc-
+                sectionIds: []
+              ba30bce012380b3b:
+                id: ba30bce012380b3b
+                name: Media
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: xoHu0JPjPs122kaaa-
+                sectionIds: []
+            sectionIds:
+              - 162420dc6d35d186
+              - ba30bce012380b3b
+            config:
+              gridSettings:
+                desktop:
+                  162420dc6d35d186:
+                    x: 8
+                    y: 0
+                    w: 4
+                    h: 1
+                  ba30bce012380b3b:
+                    x: 0
                     y: 0
                     w: 8
                     h: 1
@@ -636,39 +637,39 @@ sections:
               borderRadius: small
               alignContent: center
         sectionIds:
-          - "5164097510530111"
-          - 86655f8104493cd6
-          - 04fe785cbdf80e9e
+          - 10170e77762ef29b
+          - f9cae8c6eca50e9e
+          - f09cccbc579f85be
         config:
           gridSettings:
             desktop:
-              "5164097510530111":
+              10170e77762ef29b:
                 x: 0
                 y: 0
                 w: 12
                 h: 1
-              86655f8104493cd6:
+              f9cae8c6eca50e9e:
                 x: 0
                 y: 1
                 w: 12
                 h: 1
-              04fe785cbdf80e9e:
+              f09cccbc579f85be:
                 x: 0
                 y: 2
                 w: 12
                 h: 1
             mobile:
-              "5164097510530111":
+              10170e77762ef29b:
                 x: 0
                 y: 0
                 w: 12
                 h: 1
-              86655f8104493cd6:
+              f9cae8c6eca50e9e:
                 x: 0
                 y: 1
                 w: 12
                 h: 1
-              04fe785cbdf80e9e:
+              f09cccbc579f85be:
                 x: 0
                 y: 2
                 w: 12
@@ -694,66 +695,66 @@ sections:
       gap: normal
       paddingY: none
       paddingX: none
-  94ce47f3e1c3fcde:
-    id: 94ce47f3e1c3fcde
-    name: Feature Section_2
+  7e5a4ced24f9c9f1:
+    id: 7e5a4ced24f9c9f1
+    name: Feature Section_1
     component: layout-block
     sections:
-      b977cd6410271e9c:
-        id: b977cd6410271e9c
+      ed2dae128c6ab4aa:
+        id: ed2dae128c6ab4aa
         name: Title
         component: layout-block
         sections:
-          5c61b99269881c93:
-            id: 5c61b99269881c93
+          6aeae6afe8bf28e3:
+            id: 6aeae6afe8bf28e3
             name: Title
             component: custom-component
             config:
               useCache: true
               componentId: xoHu0J44322kDYc-
             sectionIds: []
-          2f4eaa4bb8f44700:
-            id: 2f4eaa4bb8f44700
-            name: Action
+          48ef8cef079ae0ed:
+            id: 48ef8cef079ae0ed
+            name: Description
             component: custom-component
             config:
               useCache: true
-              componentId: a44r0SiGV9AFn2Fj
+              componentId: xoHu0J44322kDYc-
             sectionIds: []
         sectionIds:
-          - 5c61b99269881c93
-          - 2f4eaa4bb8f44700
+          - 6aeae6afe8bf28e3
+          - 48ef8cef079ae0ed
         config:
           gap: small
           paddingX: none
           gridSettings:
             desktop:
-              5c61b99269881c93:
+              6aeae6afe8bf28e3:
                 x: 0
                 y: 0
                 w: 6
                 h: 1
-              2f4eaa4bb8f44700:
-                x: 0
-                y: 1
-                w: 12
+              48ef8cef079ae0ed:
+                x: 6
+                y: 0
+                w: 6
                 h: 1
             mobile:
-              5c61b99269881c93:
-                id: 5c61b99269881c93
+              6aeae6afe8bf28e3:
+                id: 6aeae6afe8bf28e3
           alignContent: start
-      d61e3f7d0e5a208c:
-        id: d61e3f7d0e5a208c
+      316f01cc9ec30e75:
+        id: 316f01cc9ec30e75
         name: Logs
         component: layout-block
         sections:
-          a0b836312d0fb927:
-            id: a0b836312d0fb927
+          d059fca5eeeda8af:
+            id: d059fca5eeeda8af
             name: Card01
             component: layout-block
             sections:
-              7fec4103171b93d2:
-                id: 7fec4103171b93d2
+              2807aa3d3d886343:
+                id: 2807aa3d3d886343
                 name: Media
                 component: custom-component
                 config:
@@ -761,7 +762,7 @@ sections:
                   componentId: xoHu0JPjPs122kaaa-
                 sectionIds: []
             sectionIds:
-              - 7fec4103171b93d2
+              - 2807aa3d3d886343
             config:
               background: background.paper
               paddingX: custom:32px
@@ -772,7 +773,7 @@ sections:
               alignContent: center
               gridSettings:
                 desktop:
-                  7fec4103171b93d2:
+                  2807aa3d3d886343:
                     x: 0
                     y: 0
                     w: 12
@@ -784,39 +785,37 @@ sections:
                     w: 12
                     h: 1
                     id: t7hco63shuiga559
-                  7fec4103171b93d2:
-                    id: 7fec4103171b93d2
         sectionIds:
-          - a0b836312d0fb927
+          - d059fca5eeeda8af
         config:
           gap: small
           paddingX: none
           gridSettings:
             desktop:
-              a0b836312d0fb927:
+              d059fca5eeeda8af:
                 x: 0
                 y: 0
                 w: 12
                 h: 1
             mobile:
-              a0b836312d0fb927:
+              d059fca5eeeda8af:
                 x: 0
                 y: 2
                 w: 12
                 h: 1
-                id: a0b836312d0fb927
+                id: d059fca5eeeda8af
     sectionIds:
-      - b977cd6410271e9c
-      - d61e3f7d0e5a208c
+      - ed2dae128c6ab4aa
+      - 316f01cc9ec30e75
     config:
       gridSettings:
         desktop:
-          b977cd6410271e9c:
+          ed2dae128c6ab4aa:
             x: 0
             y: 0
             w: 12
             h: 1
-          d61e3f7d0e5a208c:
+          316f01cc9ec30e75:
             x: 0
             y: 1
             w: 12
@@ -824,66 +823,26 @@ sections:
       gap: normal
       paddingY: none
       paddingX: none
-  45e93fb05e9fd0dc:
-    id: 45e93fb05e9fd0dc
-    name: FAQs_2
-    component: layout-block
-    sections:
-      be2459a9b19a18c1:
-        id: be2459a9b19a18c1
-        name: Title
-        component: custom-component
-        config:
-          useCache: true
-          componentId: xoHu0J44322kDYc-
-        sectionIds: []
-      dbb2035e9969526a:
-        id: dbb2035e9969526a
-        name: FaqComponentV2
-        component: custom-component
-        config:
-          useCache: true
-          componentId: 4MikfrDpecX9hUD6
-        sectionIds: []
-    sectionIds:
-      - be2459a9b19a18c1
-      - dbb2035e9969526a
-    config:
-      gridSettings:
-        desktop:
-          dbb2035e9969526a:
-            x: 0
-            y: 1
-            w: 12
-            h: 1
-          be2459a9b19a18c1:
-            x: 0
-            y: 0
-            w: 12
-            h: 1
-      paddingX: none
-      gap: normal
-      paddingY: none
-  6edec3e84b5a8e8d:
-    id: 6edec3e84b5a8e8d
+  d56d9e831889abb5:
+    id: d56d9e831889abb5
     name: Full Background Hero
     component: layout-block
     sections:
-      b3de0f85ffafc96e:
-        id: b3de0f85ffafc96e
+      d66823edd1527d2e:
+        id: d66823edd1527d2e
         name: CTA
         component: layout-block
         sections:
-          b2fd4755c489229c:
-            id: b2fd4755c489229c
+          db2d6e57316f086b:
+            id: db2d6e57316f086b
             name: Description
             component: custom-component
             config:
               useCache: true
               componentId: xoHu0J44322kDYc-
             sectionIds: []
-          508276fbeb60a116:
-            id: 508276fbeb60a116
+          06080d017bac5b6d:
+            id: 06080d017bac5b6d
             name: Action
             component: custom-component
             config:
@@ -891,17 +850,17 @@ sections:
               componentId: a44r0SiGV9AFn2Fj
             sectionIds: []
         sectionIds:
-          - b2fd4755c489229c
-          - 508276fbeb60a116
+          - db2d6e57316f086b
+          - 06080d017bac5b6d
         config:
           gridSettings:
             desktop:
-              b2fd4755c489229c:
+              db2d6e57316f086b:
                 x: 2
                 y: 0
                 w: 8
                 h: 1
-              508276fbeb60a116:
+              06080d017bac5b6d:
                 x: 0
                 y: 1
                 w: 12
@@ -913,11 +872,11 @@ sections:
           background: background.paper
           borderRadius: small
     sectionIds:
-      - b3de0f85ffafc96e
+      - d66823edd1527d2e
     config:
       gridSettings:
         desktop:
-          b3de0f85ffafc96e:
+          d66823edd1527d2e:
             x: 0
             y: 0
             w: 12
@@ -926,13 +885,350 @@ sections:
       paddingY: none
       backgroundFullWidth: false
       paddingX: none
+  cf6ecfd558c8e466:
+    id: cf6ecfd558c8e466
+    name: Feature Grid (2x2)_2
+    component: layout-block
+    sections:
+      2fed5b65424fc44f:
+        id: 2fed5b65424fc44f
+        name: Title
+        component: layout-block
+        sections:
+          d2e1e66a22867eb0:
+            id: d2e1e66a22867eb0
+            name: RichText
+            component: custom-component
+            config:
+              useCache: true
+              componentId: xoHu0J44322kDYc-
+            sectionIds: []
+        sectionIds:
+          - d2e1e66a22867eb0
+        config:
+          gap: small
+          paddingX: none
+          gridSettings:
+            desktop:
+              d2e1e66a22867eb0:
+                x: 0
+                y: 0
+                w: 12
+                h: 1
+            mobile:
+              d2e1e66a22867eb0:
+                id: d2e1e66a22867eb0
+          alignContent: start
+      9381932ef68c65b7:
+        id: 9381932ef68c65b7
+        name: Cards
+        component: layout-block
+        sections:
+          1e93d74ed03a7da5:
+            id: 1e93d74ed03a7da5
+            name: Cards-1
+            component: layout-block
+            sections:
+              8aecb279cb86af64:
+                id: 8aecb279cb86af64
+                name: Title
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: xoHu0J44322kDYc-
+                sectionIds: []
+            sectionIds:
+              - 8aecb279cb86af64
+            config:
+              gridSettings:
+                desktop:
+                  8aecb279cb86af64:
+                    x: 0
+                    y: 0
+                    w: 12
+                    h: 1
+                mobile:
+                  8aecb279cb86af64:
+                    x: 0
+                    y: 0
+                    w: 12
+                    h: 1
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
+              borderRadius: small
+              gap: normal
+              border: solid
+              alignContent: start
+          70514bc5520413a2:
+            id: 70514bc5520413a2
+            name: Cards-2
+            component: layout-block
+            sections:
+              b05f8b39bca50be9:
+                id: b05f8b39bca50be9
+                name: Title
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: xoHu0J44322kDYc-
+                sectionIds: []
+            sectionIds:
+              - b05f8b39bca50be9
+            config:
+              gridSettings:
+                desktop:
+                  b05f8b39bca50be9:
+                    x: 0
+                    y: 0
+                    w: 12
+                    h: 1
+                mobile:
+                  b05f8b39bca50be9:
+                    x: 0
+                    y: 0
+                    w: 12
+                    h: 1
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
+              borderRadius: small
+              gap: normal
+              border: solid
+              alignContent: start
+          edaf6072b6c22631:
+            id: edaf6072b6c22631
+            name: Cards-3
+            component: layout-block
+            sections:
+              d0c0cc24316bbe0d:
+                id: d0c0cc24316bbe0d
+                name: Title
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: xoHu0J44322kDYc-
+                sectionIds: []
+            sectionIds:
+              - d0c0cc24316bbe0d
+            config:
+              gridSettings:
+                desktop:
+                  d0c0cc24316bbe0d:
+                    x: 0
+                    y: 0
+                    w: 12
+                    h: 1
+                mobile:
+                  d0c0cc24316bbe0d:
+                    x: 0
+                    y: 0
+                    w: 12
+                    h: 1
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
+              borderRadius: small
+              gap: normal
+              border: solid
+              alignContent: start
+          5e1c46d415caf4ab:
+            id: 5e1c46d415caf4ab
+            name: Cards-4
+            component: layout-block
+            sections:
+              78cbabe075441b26:
+                id: 78cbabe075441b26
+                name: Title
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: xoHu0J44322kDYc-
+                sectionIds: []
+            sectionIds:
+              - 78cbabe075441b26
+            config:
+              gridSettings:
+                desktop:
+                  78cbabe075441b26:
+                    x: 0
+                    y: 0
+                    w: 12
+                    h: 1
+                mobile:
+                  78cbabe075441b26:
+                    x: 0
+                    y: 0
+                    w: 12
+                    h: 1
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
+              borderRadius: small
+              gap: normal
+              border: solid
+              alignContent: start
+          8b6cd1e8b40589b9:
+            id: 8b6cd1e8b40589b9
+            name: Cards-5
+            component: layout-block
+            sections:
+              0ab4906c31389cc5:
+                id: 0ab4906c31389cc5
+                name: Title
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: xoHu0J44322kDYc-
+                sectionIds: []
+            sectionIds:
+              - 0ab4906c31389cc5
+            config:
+              gridSettings:
+                desktop:
+                  0ab4906c31389cc5:
+                    x: 0
+                    y: 0
+                    w: 12
+                    h: 1
+                mobile:
+                  0ab4906c31389cc5:
+                    x: 0
+                    y: 0
+                    w: 12
+                    h: 1
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
+              borderRadius: small
+              gap: normal
+              border: solid
+              alignContent: start
+          da1ec85d404364df:
+            id: da1ec85d404364df
+            name: Cards-6
+            component: layout-block
+            sections:
+              b32f23fe0e3cf57f:
+                id: b32f23fe0e3cf57f
+                name: Title
+                component: custom-component
+                config:
+                  useCache: true
+                  componentId: xoHu0J44322kDYc-
+                sectionIds: []
+            sectionIds:
+              - b32f23fe0e3cf57f
+            config:
+              gridSettings:
+                desktop:
+                  b32f23fe0e3cf57f:
+                    x: 0
+                    y: 0
+                    w: 12
+                    h: 1
+                mobile:
+                  b32f23fe0e3cf57f:
+                    x: 0
+                    y: 0
+                    w: 12
+                    h: 1
+              background: background.paper
+              paddingX: custom:32px
+              paddingY: custom:32px
+              borderRadius: small
+              gap: normal
+              border: solid
+              alignContent: start
+        sectionIds:
+          - 1e93d74ed03a7da5
+          - 70514bc5520413a2
+          - edaf6072b6c22631
+          - 5e1c46d415caf4ab
+          - 8b6cd1e8b40589b9
+          - da1ec85d404364df
+        config:
+          gridSettings:
+            desktop:
+              1e93d74ed03a7da5:
+                x: 0
+                y: 0
+                w: 6
+                h: 1
+              70514bc5520413a2:
+                x: 6
+                y: 0
+                w: 6
+                h: 1
+              edaf6072b6c22631:
+                x: 0
+                y: 1
+                w: 6
+                h: 1
+              5e1c46d415caf4ab:
+                x: 6
+                y: 1
+                w: 6
+                h: 1
+              8b6cd1e8b40589b9:
+                x: 0
+                y: 2
+                w: 6
+                h: 1
+              da1ec85d404364df:
+                x: 6
+                y: 2
+                w: 6
+                h: 1
+            mobile:
+              1e93d74ed03a7da5:
+                x: 0
+                y: 0
+                w: 12
+                h: 1
+              70514bc5520413a2:
+                x: 0
+                y: 1
+                w: 12
+                h: 1
+              edaf6072b6c22631:
+                x: 0
+                y: 2
+                w: 12
+                h: 1
+              5e1c46d415caf4ab:
+                x: 0
+                y: 3
+                w: 12
+                h: 1
+          gap: small
+          paddingX: none
+    sectionIds:
+      - 2fed5b65424fc44f
+      - 9381932ef68c65b7
+    config:
+      gridSettings:
+        desktop:
+          9381932ef68c65b7:
+            x: 0
+            y: 1
+            w: 12
+            h: 1
+          2fed5b65424fc44f:
+            x: 0
+            y: 0
+            w: 12
+            h: 1
+      gap: normal
+      paddingY: none
+      paddingX: none
 sectionIds:
   - e1c97b3710d489a2
   - 671827b9508f92f3
   - 0bd9c287b4dac2cd
-  - 94ce47f3e1c3fcde
-  - 45e93fb05e9fd0dc
-  - 6edec3e84b5a8e8d
+  - 7e5a4ced24f9c9f1
+  - d56d9e831889abb5
+  - cf6ecfd558c8e466
 dataSource:
   087e8576fefadf0f:
     en:
@@ -942,17 +1238,17 @@ dataSource:
             list:
               - id: item-1759121327460-gc8w9kaxt
                 type: text
-                text: Stop reinventing the wheel! Blocklet Service provide a rich set of
-                  out-of-the-box functionalities like authentication,
-                  notifications, and theming that your applications can use
-                  instantly. Build faster, smarter, and more consistently.
+                text: Stop reinventing the wheel! Blocklet Services are your ready-to-go toolkit
+                  for essential functions like authentication, notifications,
+                  and theming. Plug them into any Blocklet and watch your
+                  development speed soar.
                 style:
                   color: ""
                   fontSize: 16px
                   variant: body1
         gs1rn5jmxfvpxptx:
           value:
-            text: Plug-and-Play Power for Your Apps
+            text: Build Faster, Not Harder. Welcome to Blocklet Service.
             style:
               variant: h1
         v5utpm7bu9yvdpnq:
@@ -966,15 +1262,15 @@ dataSource:
             list:
               - id: item-1759121327460-gc8w9kaxt
                 type: text
-                text: 告别重复造轮子！Blocklet
-                  服务提供了一套丰富的开箱即用功能，如身份验证、通知和主题化，您的应用程序可以立即使用。构建速度更快、更智能、更一致。
+                text: 不要重复造轮子！Blocklet 服务是您即取即用的工具包，提供身份验证、通知和主题等核心功能。将其插入任何
+                  Blocklet，见证您的开发速度飙升。
                 style:
                   color: ""
                   fontSize: 16px
                   variant: body1
         gs1rn5jmxfvpxptx:
           value:
-            text: 为您的应用提供即插即用的强大功能
+            text: 构建更快，而非更难。欢迎使用 Blocklet 服务。
             style:
               variant: h1
         v5utpm7bu9yvdpnq:
@@ -988,18 +1284,18 @@ dataSource:
           value:
             - id: btn-default-1
               type: link
-              text: Explore the Full Platform
-              url: link:///home
+              text: Explore Features
+              url: "#coreFeaturesGrid"
               variant: contained
               size: large
               target: _self
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
-              text: View Architecture
+              text: ""
               variant: outlined
               borderColor: primary.main
               size: large
-              url: link:///architecture
+              url: ""
         r8t5y6u7i1o2p3a4:
           value: 16
         v5utpm7bu9yvdpnq:
@@ -1012,18 +1308,18 @@ dataSource:
           value:
             - id: btn-default-1
               type: link
-              text: 探索完整平台
-              url: link:///home
+              text: 探索特性
+              url: "#coreFeaturesGrid"
               variant: contained
               size: large
               target: _self
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
-              text: 查看架构
+              text: ""
               variant: outlined
               borderColor: primary.main
               size: large
-              url: link:///architecture
+              url: ""
         r8t5y6u7i1o2p3a4:
           value: 16
         v5utpm7bu9yvdpnq:
@@ -1035,8 +1331,8 @@ dataSource:
       properties:
         7m5pz8nefl5j9hqq:
           value:
-            url: mediakit://service-blocklets-overview.png
-            mediaKitUrl: mediakit://service-blocklets-overview.png
+            url: mediakit://blocklet-service-architecture.png
+            mediaKitUrl: mediakit://blocklet-service-architecture.png
             width: 2445
             height: 1394
         jjv0hvr8wrixt1f3:
@@ -1045,8 +1341,8 @@ dataSource:
       properties:
         7m5pz8nefl5j9hqq:
           value:
-            url: mediakit://service-blocklets-overview.png
-            mediaKitUrl: mediakit://service-blocklets-overview.png
+            url: mediakit://blocklet-service-architecture.png
+            mediaKitUrl: mediakit://blocklet-service-architecture.png
             width: 2445
             height: 1394
         jjv0hvr8wrixt1f3:
@@ -1060,7 +1356,7 @@ dataSource:
           value: center
         gs1rn5jmxfvpxptx:
           value:
-            text: Your Production-Ready Toolkit
+            text: Your Out-of-the-Box Powerhouse
             style:
               variant: h2
     zh:
@@ -1071,7 +1367,7 @@ dataSource:
           value: center
         gs1rn5jmxfvpxptx:
           value:
-            text: 您的生产就绪工具包
+            text: 您的开箱即用强大功能库
             style:
               variant: h2
   8a0319c7be20285c:
@@ -1083,7 +1379,7 @@ dataSource:
           value: flex-start
         gs1rn5jmxfvpxptx:
           value:
-            text: Centralized User & Identity
+            text: Unified Authentication
             style:
               variant: h4
         9ajrz12ik7esfk1z:
@@ -1091,9 +1387,8 @@ dataSource:
             list:
               - id: item-1759143324880-zr95ywd04
                 type: text
-                text: Manage all users, issue verifiable credentials, and configure login
-                  methods like DID Connect and OAuth from a single, unified
-                  interface.
+                text: Secure user access instantly with DID Connect, Passkeys, OAuth, and more.
+                  All managed for you.
                 style:
                   color: ""
                   fontSize: 16px
@@ -1106,7 +1401,7 @@ dataSource:
           value: flex-start
         gs1rn5jmxfvpxptx:
           value:
-            text: 集中的用户与身份管理
+            text: 统一身份验证
             style:
               variant: h4
         9ajrz12ik7esfk1z:
@@ -1114,7 +1409,7 @@ dataSource:
             list:
               - id: item-1759143324880-zr95ywd04
                 type: text
-                text: 通过单一的统一界面管理所有用户、颁发可验证凭证，并配置 DID Connect 和 OAuth 等登录方法。
+                text: 通过 DID Connect、Passkeys、OAuth 等方式即时保护用户访问安全。一切为您管理。
                 style:
                   color: ""
                   fontSize: 16px
@@ -1123,7 +1418,7 @@ dataSource:
     en:
       properties:
         5ek4m0kw9cu0ndns:
-          value: mdi:account-group-outline
+          value: lucide:shield-check
         gugqsxx3xyveuu8n:
           value: primary.main
         529qbwiam7oypw8e:
@@ -1131,7 +1426,7 @@ dataSource:
     zh:
       properties:
         5ek4m0kw9cu0ndns:
-          value: mdi:account-group-outline
+          value: lucide:shield-check
         gugqsxx3xyveuu8n:
           value: primary.main
         529qbwiam7oypw8e:
@@ -1145,7 +1440,7 @@ dataSource:
           value: flex-start
         gs1rn5jmxfvpxptx:
           value:
-            text: Complete Website Control
+            text: Multi-Channel Communication
             style:
               variant: h4
         9ajrz12ik7esfk1z:
@@ -1153,8 +1448,8 @@ dataSource:
             list:
               - id: item-1759143324880-zr95ywd04
                 type: text
-                text: Effortlessly manage domains, branding, and theming to create a polished,
-                  consistent look and feel across all your applications.
+                text: Reach users everywhere with built-in email services, push notifications,
+                  and webhooks.
                 style:
                   color: ""
                   fontSize: 16px
@@ -1167,7 +1462,7 @@ dataSource:
           value: flex-start
         gs1rn5jmxfvpxptx:
           value:
-            text: 完整的网站控制
+            text: 多渠道通信
             style:
               variant: h4
         9ajrz12ik7esfk1z:
@@ -1175,7 +1470,7 @@ dataSource:
             list:
               - id: item-1759143324880-zr95ywd04
                 type: text
-                text: 轻松管理域名、品牌和主题，为您的所有应用程序创建精致、一致的外观和感觉。
+                text: 通过内置的电子邮件服务、推送通知和 Webhook 触达所有用户。
                 style:
                   color: ""
                   fontSize: 16px
@@ -1184,7 +1479,7 @@ dataSource:
     en:
       properties:
         5ek4m0kw9cu0ndns:
-          value: mdi:palette-swatch-outline
+          value: lucide:message-square-plus
         gugqsxx3xyveuu8n:
           value: primary.main
         529qbwiam7oypw8e:
@@ -1192,7 +1487,7 @@ dataSource:
     zh:
       properties:
         5ek4m0kw9cu0ndns:
-          value: mdi:palette-swatch-outline
+          value: lucide:message-square-plus
         gugqsxx3xyveuu8n:
           value: primary.main
         529qbwiam7oypw8e:
@@ -1206,7 +1501,7 @@ dataSource:
           value: flex-start
         gs1rn5jmxfvpxptx:
           value:
-            text: Robust Operations & Analytics
+            text: Dynamic Theming Engine
             style:
               variant: h4
         9ajrz12ik7esfk1z:
@@ -1214,9 +1509,8 @@ dataSource:
             list:
               - id: item-1759143324880-zr95ywd04
                 type: text
-                text: Get deep insights with built-in analytics, monitor activity with audit
-                  logs, and ensure data safety with automated DID Spaces
-                  backups.
+                text: Effortlessly manage branding, colors, and typography across all your
+                  Blocklets for a consistent look and feel.
                 style:
                   color: ""
                   fontSize: 16px
@@ -1229,7 +1523,7 @@ dataSource:
           value: flex-start
         gs1rn5jmxfvpxptx:
           value:
-            text: 强大的运维与分析
+            text: 动态主题引擎
             style:
               variant: h4
         9ajrz12ik7esfk1z:
@@ -1237,7 +1531,7 @@ dataSource:
             list:
               - id: item-1759143324880-zr95ywd04
                 type: text
-                text: 通过内置分析获得深入洞察，使用审计日志监控活动，并通过自动化的 DID Spaces 备份确保数据安全。
+                text: 轻松管理您所有 Blocklet 的品牌、颜色和排版，以获得一致的外观和体验。
                 style:
                   color: ""
                   fontSize: 16px
@@ -1246,7 +1540,7 @@ dataSource:
     en:
       properties:
         5ek4m0kw9cu0ndns:
-          value: mdi:chart-line
+          value: lucide:palette
         gugqsxx3xyveuu8n:
           value: primary.main
         529qbwiam7oypw8e:
@@ -1254,7 +1548,7 @@ dataSource:
     zh:
       properties:
         5ek4m0kw9cu0ndns:
-          value: mdi:chart-line
+          value: lucide:palette
         gugqsxx3xyveuu8n:
           value: primary.main
         529qbwiam7oypw8e:
@@ -1268,7 +1562,7 @@ dataSource:
           value: center
         gs1rn5jmxfvpxptx:
           value:
-            text: "See It In Action: Key Services"
+            text: "Dive Deeper: What's Inside?"
             style:
               variant: h2
     zh:
@@ -1279,15 +1573,15 @@ dataSource:
           value: center
         gs1rn5jmxfvpxptx:
           value:
-            text: 实际应用：关键服务
+            text: 深入探索：包含哪些内容？
             style:
               variant: h2
-  8b2f99e2d9684e40:
+  2a3fca09e28bfeab:
     en:
       properties:
         gs1rn5jmxfvpxptx:
           value:
-            text: Unified User Management with DID Connect
+            text: Effortless User & Group Management
             style:
               variant: h4
         9ajrz12ik7esfk1z:
@@ -1295,10 +1589,9 @@ dataSource:
             list:
               - id: item-1759185456428-p8i1jjk33
                 type: text
-                text: Effortlessly manage your entire user base, from owners to subscribers.
-                  Integrate decentralized identity for secure, passwordless
-                  access and get a complete, auditable view of all user
-                  activity.
+                text: Go beyond simple logins. Manage user profiles, create custom groups, issue
+                  verifiable 'Passports,' and configure KYC workflows, all from
+                  a centralized hub. It's identity management, supercharged.
                 style:
                   color: ""
                   fontSize: 16px
@@ -1311,7 +1604,7 @@ dataSource:
       properties:
         gs1rn5jmxfvpxptx:
           value:
-            text: 使用 DID Connect 进行统一用户管理
+            text: 轻松的用户与群组管理
             style:
               variant: h4
         9ajrz12ik7esfk1z:
@@ -1319,7 +1612,7 @@ dataSource:
             list:
               - id: item-1759185456428-p8i1jjk33
                 type: text
-                text: 轻松管理您的整个用户群，从所有者到订阅者。集成去中心化身份以实现安全的无密码访问，并获得所有用户活动的完整、可审计的视图。
+                text: 功能远不止简单的登录。从一个中心化平台管理用户资料、创建自定义群组、颁发可验证的“通行证”并配置 KYC 工作流。这是超强版的身份管理。
                 style:
                   color: ""
                   fontSize: 16px
@@ -1328,7 +1621,7 @@ dataSource:
           value: flex-start
         kyg0hdy5uqq4gc1o:
           value: flex-start
-  4ef5a8f1e8f87f5f:
+  91fc97fe054b72a7:
     en:
       properties:
         7m5pz8nefl5j9hqq:
@@ -1353,7 +1646,7 @@ dataSource:
           value: ""
         jjv0hvr8wrixt1f3:
           value: 1
-  95f080b03630f07b:
+  f262507ce32fcebd:
     en:
       properties:
         gs1rn5jmxfvpxptx:
@@ -1366,10 +1659,10 @@ dataSource:
             list:
               - id: item-1759185456428-p8i1jjk33
                 type: text
-                text: Customize every aspect of your site's appearance. Manage domains, upload
-                  logos for light and dark modes, and configure global theming
-                  to ensure your brand identity shines through, no matter the
-                  context.
+                text: Your brand, your rules. Manage custom domains, configure multi-language
+                  support, upload logos, and customize your entire visual design
+                  system—from typography to color schemes. Make every
+                  application unmistakably yours.
                 style:
                   color: ""
                   fontSize: 16px
@@ -1390,7 +1683,7 @@ dataSource:
             list:
               - id: item-1759185456428-p8i1jjk33
                 type: text
-                text: 自定义您网站外观的每一个方面。管理域名，为亮色和暗色模式上传徽标，并配置全局主题，以确保您的品牌标识在任何情况下都能脱颖而出。
+                text: 您的品牌，您做主。管理自定义域名、配置多语言支持、上传徽标，并自定义您的整个视觉设计系统——从排版到配色方案。让每个应用都彰显您的独特风格。
                 style:
                   color: ""
                   fontSize: 16px
@@ -1399,7 +1692,7 @@ dataSource:
           value: flex-start
         kyg0hdy5uqq4gc1o:
           value: flex-start
-  40692db2b79d3348:
+  8cdc896b98d1d149:
     en:
       properties:
         7m5pz8nefl5j9hqq:
@@ -1424,12 +1717,12 @@ dataSource:
           value: ""
         jjv0hvr8wrixt1f3:
           value: 1
-  68b65ddda964c9b7:
+  162420dc6d35d186:
     en:
       properties:
         gs1rn5jmxfvpxptx:
           value:
-            text: Keep Your Finger on the Pulse
+            text: Monitor, Audit, and Optimize with Confidence
             style:
               variant: h4
         9ajrz12ik7esfk1z:
@@ -1437,10 +1730,10 @@ dataSource:
             list:
               - id: item-1759185456428-p8i1jjk33
                 type: text
-                text: Dive into comprehensive analytics to track requests, visitors, and
-                  performance. View detailed, real-time logs to debug issues
-                  instantly and use the audit trail to monitor all
-                  administrative actions for full transparency.
+                text: Keep your finger on the pulse. Access comprehensive audit logs, analyze
+                  traffic with built-in analytics, and manage notifications
+                  across all channels. Production-grade operations are built
+                  right in.
                 style:
                   color: ""
                   fontSize: 16px
@@ -1453,7 +1746,7 @@ dataSource:
       properties:
         gs1rn5jmxfvpxptx:
           value:
-            text: 实时掌控动态
+            text: 自信地进行监控、审计和优化
             style:
               variant: h4
         9ajrz12ik7esfk1z:
@@ -1461,7 +1754,7 @@ dataSource:
             list:
               - id: item-1759185456428-p8i1jjk33
                 type: text
-                text: 深入了解全面的分析数据，以跟踪请求、访问者和性能。查看详细的实时日志以立即调试问题，并使用审计追踪来监控所有管理操作，实现完全透明。
+                text: 实时掌握动态。访问全面的审计日志，利用内置分析工具分析流量，并管理所有渠道的通知。生产级的运维功能已内置其中。
                 style:
                   color: ""
                   fontSize: 16px
@@ -1470,7 +1763,7 @@ dataSource:
           value: flex-start
         kyg0hdy5uqq4gc1o:
           value: flex-start
-  274d9e0248315cf3:
+  ba30bce012380b3b:
     en:
       properties:
         7m5pz8nefl5j9hqq:
@@ -1495,29 +1788,51 @@ dataSource:
           value: ""
         jjv0hvr8wrixt1f3:
           value: 1
-  5c61b99269881c93:
+  6aeae6afe8bf28e3:
     en:
       properties:
         gs1rn5jmxfvpxptx:
           value:
-            text: Designed for Composability
+            text: Composability in Action
             style:
               variant: h2
         v5utpm7bu9yvdpnq:
           value: flex-start
         kyg0hdy5uqq4gc1o:
           value: flex-start
+    zh:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 可组合性的实际应用
+            style:
+              variant: h2
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+  48ef8cef079ae0ed:
+    en:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: ""
+            style:
+              variant: h2
+        v5utpm7bu9yvdpnq:
+          value: flex-end
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
         9ajrz12ik7esfk1z:
           value:
             list:
-              - id: item-1759204484222-0kvkmgmke
+              - id: item-1759204131040-9gxbxfmi5
                 type: text
-                text: Blocklet Service expose standardized functionalities through predictable
-                  endpoints. This means any Blocklet can discover and use
-                  services from any other Blocklet, letting you build complex
-                  applications by combining powerful, pre-built components. It's
-                  the ultimate 'Don't Repeat Yourself' principle, built right
-                  into the platform.
+                text: Blocklet Services are exposed through standardized URL endpoints. This
+                  simple yet powerful pattern allows any Blocklet to discover
+                  and consume functionality from another, creating a truly
+                  composable ecosystem where you can build complex apps by
+                  connecting powerful, pre-built services.
                 style:
                   color: ""
                   fontSize: 16px
@@ -1526,60 +1841,25 @@ dataSource:
       properties:
         gs1rn5jmxfvpxptx:
           value:
-            text: 为可组合性而设计
+            text: ""
             style:
               variant: h2
         v5utpm7bu9yvdpnq:
-          value: flex-start
+          value: flex-end
         kyg0hdy5uqq4gc1o:
           value: flex-start
         9ajrz12ik7esfk1z:
           value:
             list:
-              - id: item-1759204484222-0kvkmgmke
+              - id: item-1759204131040-9gxbxfmi5
                 type: text
-                text: Blocklet 服务通过可预测的端点暴露标准化的功能。这意味着任何 Blocklet 都可以发现并使用来自任何其他 Blocklet
-                  的服务，让您通过组合强大的预构建组件来构建复杂的应用程序。这是内建于平台中的终极“不要重复自己”原则。
+                text: Blocklet 服务通过标准化的 URL 端点暴露。这种简单而强大的模式允许任何 Blocklet 发现并使用另一个 Blocklet
+                  的功能，从而创建一个真正可组合的生态系统，您可以通过连接强大的预构建服务来构建复杂的应用。
                 style:
                   color: ""
                   fontSize: 16px
                   variant: body1
-  2f4eaa4bb8f44700:
-    en:
-      properties:
-        b8x4m3n9kp7qtw5r:
-          value:
-            - id: btn-default-1
-              type: link
-              text: Learn about the architecture
-              url: link:///architecture
-              variant: text
-              size: medium
-              target: _self
-              needLogin: false
-              endIcon: ""
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        v9979xeclpsbvn0n:
-          value: flex-start
-    zh:
-      properties:
-        b8x4m3n9kp7qtw5r:
-          value:
-            - id: btn-default-1
-              type: link
-              text: 了解架构
-              url: link:///architecture
-              variant: text
-              size: medium
-              target: _self
-              needLogin: false
-              endIcon: ""
-        v5utpm7bu9yvdpnq:
-          value: flex-start
-        v9979xeclpsbvn0n:
-          value: flex-start
-  7fec4103171b93d2:
+  2807aa3d3d886343:
     en:
       properties:
         7m5pz8nefl5j9hqq:
@@ -1596,95 +1876,7 @@ dataSource:
             mediaKitUrl: mediakit://service-add-blocklet-modal.png
             width: 3024
             height: 1034
-  be2459a9b19a18c1:
-    en:
-      properties:
-        gs1rn5jmxfvpxptx:
-          value:
-            text: Frequently Asked Questions
-            style:
-              variant: h2
-        v5utpm7bu9yvdpnq:
-          value: center
-        kyg0hdy5uqq4gc1o:
-          value: center
-        9ajrz12ik7esfk1z:
-          value:
-            list: []
-    zh:
-      properties:
-        gs1rn5jmxfvpxptx:
-          value:
-            text: 常见问题
-            style:
-              variant: h2
-        v5utpm7bu9yvdpnq:
-          value: center
-        kyg0hdy5uqq4gc1o:
-          value: center
-        9ajrz12ik7esfk1z:
-          value:
-            list: []
-  dbb2035e9969526a:
-    en:
-      properties:
-        4221qi1bxy322mf4:
-          value:
-            - title: What exactly is a Blocklet Service?
-              answer: Think of it as a standardized, reusable feature-set (like authentication
-                or notifications) that a Blocklet offers. Other apps can then
-                'plug into' this service without needing to build it themselves.
-            - title: How do different Blocklets find and use these services?
-              answer: Services are discoverable through predictable URL endpoints, typically
-                starting with `/.well-known/service`. This allows for automated
-                and reliable inter-blocklet communication.
-            - title: Can I create my own shareable Blocklet Service?
-              answer: Yes, absolutely! The framework is designed for you to package your own
-                unique functionalities as a service, contributing to a richer,
-                more powerful ecosystem for everyone.
-            - title: How is this different from a standard API?
-              answer: While a service uses an API, the 'service' pattern standardizes how it's
-                discovered, described, and consumed. This ensures true
-                composability, where components from different developers can
-                reliably work together.
-            - title: ""
-              answer: ""
-            - title: ""
-              answer: ""
-            - title: ""
-              answer: ""
-            - title: ""
-              answer: ""
-            - title: ""
-              answer: ""
-            - title: ""
-              answer: ""
-    zh:
-      properties:
-        4221qi1bxy322mf4:
-          value:
-            - title: Blocklet 服务到底是什么？
-              answer: 可以把它看作是 Blocklet 提供的一套标准化的、可复用的功能集（如身份验证或通知）。其他应用程序可以直接“接入”这项服务，而无需自己构建。
-            - title: 不同的 Blocklet 如何找到并使用这些服务？
-              answer: 服务通过可预测的 URL 端点被发现，通常以 `/.well-known/service` 开头。这实现了自动化且可靠的 Blocklet
-                间通信。
-            - title: 我可以创建自己的可共享 Blocklet 服务吗？
-              answer: 当然可以！该框架旨在让您将自己独特的功能打包成服务，为所有人贡献一个更丰富、更强大的生态系统。
-            - title: 这与标准 API 有何不同？
-              answer: 虽然服务使用 API，但“服务”模式标准化了其被发现、描述和使用的方式。这确保了真正的可组合性，使得来自不同开发者的组件能够可靠地协同工作。
-            - title: ""
-              answer: ""
-            - title: ""
-              answer: ""
-            - title: ""
-              answer: ""
-            - title: ""
-              answer: ""
-            - title: ""
-              answer: ""
-            - title: ""
-              answer: ""
-  b2fd4755c489229c:
+  db2d6e57316f086b:
     en:
       properties:
         9ajrz12ik7esfk1z:
@@ -1692,16 +1884,16 @@ dataSource:
             list:
               - id: item-1759121327460-gc8w9kaxt
                 type: text
-                text: Blocklet Service are just one piece of the puzzle. Explore the entire
-                  Blocklet Platform to see how all the components work together
-                  to supercharge your development workflow.
+                text: Stop coding from scratch and start composing. Leverage the full power of
+                  Blocklet Services to build secure, feature-rich applications
+                  faster than ever before.
                 style:
                   color: ""
                   fontSize: 16px
                   variant: body1
         gs1rn5jmxfvpxptx:
           value:
-            text: Ready to Build with Composable Power?
+            text: Ready to Supercharge Your Blocklets?
             style:
               color: ""
               variant: h1
@@ -1716,14 +1908,14 @@ dataSource:
             list:
               - id: item-1759121327460-gc8w9kaxt
                 type: text
-                text: Blocklet 服务只是整个拼图中的一块。探索整个 Blocklet 平台，了解所有组件如何协同工作，为您的开发工作流程注入强大动力。
+                text: 告别从零编码，开始组合构建。利用 Blocklet 服务的全部功能，以前所未有的速度构建安全、功能丰富的应用程序。
                 style:
                   color: ""
                   fontSize: 16px
                   variant: body1
         gs1rn5jmxfvpxptx:
           value:
-            text: 准备好使用可组合的力量进行构建了吗？
+            text: 准备好为您的 Blocklets 强力赋能了吗？
             style:
               color: ""
               variant: h1
@@ -1731,25 +1923,25 @@ dataSource:
           value: center
         kyg0hdy5uqq4gc1o:
           value: center
-  508276fbeb60a116:
+  06080d017bac5b6d:
     en:
       properties:
         b8x4m3n9kp7qtw5r:
           value:
             - id: btn-default-1
               type: link
-              text: Explore the Full Platform
+              text: Back to Platform Home
               url: link:///home
               variant: contained
               size: large
               target: _self
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
-              text: Dive into the Docs
+              text: ""
               variant: outlined
               borderColor: common.white
               size: large
-              url: link:///architecture
+              url: ""
         r8t5y6u7i1o2p3a4:
           value: 16
         v5utpm7bu9yvdpnq:
@@ -1760,19 +1952,300 @@ dataSource:
           value:
             - id: btn-default-1
               type: link
-              text: 探索完整平台
+              text: 返回平台主页
               url: link:///home
               variant: contained
               size: large
               target: _self
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
-              text: 深入了解文档
+              text: ""
               variant: outlined
               borderColor: common.white
               size: large
-              url: link:///architecture
+              url: ""
         r8t5y6u7i1o2p3a4:
           value: 16
         v5utpm7bu9yvdpnq:
           value: center
+  d2e1e66a22867eb0:
+    en:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Explore the Blocklet Platform
+            style:
+              variant: h2
+        v5utpm7bu9yvdpnq:
+          value: center
+        kyg0hdy5uqq4gc1o:
+          value: center
+    zh:
+      properties:
+        gs1rn5jmxfvpxptx:
+          value:
+            text: 探索 Blocklet 平台
+            style:
+              variant: h2
+        v5utpm7bu9yvdpnq:
+          value: center
+        kyg0hdy5uqq4gc1o:
+          value: center
+  8aecb279cb86af64:
+    en:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Blocklet Platform Home
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: Get a complete overview of the ecosystem.
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+    zh:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Blocklet 平台主页
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: 全面了解生态系统。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+  b05f8b39bca50be9:
+    en:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Blocklet Server
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: The foundational runtime for your apps.
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+    zh:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Blocklet Server
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: 您应用的基础运行时。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+  d0c0cc24316bbe0d:
+    en:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Blocklet SDK
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: Your essential toolkit for development.
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+    zh:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Blocklet SDK
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: 您必不可少的开发工具包。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+  78cbabe075441b26:
+    en:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Blocklet CLI
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: Master the command line for total control.
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+    zh:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Blocklet CLI
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: 掌握命令行以实现完全控制。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+  0ab4906c31389cc5:
+    en:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Blocklet Store
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: Discover and publish amazing Blocklets.
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+    zh:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Blocklet Store
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: 发现并发布出色的 Blocklets。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+  b32f23fe0e3cf57f:
+    en:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Blocklet Launcher
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: Deploy dApps with zero code.
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1
+    zh:
+      properties:
+        v5utpm7bu9yvdpnq:
+          value: flex-start
+        kyg0hdy5uqq4gc1o:
+          value: flex-start
+        gs1rn5jmxfvpxptx:
+          value:
+            text: Blocklet Launcher
+            style:
+              variant: h4
+        9ajrz12ik7esfk1z:
+          value:
+            list:
+              - id: item-1759143324880-zr95ywd04
+                type: text
+                text: 无需代码即可部署 dApp。
+                style:
+                  color: ""
+                  fontSize: 16px
+                  variant: body1

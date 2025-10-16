@@ -1,0 +1,1 @@
+An abstract visual representing the Blocklet Service architecture. It illustrates how various Blocklets (nodes) connect to a standardized, well-known service endpoint, symbolizing composability and interoperability within the platform. This image supports the section explaining the technical mechanism of Blocklet Services.

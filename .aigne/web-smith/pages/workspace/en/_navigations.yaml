@@ -1,133 +1,28 @@
 - path: /home
   navigation:
-    nav:
-      home:
-        title: Home Page
-        description: Return to the main homepage
-      products:
-        title: Our Products
-        description: Browse our product catalog
-      about:
-        title: About Us
-        description: Learn about our company
-      contact:
-        title: Contact Us
-        description: Get in touch with us
+    title: Home
+    description: Explore the Blocklet ecosystem
 - path: /blocklet-server
   navigation:
-    home:
-      title: Homepage
-      description: Return to the main page
-    about:
-      title: About Us
-      description: Learn more about our company
-    products:
-      title: Our Products
-      description: Explore our product catalog
-    contact:
-      title: Contact Us
-      description: Get in touch with our team
+    title: Blocklet Server
+    description: Deploy and manage your apps
 - path: /blocklet-service
   navigation:
-    nav:
-      home:
-        title: Home
-        description: Return to the homepage
-      features:
-        title: Features
-        description: Explore product features
-      pricing:
-        title: Pricing
-        description: View our plans and pricing
-      contact:
-        title: Contact Us
-        description: Get in touch with sales
+    title: Blocklet Service
+    description: Utilize built-in functions
 - path: /blocklet-sdk
   navigation:
-    nav:
-      home:
-        title: Main Homepage
-        description: Return to the main page
-      products:
-        title: View Products
-        description: Browse our product catalog
-      about:
-        title: About Our Company
-        description: Learn more about our mission
-      contact:
-        title: Contact Support
-        description: Get in touch with our team
+    title: Blocklet SDK
+    description: Build with our toolkit
 - path: /blocklet-cli
   navigation:
-    home:
-      title: Main Homepage
-      description: Go back to the homepage
-    products:
-      title: Our Products
-      description: Explore our product catalog
-    solutions:
-      title: Our Solutions
-      description: Find solutions for your needs
-    about:
-      title: About Our Company
-      description: Learn more about who we are
-    contact:
-      title: Contact Us
-      description: Get in touch with our team
+    title: Blocklet CLI
+    description: Automate your workflow
 - path: /blocklet-store
   navigation:
-    nav:
-      home:
-        title: Return Home
-        description: Navigate to the main dashboard.
-      products:
-        title: Our Products
-        description: Explore our range of products.
-      solutions:
-        title: Business Solutions
-        description: Find solutions for your industry.
-      pricing:
-        title: Plans & Pricing
-        description: View our flexible pricing plans.
-      about:
-        title: Learn About Us
-        description: Learn more about our mission.
-      contact:
-        title: Contact Sales
-        description: Get in touch with our expert team.
+    title: Blocklet Store
+    description: Discover and deploy apps
 - path: /blocklet-launcher
   navigation:
-    nav:
-      home:
-        title: Home
-        description: Return to the main page.
-      products:
-        title: Our Products
-        description: Explore our suite of products.
-      solutions:
-        title: Our Solutions
-        description: Find solutions for your industry.
-      pricing:
-        title: View Pricing
-        description: See our flexible pricing plans.
-      about:
-        title: About Us
-        description: Learn more about our company.
-      contact:
-        title: Contact Sales
-        description: Get in touch with our expert team.
-- path: /architecture
-  navigation:
-    nav:
-      products:
-        title: Our Products
-        description: Explore our product offerings.
-      solutions:
-        title: View Solutions
-        description: Find solutions for your business.
-      pricing:
-        title: Pricing Plans
-        description: See our flexible pricing options.
-      contact:
-        title: Contact Sales
-        description: Get in touch with our expert team.
+    title: Blocklet Launcher
+    description: Launch apps with one click

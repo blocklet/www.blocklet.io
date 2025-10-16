@@ -1,0 +1,1 @@
+A futuristic hero image for the Blocklet SDK page. It abstractly represents the flow of data and code through APIs, creating an engaging and high-tech visual for developers. This image will be placed on the right side of the hero section.

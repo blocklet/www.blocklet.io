@@ -1,0 +1,1 @@
+A hero image for the Blocklet SDK page. It abstractly visualizes the concept of an SDK, with a central hub of APIs and flowing code, representing the tools and connectivity developers get. This image is meant to be inspiring and convey technological sophistication to a developer audience.

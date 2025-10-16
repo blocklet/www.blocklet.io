@@ -1,232 +1,152 @@
-"meta":
-  "title": "Blocklet CLI: Full Control from Your Command Line"
-  "description": "Master the Blocklet CLI! Your one-stop command-line tool for
-    scaffolding, developing, deploying, and managing Blocklets and the Blocklet
-    Server with speed and precision."
-"sections":
-  - "sectionName": "cliHero"
-    "sectionSummary": "An engaging hero section that introduces the Blocklet CLI,
-      highlighting its power and providing clear calls to action."
-    "splitHeroTitle": "Your Entire Workflow, One Command Away"
-    "splitHeroDescription": "Stop juggling tools. The Blocklet CLI puts the full
-      power of the Blocklet Platform right where you work—in the terminal. From
-      scaffolding a new project to managing a production server, do it all with
-      lightning-fast commands."
-    "splitHeroRightImage": "mediakit://cli-help-main-commands.png"
-    "splitHeroActions":
-      - "text": "View Documentation"
-        "link": "https://docs.arcblock.io/en/getting-started/installation"
-      - "text": "Explore the Platform"
-        "link": "link:///home"
-  - "sectionName": "appLifecycleCommands"
-    "sectionSummary": "A detailed breakdown of the 'blocklet' subcommands for
-      managing the application lifecycle, from creation to deployment."
-    "oneColumnGridTitle": "Manage Your Application Lifecycle, Step-by-Step"
-    "list":
-      - "sectionName": "blockletInitCommand"
-        "sectionSummary": "Explains the 'blocklet init' command for scaffolding new projects."
-        "contentCardTitle": "Scaffold New Projects with `init`"
-        "contentCardDescription": "Kickstart your next big idea in seconds! The `init`
-          command sets up a new Blocklet project from a template, giving you a
-          ready-to-code structure right out of the box. Just pick a template and
-          you're off!
-
-
-          ```bash
-
-          blocklet init my-app --template react
-
-          ```"
-        "contentCardRightImage": "https://placehold.co/800x450?text=blocklet+init"
-      - "sectionName": "blockletDevCommand"
-        "sectionSummary": "Explains the 'blocklet dev' command for running the
-          development server."
-        "contentCardTitle": "Develop in Real-Time with `dev`"
-        "contentCardDescription": "See your changes live! The `dev` command fires up a
-          local development server with hot-reloading. Every time you save a
-          file, your app updates instantly. It’s the fastest way to build and
-          iterate.
-
-
-          ```bash
-
-          blocklet dev
-
-          ```"
-        "contentCardRightImage": "https://placehold.co/800x450?text=blocklet+dev"
-      - "sectionName": "blockletVersionCommand"
-        "sectionSummary": "Explains the 'blocklet version' command for managing
-          application versions."
-        "contentCardTitle": "Manage Releases with `version`"
-        "contentCardDescription": "Keep your releases clean and predictable. This
-          command helps you bump your Blocklet's version number following
-          semantic versioning rules (patch, minor, major). It's essential for
-          managing updates and publishing new releases.
-
-
-          ```bash
-
-          blocklet version patch
-
-          ```"
-        "contentCardRightImage": "https://placehold.co/800x450?text=blocklet+version"
-      - "sectionName": "blockletBundleCommand"
-        "sectionSummary": "Explains the 'blocklet bundle' command for packaging applications."
-        "contentCardTitle": "Package for Production with `bundle`"
-        "contentCardDescription": "Ready to go live? The `bundle` command packages your
-          application and all its dependencies into a single, optimized file.
-          This distributable artifact is all you need for deployment.
-
-
-          ```bash
-
-          blocklet bundle
-
-          ```"
-        "contentCardRightImage": "https://placehold.co/800x450?text=blocklet+bundle"
-      - "sectionName": "blockletDeployCommand"
-        "sectionSummary": "Explains the 'blocklet deploy' command for deploying applications."
-        "contentCardTitle": "Ship It with `deploy`"
-        "contentCardDescription": "Push your creation to the world! The `deploy` command
-          sends your bundled Blocklet to a running Blocklet Server instance.
-          Your app will be live and accessible in moments. It’s that simple.
-
-
-          ```bash
-
-          blocklet deploy .blocklet/bundle --endpoint http://server.example.com
-
-          ```"
-        "contentCardRightImage": "https://placehold.co/800x450?text=blocklet+deploy"
-  - "sectionName": "storeCommands"
-    "sectionSummary": "Details the commands for interacting with the Blocklet Store,
-      such as connecting to a store instance and uploading blocklets."
-    "oneColumnGridTitle": "Publish and Distribute Your Blocklets"
-    "list":
-      - "sectionName": "blockletConnectCommand"
-        "sectionSummary": "Explains the 'blocklet connect' command for linking to a
-          Blocklet Store."
-        "contentCardTitle": "Connect to a Blocklet Store"
-        "contentCardDescription": "Link your local CLI to a Blocklet Store instance.
-          This is the first step to publishing your creations and sharing them
-          with the world. Just point it to the store's URL!
-
-
-          ```bash
-
-          blocklet connect https://store.blocklet.io
-
-          ```"
-        "contentCardRightImage": "https://placehold.co/800x450?text=blocklet+connect"
-      - "sectionName": "blockletUploadCommand"
-        "sectionSummary": "Explains the 'blocklet upload' command for publishing a
-          blocklet to the store."
-        "contentCardTitle": "Publish Your Creation with `upload`"
-        "contentCardDescription": "Share your work! The `upload` command sends your
-          bundled Blocklet to a connected Blocklet Store, making it available
-          for others to discover, install, and use. Time to get famous!
-
-
-          ```bash
-
-          blocklet upload .blocklet/bundle
-
-          ```"
-        "contentCardRightImage": "https://placehold.co/800x450?text=blocklet+upload"
-  - "sectionName": "serverCommands"
-    "sectionSummary": "A section detailing the various 'blocklet server' subcommands
-      for administration."
-    "oneColumnGridTitle": "Administer Your Server with Ease"
-    "list":
-      - "sectionName": "serverInitCommand"
-        "sectionSummary": "Explains the 'blocklet server init' command."
-        "contentCardTitle": "Initialize a New Server with `init`"
-        "contentCardDescription": "Set up a new Blocklet Server instance in seconds.
-          This command scaffolds a new server environment, creating all the
-          necessary configuration files and directories. It's the first step to
-          launching your own decentralized application hub.
-
-
-          ```bash
-
-          blocklet server init
-
-          ```"
-        "contentCardRightImage": "https://placehold.co/800x450?text=blocklet+server+init"
-      - "sectionName": "serverStartCommand"
-        "sectionSummary": "Explains the 'blocklet server start' command with a visual."
-        "contentCardTitle": "Boot Up the Server with `start`"
-        "contentCardDescription": "Kick things off and bring your server online. This
-          command boots up the server daemon, runs necessary migrations, and
-          starts all your blocklets. Watch the detailed startup sequence to see
-          everything come to life."
-        "contentCardRightImage": "mediakit://cli-server-start-output.png"
-      - "sectionName": "serverStopCommand"
-        "sectionSummary": "Explains the 'blocklet server stop' command."
-        "contentCardTitle": "Shut Down Safely with `stop`"
-        "contentCardDescription": "Safely shut down the Blocklet Server daemon. This
-          command gracefully terminates all running processes, ensuring a clean
-          shutdown without data corruption. It’s essential for maintenance and
-          server management.
-
-
-          ```bash
-
-          blocklet server stop
-
-          ```"
-        "contentCardRightImage": "https://placehold.co/800x450?text=blocklet+server+stop"
-      - "sectionName": "serverInfoCommand"
-        "sectionSummary": "Explains the 'blocklet server info' command with a visual."
-        "contentCardTitle": "Get Deep Insights with `info`"
-        "contentCardDescription": "Dive deep into your server's configuration. This
-          command gives you an exhaustive breakdown of everything from versions
-          and file paths to host CPU, memory, and network details. Perfect for
-          advanced troubleshooting."
-        "contentCardRightImage": "mediakit://cli-server-info-output.png"
-      - "sectionName": "serverStatusCommand"
-        "sectionSummary": "Explains the 'blocklet server status' command with a visual."
-        "contentCardTitle": "Check Real-Time `status`"
-        "contentCardDescription": "Get an instant snapshot of your server's health. It
-          provides a comprehensive overview, including server version, Docker
-          status, and the current state of every running blocklet. It's your
-          go-to command for a quick health check."
-        "contentCardRightImage": "mediakit://cli-server-status-output.png"
-  - "sectionName": "cliKeyFeatures"
-    "sectionSummary": "Highlights the key, user-friendly features of the CLI in a
-      scannable 3-column grid, emphasizing the developer experience."
-    "threeColumnGridTitle": "Built for a Fast, Fluid Workflow"
-    "list":
-      - "sectionName": "interactiveCli"
-        "sectionSummary": "Highlights the interactive and intuitive nature of the CLI."
-        "cardTitle": "Interactive & Intuitive"
-        "cardDescription": "Forget memorizing flags. Our CLI uses interactive prompts,
-          autocomplete, and helpful guides to make every command a breeze."
-        "iconName": "mdi:cursor-default-click-outline"
-      - "sectionName": "automationReady"
-        "sectionSummary": "Emphasizes the CLI's suitability for automation and CI/CD pipelines."
-        "cardTitle": "Scriptable & CI/CD Ready"
-        "cardDescription": "Automate everything! The CLI is designed for scripting,
-          allowing you to easily integrate your deployment pipeline with GitHub
-          Actions, Jenkins, and more."
-        "iconName": "mdi:cogs"
-      - "sectionName": "comprehensiveControl"
-        "sectionSummary": "Showcases the granular control the CLI provides over the
-          entire platform."
-        "cardTitle": "Comprehensive Control"
-        "cardDescription": "From a single blocklet to the entire server, get granular
-          control and detailed status info right in your terminal. See
-          everything at a glance."
-        "iconName": "mdi:console-line"
-  - "sectionName": "cliCta"
-    "sectionSummary": "A final, action-oriented section to encourage visitors to
-      start using the CLI or explore other parts of the platform."
-    "ctaTitle": "Ready to Take Command?"
-    "ctaDescription": "Install the Blocklet CLI and start building, deploying, and
-      managing your applications from the command line today. It's the fastest
-      way to get productive on the Blocklet Platform."
-    "cta":
-      - "text": "View Documentation"
-        "link": "https://docs.arcblock.io/en/getting-started/installation"
-      - "text": "Explore the Platform"
-        "link": "link:///home"
+meta:
+  title: "Blocklet CLI: Full Command-Line Control for Development & Automation"
+  description: "Master the Blocklet CLI with its dual command structure for server management ('blocklet server') and app development ('blocklet'). Automate your entire workflow and enable seamless CI/CD integration."
+  image: "mediakit://blocklet-cli-hero-visual.png"
+sections:
+  - sectionName: "hero"
+    sectionSummary: "Introduces the Blocklet CLI, highlighting its comprehensive control over the development and server lifecycle for a technical audience."
+    splitHeroTitle: "Full Control from Your Terminal"
+    splitHeroDescription: "Master your entire development and server lifecycle with the Blocklet CLI. From scaffolding projects to managing production servers, automate everything with powerful, intuitive commands."
+    splitHeroActions:
+      - text: "Get Started"
+        link: "https://www.arcblock.io/docs/blocklet-sdk/latest/cli"
+      - text: "View Source on GitHub"
+        link: "https://github.com/ArcBlock/blocklet-cli"
+    splitHeroRightImage: "mediakit://blocklet-cli-hero-visual.png"
+  - sectionName: "cliDualStructure"
+    sectionSummary: "Explains the logical separation of CLI commands into 'blocklet server' for infrastructure and 'blocklet' for application development, clarifying the workflow for users."
+    oneColumnGridTitle: "Two Command Sets, One Powerful Workflow"
+    list:
+      - sectionName: "cliStructureCard"
+        sectionSummary: "A content card visually explaining the dual-command structure of the Blocklet CLI to reinforce the concept for developers."
+        contentCardDescription: "The Blocklet CLI is intelligently split into two primary command sets. Use `blocklet server` for all your infrastructure tasks and `blocklet` for the application development lifecycle. This clear separation streamlines your workflow and makes automation a breeze."
+        contentCardLeftImage: "mediakit://cli-help-main-commands.png"
+        contentCardTitle: "Intuitive by Design"
+  - sectionName: "serverCommands"
+    sectionSummary: "Demonstrates the core 'blocklet server' commands using interactive terminal players, allowing developers to see exactly how to manage their server instances."
+    oneColumnGridTitle: "Manage Your Server with `blocklet server`"
+    list:
+      - sectionName: "serverInitDemo"
+        sectionSummary: "Showcases the 'blocklet server init' command."
+        terminalPlaybackData: "mediakit://cli-blocklet-server-init.json"
+        terminalLeft:
+          title: "blocklet server init"
+          description: "Kickstart a new Blocklet Server instance from scratch. The `init` command sets up the entire environment, ready for you to deploy your applications."
+          actionTitle: ""
+          actionLink: ""
+      - sectionName: "serverStartDemo"
+        sectionSummary: "Showcases the 'blocklet server start' command."
+        terminalPlaybackData: "mediakit://ci-blocklet-server-start.json"
+        terminalRight:
+          title: "blocklet server start"
+          description: "Run `start` to bring your Blocklet Server online. It launches the server as a background process, making all your blocklets accessible."
+          actionTitle: ""
+          actionLink: ""
+      - sectionName: "serverStatusDemo"
+        sectionSummary: "Showcases the 'blocklet server status' command."
+        terminalPlaybackData: "mediakit://ci-blocklet-server-status.json"
+        terminalLeft:
+          title: "blocklet server status"
+          description: "Get a real-time overview of your server's health and the status of all running blocklets with the `status` command. Instantly see what's running and what's not."
+          actionTitle: ""
+          actionLink: ""
+      - sectionName: "serverStopDemo"
+        sectionSummary: "Showcases the 'blocklet server stop' command."
+        terminalPlaybackData: "mediakit://ci-blocklet-server-stop.json"
+        terminalRight:
+          title: "blocklet server stop"
+          description: "Safely shut down the Blocklet Server daemon using the `stop` command. This will terminate all running blocklet processes gracefully."
+          actionTitle: ""
+          actionLink: ""
+  - sectionName: "appDevCommands"
+    sectionSummary: "Demonstrates the core 'blocklet' commands for the application lifecycle using interactive terminal players, guiding developers from project creation to deployment."
+    oneColumnGridTitle: "Build Your Apps with `blocklet`"
+    list:
+      - sectionName: "appInitDemo"
+        sectionSummary: "Showcases the 'blocklet init' command for scaffolding new projects."
+        terminalPlaybackData: "mediakit://ci-blocklet-init.json"
+        terminalLeft:
+          title: "blocklet init"
+          description: "Create a new Blocklet project instantly using pre-built templates. The `init` command sets up your entire project structure so you can start coding right away."
+          actionTitle: ""
+          actionLink: ""
+      - sectionName: "appDevDemo"
+        sectionSummary: "Showcases the 'blocklet dev' command for running a local development server."
+        terminalPlaybackData: "mediakit://ci-blocklet-dev.json"
+        terminalRight:
+          title: "blocklet dev"
+          description: "Start a local development server with `dev`. Enjoy features like hot-reloading that make your development process faster and more interactive."
+          actionTitle: ""
+          actionLink: ""
+      - sectionName: "appBundleDemo"
+        sectionSummary: "Showcases the 'blocklet bundle' command for packaging applications."
+        terminalPlaybackData: "mediakit://ci-blocklet-bundle.json"
+        terminalLeft:
+          title: "blocklet bundle"
+          description: "When you're ready to ship, use `bundle` to package your blocklet into a distributable format, optimized for deployment."
+          actionTitle: ""
+          actionLink: ""
+      - sectionName: "appDeployDemo"
+        sectionSummary: "Showcases the 'blocklet deploy' command for deploying to a server."
+        terminalPlaybackData: "mediakit://ci-blocklet-deploy.json"
+        terminalRight:
+          title: "blocklet deploy"
+          description: "Push your bundled blocklet directly to a running Blocklet Server instance with the `deploy` command. It's the final step to get your app live."
+          actionTitle: ""
+          actionLink: ""
+      - sectionName: "appUploadDemo"
+        sectionSummary: "Showcases the 'blocklet upload' command for publishing to the Blocklet Store."
+        terminalPlaybackData: "mediakit://ci-blocklet-upload.json"
+        terminalLeft:
+          title: "blocklet upload"
+          description: "Share your creation with the world! The `upload` command publishes your blocklet to the Blocklet Store, making it discoverable for everyone."
+          actionTitle: ""
+          actionLink: ""
+      - sectionName: "appVersionDemo"
+        sectionSummary: "Showcases the 'blocklet version' command for managing application versions."
+        terminalPlaybackData: "mediakit://ci-blocklet-version.json"
+        terminalRight:
+          title: "blocklet version"
+          description: "Easily manage your blocklet's versioning with semantic versioning standards. The `version` command helps you bump versions and tag releases."
+          actionTitle: ""
+          actionLink: ""
+  - sectionName: "automationAndCICD"
+    sectionSummary: "Highlights the CLI's role in automation and CI/CD, appealing to advanced developers and DevOps professionals by showing its integration capabilities."
+    featureSectionTitle: "Power Your CI/CD Pipelines"
+    featureSectionDescription: "The Blocklet CLI is designed for automation. Integrate it into your CI/CD pipelines to automate testing, bundling, and deployment. Full scriptable control means you can build robust, repeatable workflows for any environment."
+    featureSectionBottomImage: "mediakit://analytics-runtime-dashboard.png"
+    featureSectionAction:
+      link: "https://www.arcblock.io/docs/blocklet-sdk/latest/ci-cd"
+      text: "Learn About CI/CD Integration"
+  - sectionName: "getStartedCta"
+    sectionSummary: "Provides a clear call-to-action, encouraging users to install the CLI and begin using it immediately."
+    ctaTitle: "Ready to Take Control?"
+    ctaDescription: "Install the Blocklet CLI and start building and managing your applications from the command line today."
+    cta:
+      - text: "Install Now"
+        link: "https://www.arcblock.io/docs/blocklet-sdk/latest/cli"
+      - text: ""
+        link: ""
+  - sectionName: "footerNavigation"
+    sectionSummary: "Provides clear, clickable navigation links to all other major pages of the Blocklet Platform website, ensuring users can easily explore the entire ecosystem."
+    logoWallList:
+      - image: "https://placehold.co/200x50/FFFFFF/000000?text=Home"
+        link: "link:///home"
+      - image: "https://placehold.co/200x50/FFFFFF/000000?text=Blocklet+Server"
+        link: "link:///blocklet-server"
+      - image: "https://placehold.co/200x50/FFFFFF/000000?text=Blocklet+Service"
+        link: "link:///blocklet-service"
+      - image: "https://placehold.co/200x50/FFFFFF/000000?text=Blocklet+SDK"
+        link: "link:///blocklet-sdk"
+      - image: "https://placehold.co/200x50/FFFFFF/000000?text=Blocklet+Store"
+        link: "link:///blocklet-store"
+      - image: "https://placehold.co/200x50/FFFFFF/000000?text=Blocklet+Launcher"
+        link: "link:///blocklet-launcher"
+      - image: ""
+        link: ""
+      - image: ""
+        link: ""
+      - image: ""
+        link: ""
+      - image: ""
+        link: ""

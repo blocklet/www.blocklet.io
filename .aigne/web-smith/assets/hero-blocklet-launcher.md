@@ -1,0 +1,1 @@
+This hero image will be used for the Blocklet Launcher page. It visually represents the core concept of a no-code, app-store-like experience for deploying dApps. The image should convey ease of use and modern technology to appeal to a non-technical audience.

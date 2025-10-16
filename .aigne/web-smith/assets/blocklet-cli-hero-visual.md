@@ -1,0 +1,1 @@
+This hero image provides a dynamic and abstract visual for the Blocklet CLI page. It avoids literal terminal screenshots, instead capturing the feeling of power, speed, and automation that the CLI provides to developers. The glowing text and futuristic aesthetic align with a tech-forward brand, creating an engaging first impression for the target audience.

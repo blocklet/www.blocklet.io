@@ -57,9 +57,9 @@ rules: >-
 
   3. Each component subpage should focus on the component itself, serve as a dedicated landing page, and include a link back to the home page.
 
-  4. Except for the home page, the hero section structure of each subpage should be different from that of the home page, to highlight each component’s unique visual style and key message.
+  4. The home page should use a Full Background Hero_center layout at the top, while all other subpages should use a Grid Right layout instead.
 
-  5. Each page should include a footer section containing links to all other pages, allowing users to easily navigate across the entire site.
+  5. each page must include a footer section with clickable links to all other pages, ensuring users can easily navigate across the entire site.
 
   6. On the blocklet-cli page, if there are any .cast files available, use them instead of PNG images to display code.
 
@@ -72,8 +72,9 @@ translateLanguages:
 pagesDir: .aigne/web-smith/pages # Directory to save generated pages
 sourcesPath: # Source code paths to analyze
   - ./src
-lastGitHead: 48ba4aaf9a818ff9f8d862ec9f5067486a48aed1
+lastGitHead: 750353c94df7920cb61452923b64f8272aaa9d32
 # Checkout ID for website deployment service
 checkoutId: ""
 # appUrl: https://www.blocklet.io
 appUrl: https://staging.websmith.aigne.io
+projectCover: .aigne/web-smith/cover.png
