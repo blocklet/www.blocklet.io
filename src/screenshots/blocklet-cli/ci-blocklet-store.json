@@ -1,0 +1,872 @@
+{
+  "config": {
+    "command": "bash",
+    "cwd": "/tmp",
+    "env": {
+      "recording": true,
+      "SHELL": "/bin/bash",
+      "TERM": "xterm-256color"
+    },
+    "cols": 120,
+    "rows": 30,
+    "repeat": false,
+    "autoplay": true,
+    "speedFactor": 1,
+    "convertEol": true,
+    "cursorStyle": "block",
+    "cursorBlink": true,
+    "quality": 100,
+    "frameDelay": "auto",
+    "controls": true,
+    "maxIdleTime": 2000,
+    "frameBox": {
+      "type": "floating",
+      "title": "Terminal Recording - 10/15/2025, 12:29:08 PM",
+      "style": {
+        "border": "0px black solid"
+      }
+    },
+    "watermark": {
+      "imagePath": null,
+      "style": {
+        "position": "absolute",
+        "right": "15px",
+        "bottom": "15px",
+        "width": "100px",
+        "opacity": 0.9
+      }
+    },
+    "fontFamily": "source-code-pro, Menlo, Monaco, Consolas, \"Courier New\", monospace",
+    "fontSize": 16,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "enableTheme": true,
+    "theme": {
+      "background": "transparent",
+      "foreground": "#afafaf",
+      "cursor": "#c7c7c7",
+      "black": "#232628",
+      "red": "#fc4384",
+      "green": "#b3e33b",
+      "yellow": "#ffa727",
+      "blue": "#75dff2",
+      "magenta": "#ae89fe",
+      "cyan": "#708387",
+      "white": "#d5d5d0",
+      "brightBlack": "#626566",
+      "brightRed": "#ff7fac",
+      "brightGreen": "#c8ed71",
+      "brightYellow": "#ebdf86",
+      "brightBlue": "#75dff2",
+      "brightMagenta": "#ae89fe",
+      "brightCyan": "#b1c6ca",
+      "brightWhite": "#f9f9f4"
+    }
+  },
+  "records": [
+    {
+      "delay": 8,
+      "content": "Your user’s .npmrc file (${HOME}/.npmrc)\r\nhas a `globalconfig` and/or a `prefix` setting, which are incompatible with nvm.\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "Run `nvm use --delete-prefix v22.18.0 --silent` to unset it.\r\n"
+    },
+    {
+      "delay": 96,
+      "content": "\u001b[1G\u001b[0K"
+    },
+    {
+      "delay": 144,
+      "content": "\u001b[1G\u001b[0K"
+    },
+    {
+      "delay": 93,
+      "content": "\u001b[?2004hpillar \u001b[32m~/blocklet-demo\u001b[m $ "
+    },
+    {
+      "delay": 486,
+      "content": "b"
+    },
+    {
+      "delay": 405,
+      "content": "l"
+    },
+    {
+      "delay": 218,
+      "content": "o"
+    },
+    {
+      "delay": 218,
+      "content": "c"
+    },
+    {
+      "delay": 93,
+      "content": "k"
+    },
+    {
+      "delay": 219,
+      "content": "l"
+    },
+    {
+      "delay": 94,
+      "content": "e"
+    },
+    {
+      "delay": 187,
+      "content": "t"
+    },
+    {
+      "delay": 156,
+      "content": " "
+    },
+    {
+      "delay": 1838,
+      "content": "c"
+    },
+    {
+      "delay": 155,
+      "content": "o"
+    },
+    {
+      "delay": 281,
+      "content": "n"
+    },
+    {
+      "delay": 280,
+      "content": "n"
+    },
+    {
+      "delay": 124,
+      "content": "e"
+    },
+    {
+      "delay": 219,
+      "content": "c"
+    },
+    {
+      "delay": 280,
+      "content": "t"
+    },
+    {
+      "delay": 187,
+      "content": " "
+    },
+    {
+      "delay": 499,
+      "content": "h"
+    },
+    {
+      "delay": 155,
+      "content": "t"
+    },
+    {
+      "delay": 187,
+      "content": "t"
+    },
+    {
+      "delay": 156,
+      "content": "p"
+    },
+    {
+      "delay": 405,
+      "content": ":"
+    },
+    {
+      "delay": 374,
+      "content": "/"
+    },
+    {
+      "delay": 186,
+      "content": "/"
+    },
+    {
+      "delay": 1091,
+      "content": "d"
+    },
+    {
+      "delay": 436,
+      "content": "\b\u001b[K"
+    },
+    {
+      "delay": 62,
+      "content": "t"
+    },
+    {
+      "delay": 94,
+      "content": "e"
+    },
+    {
+      "delay": 124,
+      "content": "s"
+    },
+    {
+      "delay": 187,
+      "content": "t"
+    },
+    {
+      "delay": 249,
+      "content": "."
+    },
+    {
+      "delay": 435,
+      "content": "s"
+    },
+    {
+      "delay": 186,
+      "content": "t"
+    },
+    {
+      "delay": 155,
+      "content": "o"
+    },
+    {
+      "delay": 125,
+      "content": "r"
+    },
+    {
+      "delay": 62,
+      "content": "e"
+    },
+    {
+      "delay": 218,
+      "content": "."
+    },
+    {
+      "delay": 218,
+      "content": "b"
+    },
+    {
+      "delay": 124,
+      "content": "l"
+    },
+    {
+      "delay": 218,
+      "content": "o"
+    },
+    {
+      "delay": 280,
+      "content": "c"
+    },
+    {
+      "delay": 187,
+      "content": "k"
+    },
+    {
+      "delay": 218,
+      "content": "l"
+    },
+    {
+      "delay": 155,
+      "content": "e"
+    },
+    {
+      "delay": 187,
+      "content": "t"
+    },
+    {
+      "delay": 186,
+      "content": "."
+    },
+    {
+      "delay": 187,
+      "content": "d"
+    },
+    {
+      "delay": 218,
+      "content": "e"
+    },
+    {
+      "delay": 249,
+      "content": "v"
+    },
+    {
+      "delay": 1088,
+      "content": "\r\n\u001b[?2004l\r"
+    },
+    {
+      "delay": 3453,
+      "content": "\u001b[1mblocklet connect v1.16.53-beta-20251014-110009-8220e324\u001b[22m\r\n"
+    },
+    {
+      "delay": 1231,
+      "content": "If browser does not open automatically, please open the following link in your browser:  \u001b[36mhttp://test.store.blocklet.dev/connect-cli?__connect_url__=aHR0cHM6Ly9hYnR3YWxsZXQuaW8vaS8_YWN0aW9uPXJlcXVlc3RBdXRoJnVybD1odHRwJTI1M0ElMjUyRiUyNTJGdGVzdC1zdG9yZS5ibG9ja2xldC5kZXYlMjUyRmFwaSUyNTJGZGlkJTI1MkZjb25uZWN0LWNsaSUyNTJGYXV0aCUyNTNGX3RfJTI1M0Q4MDFmMWUyYQ&source=Blocklet+CLI\u001b[39m\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[?25l"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◜\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[1G\u001b[36m◠\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◝\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◞\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◡\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◟\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◜\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◠\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◝\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◞\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◡\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◟\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◜\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◠\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◝\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◞\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◡\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◟\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◜\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◠\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◝\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◞\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◡\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◟\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◜\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◠\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◝\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◞\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◡\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◟\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◜\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◠\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◝\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◞\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 99,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◡\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◟\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◜\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◠\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◝\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◞\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◡\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◟\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◜\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◠\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◝\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◞\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◡\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◟\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◜\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◠\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◝\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◞\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◡\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◟\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◜\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◠\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◝\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◞\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◡\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◟\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◜\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◠\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◝\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◞\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◡\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◟\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◜\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◠\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◝\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◞\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◡\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◟\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◜\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◠\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◝\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◞\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◡\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◟\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◜\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◠\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◝\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◞\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◡\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◟\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◜\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◠\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◝\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◞\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◡\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◟\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◜\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◠\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◝\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◞\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◡\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◟\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◜\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◠\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◝\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◞\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◡\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◟\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◜\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◠\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◝\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◞\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 99,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◡\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◟\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◜\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◠\u001b[39m Waiting for connection: http://test.store.blocklet.dev"
+    },
+    {
+      "delay": 74,
+      "content": "\u001b[2K\u001b[1G\u001b[?25h"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m✔\u001b[39m Waiting for connection: http://test.store.blocklet.dev Done in \u001b[36m11.223\u001b[39ms\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m✔\u001b[39m Successfully connected, and now you are ready to upload blocklets to http://test.store.blocklet.dev\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[34mℹ\u001b[39m \u001b[36mTips:\u001b[39m Use the following command to view the configuration: \u001b[36mblocklet config list \u001b[39m\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[?25h"
+    },
+    {
+      "delay": 11,
+      "content": "\u001b[?2004hpillar \u001b[32m~/blocklet-demo\u001b[m $ "
+    },
+    {
+      "delay": 3267,
+      "content": "\u001b[?2004l\r\r\nexit\r\n"
+    }
+  ]
+}

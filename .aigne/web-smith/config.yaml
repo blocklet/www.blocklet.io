@@ -5,7 +5,7 @@ projectDesc: The Blocklet Platform is a comprehensive ecosystem that simplifies
   applications with built-in identity and security.
 projectLogo: ""
 projectId: pg4d0000-0000-4000-a000-000000000000
-projectSlug: "/"
+projectSlug: /ezfj
 
 # =============================================================================
 # Website Configuration
@@ -51,15 +51,17 @@ websiteScale: standard
 
 # Custom Rules: Define specific page generation rules and requirements
 rules: >-
-  1. Generate a home page for the whole blocklet platform and subpage for each
-  component of the platform
+  1. Generate a home page for the entire Blocklet platform, as well as a subpage for each component of the platform.
 
-  2. The home page should include a section for each component such as: blocklet
-  server, blocklet service, blocklet sdk, blocklet cli, blocklet store, blocklet
-  launcher, the section should link to corresponding subpage
+  2. The home page should include a section for each component — such as Blocklet Server, Blocklet Service, Blocklet SDK, Blocklet CLI, Blocklet Store, and Blocklet Launcher — and each section should link to its corresponding subpage.
 
-  3. Each component subpage should focus on the component itself, act as a
-  landing page for that component, and should link back to the home page
+  3. Each component subpage should focus on the component itself, serve as a dedicated landing page, and include a link back to the home page.
+
+  4. Except for the home page, the hero section structure of each subpage should be different from that of the home page, to highlight each component’s unique visual style and key message.
+
+  5. Each page should include a footer section containing links to all other pages, allowing users to easily navigate across the entire site.
+
+  6. On the blocklet-cli page, if there are any .cast files available, use them instead of PNG images to display code.
 
 # Glossary: Define project-specific terms and definitions
 # glossary: "@glossary.md"  # Path to markdown file containing glossary definitions
@@ -70,7 +72,8 @@ translateLanguages:
 pagesDir: .aigne/web-smith/pages # Directory to save generated pages
 sourcesPath: # Source code paths to analyze
   - ./src
-lastGitHead: 151002c334913aa7b5bb28c0a5d3a03d82b21ed0
+lastGitHead: 48ba4aaf9a818ff9f8d862ec9f5067486a48aed1
 # Checkout ID for website deployment service
 checkoutId: ""
-appUrl: https://www.blocklet.io
+# appUrl: https://www.blocklet.io
+appUrl: https://staging.websmith.aigne.io

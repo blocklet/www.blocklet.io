@@ -1,0 +1,324 @@
+{
+  "config": {
+    "command": "bash",
+    "cwd": "/tmp",
+    "env": {
+      "recording": true,
+      "SHELL": "/bin/bash",
+      "TERM": "xterm-256color"
+    },
+    "cols": 120,
+    "rows": 30,
+    "repeat": false,
+    "autoplay": true,
+    "speedFactor": 1,
+    "convertEol": true,
+    "cursorStyle": "block",
+    "cursorBlink": true,
+    "quality": 100,
+    "frameDelay": "auto",
+    "controls": true,
+    "maxIdleTime": 2000,
+    "frameBox": {
+      "type": "floating",
+      "title": "Terminal Recording - 10/15/2025, 12:13:15 PM",
+      "style": {
+        "border": "0px black solid"
+      }
+    },
+    "watermark": {
+      "imagePath": null,
+      "style": {
+        "position": "absolute",
+        "right": "15px",
+        "bottom": "15px",
+        "width": "100px",
+        "opacity": 0.9
+      }
+    },
+    "fontFamily": "source-code-pro, Menlo, Monaco, Consolas, \"Courier New\", monospace",
+    "fontSize": 16,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "enableTheme": true,
+    "theme": {
+      "background": "transparent",
+      "foreground": "#afafaf",
+      "cursor": "#c7c7c7",
+      "black": "#232628",
+      "red": "#fc4384",
+      "green": "#b3e33b",
+      "yellow": "#ffa727",
+      "blue": "#75dff2",
+      "magenta": "#ae89fe",
+      "cyan": "#708387",
+      "white": "#d5d5d0",
+      "brightBlack": "#626566",
+      "brightRed": "#ff7fac",
+      "brightGreen": "#c8ed71",
+      "brightYellow": "#ebdf86",
+      "brightBlue": "#75dff2",
+      "brightMagenta": "#ae89fe",
+      "brightCyan": "#b1c6ca",
+      "brightWhite": "#f9f9f4"
+    }
+  },
+  "records": [
+    {
+      "delay": 8,
+      "content": "Your user’s .npmrc file (${HOME}/.npmrc)\r\nhas a `globalconfig` and/or a `prefix` setting, which are incompatible with nvm.\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "Run `nvm use --delete-prefix v22.18.0 --silent` to unset it.\r\n"
+    },
+    {
+      "delay": 57,
+      "content": "\u001b[1G\u001b[0K"
+    },
+    {
+      "delay": 155,
+      "content": "\u001b[1G\u001b[0K"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[?2004hpillar \u001b[32m~/demo\u001b[m $ "
+    },
+    {
+      "delay": 813,
+      "content": "b"
+    },
+    {
+      "delay": 834,
+      "content": "l"
+    },
+    {
+      "delay": 186,
+      "content": "o"
+    },
+    {
+      "delay": 154,
+      "content": "c"
+    },
+    {
+      "delay": 93,
+      "content": "k"
+    },
+    {
+      "delay": 185,
+      "content": "l"
+    },
+    {
+      "delay": 155,
+      "content": "e"
+    },
+    {
+      "delay": 247,
+      "content": "t"
+    },
+    {
+      "delay": 154,
+      "content": " "
+    },
+    {
+      "delay": 155,
+      "content": "s"
+    },
+    {
+      "delay": 92,
+      "content": "e"
+    },
+    {
+      "delay": 62,
+      "content": "r"
+    },
+    {
+      "delay": 217,
+      "content": "v"
+    },
+    {
+      "delay": 185,
+      "content": "e"
+    },
+    {
+      "delay": 93,
+      "content": "r"
+    },
+    {
+      "delay": 94,
+      "content": " "
+    },
+    {
+      "delay": 246,
+      "content": "s"
+    },
+    {
+      "delay": 154,
+      "content": "t"
+    },
+    {
+      "delay": 155,
+      "content": "o"
+    },
+    {
+      "delay": 371,
+      "content": "p"
+    },
+    {
+      "delay": 463,
+      "content": "\r\n\u001b[?2004l\r"
+    },
+    {
+      "delay": 1794,
+      "content": "\u001b[1mblocklet server v1.16.53-beta-20251014-110009-8220e324\u001b[22m\r\n"
+    },
+    {
+      "delay": 30,
+      "content": "\u001b[34mℹ\u001b[39m Server DID \u001b[36mzNKaRSicpZPgtgXs6xkpRcb2MyorvXeor4mD\u001b[39m\r\n"
+    },
+    {
+      "delay": 93,
+      "content": "\u001b[34mℹ\u001b[39m Server config from \u001b[36m/home/pillar/demo/.blocklet-server/config.yml\u001b[39m\r\n"
+    },
+    {
+      "delay": 51,
+      "content": "\u001b[?25l"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m▁\u001b[39m Sending shutdown notification to web dashboard users"
+    },
+    {
+      "delay": 121,
+      "content": "\u001b[2K"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[1G\u001b[36m▃\u001b[39m Sending shutdown notification to web dashboard users"
+    },
+    {
+      "delay": 121,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m▄\u001b[39m Sending shutdown notification to web dashboard users"
+    },
+    {
+      "delay": 122,
+      "content": "\u001b[2K\u001b[1G\u001b[36m▅\u001b[39m Sending shutdown notification to web dashboard users"
+    },
+    {
+      "delay": 123,
+      "content": "\u001b[2K\u001b[1G\u001b[36m▆\u001b[39m Sending shutdown notification to web dashboard users"
+    },
+    {
+      "delay": 124,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m▇\u001b[39m Sending shutdown notification to web dashboard users"
+    },
+    {
+      "delay": 124,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m▆\u001b[39m Sending shutdown notification to web dashboard users"
+    },
+    {
+      "delay": 124,
+      "content": "\u001b[2K\u001b[1G\u001b[36m▅\u001b[39m Sending shutdown notification to web dashboard users"
+    },
+    {
+      "delay": 123,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m▄\u001b[39m Sending shutdown notification to web dashboard users"
+    },
+    {
+      "delay": 124,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m▃\u001b[39m Sending shutdown notification to web dashboard users"
+    },
+    {
+      "delay": 123,
+      "content": "\u001b[2K\u001b[1G\u001b[36m▁\u001b[39m Sending shutdown notification to web dashboard users"
+    },
+    {
+      "delay": 124,
+      "content": "\u001b[2K\u001b[1G\u001b[36m▃\u001b[39m Sending shutdown notification to web dashboard users"
+    },
+    {
+      "delay": 121,
+      "content": "\u001b[2K\u001b[1G\u001b[36m▄\u001b[39m Sending shutdown notification to web dashboard users"
+    },
+    {
+      "delay": 120,
+      "content": "\u001b[2K\u001b[1G\u001b[36m▅\u001b[39m Sending shutdown notification to web dashboard users"
+    },
+    {
+      "delay": 120,
+      "content": "\u001b[2K\u001b[1G\u001b[36m▆\u001b[39m Sending shutdown notification to web dashboard users"
+    },
+    {
+      "delay": 123,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m▇\u001b[39m Sending shutdown notification to web dashboard users"
+    },
+    {
+      "delay": 121,
+      "content": "\u001b[2K\u001b[1G\u001b[36m▆\u001b[39m Sending shutdown notification to web dashboard users"
+    },
+    {
+      "delay": 87,
+      "content": "\u001b[2K\u001b[1G\u001b[?25h"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m✔\u001b[39m Sending shutdown notification to web dashboard users Done in \u001b[36m2.049\u001b[39ms\r\n"
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[32m✔\u001b[39m Routing engine is stopped successfully\r\n"
+    },
+    {
+      "delay": 311,
+      "content": "\u001b[32m✔\u001b[39m abt-node-daemon is stopped successfully\r\n"
+    },
+    {
+      "delay": 10116,
+      "content": "\u001b[32m✔\u001b[39m abt-node-service is stopped successfully\r\n"
+    },
+    {
+      "delay": 109,
+      "content": "\u001b[32m✔\u001b[39m abt-node-event-hub is stopped successfully\r\n"
+    },
+    {
+      "delay": 385,
+      "content": "\u001b[32m✔\u001b[39m Docker containers managed by blocklet server are stopped\r\n\u001b[32m✔\u001b[39m Done!\r\n"
+    },
+    {
+      "delay": 9,
+      "content": "\u001b[?25h"
+    },
+    {
+      "delay": 12,
+      "content": "\u001b[?2004hpillar \u001b[32m~/demo\u001b[m $ "
+    },
+    {
+      "delay": 2130,
+      "content": "\u001b[?2004l\r\r\nexit\r\n"
+    }
+  ]
+}

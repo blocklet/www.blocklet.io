@@ -1,0 +1,1548 @@
+{
+  "config": {
+    "command": "bash",
+    "cwd": "/tmp",
+    "env": {
+      "recording": true,
+      "SHELL": "/bin/bash",
+      "TERM": "xterm-256color"
+    },
+    "cols": 120,
+    "rows": 30,
+    "repeat": false,
+    "autoplay": true,
+    "speedFactor": 1,
+    "convertEol": true,
+    "cursorStyle": "block",
+    "cursorBlink": true,
+    "quality": 100,
+    "frameDelay": "auto",
+    "controls": true,
+    "maxIdleTime": 2000,
+    "frameBox": {
+      "type": "floating",
+      "title": "Terminal Recording - 10/15/2025, 12:18:05 PM",
+      "style": {
+        "border": "0px black solid"
+      }
+    },
+    "watermark": {
+      "imagePath": null,
+      "style": {
+        "position": "absolute",
+        "right": "15px",
+        "bottom": "15px",
+        "width": "100px",
+        "opacity": 0.9
+      }
+    },
+    "fontFamily": "source-code-pro, Menlo, Monaco, Consolas, \"Courier New\", monospace",
+    "fontSize": 16,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "enableTheme": true,
+    "theme": {
+      "background": "transparent",
+      "foreground": "#afafaf",
+      "cursor": "#c7c7c7",
+      "black": "#232628",
+      "red": "#fc4384",
+      "green": "#b3e33b",
+      "yellow": "#ffa727",
+      "blue": "#75dff2",
+      "magenta": "#ae89fe",
+      "cyan": "#708387",
+      "white": "#d5d5d0",
+      "brightBlack": "#626566",
+      "brightRed": "#ff7fac",
+      "brightGreen": "#c8ed71",
+      "brightYellow": "#ebdf86",
+      "brightBlue": "#75dff2",
+      "brightMagenta": "#ae89fe",
+      "brightCyan": "#b1c6ca",
+      "brightWhite": "#f9f9f4"
+    }
+  },
+  "records": [
+    {
+      "delay": 8,
+      "content": "Your user’s .npmrc file (${HOME}/.npmrc)\r\nhas a `globalconfig` and/or a `prefix` setting, which are incompatible with nvm.\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "Run `nvm use --delete-prefix v22.18.0 --silent` to unset it.\r\n"
+    },
+    {
+      "delay": 66,
+      "content": "\u001b[1G\u001b[0K"
+    },
+    {
+      "delay": 166,
+      "content": "\u001b[1G\u001b[0K"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[?2004hpillar \u001b[32m~/blocklet-demo\u001b[m $ "
+    },
+    {
+      "delay": 679,
+      "content": "b"
+    },
+    {
+      "delay": 186,
+      "content": "l"
+    },
+    {
+      "delay": 248,
+      "content": "o"
+    },
+    {
+      "delay": 217,
+      "content": "c"
+    },
+    {
+      "delay": 93,
+      "content": "k"
+    },
+    {
+      "delay": 186,
+      "content": "l"
+    },
+    {
+      "delay": 62,
+      "content": "e"
+    },
+    {
+      "delay": 124,
+      "content": "t"
+    },
+    {
+      "delay": 93,
+      "content": " "
+    },
+    {
+      "delay": 217,
+      "content": "i"
+    },
+    {
+      "delay": 124,
+      "content": "n"
+    },
+    {
+      "delay": 124,
+      "content": "i"
+    },
+    {
+      "delay": 217,
+      "content": "t"
+    },
+    {
+      "delay": 1023,
+      "content": "\r\n\u001b[?2004l\r"
+    },
+    {
+      "delay": 1824,
+      "content": "\u001b[34mℹ\u001b[39m Server DID \u001b[36mzNKaRSicpZPgtgXs6xkpRcb2MyorvXeor4mD\u001b[39m\r\n"
+    },
+    {
+      "delay": 93,
+      "content": "\u001b[34mℹ\u001b[39m Server config from \u001b[36m/home/pillar/demo/.blocklet-server/config.yml\u001b[39m\r\n"
+    },
+    {
+      "delay": 54,
+      "content": "\u001b[?25l"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⠁\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⠁\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⠉\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠙\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 84,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⠚\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⠲\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠴\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠤\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠄\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠄\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠤\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠠\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠠\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠤\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠦\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠖\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠐\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠐\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠓\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠋\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠉\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠈\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠈\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠁\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠁\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠉\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠙\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠚\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠲\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠴\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠤\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠄\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 84,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠄\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠤\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠠\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠠\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠤\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠦\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠖\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠐\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠐\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠓\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠋\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠉\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠈\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠈\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠁\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠁\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠉\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠙\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠚\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠲\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠴\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠤\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠄\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠄\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠤\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⠠\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠠\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠤\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠦\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠖\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠐\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠐\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⠓\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⠋\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠉\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠈\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠈\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠁\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠁\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠉\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠙\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠚\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠲\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠴\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠤\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠄\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠄\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠤\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⠠\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠠\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 79,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠤\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠦\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠖\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⠐\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠐\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠓\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠋\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠉\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠈\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠈\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⠁\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠁\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠉\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠙\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠚\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: true)..."
+    },
+    {
+      "delay": 35,
+      "content": "\u001b[2K\u001b[1G\u001b[?25h"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m✔\u001b[39m Fetching accessible IPs (forceIntranet: true)... Done in \u001b[36m10.016\u001b[39ms\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m✔\u001b[39m You can access your Blocklet Server with either of the following URLs\r\n"
+    },
+    {
+      "delay": 12,
+      "content": "This utility will walk you through create such files and folders(if not exists):\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "- blocklet.yml\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "- blocklet.md\r\n- screenshots/\r\n\r\nIt only covers common items, if you want to check all items, please visit:\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "https://github.com/ArcBlock/blocklets#keyinfo-blockletjson\r\n\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "Press ^C to quit.\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m?\u001b[39m \u001b[1mblocklet title\u001b[22m\u001b[0m \u001b[0m\u001b[2m(blocklet-demo) \u001b[22m"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[33D"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[33C"
+    },
+    {
+      "delay": 6389,
+      "content": "\u001b[2K\u001b[G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m?\u001b[39m \u001b[1mblocklet title\u001b[22m\u001b[0m \u001b[0mblocklet-demo"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[30D\u001b[30C\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m?\u001b[39m \u001b[1mPlease write concise description:\u001b[22m\u001b[0m \u001b[0m\u001b[2m(Blocklet Project) \u001b[22m"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[55D\u001b[55C"
+    },
+    {
+      "delay": 1084,
+      "content": "\u001b[2K\u001b[G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m?\u001b[39m \u001b[1mPlease write concise description:\u001b[22m\u001b[0m \u001b[0m\u001b[36mBlocklet Project\u001b[39m\u001b[52D\u001b[52C"
+    },
+    {
+      "delay": 8,
+      "content": "\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m?\u001b[39m \u001b[1mWhat's the group of the blocklet?\u001b[22m\u001b[0m \u001b[0m\u001b[2m(Use arrow keys or type to search)\u001b[22m\r\n\u001b[36m❯ dapp\u001b[39m \r\n  static \r\n  gateway \r\n  pack "
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[4A\u001b[7D"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[70C"
+    },
+    {
+      "delay": 1828,
+      "content": "\u001b[4B"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[2K\u001b[1A\u001b[2K\u001b[1A\u001b[2K\u001b[1A\u001b[2K\u001b[1A\u001b[2K\u001b[G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m?\u001b[39m \u001b[1mWhat's the group of the blocklet?\u001b[22m\u001b[0m \u001b[0m\r\n  dapp \r\n\u001b[36m❯ static\u001b[39m \r\n  gateway \r\n  pack \u001b[4A\u001b[7D\u001b[36C"
+    },
+    {
+      "delay": 464,
+      "content": "\u001b[4B\u001b[2K\u001b[1A\u001b[2K\u001b[1A\u001b[2K\u001b[1A\u001b[2K\u001b[1A\u001b[2K\u001b[G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m?\u001b[39m \u001b[1mWhat's the group of the blocklet?\u001b[22m\u001b[0m \u001b[0m\r\n  dapp \r\n  static \r\n\u001b[36m❯ gateway\u001b[39m \r\n  pack \u001b[4A\u001b[7D\u001b[36C"
+    },
+    {
+      "delay": 219,
+      "content": "\u001b[4B\u001b[2K\u001b[1A\u001b[2K\u001b[1A\u001b[2K\u001b[1A\u001b[2K\u001b[1A\u001b[2K\u001b[G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m?\u001b[39m \u001b[1mWhat's the group of the blocklet?\u001b[22m\u001b[0m \u001b[0m\r\n  dapp \r\n  static \r\n  gateway \r\n\u001b[36m❯ pack\u001b[39m \u001b[4A"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[7D\u001b[36C"
+    },
+    {
+      "delay": 277,
+      "content": "\u001b[4B\u001b[2K\u001b[1A\u001b[2K\u001b[1A\u001b[2K\u001b[1A\u001b[2K\u001b[1A\u001b[2K\u001b[G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m?\u001b[39m \u001b[1mWhat's the group of the blocklet?\u001b[22m\u001b[0m \u001b[0m\r\n\u001b[36m❯ dapp\u001b[39m \r\n  static \r\n  gateway \r\n  pack \u001b[4A\u001b[7D"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36C"
+    },
+    {
+      "delay": 557,
+      "content": "\u001b[4B\u001b[2K\u001b[1A\u001b[2K\u001b[1A\u001b[2K\u001b[1A\u001b[2K\u001b[1A\u001b[2K\u001b[G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m?\u001b[39m \u001b[1mWhat's the group of the blocklet?\u001b[22m\u001b[0m \u001b[0m\r\n  dapp \r\n\u001b[36m❯ static\u001b[39m \r\n  gateway \r\n  pack \u001b[4A\u001b[7D\u001b[36C"
+    },
+    {
+      "delay": 558,
+      "content": "\u001b[4B\u001b[2K\u001b[1A\u001b[2K\u001b[1A\u001b[2K\u001b[1A\u001b[2K\u001b[1A\u001b[2K\u001b[G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m?\u001b[39m \u001b[1mWhat's the group of the blocklet?\u001b[22m\u001b[0m \u001b[0m\r\n\u001b[36m❯ dapp\u001b[39m \r\n  static \r\n  gateway \r\n  pack \u001b[4A\u001b[7D\u001b[36C"
+    },
+    {
+      "delay": 496,
+      "content": "\u001b[4B\u001b[2K\u001b[1A\u001b[2K\u001b[1A\u001b[2K\u001b[1A\u001b[2K\u001b[1A\u001b[2K\u001b[G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m?\u001b[39m \u001b[1mWhat's the group of the blocklet?\u001b[22m\u001b[0m \u001b[0m\u001b[36mdapp\u001b[39m\u001b[40D\u001b[40C"
+    },
+    {
+      "delay": 8,
+      "content": "\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m?\u001b[39m \u001b[1mWhat's the entry point of the blocklet?\u001b[22m\u001b[0m \u001b[0m\u001b[2m(index.js) \u001b[22m\u001b[53D\u001b[53C"
+    },
+    {
+      "delay": 1766,
+      "content": "\u001b[2K\u001b[G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m?\u001b[39m \u001b[1mWhat's the entry point of the blocklet?\u001b[22m\u001b[0m \u001b[0m\u001b[36mindex.js\u001b[39m"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[50D\u001b[50C\r\n"
+    },
+    {
+      "delay": 183,
+      "content": "If browser does not open automatically, please open the following link in your browser:  https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/gen-key-pair?__connect_url__=aHR0cHM6Ly9hYnR3YWxsZXQuaW8vaS8_YWN0aW9uPXJlcXVlc3RBdXRoJnVybD1odHRwcyUyNTNBJTI1MkYlMjUyRjE3Mi0xOC0xMjMtMTExLmlwLmFidG5ldC5pbyUyNTNBNDQ3ODUlMjUyRi53ZWxsLWtub3duJTI1MkZzZXJ2ZXIlMjUyRmFkbWluJTI1MkZhcGklMjUyRmRpZCUyNTJGZ2VuLWtleS1wYWlyJTI1MkZhdXRoJTI1M0ZfdF8lMjUzRGM3NmI5NTEw&source=Blocklet+CLI\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[?25l"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m←\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↖\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↑\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↗\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m→\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↘\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↓\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↙\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m←\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↖\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↑\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↗\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m→\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↘\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↓\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↙\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m←\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↖\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↑\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↗\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m→\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↘\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↓\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↙\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m←\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↖\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 99,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↑\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↗\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m→\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↘\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↓\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↙\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m←\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↖\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↑\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m↗\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m→\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↘\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↓\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↙\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m←\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↖\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↑\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↗\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m→\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↘\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m↓\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↙\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m←\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↖\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↑\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↗\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m→\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m↘\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↓\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m↙\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m←\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↖\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↑\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↗\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m→\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↘\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↓\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↙\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m←\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↖\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↑\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↗\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m→\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↘\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↓\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↙\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m←\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↖\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↑\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↗\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m→\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↘\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↓\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m↙\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m←\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↖\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m↑\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↗\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m→\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↘\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↓\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↙\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m←\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↖\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↑\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m↗\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m→\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↘\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↓\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↙\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m←\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↖\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↑\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↗\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m→\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↘\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↓\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↙\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m←\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↖\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↑\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↗\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m→\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↘\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↓\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↙\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m←\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↖\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↑\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↗\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m→\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↘\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↓\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m↙\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 99,
+      "content": "\u001b[2K\u001b[1G\u001b[36m←\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↖\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↑\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↗\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m→\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↘\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↓\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↙\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m←\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↖\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m↑\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m↗\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m→\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/"
+    },
+    {
+      "delay": 66,
+      "content": "\u001b[2K\u001b[1G\u001b[?25h"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m✔\u001b[39m Waiting for connection: https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/ Done in \u001b[36m13.583\u001b[39ms\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m?\u001b[39m \u001b[1mIs this OK:\u001b[22m\u001b[0m \u001b[0m\u001b[2m(Y/n) \u001b[22m"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[20D\u001b[20C"
+    },
+    {
+      "delay": 1888,
+      "content": "\u001b[2K\u001b[G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m?\u001b[39m \u001b[1mIs this OK:\u001b[22m\u001b[0m \u001b[0m\u001b[2m(Y/n) \u001b[22my\u001b[21D\u001b[21C"
+    },
+    {
+      "delay": 527,
+      "content": "\u001b[2K\u001b[G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m?\u001b[39m \u001b[1mIs this OK:\u001b[22m\u001b[0m \u001b[0m\u001b[36mYes\u001b[39m\u001b[17D\u001b[17C\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m✔\u001b[39m Meta file \u001b[36m/home/pillar/blocklet-demo/blocklet.yml\u001b[39m was created\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m✔\u001b[39m Doc file \u001b[36mblocklet.md\u001b[39m was created\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m✔\u001b[39m Screenshots dir \u001b[36mscreenshots/\u001b[39m was created\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m✔\u001b[39m \u001b[36mlogo.png\u001b[39m was created\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m✔\u001b[39m \u001b[36mindex.js\u001b[39m was created\r\n"
+    },
+    {
+      "delay": 9,
+      "content": "\u001b[?25h"
+    },
+    {
+      "delay": 11,
+      "content": "\u001b[?2004hpillar \u001b[32m~/blocklet-demo\u001b[m $ "
+    },
+    {
+      "delay": 3874,
+      "content": "l"
+    },
+    {
+      "delay": 124,
+      "content": "s"
+    },
+    {
+      "delay": 434,
+      "content": "\r\n\u001b[?2004l\r"
+    },
+    {
+      "delay": 8,
+      "content": "blocklet.md  blocklet.yml  ci-blocklet-init.cast  index.js  logo.png  screenshots\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[?2004hpillar \u001b[32m~/blocklet-demo\u001b[m $ "
+    },
+    {
+      "delay": 5827,
+      "content": "\u001b[?2004l\r\r\nexit\r\n"
+    }
+  ]
+}

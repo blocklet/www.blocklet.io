@@ -1,0 +1,948 @@
+{
+  "config": {
+    "command": "bash",
+    "cwd": "/tmp",
+    "env": {
+      "recording": true,
+      "SHELL": "/bin/bash",
+      "TERM": "xterm-256color"
+    },
+    "cols": 120,
+    "rows": 30,
+    "repeat": false,
+    "autoplay": true,
+    "speedFactor": 1,
+    "convertEol": true,
+    "cursorStyle": "block",
+    "cursorBlink": true,
+    "quality": 100,
+    "frameDelay": "auto",
+    "controls": true,
+    "maxIdleTime": 2000,
+    "frameBox": {
+      "type": "floating",
+      "title": "Terminal Recording - 10/15/2025, 12:15:26 PM",
+      "style": {
+        "border": "0px black solid"
+      }
+    },
+    "watermark": {
+      "imagePath": null,
+      "style": {
+        "position": "absolute",
+        "right": "15px",
+        "bottom": "15px",
+        "width": "100px",
+        "opacity": 0.9
+      }
+    },
+    "fontFamily": "source-code-pro, Menlo, Monaco, Consolas, \"Courier New\", monospace",
+    "fontSize": 16,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "enableTheme": true,
+    "theme": {
+      "background": "transparent",
+      "foreground": "#afafaf",
+      "cursor": "#c7c7c7",
+      "black": "#232628",
+      "red": "#fc4384",
+      "green": "#b3e33b",
+      "yellow": "#ffa727",
+      "blue": "#75dff2",
+      "magenta": "#ae89fe",
+      "cyan": "#708387",
+      "white": "#d5d5d0",
+      "brightBlack": "#626566",
+      "brightRed": "#ff7fac",
+      "brightGreen": "#c8ed71",
+      "brightYellow": "#ebdf86",
+      "brightBlue": "#75dff2",
+      "brightMagenta": "#ae89fe",
+      "brightCyan": "#b1c6ca",
+      "brightWhite": "#f9f9f4"
+    }
+  },
+  "records": [
+    {
+      "delay": 8,
+      "content": "Your user’s .npmrc file (${HOME}/.npmrc)\r\nhas a `globalconfig` and/or a `prefix` setting, which are incompatible with nvm.\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "Run `nvm use --delete-prefix v22.18.0 --silent` to unset it.\r\n"
+    },
+    {
+      "delay": 57,
+      "content": "\u001b[1G\u001b[0K"
+    },
+    {
+      "delay": 180,
+      "content": "\u001b[1G\u001b[0K"
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[?2004hpillar \u001b[32m~/demo\u001b[m $ "
+    },
+    {
+      "delay": 2096,
+      "content": "b"
+    },
+    {
+      "delay": 495,
+      "content": "l"
+    },
+    {
+      "delay": 217,
+      "content": "o"
+    },
+    {
+      "delay": 186,
+      "content": "c"
+    },
+    {
+      "delay": 124,
+      "content": "k"
+    },
+    {
+      "delay": 186,
+      "content": "l"
+    },
+    {
+      "delay": 62,
+      "content": "e"
+    },
+    {
+      "delay": 124,
+      "content": "t"
+    },
+    {
+      "delay": 93,
+      "content": " "
+    },
+    {
+      "delay": 186,
+      "content": "s"
+    },
+    {
+      "delay": 1394,
+      "content": "e"
+    },
+    {
+      "delay": 93,
+      "content": "r"
+    },
+    {
+      "delay": 217,
+      "content": "v"
+    },
+    {
+      "delay": 154,
+      "content": "e"
+    },
+    {
+      "delay": 62,
+      "content": "r"
+    },
+    {
+      "delay": 124,
+      "content": " "
+    },
+    {
+      "delay": 187,
+      "content": "s"
+    },
+    {
+      "delay": 186,
+      "content": "t"
+    },
+    {
+      "delay": 155,
+      "content": "a"
+    },
+    {
+      "delay": 124,
+      "content": "t"
+    },
+    {
+      "delay": 186,
+      "content": "u"
+    },
+    {
+      "delay": 155,
+      "content": "s"
+    },
+    {
+      "delay": 341,
+      "content": "\r\n\u001b[?2004l\r"
+    },
+    {
+      "delay": 1736,
+      "content": "\u001b[1mblocklet server v1.16.53-beta-20251014-110009-8220e324\u001b[22m\r\n"
+    },
+    {
+      "delay": 26,
+      "content": "\u001b[34mℹ\u001b[39m Server DID \u001b[36mzNKaRSicpZPgtgXs6xkpRcb2MyorvXeor4mD\u001b[39m\r\n"
+    },
+    {
+      "delay": 86,
+      "content": "\u001b[34mℹ\u001b[39m Server config from \u001b[36m/home/pillar/demo/.blocklet-server/config.yml\u001b[39m\r\n"
+    },
+    {
+      "delay": 59,
+      "content": "\u001b[34mℹ\u001b[39m Docker enabled for running blocklets: \u001b[90moff\u001b[39m\r\n\u001b[34mℹ\u001b[39m Docker installed: \u001b[32mon\u001b[39m\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "Blocklet Server status: \u001b[32mRunning\u001b[39m (\u001b[32m41.5s\u001b[39m)\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "Blocklet Server mode: \u001b[36mProduction\u001b[39m\r\nBlocklet Server Data Directory: \u001b[36m/home/pillar/demo/.blocklet-server\u001b[39m\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "Blocklet Server Router Engine: \u001b[36mnginx@1.24.0\u001b[39m\r\nBlocklet Server Database: \u001b[36mSQLite@3.44.2\u001b[39m\r\n\r\n\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[?25l"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⠁\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[1G\u001b[36m⠉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠙\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠚\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⠲\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⠴\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠤\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠄\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠄\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠤\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠴\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠲\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠚\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠙\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠁\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠁\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠙\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠚\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠲\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠴\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠤\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠄\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠄\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠤\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠴\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠲\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠚\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠙\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠁\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠁\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠙\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠚\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠲\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠴\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠤\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠄\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠄\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 79,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠤\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠴\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠲\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 79,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠚\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠙\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠁\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠁\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠙\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠚\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠲\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠴\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠤\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠄\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠄\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠤\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⠴\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠲\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠚\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠙\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠁\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠁\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 79,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠙\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠚\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠲\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠴\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠤\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠄\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠄\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠤\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠴\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠲\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠚\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠙\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠁\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠁\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 87,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠙\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠚\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠲\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠴\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠤\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠄\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠄\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠤\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠴\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠲\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠚\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠙\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠁\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠁\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 79,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⠙\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠚\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠂\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠒\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠲\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠴\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠤\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠄\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠄\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠤\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⠴\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 51,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[?25h"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m✔\u001b[39m Fetching accessible IPs (forceIntranet: false)... Done in \u001b[36m13.041\u001b[39ms\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m✔\u001b[39m You can access your Blocklet Server with either of the following URLs\r\n"
+    },
+    {
+      "delay": 14,
+      "content": "\u001b[32m✔\u001b[39m You can access your blocklet server with either of the following URLs:\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\r\nSecure URLs (Recommended):\r\n\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m- https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/\u001b[39m\r\n\r\nHTTP URLs:\r\n\r\n\u001b[36m- http://bbqastfgkcegjrfhgzxit47sdgdztoaptfmeeub4bda.did.abtnet.io:42417/.well-known/server/admin/\u001b[39m\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\r\n"
+    },
+    {
+      "delay": 10,
+      "content": "\u001b[?25h"
+    },
+    {
+      "delay": 16,
+      "content": "\u001b[?2004hpillar \u001b[32m~/demo\u001b[m $ "
+    },
+    {
+      "delay": 2113,
+      "content": "\u001b[?2004l\r\r\nexit\r\n"
+    }
+  ]
+}

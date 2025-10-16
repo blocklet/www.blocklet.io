@@ -1,0 +1,240 @@
+{
+  "config": {
+    "command": "bash",
+    "cwd": "/tmp",
+    "env": {
+      "recording": true,
+      "SHELL": "/bin/bash",
+      "TERM": "xterm-256color"
+    },
+    "cols": 120,
+    "rows": 30,
+    "repeat": false,
+    "autoplay": true,
+    "speedFactor": 1,
+    "convertEol": true,
+    "cursorStyle": "block",
+    "cursorBlink": true,
+    "quality": 100,
+    "frameDelay": "auto",
+    "controls": true,
+    "maxIdleTime": 2000,
+    "frameBox": {
+      "type": "floating",
+      "title": "Terminal Recording - 10/15/2025, 11:56:54 AM",
+      "style": {
+        "border": "0px black solid"
+      }
+    },
+    "watermark": {
+      "imagePath": null,
+      "style": {
+        "position": "absolute",
+        "right": "15px",
+        "bottom": "15px",
+        "width": "100px",
+        "opacity": 0.9
+      }
+    },
+    "fontFamily": "source-code-pro, Menlo, Monaco, Consolas, \"Courier New\", monospace",
+    "fontSize": 16,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "enableTheme": true,
+    "theme": {
+      "background": "transparent",
+      "foreground": "#afafaf",
+      "cursor": "#c7c7c7",
+      "black": "#232628",
+      "red": "#fc4384",
+      "green": "#b3e33b",
+      "yellow": "#ffa727",
+      "blue": "#75dff2",
+      "magenta": "#ae89fe",
+      "cyan": "#708387",
+      "white": "#d5d5d0",
+      "brightBlack": "#626566",
+      "brightRed": "#ff7fac",
+      "brightGreen": "#c8ed71",
+      "brightYellow": "#ebdf86",
+      "brightBlue": "#75dff2",
+      "brightMagenta": "#ae89fe",
+      "brightCyan": "#b1c6ca",
+      "brightWhite": "#f9f9f4"
+    }
+  },
+  "records": [
+    {
+      "delay": 8,
+      "content": "Your user’s .npmrc file (${HOME}/.npmrc)\r\nhas a `globalconfig` and/or a `prefix` setting, which are incompatible with nvm.\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "Run `nvm use --delete-prefix v22.18.0 --silent` to unset it.\r\n"
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[1G\u001b[0K"
+    },
+    {
+      "delay": 227,
+      "content": "\u001b[1G\u001b[0K"
+    },
+    {
+      "delay": 132,
+      "content": "\u001b[?2004hpillar \u001b[32m~/demo\u001b[m $ "
+    },
+    {
+      "delay": 3993,
+      "content": "b"
+    },
+    {
+      "delay": 180,
+      "content": "l"
+    },
+    {
+      "delay": 210,
+      "content": "o"
+    },
+    {
+      "delay": 120,
+      "content": "c"
+    },
+    {
+      "delay": 90,
+      "content": "k"
+    },
+    {
+      "delay": 211,
+      "content": "l"
+    },
+    {
+      "delay": 59,
+      "content": "e"
+    },
+    {
+      "delay": 120,
+      "content": "t"
+    },
+    {
+      "delay": 240,
+      "content": " "
+    },
+    {
+      "delay": 810,
+      "content": "s"
+    },
+    {
+      "delay": 120,
+      "content": "e"
+    },
+    {
+      "delay": 90,
+      "content": "r"
+    },
+    {
+      "delay": 150,
+      "content": "v"
+    },
+    {
+      "delay": 150,
+      "content": "e"
+    },
+    {
+      "delay": 90,
+      "content": "r"
+    },
+    {
+      "delay": 151,
+      "content": " "
+    },
+    {
+      "delay": 239,
+      "content": "i"
+    },
+    {
+      "delay": 120,
+      "content": "n"
+    },
+    {
+      "delay": 90,
+      "content": "i"
+    },
+    {
+      "delay": 90,
+      "content": "t"
+    },
+    {
+      "delay": 210,
+      "content": "\r\n\u001b[?2004l\r"
+    },
+    {
+      "delay": 4780,
+      "content": "\u001b[1mblocklet server v1.16.53-beta-20251014-110009-8220e324\u001b[22m\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m?\u001b[39m \u001b[1mAre you sure to initialize a Blocklet Server instance in the current directory(/home/pillar/demo)\u001b[22m\u001b[0m \u001b[0m\u001b[2m(y/N) \u001b[22m"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[106D"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[106C"
+    },
+    {
+      "delay": 2044,
+      "content": "\u001b[2K\u001b[G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m?\u001b[39m \u001b[1mAre you sure to initialize a Blocklet Server instance in the current directory(/home/pillar/demo)\u001b[22m\u001b[0m \u001b[0m\u001b[2m(y/N) \u001b[22my"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[107D\u001b[107C"
+    },
+    {
+      "delay": 408,
+      "content": "\u001b[2K\u001b[G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m?\u001b[39m \u001b[1mAre you sure to initialize a Blocklet Server instance in the current directory(/home/pillar/demo)\u001b[22m\u001b[0m \u001b[0m\u001b[36mYes\u001b[39m"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[103D\u001b[103C"
+    },
+    {
+      "delay": 8,
+      "content": "\r\n"
+    },
+    {
+      "delay": 10084,
+      "content": "\u001b[33m⚠\u001b[39m Pick 42417 as http port since 80 is not available\r\n\u001b[33m⚠\u001b[39m Pick 44785 as https port since 443 is not available\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m✔\u001b[39m Blocklet Server configuration is successfully generated \u001b[36m/home/pillar/demo/.blocklet-server/config.yml\u001b[39m\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[34mℹ\u001b[39m \u001b[36mblocklet server start\u001b[39m\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\r\n"
+    },
+    {
+      "delay": 24,
+      "content": "\u001b[?2004hpillar \u001b[32m~/demo\u001b[m $ "
+    },
+    {
+      "delay": 2127,
+      "content": "\u001b[?2004l\r\r\nexit\r\n"
+    }
+  ]
+}

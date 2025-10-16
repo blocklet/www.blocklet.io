@@ -1,0 +1,368 @@
+{
+  "config": {
+    "command": "bash",
+    "cwd": "/tmp",
+    "env": {
+      "recording": true,
+      "SHELL": "/bin/bash",
+      "TERM": "xterm-256color"
+    },
+    "cols": 120,
+    "rows": 30,
+    "repeat": false,
+    "autoplay": true,
+    "speedFactor": 1,
+    "convertEol": true,
+    "cursorStyle": "block",
+    "cursorBlink": true,
+    "quality": 100,
+    "frameDelay": "auto",
+    "controls": true,
+    "maxIdleTime": 2000,
+    "frameBox": {
+      "type": "floating",
+      "title": "Terminal Recording - 10/15/2025, 12:31:47 PM",
+      "style": {
+        "border": "0px black solid"
+      }
+    },
+    "watermark": {
+      "imagePath": null,
+      "style": {
+        "position": "absolute",
+        "right": "15px",
+        "bottom": "15px",
+        "width": "100px",
+        "opacity": 0.9
+      }
+    },
+    "fontFamily": "source-code-pro, Menlo, Monaco, Consolas, \"Courier New\", monospace",
+    "fontSize": 16,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "enableTheme": true,
+    "theme": {
+      "background": "transparent",
+      "foreground": "#afafaf",
+      "cursor": "#c7c7c7",
+      "black": "#232628",
+      "red": "#fc4384",
+      "green": "#b3e33b",
+      "yellow": "#ffa727",
+      "blue": "#75dff2",
+      "magenta": "#ae89fe",
+      "cyan": "#708387",
+      "white": "#d5d5d0",
+      "brightBlack": "#626566",
+      "brightRed": "#ff7fac",
+      "brightGreen": "#c8ed71",
+      "brightYellow": "#ebdf86",
+      "brightBlue": "#75dff2",
+      "brightMagenta": "#ae89fe",
+      "brightCyan": "#b1c6ca",
+      "brightWhite": "#f9f9f4"
+    }
+  },
+  "records": [
+    {
+      "delay": 8,
+      "content": "Your user’s .npmrc file (${HOME}/.npmrc)\r\nhas a `globalconfig` and/or a `prefix` setting, which are incompatible with nvm.\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "Run `nvm use --delete-prefix v22.18.0 --silent` to unset it.\r\n"
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[0K"
+    },
+    {
+      "delay": 145,
+      "content": "\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[0K"
+    },
+    {
+      "delay": 93,
+      "content": "\u001b[?2004hpillar \u001b[32m~/blocklet-demo\u001b[m $ "
+    },
+    {
+      "delay": 1082,
+      "content": "b"
+    },
+    {
+      "delay": 187,
+      "content": "l"
+    },
+    {
+      "delay": 248,
+      "content": "o"
+    },
+    {
+      "delay": 218,
+      "content": "c"
+    },
+    {
+      "delay": 93,
+      "content": "k"
+    },
+    {
+      "delay": 218,
+      "content": "l"
+    },
+    {
+      "delay": 62,
+      "content": "e"
+    },
+    {
+      "delay": 248,
+      "content": "t"
+    },
+    {
+      "delay": 3517,
+      "content": " "
+    },
+    {
+      "delay": 622,
+      "content": "u"
+    },
+    {
+      "delay": 217,
+      "content": "p"
+    },
+    {
+      "delay": 249,
+      "content": "l"
+    },
+    {
+      "delay": 186,
+      "content": "o"
+    },
+    {
+      "delay": 93,
+      "content": "a"
+    },
+    {
+      "delay": 342,
+      "content": "d"
+    },
+    {
+      "delay": 249,
+      "content": " "
+    },
+    {
+      "delay": 405,
+      "content": "."
+    },
+    {
+      "delay": 466,
+      "content": "b"
+    },
+    {
+      "delay": 124,
+      "content": "l"
+    },
+    {
+      "delay": 218,
+      "content": "o"
+    },
+    {
+      "delay": 467,
+      "content": "c"
+    },
+    {
+      "delay": 124,
+      "content": "k"
+    },
+    {
+      "delay": 218,
+      "content": "l"
+    },
+    {
+      "delay": 62,
+      "content": "e"
+    },
+    {
+      "delay": 218,
+      "content": "t"
+    },
+    {
+      "delay": 280,
+      "content": "/"
+    },
+    {
+      "delay": 311,
+      "content": "r"
+    },
+    {
+      "delay": 93,
+      "content": "e"
+    },
+    {
+      "delay": 311,
+      "content": "l"
+    },
+    {
+      "delay": 155,
+      "content": "e"
+    },
+    {
+      "delay": 218,
+      "content": "a"
+    },
+    {
+      "delay": 249,
+      "content": "s"
+    },
+    {
+      "delay": 280,
+      "content": "e"
+    },
+    {
+      "delay": 311,
+      "content": "/"
+    },
+    {
+      "delay": 249,
+      "content": "b"
+    },
+    {
+      "delay": 186,
+      "content": "l"
+    },
+    {
+      "delay": 219,
+      "content": "o"
+    },
+    {
+      "delay": 123,
+      "content": "c"
+    },
+    {
+      "delay": 156,
+      "content": "k"
+    },
+    {
+      "delay": 187,
+      "content": "l"
+    },
+    {
+      "delay": 93,
+      "content": "e"
+    },
+    {
+      "delay": 217,
+      "content": "t"
+    },
+    {
+      "delay": 1275,
+      "content": "."
+    },
+    {
+      "delay": 342,
+      "content": "j"
+    },
+    {
+      "delay": 186,
+      "content": "s"
+    },
+    {
+      "delay": 124,
+      "content": "o"
+    },
+    {
+      "delay": 124,
+      "content": "n"
+    },
+    {
+      "delay": 684,
+      "content": "\r\n\u001b[?2004l\r"
+    },
+    {
+      "delay": 1657,
+      "content": "\u001b[1mblocklet upload v1.16.53-beta-20251014-110009-8220e324\u001b[22m\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[34mℹ\u001b[39m Upload using profile \u001b[36mdefault\u001b[39m to store \u001b[36mhttp://test.store.blocklet.dev\u001b[39m\r\n"
+    },
+    {
+      "delay": 157,
+      "content": "\u001b[32m✔\u001b[39m Blocklet release signed successfully, signature: z4BqozeJQEdS34Sdr8fmDimvRSFE31dfa8z5KqQMojUQJKY3EYDrMvZ3nnD811j5R2P7NvUCrqErpL1WKqVefr2Mu\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "📦  z2qZxCi1M1Z5kFzUTRLWwWkrVd8yHhMYLjoMu@1.0.1\r\n=== Tarball Contents ===\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "23B    blocklet.js             \r\n40B    blocklet.md             \r\n731B   blocklet.yml            \r\n388B   blocklet.zip            \r\n2.0kB  ci-blocklet-bundle.cast \r\n4.2kB  ci-blocklet-dev.cast    \r\n42.3kB ci-blocklet-init.cast   \r\n1.3kB  ci-blocklet-version.cast\r\n371B   index.js                \r\n4.6kB  logo.png                \r\n"
+    },
+    {
+      "delay": 8,
+      "content": "=== Tarball Details ===\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "name:          z2qZxCi1M1Z5kFzUTRLWwWkrVd8yHhMYLjoMu          \r\nversion:       1.0.1                                          \r\nfilename:      z2qZxCi1M1Z5kFzUTRLWwWkrVd8yHhMYLjoMu-1.0.1.tgz\r\nbundle size:   13.3 kB                                        \r\nunpacked size: 56.0 kB                                        \r\nshasum:                                                       \r\nintegrity:     sha512-SbsEvl9h/FY4n[...]p7eCQ7zJwk/Rg==       \r\ntotal files:   10                                             \r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[?25l"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m+\u001b[39m Uploading z2qZxCi1M1Z5kFzUTRLWwWkrVd8yHhMYLjoMu@1.0.1..."
+    },
+    {
+      "delay": 16,
+      "content": "\u001b[2K"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[1G\u001b[?25h"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[31m✖\u001b[39m Uploading z2qZxCi1M1Z5kFzUTRLWwWkrVd8yHhMYLjoMu@1.0.1... Fail after \u001b[36m0.016\u001b[39ms\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "Request failed with status code 403\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[31m✖\u001b[39m Upload failed with error: [403] \r\nForbidden\r\n\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[34mℹ\u001b[39m To learn more: \u001b[36mhttps://developer.blocklet.io/docs\u001b[39m\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[?25h"
+    },
+    {
+      "delay": 14,
+      "content": "\u001b[?2004hpillar \u001b[32m~/blocklet-demo\u001b[m $ "
+    },
+    {
+      "delay": 21565,
+      "content": "\u001b[?2004l\r\r\nexit\r\n"
+    }
+  ]
+}

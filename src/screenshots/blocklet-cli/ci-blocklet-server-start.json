@@ -1,0 +1,1608 @@
+{
+  "config": {
+    "command": "bash",
+    "cwd": "/tmp",
+    "env": {
+      "recording": true,
+      "SHELL": "/bin/bash",
+      "TERM": "xterm-256color"
+    },
+    "cols": 120,
+    "rows": 30,
+    "repeat": false,
+    "autoplay": true,
+    "speedFactor": 1,
+    "convertEol": true,
+    "cursorStyle": "block",
+    "cursorBlink": true,
+    "quality": 100,
+    "frameDelay": "auto",
+    "controls": true,
+    "maxIdleTime": 2000,
+    "frameBox": {
+      "type": "floating",
+      "title": "Terminal Recording - 10/15/2025, 12:11:47 PM",
+      "style": {
+        "border": "0px black solid"
+      }
+    },
+    "watermark": {
+      "imagePath": null,
+      "style": {
+        "position": "absolute",
+        "right": "15px",
+        "bottom": "15px",
+        "width": "100px",
+        "opacity": 0.9
+      }
+    },
+    "fontFamily": "source-code-pro, Menlo, Monaco, Consolas, \"Courier New\", monospace",
+    "fontSize": 16,
+    "lineHeight": 1.2,
+    "letterSpacing": 0,
+    "enableTheme": true,
+    "theme": {
+      "background": "transparent",
+      "foreground": "#afafaf",
+      "cursor": "#c7c7c7",
+      "black": "#232628",
+      "red": "#fc4384",
+      "green": "#b3e33b",
+      "yellow": "#ffa727",
+      "blue": "#75dff2",
+      "magenta": "#ae89fe",
+      "cyan": "#708387",
+      "white": "#d5d5d0",
+      "brightBlack": "#626566",
+      "brightRed": "#ff7fac",
+      "brightGreen": "#c8ed71",
+      "brightYellow": "#ebdf86",
+      "brightBlue": "#75dff2",
+      "brightMagenta": "#ae89fe",
+      "brightCyan": "#b1c6ca",
+      "brightWhite": "#f9f9f4"
+    }
+  },
+  "records": [
+    {
+      "delay": 8,
+      "content": "Your user’s .npmrc file (${HOME}/.npmrc)\r\nhas a `globalconfig` and/or a `prefix` setting, which are incompatible with nvm.\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "Run `nvm use --delete-prefix v22.18.0 --silent` to unset it.\r\n"
+    },
+    {
+      "delay": 267,
+      "content": "\u001b[1G\u001b[0K"
+    },
+    {
+      "delay": 182,
+      "content": "\u001b[1G\u001b[0K"
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[?2004hpillar \u001b[32m~/demo\u001b[m $ "
+    },
+    {
+      "delay": 1533,
+      "content": "b"
+    },
+    {
+      "delay": 154,
+      "content": "l"
+    },
+    {
+      "delay": 217,
+      "content": "o"
+    },
+    {
+      "delay": 215,
+      "content": "c"
+    },
+    {
+      "delay": 340,
+      "content": "k"
+    },
+    {
+      "delay": 279,
+      "content": "l"
+    },
+    {
+      "delay": 125,
+      "content": "e"
+    },
+    {
+      "delay": 215,
+      "content": "t"
+    },
+    {
+      "delay": 93,
+      "content": " "
+    },
+    {
+      "delay": 464,
+      "content": "s"
+    },
+    {
+      "delay": 123,
+      "content": "e"
+    },
+    {
+      "delay": 31,
+      "content": "r"
+    },
+    {
+      "delay": 217,
+      "content": "v"
+    },
+    {
+      "delay": 155,
+      "content": "e"
+    },
+    {
+      "delay": 93,
+      "content": "r"
+    },
+    {
+      "delay": 155,
+      "content": " "
+    },
+    {
+      "delay": 185,
+      "content": "s"
+    },
+    {
+      "delay": 124,
+      "content": "t"
+    },
+    {
+      "delay": 124,
+      "content": "a"
+    },
+    {
+      "delay": 125,
+      "content": "r"
+    },
+    {
+      "delay": 277,
+      "content": "t"
+    },
+    {
+      "delay": 961,
+      "content": "\r\n\u001b[?2004l\r"
+    },
+    {
+      "delay": 3666,
+      "content": "\u001b[1mblocklet server v1.16.53-beta-20251014-110009-8220e324\u001b[22m\r\n"
+    },
+    {
+      "delay": 834,
+      "content": "\u001b[32m✔\u001b[39m Server schema successfully migrated: /home/pillar/demo/.blocklet-server/core/server.db\r\n"
+    },
+    {
+      "delay": 25,
+      "content": "\u001b[32m✔\u001b[39m Service schema successfully migrated: /home/pillar/demo/.blocklet-server/services/service.db\r\n"
+    },
+    {
+      "delay": 28,
+      "content": "\u001b[32m✔\u001b[39m certificate-manager schema successfully migrated: /home/pillar/demo/.blocklet-server/modules/certificate-manager/module.db\r\n"
+    },
+    {
+      "delay": 3630,
+      "content": "\u001b[32m✔\u001b[39m Using Redis Cache: redis://localhost:40409\r\n"
+    },
+    {
+      "delay": 32,
+      "content": "\u001b[34mℹ\u001b[39m Server DID \u001b[36mzNKaRSicpZPgtgXs6xkpRcb2MyorvXeor4mD\u001b[39m\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[34mℹ\u001b[39m Server config from \u001b[36m/home/pillar/demo/.blocklet-server/config.yml\u001b[39m\r\n"
+    },
+    {
+      "delay": 30,
+      "content": "\u001b[?25l"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m.\u001b[39m Starting event hub..."
+    },
+    {
+      "delay": 121,
+      "content": "\u001b[2K"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[1G\u001b[36mo\u001b[39m Starting event hub..."
+    },
+    {
+      "delay": 124,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36mO\u001b[39m Starting event hub..."
+    },
+    {
+      "delay": 124,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m°\u001b[39m Starting event hub..."
+    },
+    {
+      "delay": 124,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36mO\u001b[39m Starting event hub..."
+    },
+    {
+      "delay": 125,
+      "content": "\u001b[2K\u001b[1G\u001b[36mo\u001b[39m Starting event hub..."
+    },
+    {
+      "delay": 124,
+      "content": "\u001b[2K\u001b[1G\u001b[36m.\u001b[39m Starting event hub..."
+    },
+    {
+      "delay": 125,
+      "content": "\u001b[2K\u001b[1G\u001b[36m.\u001b[39m Starting event hub..."
+    },
+    {
+      "delay": 125,
+      "content": "\u001b[2K\u001b[1G\u001b[36mo\u001b[39m Starting event hub..."
+    },
+    {
+      "delay": 53,
+      "content": "\u001b[2K"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[1G\u001b[?25h"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m✔\u001b[39m Starting event hub... Done in \u001b[36m1.046\u001b[39ms\r\n"
+    },
+    {
+      "delay": 109,
+      "content": "\u001b[34mℹ\u001b[39m Docker enabled for running blocklets: \u001b[90moff\u001b[39m\r\n\u001b[34mℹ\u001b[39m Docker installed: \u001b[32mon\u001b[39m\r\n"
+    },
+    {
+      "delay": 6596,
+      "content": "\u001b[?25l"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m-\u001b[39m Updating wildcard certificates..."
+    },
+    {
+      "delay": 151,
+      "content": "\u001b[2K\u001b[1G\u001b[36m=\u001b[39m Updating wildcard certificates..."
+    },
+    {
+      "delay": 150,
+      "content": "\u001b[2K\u001b[1G\u001b[36m≡\u001b[39m Updating wildcard certificates..."
+    },
+    {
+      "delay": 182,
+      "content": "\u001b[2K\u001b[1G\u001b[36m-\u001b[39m Updating wildcard certificates..."
+    },
+    {
+      "delay": 150,
+      "content": "\u001b[2K\u001b[1G\u001b[36m=\u001b[39m Updating wildcard certificates..."
+    },
+    {
+      "delay": 115,
+      "content": "\u001b[2K\u001b[1G\u001b[?25h"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m✔\u001b[39m Updating wildcard certificates... Done in \u001b[36m0.748\u001b[39ms\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[?25l"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m🌑 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 91,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌒 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m🌓 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m🌔 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 79,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌕 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌖 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌗 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌘 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌑 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌒 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌓 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌔 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌕 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌖 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌗 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌘 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌑 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌒 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌓 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌔 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌕 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌖 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌗 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌘 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌑 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌒 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌓 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m🌔 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌕 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌖 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌗 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌘 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 79,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌑 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌒 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌓 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌔 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌕 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌖 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌗 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m🌘 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌑 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌒 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌓 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 79,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌔 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌕 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌖 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌗 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m🌘 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌑 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌒 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌓 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌔 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌕 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌖 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌗 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌘 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m🌑 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌒 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌓 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌔 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m🌕 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌖 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌗 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌘 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌑 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌒 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌓 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌔 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m🌕 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌖 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m🌗 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m🌘 \u001b[39m Starting blocklet service..."
+    },
+    {
+      "delay": 51,
+      "content": "\u001b[2K\u001b[1G\u001b[?25h"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m✔\u001b[39m Starting blocklet service... Done in \u001b[36m5.81\u001b[39ms\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[?25l"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⬆️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↗️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m➡️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↘️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⬇️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m↙️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⬅️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↖️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⬆️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m↗️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m➡️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↘️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⬇️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↙️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⬅️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↖️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⬆️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m↗️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m➡️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↘️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⬇️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↙️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⬅️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↖️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⬆️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↗️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m➡️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↘️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⬇️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↙️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⬅️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↖️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⬆️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↗️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m➡️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m↘️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⬇️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↙️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⬅️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↖️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⬆️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 79,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↗️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m➡️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m↘️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 79,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⬇️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↙️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⬅️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↖️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⬆️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m↗️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m➡️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↘️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⬇️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↙️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⬅️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↖️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⬆️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↗️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m➡️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↘️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⬇️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m↙️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⬅️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↖️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⬆️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↗️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m➡️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↘️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⬇️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m↙️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 79,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m⬅️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↖️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⬆️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↗️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m➡️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 80,
+      "content": "\u001b[2K\u001b[1G\u001b[36m↘️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m⬇️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 79,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m↙️ \u001b[39m Starting server daemon..."
+    },
+    {
+      "delay": 37,
+      "content": "\u001b[2K\u001b[1G\u001b[?25h"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m✔\u001b[39m Starting server daemon... Done in \u001b[36m5.267\u001b[39ms\r\n"
+    },
+    {
+      "delay": 35,
+      "content": "\u001b[?25l"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 99,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 105,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 105,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 105,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 105,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 105,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 105,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 99,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 105,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 105,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 105,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 105,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 105,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 105,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 105,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 105,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 105,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 105,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 105,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 102,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 103,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 104,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 105,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 105,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 105,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 105,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 100,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◉\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 101,
+      "content": "\u001b[2K\u001b[1G\u001b[36m◎\u001b[39m Fetching accessible IPs (forceIntranet: false)..."
+    },
+    {
+      "delay": 59,
+      "content": "\u001b[2K\u001b[1G\u001b[?25h"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m✔\u001b[39m Fetching accessible IPs (forceIntranet: false)... Done in \u001b[36m13.04\u001b[39ms\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[?25l\u001b[36m▐⠂       ▌\u001b[39m Updating DID Domain..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m▐⠈       ▌\u001b[39m Updating DID Domain..."
+    },
+    {
+      "delay": 82,
+      "content": "\u001b[2K\u001b[1G\u001b[36m▐ ⠂      ▌\u001b[39m Updating DID Domain..."
+    },
+    {
+      "delay": 81,
+      "content": "\u001b[2K\u001b[1G\u001b[36m▐ ⠠      ▌\u001b[39m Updating DID Domain..."
+    },
+    {
+      "delay": 83,
+      "content": "\u001b[2K\u001b[1G\u001b[?25h"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m✔\u001b[39m Updating DID Domain... Done in \u001b[36m0.327\u001b[39ms\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[32m✔\u001b[39m You can access your Blocklet Server with either of the following URLs\r\n"
+    },
+    {
+      "delay": 10,
+      "content": "\r\nSecure URLs (Recommended):\r\n\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m- https://172-18-123-111.ip.abtnet.io:44785/.well-known/server/admin/\u001b[39m\r\n\r\nHTTP URLs:\r\n\r\n"
+    },
+    {
+      "delay": 8,
+      "content": "\u001b[36m- http://bbqastfgkcegjrfhgzxit47sdgdztoaptfmeeub4bda.did.abtnet.io:42417/.well-known/server/admin/\u001b[39m\r\n\r\n"
+    },
+    {
+      "delay": 10,
+      "content": "\u001b[?25h"
+    },
+    {
+      "delay": 15,
+      "content": "\u001b[?2004hpillar \u001b[32m~/demo\u001b[m $ "
+    },
+    {
+      "delay": 4100,
+      "content": "\u001b[?2004l\r\r\nexit\r\n"
+    }
+  ]
+}
