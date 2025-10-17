@@ -1,198 +1,132 @@
-e7da7bfdcbee38ea8dcd8b17f10cd3069302e888bea851d547fcd4710ee8c041:
-  local_path: src/screenshots/blocklet-store/blocklet-version-history.png
-  sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/e7da7bfdcbee38ea.png
-      upload_time: 2025-10-12T12:06:08.863Z
-    https://www.blocklet.io:
-      url: https://www.blocklet.io/image-bin/uploads/e7da7bfdcbee38ea.png
-      upload_time: 2025-10-12T12:09:24.745Z
-bc96234a1b6e32785cae2b99c2555fdd944ebcb1d4a9824a306ef438be60b3aa:
-  local_path: src/screenshots/blocklet-store/blocklet-catalog-grid.png
-  sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/bc96234a1b6e3278.png
-      upload_time: 2025-10-12T12:06:09.063Z
-    https://www.blocklet.io:
-      url: https://www.blocklet.io/image-bin/uploads/bc96234a1b6e3278.png
-      upload_time: 2025-10-12T12:09:24.967Z
-5b05353ebf5eb89ca2c3279709257ec6c3ca5f060dc128e1000babbe7e4f5152:
-  local_path: src/screenshots/blocklet-store/blocklet-reviews-comments.png
-  sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/5b05353ebf5eb89c.png
-      upload_time: 2025-10-12T12:06:09.103Z
-    https://www.blocklet.io:
-      url: https://www.blocklet.io/image-bin/uploads/5b05353ebf5eb89c.png
-      upload_time: 2025-10-12T12:09:24.767Z
 51c9613bfd8be845cfbfc1b0fd7c6e3e630e2391f513386c2c06233322404b68:
   local_path: src/screenshots/blocklet-service/service-website-branding.png
   sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/51c9613bfd8be845.png
-      upload_time: 2025-10-12T12:06:09.836Z
     https://www.blocklet.io:
       url: https://www.blocklet.io/image-bin/uploads/51c9613bfd8be845.png
-      upload_time: 2025-10-12T12:09:25.366Z
-93c284a8b832b8bdf7c194984273fbcdfabfcad509fec6a0b9e4a12c15a3662a:
-  local_path: src/screenshots/blocklet-service/service-did-connect-members.png
+      upload_time: 2025-10-13T12:11:29.239Z
+5b05353ebf5eb89ca2c3279709257ec6c3ca5f060dc128e1000babbe7e4f5152:
+  local_path: src/screenshots/blocklet-store/blocklet-reviews-comments.png
   sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/93c284a8b832b8bd.png
-      upload_time: 2025-10-12T12:06:10.388Z
     https://www.blocklet.io:
-      url: https://www.blocklet.io/image-bin/uploads/93c284a8b832b8bd.png
-      upload_time: 2025-10-12T12:09:25.465Z
+      url: https://www.blocklet.io/image-bin/uploads/5b05353ebf5eb89c.png
+      upload_time: 2025-10-13T12:11:29.401Z
 aea33c8f7b82b9936ddc513a590e72f6c731aa4cc045f8652ca928b8b8f55727:
   local_path: src/screenshots/blocklet-service/service-operations-analytics.png
   sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/aea33c8f7b82b993.png
-      upload_time: 2025-10-12T12:06:11.208Z
     https://www.blocklet.io:
       url: https://www.blocklet.io/image-bin/uploads/aea33c8f7b82b993.png
-      upload_time: 2025-10-12T12:09:25.898Z
-039d2d1fdbefbabb29616205f5f484a630e7e48bea10f1ab1ffe9825c0cf4cc5:
-  local_path: src/screenshots/blocklet-service/service-add-blocklet-modal.png
+      upload_time: 2025-10-13T12:11:29.813Z
+e7da7bfdcbee38ea8dcd8b17f10cd3069302e888bea851d547fcd4710ee8c041:
+  local_path: src/screenshots/blocklet-store/blocklet-version-history.png
   sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/039d2d1fdbefbabb.png
-      upload_time: 2025-10-12T12:06:11.211Z
     https://www.blocklet.io:
-      url: https://www.blocklet.io/image-bin/uploads/039d2d1fdbefbabb.png
-      upload_time: 2025-10-12T12:09:26.062Z
+      url: https://www.blocklet.io/image-bin/uploads/e7da7bfdcbee38ea.png
+      upload_time: 2025-10-13T12:11:29.863Z
 22abdd12ac3b06be05f0781d38f10d0882c35a5c72c5c2d5e5867e8336575c4d:
   local_path: src/screenshots/blocklet-service/service-blocklets-overview.png
   sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/22abdd12ac3b06be.png
-      upload_time: 2025-10-12T12:06:11.348Z
     https://www.blocklet.io:
       url: https://www.blocklet.io/image-bin/uploads/22abdd12ac3b06be.png
-      upload_time: 2025-10-12T12:09:25.814Z
-c5ab29084d727d402967fa4a363f858b845b771baa9df4ee2151af690ea636d8:
-  local_path: src/screenshots/blocklet-server/team-members-management.png
+      upload_time: 2025-10-13T12:11:30.370Z
+039d2d1fdbefbabb29616205f5f484a630e7e48bea10f1ab1ffe9825c0cf4cc5:
+  local_path: src/screenshots/blocklet-service/service-add-blocklet-modal.png
   sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/c5ab29084d727d40.png
-      upload_time: 2025-10-12T12:06:12.327Z
     https://www.blocklet.io:
-      url: https://www.blocklet.io/image-bin/uploads/c5ab29084d727d40.png
-      upload_time: 2025-10-12T12:09:26.412Z
+      url: https://www.blocklet.io/image-bin/uploads/039d2d1fdbefbabb.png
+      upload_time: 2025-10-13T12:11:30.435Z
+93c284a8b832b8bdf7c194984273fbcdfabfcad509fec6a0b9e4a12c15a3662a:
+  local_path: src/screenshots/blocklet-service/service-did-connect-members.png
+  sites:
+    https://www.blocklet.io:
+      url: https://www.blocklet.io/image-bin/uploads/93c284a8b832b8bd.png
+      upload_time: 2025-10-13T12:11:30.467Z
 e82a3f47c2b20f3d6c17973f26a552d91c429be09f982e90dd1a9e696329dfb1:
   local_path: src/screenshots/blocklet-server/settings-gateway-configuration.png
   sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/e82a3f47c2b20f3d.png
-      upload_time: 2025-10-12T12:06:12.406Z
     https://www.blocklet.io:
       url: https://www.blocklet.io/image-bin/uploads/e82a3f47c2b20f3d.png
-      upload_time: 2025-10-12T12:09:26.368Z
-d1460a2639a94f1b96d34a55cd18229a82de6dd421de72471673c243afa63890:
-  local_path: src/screenshots/blocklet-server/settings-about-upgrade.png
-  sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/d1460a2639a94f1b.png
-      upload_time: 2025-10-12T12:06:12.992Z
-    https://www.blocklet.io:
-      url: https://www.blocklet.io/image-bin/uploads/d1460a2639a94f1b.png
-      upload_time: 2025-10-12T12:09:26.890Z
-ca4c478ea91cbad8bc831a4ceb5b9716b1065d97ffd2af006121e21d9463fb2d:
-  local_path: src/screenshots/blocklet-launcher/purchase-space-subscription.jpg
-  sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/ca4c478ea91cbad8.jpg
-      upload_time: 2025-10-12T12:06:13.421Z
-    https://www.blocklet.io:
-      url: https://www.blocklet.io/image-bin/uploads/ca4c478ea91cbad8.jpg
-      upload_time: 2025-10-12T12:09:27.096Z
+      upload_time: 2025-10-13T12:11:30.825Z
 f6c7bc3a1e8b37c1aaacf105fd9599cd31076b9ee9d088e44e1a5bd942cd5dd5:
   local_path: src/screenshots/blocklet-server/store-browse-blocklets.png
   sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/f6c7bc3a1e8b37c1.png
-      upload_time: 2025-10-12T12:06:13.593Z
     https://www.blocklet.io:
       url: https://www.blocklet.io/image-bin/uploads/f6c7bc3a1e8b37c1.png
-      upload_time: 2025-10-12T12:09:26.626Z
-44a433f71b2ada9df3b6434eb2ee50a3d887d416491a34d97255e58167488cda:
-  local_path: src/screenshots/blocklet-launcher/app-details-invoices.jpg
+      upload_time: 2025-10-13T12:11:30.886Z
+d1460a2639a94f1b96d34a55cd18229a82de6dd421de72471673c243afa63890:
+  local_path: src/screenshots/blocklet-server/settings-about-upgrade.png
   sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/44a433f71b2ada9d.jpg
-      upload_time: 2025-10-12T12:06:13.957Z
     https://www.blocklet.io:
-      url: https://www.blocklet.io/image-bin/uploads/44a433f71b2ada9d.jpg
-      upload_time: 2025-10-12T12:09:27.555Z
-5ed32a62473a614009164b778478d08c4f3d8d4f81f162bc30b0fb34687fdf8a:
-  local_path: src/screenshots/blocklet-cli/cli-server-status-output.png
-  sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/5ed32a62473a6140.png
-      upload_time: 2025-10-12T12:06:14.531Z
-    https://www.blocklet.io:
-      url: https://www.blocklet.io/image-bin/uploads/5ed32a62473a6140.png
-      upload_time: 2025-10-12T12:09:27.779Z
-c147f9ee033462a2d6589d7ec2475b9fdffc2fd0b60f44cf77ef9d6585141b72:
-  local_path: src/screenshots/blocklet-cli/cli-server-start-output.png
-  sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/c147f9ee033462a2.png
-      upload_time: 2025-10-12T12:06:14.925Z
-    https://www.blocklet.io:
-      url: https://www.blocklet.io/image-bin/uploads/c147f9ee033462a2.png
-      upload_time: 2025-10-12T12:09:28.086Z
+      url: https://www.blocklet.io/image-bin/uploads/d1460a2639a94f1b.png
+      upload_time: 2025-10-13T12:11:31.065Z
 7adebe24c863485e5913f0f06a8bbc9dd3e038130bc11967ee15e0b11edde4b7:
   local_path: src/screenshots/blocklet-server/blocklets-management-list.png
   sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/7adebe24c863485e.png
-      upload_time: 2025-10-12T12:06:15.280Z
     https://www.blocklet.io:
       url: https://www.blocklet.io/image-bin/uploads/7adebe24c863485e.png
-      upload_time: 2025-10-12T12:09:26.935Z
-940f4ea7da4e8965606ec1176bf1ebfe7430556014aba9a6e8fb69a29d34d2af:
-  local_path: src/screenshots/blocklet-cli/cli-server-info-output.png
+      upload_time: 2025-10-13T12:11:31.424Z
+c5ab29084d727d402967fa4a363f858b845b771baa9df4ee2151af690ea636d8:
+  local_path: src/screenshots/blocklet-server/team-members-management.png
   sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/940f4ea7da4e8965.png
-      upload_time: 2025-10-12T12:06:15.534Z
     https://www.blocklet.io:
-      url: https://www.blocklet.io/image-bin/uploads/940f4ea7da4e8965.png
-      upload_time: 2025-10-12T12:09:28.074Z
-1b0daeb11a41a92a72418a6ca06a4ed3b7e871dceeca214c42a16a309ab6e579:
-  local_path: src/screenshots/blocklet-cli/cli-help-main-commands.png
+      url: https://www.blocklet.io/image-bin/uploads/c5ab29084d727d40.png
+      upload_time: 2025-10-13T12:11:31.484Z
+bc96234a1b6e32785cae2b99c2555fdd944ebcb1d4a9824a306ef438be60b3aa:
+  local_path: src/screenshots/blocklet-store/blocklet-catalog-grid.png
   sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/1b0daeb11a41a92a.png
-      upload_time: 2025-10-12T12:06:15.915Z
     https://www.blocklet.io:
-      url: https://www.blocklet.io/image-bin/uploads/1b0daeb11a41a92a.png
-      upload_time: 2025-10-12T12:09:28.369Z
+      url: https://www.blocklet.io/image-bin/uploads/bc96234a1b6e3278.png
+      upload_time: 2025-10-13T12:11:31.993Z
+ca4c478ea91cbad8bc831a4ceb5b9716b1065d97ffd2af006121e21d9463fb2d:
+  local_path: src/screenshots/blocklet-launcher/purchase-space-subscription.jpg
+  sites:
+    https://www.blocklet.io:
+      url: https://www.blocklet.io/image-bin/uploads/ca4c478ea91cbad8.jpg
+      upload_time: 2025-10-13T12:11:32.136Z
 27faade5fae0d5ec9331c4896269ced67644303a97a71c03317e61553834475b:
   local_path: src/screenshots/blocklet-server/analytics-runtime-dashboard.png
   sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/27faade5fae0d5ec.png
-      upload_time: 2025-10-12T12:06:16.576Z
     https://www.blocklet.io:
       url: https://www.blocklet.io/image-bin/uploads/27faade5fae0d5ec.png
-      upload_time: 2025-10-12T12:09:27.438Z
+      upload_time: 2025-10-13T12:11:32.242Z
+44a433f71b2ada9df3b6434eb2ee50a3d887d416491a34d97255e58167488cda:
+  local_path: src/screenshots/blocklet-launcher/app-details-invoices.jpg
+  sites:
+    https://www.blocklet.io:
+      url: https://www.blocklet.io/image-bin/uploads/44a433f71b2ada9d.jpg
+      upload_time: 2025-10-13T12:11:32.550Z
+c147f9ee033462a2d6589d7ec2475b9fdffc2fd0b60f44cf77ef9d6585141b72:
+  local_path: src/screenshots/blocklet-cli/cli-server-start-output.png
+  sites:
+    https://www.blocklet.io:
+      url: https://www.blocklet.io/image-bin/uploads/c147f9ee033462a2.png
+      upload_time: 2025-10-13T12:11:32.613Z
+5ed32a62473a614009164b778478d08c4f3d8d4f81f162bc30b0fb34687fdf8a:
+  local_path: src/screenshots/blocklet-cli/cli-server-status-output.png
+  sites:
+    https://www.blocklet.io:
+      url: https://www.blocklet.io/image-bin/uploads/5ed32a62473a6140.png
+      upload_time: 2025-10-13T12:11:32.762Z
+1b0daeb11a41a92a72418a6ca06a4ed3b7e871dceeca214c42a16a309ab6e579:
+  local_path: src/screenshots/blocklet-cli/cli-help-main-commands.png
+  sites:
+    https://www.blocklet.io:
+      url: https://www.blocklet.io/image-bin/uploads/1b0daeb11a41a92a.png
+      upload_time: 2025-10-13T12:11:33.280Z
+940f4ea7da4e8965606ec1176bf1ebfe7430556014aba9a6e8fb69a29d34d2af:
+  local_path: src/screenshots/blocklet-cli/cli-server-info-output.png
+  sites:
+    https://www.blocklet.io:
+      url: https://www.blocklet.io/image-bin/uploads/940f4ea7da4e8965.png
+      upload_time: 2025-10-13T12:11:33.472Z
 00775ae522c45186f6e1a1d2a2d1ad6bfb1006f52f649407235dcc98cc697b54:
   local_path: src/screenshots/blocklet-store/explore-trending-blocklets.png
   sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/00775ae522c45186.png
-      upload_time: 2025-10-12T12:06:16.598Z
     https://www.blocklet.io:
       url: https://www.blocklet.io/image-bin/uploads/00775ae522c45186.png
-      upload_time: 2025-10-12T12:09:28.810Z
+      upload_time: 2025-10-13T12:11:33.588Z
 2e13b533a311fe83ec23d46bb785dc84c7cb1eeef771b93c85add4612397f44a:
   local_path: src/screenshots/blocklet-server/blocklet-server-logs-view.png
   sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/2e13b533a311fe83.png
-      upload_time: 2025-10-12T12:06:19.409Z
     https://www.blocklet.io:
       url: https://www.blocklet.io/image-bin/uploads/2e13b533a311fe83.png
-      upload_time: 2025-10-12T12:09:28.867Z
+      upload_time: 2025-10-13T12:11:33.806Z

@@ -30,9 +30,9 @@ sitemap:
     meta:
       file: home.yaml
       id: 616571b7c79a8472
-      createdAt: 2025-10-12T12:05:11.356Z
-      updatedAt: 2025-10-12T12:05:11.356Z
-      publishedAt: 2025-10-12T12:05:11.356Z
+      createdAt: 2025-10-13T12:11:13.706Z
+      updatedAt: 2025-10-13T12:11:13.706Z
+      publishedAt: 2025-10-13T12:11:13.706Z
       isPublic: true
   - title: "Blocklet Server: The Secure Runtime for Your Applications"
     path: /blocklet-server
@@ -65,9 +65,9 @@ sitemap:
     meta:
       file: blocklet-server.yaml
       id: 81ae0055156bda48
-      createdAt: 2025-10-12T12:05:11.335Z
-      updatedAt: 2025-10-12T12:05:11.335Z
-      publishedAt: 2025-10-12T12:05:11.335Z
+      createdAt: 2025-10-13T12:11:13.686Z
+      updatedAt: 2025-10-13T12:11:13.686Z
+      publishedAt: 2025-10-13T12:11:13.686Z
       isPublic: true
   - title: "Blocklet Service: Reusable, Out-of-the-Box Functionalities"
     path: /blocklet-service
@@ -100,9 +100,9 @@ sitemap:
     meta:
       file: blocklet-service.yaml
       id: 6e6993d63f04af99
-      createdAt: 2025-10-12T12:05:11.343Z
-      updatedAt: 2025-10-12T12:05:11.343Z
-      publishedAt: 2025-10-12T12:05:11.343Z
+      createdAt: 2025-10-13T12:11:13.695Z
+      updatedAt: 2025-10-13T12:11:13.695Z
+      publishedAt: 2025-10-13T12:11:13.695Z
       isPublic: true
   - title: "Blocklet SDK: Powerful Tools for Building on the Platform"
     path: /blocklet-sdk
@@ -133,9 +133,9 @@ sitemap:
     meta:
       file: blocklet-sdk.yaml
       id: d405a141eabebbae
-      createdAt: 2025-10-12T12:05:11.329Z
-      updatedAt: 2025-10-12T12:05:11.329Z
-      publishedAt: 2025-10-12T12:05:11.329Z
+      createdAt: 2025-10-13T12:11:13.679Z
+      updatedAt: 2025-10-13T12:11:13.679Z
+      publishedAt: 2025-10-13T12:11:13.679Z
       isPublic: true
   - title: "Blocklet CLI: Full Control from Your Command Line"
     path: /blocklet-cli
@@ -166,9 +166,9 @@ sitemap:
     meta:
       file: blocklet-cli.yaml
       id: ea3dcb114380f306
-      createdAt: 2025-10-12T12:05:11.313Z
-      updatedAt: 2025-10-12T12:05:11.313Z
-      publishedAt: 2025-10-12T12:05:11.313Z
+      createdAt: 2025-10-13T12:11:13.664Z
+      updatedAt: 2025-10-13T12:11:13.664Z
+      publishedAt: 2025-10-13T12:11:13.664Z
       isPublic: true
   - title: "Blocklet Store: The Decentralized Marketplace for Your Apps"
     path: /blocklet-store
@@ -200,9 +200,9 @@ sitemap:
     meta:
       file: blocklet-store.yaml
       id: ddb35a2fc1a0f21e
-      createdAt: 2025-10-12T12:05:11.349Z
-      updatedAt: 2025-10-12T12:05:11.349Z
-      publishedAt: 2025-10-12T12:05:11.349Z
+      createdAt: 2025-10-13T12:11:13.699Z
+      updatedAt: 2025-10-13T12:11:13.699Z
+      publishedAt: 2025-10-13T12:11:13.699Z
       isPublic: true
   - title: "Blocklet Launcher: Deploy Apps with No-Code Simplicity"
     path: /blocklet-launcher
@@ -235,9 +235,9 @@ sitemap:
     meta:
       file: blocklet-launcher.yaml
       id: 9def252e383a80a5
-      createdAt: 2025-10-12T12:05:11.324Z
-      updatedAt: 2025-10-12T12:05:11.324Z
-      publishedAt: 2025-10-12T12:05:11.324Z
+      createdAt: 2025-10-13T12:11:13.674Z
+      updatedAt: 2025-10-13T12:11:13.674Z
+      publishedAt: 2025-10-13T12:11:13.674Z
       isPublic: true
   - title: Blocklet Platform Architecture
     path: /architecture
@@ -268,9 +268,9 @@ sitemap:
     meta:
       file: architecture.yaml
       id: 20f6e7abccbdbba5
-      createdAt: 2025-10-12T12:05:11.293Z
-      updatedAt: 2025-10-12T12:05:11.293Z
-      publishedAt: 2025-10-12T12:05:11.293Z
+      createdAt: 2025-10-13T12:11:13.644Z
+      updatedAt: 2025-10-13T12:11:13.644Z
+      publishedAt: 2025-10-13T12:11:13.644Z
       isPublic: true
 navigations:
   - id: ed11ff4821c24901-header
@@ -299,247 +299,207 @@ navigations:
     section: header
     visible: true
     title:
-      en: "Blocklet Platform: Build & Deploy Modern Apps with Ease"
-      zh: Blocklet 平台：轻松构建和部署现代应用
+      en: Platform Home
+      zh: 平台主页
     link:
       en: /
       zh: /
     description:
-      en: An overview of the Blocklet Platform, a comprehensive ecosystem that
-        simplifies how you develop, deploy, and manage modern web applications,
-        from the core runtime to a decentralized app store.
-      zh: Blocklet 平台概述，这是一个全面的生态系统，可简化您开发、部署和管理现代 Web 应用的方式，涵盖从核心运行时到去中心化应用商店的方方面面。
+      en: Get a complete overview of the ecosystem
+      zh: 全面了解生态系统
     parent: ed11ff4821c24901-header
   - id: f5c5d15c42b3cf01
     section: footer
     visible: true
     title:
-      en: "Blocklet Platform: Build & Deploy Modern Apps with Ease"
-      zh: Blocklet 平台：轻松构建和部署现代应用
+      en: Platform Home
+      zh: 平台主页
     link:
       en: /
       zh: /
     description:
-      en: An overview of the Blocklet Platform, a comprehensive ecosystem that
-        simplifies how you develop, deploy, and manage modern web applications,
-        from the core runtime to a decentralized app store.
-      zh: Blocklet 平台概述，这是一个全面的生态系统，可简化您开发、部署和管理现代 Web 应用的方式，涵盖从核心运行时到去中心化应用商店的方方面面。
+      en: Get a complete overview of the ecosystem
+      zh: 全面了解生态系统
     parent: ed11ff4821c24901-footer
   - id: a61dbdda0a43d3d0
     section: header
     visible: true
     title:
-      en: "Blocklet Server: The Secure Runtime for Your Applications"
-      zh: Blocklet Server：您应用的安全运行时
+      en: Blocklet Server
+      zh: Blocklet Server
     link:
       en: /blocklet-server
       zh: /blocklet-server
     description:
-      en: Explore Blocklet Server, the foundational runtime environment for executing
-        Blocklets. It offers a secure, scalable, and manageable platform with a
-        full web dashboard for lifecycle management.
-      zh: 了解 Blocklet Server，这是执行 Blocklet 的基础运行时环境。它提供了一个安全、可扩展且易于管理的平台，并配备了功能齐全的 Web
-        仪表板用于生命周期管理。
+      en: Explore the core runtime environment
+      zh: 探索核心运行时环境
     parent: ed11ff4821c24901-header
   - id: 1676ae6d7bd83558
     section: footer
     visible: true
     title:
-      en: "Blocklet Server: The Secure Runtime for Your Applications"
-      zh: Blocklet Server：您应用的安全运行时
+      en: Blocklet Server
+      zh: Blocklet Server
     link:
       en: /blocklet-server
       zh: /blocklet-server
     description:
-      en: Explore Blocklet Server, the foundational runtime environment for executing
-        Blocklets. It offers a secure, scalable, and manageable platform with a
-        full web dashboard for lifecycle management.
-      zh: 了解 Blocklet Server，这是执行 Blocklet 的基础运行时环境。它提供了一个安全、可扩展且易于管理的平台，并配备了功能齐全的 Web
-        仪表板用于生命周期管理。
+      en: Explore the core runtime environment
+      zh: 探索核心运行时环境
     parent: ed11ff4821c24901-footer
   - id: 60d28043d8daafba
     section: header
     visible: true
     title:
-      en: "Blocklet Service: Reusable, Out-of-the-Box Functionalities"
-      zh: Blocklet 服务：可复用、开箱即用的功能
+      en: Blocklet Service
+      zh: Blocklet 服务
     link:
       en: /blocklet-service
       zh: /blocklet-service
     description:
-      en: Discover Blocklet Service, a standardized set of functionalities like
-        authentication, notifications, and theming that any Blocklet can expose,
-        promoting a composable and efficient development model.
-      zh: 了解 Blocklet 服务，这是一套标准化的功能集，如身份验证、通知和主题化，任何 Blocklet
-        都可以暴露这些功能，从而促进可组合且高效的开发模型。
+      en: Discover reusable, built-in services
+      zh: 发现可复用的内置服务
     parent: ed11ff4821c24901-header
   - id: a5ff991116c10228
     section: footer
     visible: true
     title:
-      en: "Blocklet Service: Reusable, Out-of-the-Box Functionalities"
-      zh: Blocklet 服务：可复用、开箱即用的功能
+      en: Blocklet Service
+      zh: Blocklet 服务
     link:
       en: /blocklet-service
       zh: /blocklet-service
     description:
-      en: Discover Blocklet Service, a standardized set of functionalities like
-        authentication, notifications, and theming that any Blocklet can expose,
-        promoting a composable and efficient development model.
-      zh: 了解 Blocklet 服务，这是一套标准化的功能集，如身份验证、通知和主题化，任何 Blocklet
-        都可以暴露这些功能，从而促进可组合且高效的开发模型。
+      en: Discover reusable, built-in services
+      zh: 发现可复用的内置服务
     parent: ed11ff4821c24901-footer
   - id: 4848377e7d1edf2b
     section: header
     visible: true
     title:
-      en: "Blocklet SDK: Powerful Tools for Building on the Platform"
-      zh: Blocklet SDK：赋能平台应用构建的强大工具
+      en: Blocklet SDK
+      zh: Blocklet SDK
     link:
       en: /blocklet-sdk
       zh: /blocklet-sdk
     description:
-      en: A deep dive into the Blocklet SDK for Node.js and browsers, providing a
-        comprehensive set of APIs for authentication, wallet management,
-        inter-blocklet communication, and more.
-      zh: 深入了解适用于 Node.js 和浏览器的 Blocklet SDK，它提供了一整套用于身份验证、钱包管理、Blocklet 间通信等功能的综合
-        API。
+      en: Start building with our developer SDKs
+      zh: 使用我们的开发者 SDK 开始构建
     parent: ed11ff4821c24901-header
   - id: efdb22d3b2bf18d5
     section: footer
     visible: true
     title:
-      en: "Blocklet SDK: Powerful Tools for Building on the Platform"
-      zh: Blocklet SDK：赋能平台应用构建的强大工具
+      en: Blocklet SDK
+      zh: Blocklet SDK
     link:
       en: /blocklet-sdk
       zh: /blocklet-sdk
     description:
-      en: A deep dive into the Blocklet SDK for Node.js and browsers, providing a
-        comprehensive set of APIs for authentication, wallet management,
-        inter-blocklet communication, and more.
-      zh: 深入了解适用于 Node.js 和浏览器的 Blocklet SDK，它提供了一整套用于身份验证、钱包管理、Blocklet 间通信等功能的综合
-        API。
+      en: Start building with our developer SDKs
+      zh: 使用我们的开发者 SDK 开始构建
     parent: ed11ff4821c24901-footer
   - id: 534339594296ee7e
     section: header
     visible: true
     title:
-      en: "Blocklet CLI: Full Control from Your Command Line"
-      zh: Blocklet CLI：从命令行完全掌控
+      en: Blocklet CLI
+      zh: Blocklet CLI
     link:
       en: /blocklet-cli
       zh: /blocklet-cli
     description:
-      en: Master the Blocklet CLI! Your one-stop command-line tool for scaffolding,
-        developing, deploying, and managing Blocklets and the Blocklet Server
-        with speed and precision.
-      zh: 掌握 Blocklet CLI！您的一站式命令行工具，可用于快速、精确地搭建、开发、部署和管理 Blocklet 及 Blocklet Server。
+      en: Manage everything via command line
+      zh: 通过命令行管理一切
     parent: ed11ff4821c24901-header
   - id: 36f15cecdae900fc
     section: footer
     visible: true
     title:
-      en: "Blocklet CLI: Full Control from Your Command Line"
-      zh: Blocklet CLI：从命令行完全掌控
+      en: Blocklet CLI
+      zh: Blocklet CLI
     link:
       en: /blocklet-cli
       zh: /blocklet-cli
     description:
-      en: Master the Blocklet CLI! Your one-stop command-line tool for scaffolding,
-        developing, deploying, and managing Blocklets and the Blocklet Server
-        with speed and precision.
-      zh: 掌握 Blocklet CLI！您的一站式命令行工具，可用于快速、精确地搭建、开发、部署和管理 Blocklet 及 Blocklet Server。
+      en: Manage everything via command line
+      zh: 通过命令行管理一切
     parent: ed11ff4821c24901-footer
   - id: 7c63ac08af8155eb
     section: header
     visible: true
     title:
-      en: "Blocklet Store: The Decentralized Marketplace for Your Apps"
-      zh: Blocklet Store：为您的应用打造的去中心化应用市场
+      en: Blocklet Store
+      zh: Blocklet 商店
     link:
       en: /blocklet-store
       zh: /blocklet-store
     description:
-      en: Explore the Blocklet Store, the central, decentralized marketplace for
-        discovering, publishing, and deploying Blocklets with a single click,
-        functioning as the 'App Store' for the ecosystem.
-      zh: 探索 Blocklet Store，这是一个集中的、去中心化的市场，用于一键发现、发布和部署 Blocklet，是生态系统的“应用商店”。
+      en: Browse the app marketplace
+      zh: 浏览应用市场
     parent: ed11ff4821c24901-header
   - id: fa4f920d8907987c
     section: footer
     visible: true
     title:
-      en: "Blocklet Store: The Decentralized Marketplace for Your Apps"
-      zh: Blocklet Store：为您的应用打造的去中心化应用市场
+      en: Blocklet Store
+      zh: Blocklet 商店
     link:
       en: /blocklet-store
       zh: /blocklet-store
     description:
-      en: Explore the Blocklet Store, the central, decentralized marketplace for
-        discovering, publishing, and deploying Blocklets with a single click,
-        functioning as the 'App Store' for the ecosystem.
-      zh: 探索 Blocklet Store，这是一个集中的、去中心化的市场，用于一键发现、发布和部署 Blocklet，是生态系统的“应用商店”。
+      en: Browse the app marketplace
+      zh: 浏览应用市场
     parent: ed11ff4821c24901-footer
   - id: ea55b90dca5203c8
     section: header
     visible: true
     title:
-      en: "Blocklet Launcher: Deploy Apps with No-Code Simplicity"
-      zh: Blocklet Launcher：零代码轻松部署应用
+      en: Blocklet Launcher
+      zh: Blocklet 启动器
     link:
       en: /blocklet-launcher
       zh: /blocklet-launcher
     description:
-      en: Discover the Blocklet Launcher, a hosted service providing a streamlined,
-        no-code 'app store' experience that abstracts away server setup, making
-        decentralized technology accessible to everyone.
-      zh: 探索 Blocklet Launcher，一项托管服务，它提供简化的零代码“应用商店”式体验，将服务器设置抽象化，让每个人都能轻松使用去中心化技术。
+      en: Launch apps with one click
+      zh: 一键启动应用
     parent: ed11ff4821c24901-header
   - id: 2135f9dab21d2351
     section: footer
     visible: true
     title:
-      en: "Blocklet Launcher: Deploy Apps with No-Code Simplicity"
-      zh: Blocklet Launcher：零代码轻松部署应用
+      en: Blocklet Launcher
+      zh: Blocklet 启动器
     link:
       en: /blocklet-launcher
       zh: /blocklet-launcher
     description:
-      en: Discover the Blocklet Launcher, a hosted service providing a streamlined,
-        no-code 'app store' experience that abstracts away server setup, making
-        decentralized technology accessible to everyone.
-      zh: 探索 Blocklet Launcher，一项托管服务，它提供简化的零代码“应用商店”式体验，将服务器设置抽象化，让每个人都能轻松使用去中心化技术。
+      en: Launch apps with one click
+      zh: 一键启动应用
     parent: ed11ff4821c24901-footer
   - id: efe79c321127e9bc
     section: header
     visible: true
     title:
-      en: Blocklet Platform Architecture | A Technical Deep-Dive for Developers
-      zh: Blocklet 平台架构 | 面向开发者的技术深度解析
+      en: Architecture
+      zh: 架构
     link:
       en: /architecture
       zh: /architecture
     description:
-      en: A technical deep-dive into the Blocklet Platform's architecture, covering
-        its core components, microservices design, clean architecture
-        principles, and security patterns. Ideal for developers and system
-        architects.
-      zh: 对 Blocklet 平台架构的技术深度解析，涵盖其核心组件、微服务设计、整洁架构原则和安全模式。是开发者和系统架构师的理想选择。
+      en: View the technical design and patterns
+      zh: 查看技术设计与模式
     parent: ed11ff4821c24901-header
   - id: c241ae9ab56ad749
     section: footer
     visible: true
     title:
-      en: Blocklet Platform Architecture | A Technical Deep-Dive for Developers
-      zh: Blocklet 平台架构 | 面向开发者的技术深度解析
+      en: Architecture
+      zh: 架构
     link:
       en: /architecture
       zh: /architecture
     description:
-      en: A technical deep-dive into the Blocklet Platform's architecture, covering
-        its core components, microservices design, clean architecture
-        principles, and security patterns. Ideal for developers and system
-        architects.
-      zh: 对 Blocklet 平台架构的技术深度解析，涵盖其核心组件、微服务设计、整洁架构原则和安全模式。是开发者和系统架构师的理想选择。
+      en: View the technical design and patterns
+      zh: 查看技术设计与模式
     parent: ed11ff4821c24901-footer

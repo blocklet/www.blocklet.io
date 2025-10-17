@@ -70,7 +70,7 @@ translateLanguages:
 pagesDir: .aigne/web-smith/pages # Directory to save generated pages
 sourcesPath: # Source code paths to analyze
   - ./src
-lastGitHead: 151002c334913aa7b5bb28c0a5d3a03d82b21ed0
+lastGitHead: 48ba4aaf9a818ff9f8d862ec9f5067486a48aed1
 # Checkout ID for website deployment service
 checkoutId: ""
 appUrl: https://www.blocklet.io
