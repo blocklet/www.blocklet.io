@@ -1,7 +1,7 @@
 id: ddb35a2fc1a0f21e
-createdAt: 2025-10-13T12:11:13.699Z
-updatedAt: 2025-10-13T12:11:13.699Z
-publishedAt: 2025-10-13T12:11:13.699Z
+createdAt: 2025-10-17T23:29:03.562Z
+updatedAt: 2025-10-17T23:29:03.562Z
+publishedAt: 2025-10-17T23:29:03.562Z
 isPublic: true
 locales:
   en:
@@ -1253,7 +1253,7 @@ dataSource:
               url: https://store.blocklet.dev
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: Start Publishing
@@ -1277,7 +1277,7 @@ dataSource:
               url: https://store.blocklet.dev
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: 开始发布
@@ -1615,9 +1615,9 @@ dataSource:
             style:
               variant: h2
         v5utpm7bu9yvdpnq:
-          value: flex-start
+          value: center
         kyg0hdy5uqq4gc1o:
-          value: flex-start
+          value: center
     zh:
       properties:
         gs1rn5jmxfvpxptx:
@@ -1626,9 +1626,9 @@ dataSource:
             style:
               variant: h2
         v5utpm7bu9yvdpnq:
-          value: flex-start
+          value: center
         kyg0hdy5uqq4gc1o:
-          value: flex-start
+          value: center
   72eb6e41582a4666:
     en:
       properties:
@@ -2118,7 +2118,7 @@ dataSource:
               url: https://store.blocklet.dev
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: Back to Platform Home
@@ -2140,7 +2140,7 @@ dataSource:
               url: https://store.blocklet.dev
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: 返回平台主页

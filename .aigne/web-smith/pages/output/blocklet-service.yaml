@@ -1,7 +1,7 @@
 id: 6e6993d63f04af99
-createdAt: 2025-10-13T12:11:13.695Z
-updatedAt: 2025-10-13T12:11:13.695Z
-publishedAt: 2025-10-13T12:11:13.695Z
+createdAt: 2025-10-17T23:29:03.557Z
+updatedAt: 2025-10-17T23:29:03.557Z
+publishedAt: 2025-10-17T23:29:03.557Z
 isPublic: true
 locales:
   en:
@@ -992,7 +992,7 @@ dataSource:
               url: link:///home
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: View Architecture
@@ -1016,7 +1016,7 @@ dataSource:
               url: link:///home
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: 查看架构
@@ -1555,7 +1555,7 @@ dataSource:
               url: link:///architecture
               variant: text
               size: medium
-              target: _self
+              target: auto
               needLogin: false
               endIcon: ""
         v5utpm7bu9yvdpnq:
@@ -1572,7 +1572,7 @@ dataSource:
               url: link:///architecture
               variant: text
               size: medium
-              target: _self
+              target: auto
               needLogin: false
               endIcon: ""
         v5utpm7bu9yvdpnq:
@@ -1742,7 +1742,7 @@ dataSource:
               url: link:///home
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: Dive into the Docs
@@ -1764,7 +1764,7 @@ dataSource:
               url: link:///home
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: 深入了解文档

@@ -1,7 +1,7 @@
 id: 616571b7c79a8472
-createdAt: 2025-10-13T12:11:13.706Z
-updatedAt: 2025-10-13T12:11:13.706Z
-publishedAt: 2025-10-13T12:11:13.706Z
+createdAt: 2025-10-17T23:29:03.568Z
+updatedAt: 2025-10-17T23:29:03.568Z
+publishedAt: 2025-10-17T23:29:03.568Z
 isPublic: true
 locales:
   en:
@@ -1745,7 +1745,7 @@ dataSource:
               url: link:///blocklet-cli
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: Explore the Platform
@@ -1769,7 +1769,7 @@ dataSource:
               url: link:///blocklet-cli
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: 探索平台
@@ -2135,7 +2135,7 @@ dataSource:
               url: link:///blocklet-server
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: ""
@@ -2159,7 +2159,7 @@ dataSource:
               url: link:///blocklet-server
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: ""
@@ -2250,7 +2250,7 @@ dataSource:
               url: link:///blocklet-service
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: ""
@@ -2274,7 +2274,7 @@ dataSource:
               url: link:///blocklet-service
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: ""
@@ -2365,7 +2365,7 @@ dataSource:
               url: link:///blocklet-sdk
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: ""
@@ -2389,7 +2389,7 @@ dataSource:
               url: link:///blocklet-sdk
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: ""
@@ -2480,7 +2480,7 @@ dataSource:
               url: link:///blocklet-cli
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: ""
@@ -2504,7 +2504,7 @@ dataSource:
               url: link:///blocklet-cli
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: ""
@@ -2595,7 +2595,7 @@ dataSource:
               url: link:///blocklet-store
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: ""
@@ -2619,7 +2619,7 @@ dataSource:
               url: link:///blocklet-store
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: ""
@@ -2710,7 +2710,7 @@ dataSource:
               url: link:///blocklet-launcher
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: ""
@@ -2734,7 +2734,7 @@ dataSource:
               url: link:///blocklet-launcher
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: ""
@@ -3094,7 +3094,7 @@ dataSource:
               url: link:///blocklet-cli
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: Explore the Docs
@@ -3116,7 +3116,7 @@ dataSource:
               url: link:///blocklet-cli
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: 浏览文档

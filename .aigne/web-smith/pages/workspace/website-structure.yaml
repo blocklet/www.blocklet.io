@@ -6,12 +6,12 @@
   navigation:
     title: Platform Home
     description: Get a complete overview of the ecosystem
+  parentId: ""
   sourceIds:
     - src/overview.md
     - src/architecture.md
     - src/review/gemini.md
     - src/review/claude.md
-  parentId: ""
 - title: "Blocklet Server: The Secure Runtime for Your Applications"
   description: Explore Blocklet Server, the foundational runtime environment for
     executing Blocklets. It offers a secure, scalable, and manageable platform
@@ -20,13 +20,13 @@
   navigation:
     title: Blocklet Server
     description: Explore the core runtime environment
+  parentId: ""
   sourceIds:
     - src/components/server.md
     - src/components.md
     - src/architecture.md
     - src/review/gemini.md
     - src/review/claude.md
-  parentId: ""
 - title: "Blocklet Service: Reusable, Out-of-the-Box Functionalities"
   description: Discover Blocklet Service, a standardized set of functionalities
     like authentication, notifications, and theming that any Blocklet can
@@ -35,11 +35,11 @@
   navigation:
     title: Blocklet Service
     description: Discover reusable, built-in services
+  parentId: ""
   sourceIds:
     - src/components/service.md
     - src/components.md
     - src/architecture.md
-  parentId: ""
 - title: "Blocklet SDK: Powerful Tools for Building on the Platform"
   description: A deep dive into the Blocklet SDK for Node.js and browsers,
     providing a comprehensive set of APIs for authentication, wallet management,
@@ -48,10 +48,10 @@
   navigation:
     title: Blocklet SDK
     description: Start building with our developer SDKs
+  parentId: ""
   sourceIds:
     - src/components.md
     - src/architecture.md
-  parentId: ""
 - title: "Blocklet CLI: Full Control from Your Command Line"
   description: Learn about the Blocklet CLI, the primary command-line tool for
     developers and administrators to manage the entire lifecycle of both
@@ -60,10 +60,10 @@
   navigation:
     title: Blocklet CLI
     description: Manage everything via command line
+  parentId: ""
   sourceIds:
     - src/components.md
     - src/architecture.md
-  parentId: ""
 - title: "Blocklet Store: The Decentralized Marketplace for Your Apps"
   description: Explore the Blocklet Store, the central, decentralized marketplace
     for discovering, publishing, and deploying Blocklets with a single click,
@@ -72,11 +72,11 @@
   navigation:
     title: Blocklet Store
     description: Browse the app marketplace
+  parentId: ""
   sourceIds:
     - src/components/store.md
     - src/components.md
     - src/screenshots/blocklet-store/SCREENSHOTS.md
-  parentId: ""
 - title: "Blocklet Launcher: Deploy Apps with No-Code Simplicity"
   description: Discover the Blocklet Launcher, a hosted service providing a
     streamlined, no-code 'app store' experience that abstracts away server
@@ -85,11 +85,11 @@
   navigation:
     title: Blocklet Launcher
     description: Launch apps with one click
+  parentId: ""
   sourceIds:
     - src/components/launcher.md
     - src/components.md
     - src/screenshots/blocklet-launcher/SCREENSHOTS.md
-  parentId: ""
 - title: Blocklet Platform Architecture
   description: A technical deep-dive into the Blocklet Platform's architecture,
     covering its core components, microservices design, clean architecture
@@ -99,9 +99,9 @@
   navigation:
     title: Architecture
     description: View the technical design and patterns
+  parentId: ""
   sourceIds:
     - src/architecture.md
     - src/components.md
     - src/review/claude.md
     - src/review/gemini.md
-  parentId: ""

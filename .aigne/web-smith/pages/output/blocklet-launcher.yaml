@@ -1,7 +1,7 @@
 id: 9def252e383a80a5
-createdAt: 2025-10-13T12:11:13.674Z
-updatedAt: 2025-10-13T12:11:13.674Z
-publishedAt: 2025-10-13T12:11:13.674Z
+createdAt: 2025-10-17T23:29:03.537Z
+updatedAt: 2025-10-17T23:29:03.537Z
+publishedAt: 2025-10-17T23:29:03.537Z
 isPublic: true
 locales:
   en:
@@ -1162,7 +1162,7 @@ dataSource:
               url: https://launcher.arcblock.io
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: Explore the Platform
@@ -1186,7 +1186,7 @@ dataSource:
               url: https://launcher.arcblock.io
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: 探索平台
@@ -1921,7 +1921,7 @@ dataSource:
               url: https://launcher.arcblock.io
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: Back to Home
@@ -1943,7 +1943,7 @@ dataSource:
               url: https://launcher.arcblock.io
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: 返回首页

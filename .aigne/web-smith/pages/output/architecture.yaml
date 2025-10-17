@@ -1,7 +1,7 @@
 id: 20f6e7abccbdbba5
-createdAt: 2025-10-13T12:11:13.644Z
-updatedAt: 2025-10-13T12:11:13.644Z
-publishedAt: 2025-10-13T12:11:13.644Z
+createdAt: 2025-10-17T23:29:03.507Z
+updatedAt: 2025-10-17T23:29:03.507Z
+publishedAt: 2025-10-17T23:29:03.507Z
 isPublic: true
 locales:
   en:
@@ -1808,7 +1808,7 @@ dataSource:
               url: link:///home
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: View Documentation
@@ -1832,7 +1832,7 @@ dataSource:
               url: link:///home
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: 查看文档
@@ -3255,7 +3255,7 @@ dataSource:
               url: https://docs.arcblock.io
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: Get Started Now
@@ -3277,7 +3277,7 @@ dataSource:
               url: https://docs.arcblock.io
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: 立即开始

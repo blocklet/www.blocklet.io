@@ -1,7 +1,7 @@
 id: d405a141eabebbae
-createdAt: 2025-10-13T12:11:13.679Z
-updatedAt: 2025-10-13T12:11:13.679Z
-publishedAt: 2025-10-13T12:11:13.679Z
+createdAt: 2025-10-17T23:29:03.543Z
+updatedAt: 2025-10-17T23:29:03.543Z
+publishedAt: 2025-10-17T23:29:03.543Z
 isPublic: true
 locales:
   en:
@@ -1850,7 +1850,7 @@ dataSource:
               url: link:///architecture
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: Back to Home
@@ -1872,7 +1872,7 @@ dataSource:
               url: link:///architecture
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: 返回首页

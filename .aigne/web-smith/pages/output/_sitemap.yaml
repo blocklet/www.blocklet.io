@@ -30,9 +30,9 @@ sitemap:
     meta:
       file: home.yaml
       id: 616571b7c79a8472
-      createdAt: 2025-10-13T12:11:13.706Z
-      updatedAt: 2025-10-13T12:11:13.706Z
-      publishedAt: 2025-10-13T12:11:13.706Z
+      createdAt: 2025-10-17T23:29:03.568Z
+      updatedAt: 2025-10-17T23:29:03.568Z
+      publishedAt: 2025-10-17T23:29:03.568Z
       isPublic: true
   - title: "Blocklet Server: The Secure Runtime for Your Applications"
     path: /blocklet-server
@@ -65,9 +65,9 @@ sitemap:
     meta:
       file: blocklet-server.yaml
       id: 81ae0055156bda48
-      createdAt: 2025-10-13T12:11:13.686Z
-      updatedAt: 2025-10-13T12:11:13.686Z
-      publishedAt: 2025-10-13T12:11:13.686Z
+      createdAt: 2025-10-17T23:29:03.549Z
+      updatedAt: 2025-10-17T23:29:03.549Z
+      publishedAt: 2025-10-17T23:29:03.549Z
       isPublic: true
   - title: "Blocklet Service: Reusable, Out-of-the-Box Functionalities"
     path: /blocklet-service
@@ -100,9 +100,9 @@ sitemap:
     meta:
       file: blocklet-service.yaml
       id: 6e6993d63f04af99
-      createdAt: 2025-10-13T12:11:13.695Z
-      updatedAt: 2025-10-13T12:11:13.695Z
-      publishedAt: 2025-10-13T12:11:13.695Z
+      createdAt: 2025-10-17T23:29:03.557Z
+      updatedAt: 2025-10-17T23:29:03.557Z
+      publishedAt: 2025-10-17T23:29:03.557Z
       isPublic: true
   - title: "Blocklet SDK: Powerful Tools for Building on the Platform"
     path: /blocklet-sdk
@@ -133,9 +133,9 @@ sitemap:
     meta:
       file: blocklet-sdk.yaml
       id: d405a141eabebbae
-      createdAt: 2025-10-13T12:11:13.679Z
-      updatedAt: 2025-10-13T12:11:13.679Z
-      publishedAt: 2025-10-13T12:11:13.679Z
+      createdAt: 2025-10-17T23:29:03.543Z
+      updatedAt: 2025-10-17T23:29:03.543Z
+      publishedAt: 2025-10-17T23:29:03.543Z
       isPublic: true
   - title: "Blocklet CLI: Full Control from Your Command Line"
     path: /blocklet-cli
@@ -166,9 +166,9 @@ sitemap:
     meta:
       file: blocklet-cli.yaml
       id: ea3dcb114380f306
-      createdAt: 2025-10-13T12:11:13.664Z
-      updatedAt: 2025-10-13T12:11:13.664Z
-      publishedAt: 2025-10-13T12:11:13.664Z
+      createdAt: 2025-10-17T23:29:03.526Z
+      updatedAt: 2025-10-17T23:29:03.526Z
+      publishedAt: 2025-10-17T23:29:03.526Z
       isPublic: true
   - title: "Blocklet Store: The Decentralized Marketplace for Your Apps"
     path: /blocklet-store
@@ -200,9 +200,9 @@ sitemap:
     meta:
       file: blocklet-store.yaml
       id: ddb35a2fc1a0f21e
-      createdAt: 2025-10-13T12:11:13.699Z
-      updatedAt: 2025-10-13T12:11:13.699Z
-      publishedAt: 2025-10-13T12:11:13.699Z
+      createdAt: 2025-10-17T23:29:03.562Z
+      updatedAt: 2025-10-17T23:29:03.562Z
+      publishedAt: 2025-10-17T23:29:03.562Z
       isPublic: true
   - title: "Blocklet Launcher: Deploy Apps with No-Code Simplicity"
     path: /blocklet-launcher
@@ -235,9 +235,9 @@ sitemap:
     meta:
       file: blocklet-launcher.yaml
       id: 9def252e383a80a5
-      createdAt: 2025-10-13T12:11:13.674Z
-      updatedAt: 2025-10-13T12:11:13.674Z
-      publishedAt: 2025-10-13T12:11:13.674Z
+      createdAt: 2025-10-17T23:29:03.537Z
+      updatedAt: 2025-10-17T23:29:03.537Z
+      publishedAt: 2025-10-17T23:29:03.537Z
       isPublic: true
   - title: Blocklet Platform Architecture
     path: /architecture
@@ -268,9 +268,9 @@ sitemap:
     meta:
       file: architecture.yaml
       id: 20f6e7abccbdbba5
-      createdAt: 2025-10-13T12:11:13.644Z
-      updatedAt: 2025-10-13T12:11:13.644Z
-      publishedAt: 2025-10-13T12:11:13.644Z
+      createdAt: 2025-10-17T23:29:03.507Z
+      updatedAt: 2025-10-17T23:29:03.507Z
+      publishedAt: 2025-10-17T23:29:03.507Z
       isPublic: true
 navigations:
   - id: ed11ff4821c24901-header

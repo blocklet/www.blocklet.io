@@ -1,7 +1,7 @@
 id: 81ae0055156bda48
-createdAt: 2025-10-13T12:11:13.686Z
-updatedAt: 2025-10-13T12:11:13.686Z
-publishedAt: 2025-10-13T12:11:13.686Z
+createdAt: 2025-10-17T23:29:03.549Z
+updatedAt: 2025-10-17T23:29:03.549Z
+publishedAt: 2025-10-17T23:29:03.549Z
 isPublic: true
 locales:
   en:
@@ -1520,7 +1520,7 @@ dataSource:
               url: https://docs.arcblock.io/en/
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: Back to Platform
@@ -1544,7 +1544,7 @@ dataSource:
               url: https://docs.arcblock.io/zh/
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: 返回平台
@@ -2029,7 +2029,7 @@ dataSource:
               url: link:///blocklet-sdk
               variant: text
               size: medium
-              target: _self
+              target: auto
               needLogin: false
               endIcon: ""
         v5utpm7bu9yvdpnq:
@@ -2046,7 +2046,7 @@ dataSource:
               url: link:///blocklet-sdk
               variant: text
               size: medium
-              target: _self
+              target: auto
               needLogin: false
               endIcon: ""
         v5utpm7bu9yvdpnq:
@@ -2129,7 +2129,7 @@ dataSource:
               url: https://docs.arcblock.io/en/
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: ""
@@ -2153,7 +2153,7 @@ dataSource:
               url: https://docs.arcblock.io/zh/
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: ""
@@ -2609,7 +2609,7 @@ dataSource:
               url: https://docs.arcblock.io/en/
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: Explore the Platform
@@ -2631,7 +2631,7 @@ dataSource:
               url: https://docs.arcblock.io/zh/
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: 探索平台

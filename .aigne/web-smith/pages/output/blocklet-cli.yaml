@@ -1,7 +1,7 @@
 id: ea3dcb114380f306
-createdAt: 2025-10-13T12:11:13.664Z
-updatedAt: 2025-10-13T12:11:13.664Z
-publishedAt: 2025-10-13T12:11:13.664Z
+createdAt: 2025-10-17T23:29:03.526Z
+updatedAt: 2025-10-17T23:29:03.526Z
+publishedAt: 2025-10-17T23:29:03.526Z
 isPublic: true
 locales:
   en:
@@ -1424,7 +1424,7 @@ dataSource:
               url: https://docs.arcblock.io/en/getting-started/installation
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: Explore the Platform
@@ -1448,7 +1448,7 @@ dataSource:
               url: https://docs.arcblock.io/zh/getting-started/installation
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: 探索平台
@@ -2825,7 +2825,7 @@ dataSource:
               url: https://docs.arcblock.io/en/getting-started/installation
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: Explore the Platform
@@ -2847,7 +2847,7 @@ dataSource:
               url: https://docs.arcblock.io/zh/getting-started/installation
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: 探索平台
