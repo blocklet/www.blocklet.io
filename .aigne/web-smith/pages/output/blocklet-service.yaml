@@ -1,7 +1,7 @@
 id: 6e6993d63f04af99
-createdAt: 2025-10-16T22:03:49.297Z
-updatedAt: 2025-10-16T22:03:49.297Z
-publishedAt: 2025-10-16T22:03:49.297Z
+createdAt: 2025-10-17T23:21:38.961Z
+updatedAt: 2025-10-17T23:21:38.961Z
+publishedAt: 2025-10-17T23:21:38.961Z
 isPublic: true
 locales:
   en:
@@ -1288,7 +1288,7 @@ dataSource:
               url: "#coreFeaturesGrid"
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: ""
@@ -1312,7 +1312,7 @@ dataSource:
               url: "#coreFeaturesGrid"
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: ""
@@ -1934,7 +1934,7 @@ dataSource:
               url: link:///home
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: ""
@@ -1956,7 +1956,7 @@ dataSource:
               url: link:///home
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: ""

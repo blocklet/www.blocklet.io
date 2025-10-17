@@ -1,7 +1,7 @@
 id: 81ae0055156bda48
-createdAt: 2025-10-16T22:03:49.285Z
-updatedAt: 2025-10-16T22:03:49.285Z
-publishedAt: 2025-10-16T22:03:49.285Z
+createdAt: 2025-10-17T23:21:38.952Z
+updatedAt: 2025-10-17T23:21:38.952Z
+publishedAt: 2025-10-17T23:21:38.952Z
 isPublic: true
 locales:
   en:
@@ -1569,7 +1569,7 @@ dataSource:
               url: link:///home
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: Explore Docs
@@ -1593,7 +1593,7 @@ dataSource:
               url: link:///home
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: 浏览文档
@@ -2539,7 +2539,7 @@ dataSource:
               url: link:///home
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: Read the Docs
@@ -2561,7 +2561,7 @@ dataSource:
               url: link:///home
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: 阅读文档

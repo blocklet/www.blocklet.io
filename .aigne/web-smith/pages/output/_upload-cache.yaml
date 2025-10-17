@@ -3,220 +3,220 @@ e58c709cfff8de47af32810395b209e51e8735911c3e92724b6afa5f7ffccf36:
   sites:
     https://staging.websmith.aigne.io:
       url: https://staging.websmith.aigne.io/image-bin/uploads/e58c709cfff8de47.json
-      upload_time: 2025-10-16T22:04:59.013Z
+      upload_time: 2025-10-17T23:21:53.644Z
 1b0daeb11a41a92a72418a6ca06a4ed3b7e871dceeca214c42a16a309ab6e579:
   local_path: src/screenshots/blocklet-cli/cli-help-main-commands.png
   sites:
     https://staging.websmith.aigne.io:
       url: https://staging.websmith.aigne.io/image-bin/uploads/1b0daeb11a41a92a.png
-      upload_time: 2025-10-16T22:04:59.378Z
+      upload_time: 2025-10-17T23:21:54.013Z
 25ebb25ab72569a39bfcdcac744f1b7dc5a91b3ab6ea3736e1427ae9108f964b:
   local_path: src/screenshots/blocklet-cli/ci-blocklet-server-start.json
   sites:
     https://staging.websmith.aigne.io:
       url: https://staging.websmith.aigne.io/image-bin/uploads/25ebb25ab72569a3.json
-      upload_time: 2025-10-16T22:04:59.622Z
+      upload_time: 2025-10-17T23:21:54.251Z
 083be137f3a6c696d9c7b5d85f797985fa9f78315c3041fca4a677026ffaeb27:
   local_path: src/screenshots/blocklet-cli/ci-blocklet-server-status.json
   sites:
     https://staging.websmith.aigne.io:
       url: https://staging.websmith.aigne.io/image-bin/uploads/083be137f3a6c696.json
-      upload_time: 2025-10-16T22:04:59.846Z
-e7b3b08ed62d2e28a467a51dc4d92ec0c392c1a8baa2343091bcc8d3490f0d00:
-  local_path: .aigne/web-smith/assets/blocklet-cli-hero-visual.png
-  sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/e7b3b08ed62d2e28.png
-      upload_time: 2025-10-16T22:04:59.914Z
+      upload_time: 2025-10-17T23:21:54.483Z
 93b7e11c6d362030be9ab6dd2f8d4a27613882a47e54b29a3b8812c82f0c6ec1:
   local_path: src/screenshots/blocklet-cli/ci-blocklet-server-stop.json
   sites:
     https://staging.websmith.aigne.io:
       url: https://staging.websmith.aigne.io/image-bin/uploads/93b7e11c6d362030.json
-      upload_time: 2025-10-16T22:05:00.101Z
-d5a81fb613446c172b8649a3924bd874d840308eeeb685144db69ac6ff80921a:
-  local_path: src/screenshots/blocklet-cli/ci-blocklet-dev.json
+      upload_time: 2025-10-17T23:21:54.719Z
+e7b3b08ed62d2e28a467a51dc4d92ec0c392c1a8baa2343091bcc8d3490f0d00:
+  local_path: .aigne/web-smith/assets/blocklet-cli-hero-visual.png
   sites:
     https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/d5a81fb613446c17.json
-      upload_time: 2025-10-16T22:05:00.358Z
-fff7650c8fec45c870c0d7fa2a5d5302a475a094361bf79f5488bb0abcb941dc:
-  local_path: src/screenshots/blocklet-cli/ci-blocklet-bundle.json
-  sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/fff7650c8fec45c8.json
-      upload_time: 2025-10-16T22:05:00.549Z
+      url: https://staging.websmith.aigne.io/image-bin/uploads/e7b3b08ed62d2e28.png
+      upload_time: 2025-10-17T23:21:54.797Z
 3cfd7cb7be57c8d647674b4945cd724c0bdc990f57d7dbf8cff2a656cb0a8917:
   local_path: src/screenshots/blocklet-cli/ci-blocklet-init.json
   sites:
     https://staging.websmith.aigne.io:
       url: https://staging.websmith.aigne.io/image-bin/uploads/3cfd7cb7be57c8d6.json
-      upload_time: 2025-10-16T22:05:00.783Z
+      upload_time: 2025-10-17T23:21:55.016Z
 0a9ee2506b24ef7ccee24428f6856061a9e09dee89c1f672e3c24a7a2892aed8:
   local_path: src/screenshots/blocklet-cli/ci-blocklet-deploy.json
   sites:
     https://staging.websmith.aigne.io:
       url: https://staging.websmith.aigne.io/image-bin/uploads/0a9ee2506b24ef7c.json
-      upload_time: 2025-10-16T22:05:00.975Z
+      upload_time: 2025-10-17T23:21:55.620Z
 2760cec8c0bcc5e3b12e6ec6207bddaa74da2cd4dbc41a0ece5d637deaa6e7ab:
   local_path: src/screenshots/blocklet-cli/ci-blocklet-upload.json
   sites:
     https://staging.websmith.aigne.io:
       url: https://staging.websmith.aigne.io/image-bin/uploads/2760cec8c0bcc5e3.json
-      upload_time: 2025-10-16T22:05:01.076Z
+      upload_time: 2025-10-17T23:21:56.085Z
+d5a81fb613446c172b8649a3924bd874d840308eeeb685144db69ac6ff80921a:
+  local_path: src/screenshots/blocklet-cli/ci-blocklet-dev.json
+  sites:
+    https://staging.websmith.aigne.io:
+      url: https://staging.websmith.aigne.io/image-bin/uploads/d5a81fb613446c17.json
+      upload_time: 2025-10-17T23:21:56.457Z
 a7a485e1d2be5e8a77fcec2fd1322e244043063d227c353d0085ed8c87d941b8:
   local_path: src/screenshots/blocklet-cli/ci-blocklet-version.json
   sites:
     https://staging.websmith.aigne.io:
       url: https://staging.websmith.aigne.io/image-bin/uploads/a7a485e1d2be5e8a.json
-      upload_time: 2025-10-16T22:05:01.273Z
-27faade5fae0d5ec9331c4896269ced67644303a97a71c03317e61553834475b:
-  local_path: src/screenshots/blocklet-server/analytics-runtime-dashboard.png
+      upload_time: 2025-10-17T23:21:56.536Z
+fff7650c8fec45c870c0d7fa2a5d5302a475a094361bf79f5488bb0abcb941dc:
+  local_path: src/screenshots/blocklet-cli/ci-blocklet-bundle.json
   sites:
     https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/27faade5fae0d5ec.png
-      upload_time: 2025-10-16T22:05:01.526Z
-21a778141c2d78aca15fd3c49837b9d79d71d1c8d407cbc11dcf7127789677bf:
-  local_path: src/screenshots/blocklet-launcher/app-overview-domains.jpg
-  sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/21a778141c2d78ac.jpg
-      upload_time: 2025-10-16T22:05:02.034Z
+      url: https://staging.websmith.aigne.io/image-bin/uploads/fff7650c8fec45c8.json
+      upload_time: 2025-10-17T23:21:56.684Z
 f0a1ddaa4561ca482c2dcf9b2b0e5e78c4913c8dedd898417d37019fa2bc1422:
   local_path: .aigne/web-smith/assets/hero-blocklet-launcher.png
   sites:
     https://staging.websmith.aigne.io:
       url: https://staging.websmith.aigne.io/image-bin/uploads/f0a1ddaa4561ca48.png
-      upload_time: 2025-10-16T22:05:02.126Z
-44a433f71b2ada9df3b6434eb2ee50a3d887d416491a34d97255e58167488cda:
-  local_path: src/screenshots/blocklet-launcher/app-details-invoices.jpg
-  sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/44a433f71b2ada9d.jpg
-      upload_time: 2025-10-16T22:05:02.517Z
+      upload_time: 2025-10-17T23:21:57.156Z
 ca4c478ea91cbad8bc831a4ceb5b9716b1065d97ffd2af006121e21d9463fb2d:
   local_path: src/screenshots/blocklet-launcher/purchase-space-subscription.jpg
   sites:
     https://staging.websmith.aigne.io:
       url: https://staging.websmith.aigne.io/image-bin/uploads/ca4c478ea91cbad8.jpg
-      upload_time: 2025-10-16T22:05:03.248Z
-d64d59adf2d5283c81cd915e22831f2b483a9cf9979441f58d79e3b3e820cd97:
-  local_path: .aigne/web-smith/assets/blocklet-server-hero-visual.png
+      upload_time: 2025-10-17T23:21:57.286Z
+27faade5fae0d5ec9331c4896269ced67644303a97a71c03317e61553834475b:
+  local_path: src/screenshots/blocklet-server/analytics-runtime-dashboard.png
   sites:
     https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/d64d59adf2d5283c.png
-      upload_time: 2025-10-16T22:05:03.384Z
+      url: https://staging.websmith.aigne.io/image-bin/uploads/27faade5fae0d5ec.png
+      upload_time: 2025-10-17T23:21:57.466Z
 e527915b0575c87a1dda223f114315d9d7f82fc006e7a997458d63fc5f9b64c1:
   local_path: .aigne/web-smith/assets/blocklet-sdk-hero-visual.png
   sites:
     https://staging.websmith.aigne.io:
       url: https://staging.websmith.aigne.io/image-bin/uploads/e527915b0575c87a.png
-      upload_time: 2025-10-16T22:05:01.907Z
+      upload_time: 2025-10-17T23:21:57.964Z
+21a778141c2d78aca15fd3c49837b9d79d71d1c8d407cbc11dcf7127789677bf:
+  local_path: src/screenshots/blocklet-launcher/app-overview-domains.jpg
+  sites:
+    https://staging.websmith.aigne.io:
+      url: https://staging.websmith.aigne.io/image-bin/uploads/21a778141c2d78ac.jpg
+      upload_time: 2025-10-17T23:21:56.286Z
+44a433f71b2ada9df3b6434eb2ee50a3d887d416491a34d97255e58167488cda:
+  local_path: src/screenshots/blocklet-launcher/app-details-invoices.jpg
+  sites:
+    https://staging.websmith.aigne.io:
+      url: https://staging.websmith.aigne.io/image-bin/uploads/44a433f71b2ada9d.jpg
+      upload_time: 2025-10-17T23:21:56.496Z
+d64d59adf2d5283c81cd915e22831f2b483a9cf9979441f58d79e3b3e820cd97:
+  local_path: .aigne/web-smith/assets/blocklet-server-hero-visual.png
+  sites:
+    https://staging.websmith.aigne.io:
+      url: https://staging.websmith.aigne.io/image-bin/uploads/d64d59adf2d5283c.png
+      upload_time: 2025-10-17T23:21:58.281Z
 8318a6935edaeb0f2761a74e662438a69e8ebed9db7c2460fd3be892d87e2d67:
   local_path: src/screenshots/blocklet-service/service-blocklet-environments.png
   sites:
     https://staging.websmith.aigne.io:
       url: https://staging.websmith.aigne.io/image-bin/uploads/8318a6935edaeb0f.png
-      upload_time: 2025-10-16T22:05:02.314Z
+      upload_time: 2025-10-17T23:21:58.406Z
 039d2d1fdbefbabb29616205f5f484a630e7e48bea10f1ab1ffe9825c0cf4cc5:
   local_path: src/screenshots/blocklet-service/service-add-blocklet-modal.png
   sites:
     https://staging.websmith.aigne.io:
       url: https://staging.websmith.aigne.io/image-bin/uploads/039d2d1fdbefbabb.png
-      upload_time: 2025-10-16T22:05:02.570Z
-93c284a8b832b8bdf7c194984273fbcdfabfcad509fec6a0b9e4a12c15a3662a:
-  local_path: src/screenshots/blocklet-service/service-did-connect-members.png
-  sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/93c284a8b832b8bd.png
-      upload_time: 2025-10-16T22:05:02.839Z
+      upload_time: 2025-10-17T23:21:58.609Z
 e7abf6fccecae3657954c43bb67db48fcdd0fdefea0695ef8602c28c45623fd4:
   local_path: src/screenshots/blocklet-service/service-did-spaces-backup.png
   sites:
     https://staging.websmith.aigne.io:
       url: https://staging.websmith.aigne.io/image-bin/uploads/e7abf6fccecae365.png
-      upload_time: 2025-10-16T22:05:02.894Z
+      upload_time: 2025-10-17T23:21:58.820Z
 7adebe24c863485e5913f0f06a8bbc9dd3e038130bc11967ee15e0b11edde4b7:
   local_path: src/screenshots/blocklet-server/blocklets-management-list.png
   sites:
     https://staging.websmith.aigne.io:
       url: https://staging.websmith.aigne.io/image-bin/uploads/7adebe24c863485e.png
-      upload_time: 2025-10-16T22:05:03.367Z
-e82a3f47c2b20f3d6c17973f26a552d91c429be09f982e90dd1a9e696329dfb1:
-  local_path: src/screenshots/blocklet-server/settings-gateway-configuration.png
-  sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/e82a3f47c2b20f3d.png
-      upload_time: 2025-10-16T22:05:03.397Z
+      upload_time: 2025-10-17T23:21:59.060Z
 e9f6ba107100261196b7d8dfd8debc420eb79ebf5b19f81db32d711a7eb95fc9:
   local_path: .aigne/web-smith/assets/blocklet-service-social-card.png
   sites:
     https://staging.websmith.aigne.io:
       url: https://staging.websmith.aigne.io/image-bin/uploads/e9f6ba1071002611.png
-      upload_time: 2025-10-16T22:05:03.640Z
+      upload_time: 2025-10-17T23:21:59.548Z
+e82a3f47c2b20f3d6c17973f26a552d91c429be09f982e90dd1a9e696329dfb1:
+  local_path: src/screenshots/blocklet-server/settings-gateway-configuration.png
+  sites:
+    https://staging.websmith.aigne.io:
+      url: https://staging.websmith.aigne.io/image-bin/uploads/e82a3f47c2b20f3d.png
+      upload_time: 2025-10-17T23:21:59.663Z
+93c284a8b832b8bdf7c194984273fbcdfabfcad509fec6a0b9e4a12c15a3662a:
+  local_path: src/screenshots/blocklet-service/service-did-connect-members.png
+  sites:
+    https://staging.websmith.aigne.io:
+      url: https://staging.websmith.aigne.io/image-bin/uploads/93c284a8b832b8bd.png
+      upload_time: 2025-10-17T23:21:59.683Z
 51c9613bfd8be845cfbfc1b0fd7c6e3e630e2391f513386c2c06233322404b68:
   local_path: src/screenshots/blocklet-service/service-website-branding.png
   sites:
     https://staging.websmith.aigne.io:
       url: https://staging.websmith.aigne.io/image-bin/uploads/51c9613bfd8be845.png
-      upload_time: 2025-10-16T22:05:03.984Z
+      upload_time: 2025-10-17T23:22:00.219Z
 aea33c8f7b82b9936ddc513a590e72f6c731aa4cc045f8652ca928b8b8f55727:
   local_path: src/screenshots/blocklet-service/service-operations-analytics.png
   sites:
     https://staging.websmith.aigne.io:
       url: https://staging.websmith.aigne.io/image-bin/uploads/aea33c8f7b82b993.png
-      upload_time: 2025-10-16T22:05:04.196Z
-00775ae522c45186f6e1a1d2a2d1ad6bfb1006f52f649407235dcc98cc697b54:
-  local_path: src/screenshots/blocklet-store/explore-trending-blocklets.png
-  sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/00775ae522c45186.png
-      upload_time: 2025-10-16T22:05:04.668Z
-8c4c619d5155a34affcdeab5b001b51ebc9c3c074aa0aeb33ab4edf4cf1e4c6f:
-  local_path: .aigne/web-smith/assets/blocklet-service-architecture.png
-  sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/8c4c619d5155a34a.png
-      upload_time: 2025-10-16T22:05:04.813Z
-78acf2de654bc57dc443b5eb35291235c827b68becbde78dbc9c0ca330f83760:
-  local_path: src/screenshots/blocklet-store/blocklet-detail-overview.png
-  sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/78acf2de654bc57d.png
-      upload_time: 2025-10-16T22:05:05.147Z
+      upload_time: 2025-10-17T23:22:00.230Z
 bc96234a1b6e32785cae2b99c2555fdd944ebcb1d4a9824a306ef438be60b3aa:
   local_path: src/screenshots/blocklet-store/blocklet-catalog-grid.png
   sites:
     https://staging.websmith.aigne.io:
       url: https://staging.websmith.aigne.io/image-bin/uploads/bc96234a1b6e3278.png
-      upload_time: 2025-10-16T22:05:05.161Z
+      upload_time: 2025-10-17T23:22:01.028Z
+00775ae522c45186f6e1a1d2a2d1ad6bfb1006f52f649407235dcc98cc697b54:
+  local_path: src/screenshots/blocklet-store/explore-trending-blocklets.png
+  sites:
+    https://staging.websmith.aigne.io:
+      url: https://staging.websmith.aigne.io/image-bin/uploads/00775ae522c45186.png
+      upload_time: 2025-10-17T23:22:01.104Z
+78acf2de654bc57dc443b5eb35291235c827b68becbde78dbc9c0ca330f83760:
+  local_path: src/screenshots/blocklet-store/blocklet-detail-overview.png
+  sites:
+    https://staging.websmith.aigne.io:
+      url: https://staging.websmith.aigne.io/image-bin/uploads/78acf2de654bc57d.png
+      upload_time: 2025-10-17T23:22:01.508Z
+8c4c619d5155a34affcdeab5b001b51ebc9c3c074aa0aeb33ab4edf4cf1e4c6f:
+  local_path: .aigne/web-smith/assets/blocklet-service-architecture.png
+  sites:
+    https://staging.websmith.aigne.io:
+      url: https://staging.websmith.aigne.io/image-bin/uploads/8c4c619d5155a34a.png
+      upload_time: 2025-10-17T23:22:01.862Z
 e7da7bfdcbee38ea8dcd8b17f10cd3069302e888bea851d547fcd4710ee8c041:
   local_path: src/screenshots/blocklet-store/blocklet-version-history.png
   sites:
     https://staging.websmith.aigne.io:
       url: https://staging.websmith.aigne.io/image-bin/uploads/e7da7bfdcbee38ea.png
-      upload_time: 2025-10-16T22:05:05.458Z
+      upload_time: 2025-10-17T23:22:02.112Z
 8e2b5b3612e9d26665fd0aaab13f7fd258cc4d708bcebf1f84aeb5db642dfffd:
   local_path: .aigne/web-smith/assets/blocklet-store-developer-cta.png
   sites:
     https://staging.websmith.aigne.io:
       url: https://staging.websmith.aigne.io/image-bin/uploads/8e2b5b3612e9d266.png
-      upload_time: 2025-10-16T22:05:05.791Z
-1aa788bf34c6263b3f99997d85b520b435b42066d386c14849687970d7b3d53c:
-  local_path: .aigne/web-smith/assets/blocklet-platform-hero.png
-  sites:
-    https://staging.websmith.aigne.io:
-      url: https://staging.websmith.aigne.io/image-bin/uploads/1aa788bf34c6263b.png
-      upload_time: 2025-10-16T22:05:06.106Z
+      upload_time: 2025-10-17T23:22:02.435Z
 5b05353ebf5eb89ca2c3279709257ec6c3ca5f060dc128e1000babbe7e4f5152:
   local_path: src/screenshots/blocklet-store/blocklet-reviews-comments.png
   sites:
     https://staging.websmith.aigne.io:
       url: https://staging.websmith.aigne.io/image-bin/uploads/5b05353ebf5eb89c.png
-      upload_time: 2025-10-16T22:05:06.225Z
+      upload_time: 2025-10-17T23:22:02.543Z
+1aa788bf34c6263b3f99997d85b520b435b42066d386c14849687970d7b3d53c:
+  local_path: .aigne/web-smith/assets/blocklet-platform-hero.png
+  sites:
+    https://staging.websmith.aigne.io:
+      url: https://staging.websmith.aigne.io/image-bin/uploads/1aa788bf34c6263b.png
+      upload_time: 2025-10-17T23:22:03.037Z
 5ed32a62473a614009164b778478d08c4f3d8d4f81f162bc30b0fb34687fdf8a:
   local_path: src/screenshots/blocklet-cli/cli-server-status-output.png
   sites:
     https://staging.websmith.aigne.io:
       url: https://staging.websmith.aigne.io/image-bin/uploads/5ed32a62473a6140.png
-      upload_time: 2025-10-16T22:05:07.178Z
+      upload_time: 2025-10-17T23:22:03.454Z

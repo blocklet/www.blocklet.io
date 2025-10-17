@@ -1,7 +1,7 @@
 id: ddb35a2fc1a0f21e
-createdAt: 2025-10-16T22:03:49.306Z
-updatedAt: 2025-10-16T22:03:49.306Z
-publishedAt: 2025-10-16T22:03:49.306Z
+createdAt: 2025-10-17T23:21:38.968Z
+updatedAt: 2025-10-17T23:21:38.968Z
+publishedAt: 2025-10-17T23:21:38.968Z
 isPublic: true
 locales:
   en:
@@ -1303,7 +1303,7 @@ dataSource:
               url: https://store.blocklet.dev
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: Publish Your App
@@ -1327,7 +1327,7 @@ dataSource:
               url: https://store.blocklet.dev
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: 发布您的应用
@@ -2115,7 +2115,7 @@ dataSource:
               url: https://developer.blocklet.io
               variant: text
               size: medium
-              target: _self
+              target: auto
               needLogin: false
               endIcon: ""
         v5utpm7bu9yvdpnq:
@@ -2132,7 +2132,7 @@ dataSource:
               url: https://developer.blocklet.io
               variant: text
               size: medium
-              target: _self
+              target: auto
               needLogin: false
               endIcon: ""
         v5utpm7bu9yvdpnq:
@@ -2214,7 +2214,7 @@ dataSource:
               url: https://store.blocklet.dev
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: Read the Docs
@@ -2236,7 +2236,7 @@ dataSource:
               url: https://store.blocklet.dev
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: 阅读文档
@@ -2305,7 +2305,7 @@ dataSource:
               url: link:///home
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: Developer Portal
@@ -2327,7 +2327,7 @@ dataSource:
               url: link:///home
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: 开发者门户

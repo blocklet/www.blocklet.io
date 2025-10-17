@@ -1,7 +1,7 @@
 id: d405a141eabebbae
-createdAt: 2025-10-16T22:03:49.273Z
-updatedAt: 2025-10-16T22:03:49.273Z
-publishedAt: 2025-10-16T22:03:49.273Z
+createdAt: 2025-10-17T23:21:38.944Z
+updatedAt: 2025-10-17T23:21:38.944Z
+publishedAt: 2025-10-17T23:21:38.944Z
 isPublic: true
 locales:
   en:
@@ -1605,7 +1605,7 @@ dataSource:
               url: https://docs.arcblock.io/abtfw/introduction/
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: Explore Browser SDK
@@ -1629,7 +1629,7 @@ dataSource:
               url: https://docs.arcblock.io/abtfw/introduction/
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: 探索浏览器 SDK
@@ -2295,7 +2295,7 @@ dataSource:
               url: https://docs.arcblock.io/
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: See on GitHub
@@ -2317,7 +2317,7 @@ dataSource:
               url: https://docs.arcblock.io/
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: 在 GitHub 上查看

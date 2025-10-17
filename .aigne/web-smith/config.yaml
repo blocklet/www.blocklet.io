@@ -72,9 +72,13 @@ translateLanguages:
 pagesDir: .aigne/web-smith/pages # Directory to save generated pages
 sourcesPath: # Source code paths to analyze
   - ./src
-lastGitHead: 750353c94df7920cb61452923b64f8272aaa9d32
+lastGitHead: 6f2a60f79e56ff8bc57b773ad5fcc55735b12279
 # Checkout ID for website deployment service
 checkoutId: ""
 # appUrl: https://www.blocklet.io
 appUrl: https://staging.websmith.aigne.io
 projectCover: .aigne/web-smith/cover.png
+# Navigation type for website
+navigationType: ""
+# Should sync all for website
+shouldSyncAll: ""

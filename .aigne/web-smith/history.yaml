@@ -1,4 +1,13 @@
 entries:
+  - timestamp: 2025-10-17T23:00:54.592Z
+    operation: page_update
+    feedback: Explore the Blocklet Ecosystem 改为 Content Card With Image , 并且每个都要添加一个按钮, 确保 Explore the
+      Blocklet Ecosystem 可以跳转到每个子页面
+    page: /home
+  - timestamp: 2025-10-17T22:48:28.536Z
+    operation: page_update
+    feedback: 这个页面需要有对每个其他子页面的跳转按钮, 最好在 Explore the Blocklet Ecosystem 这个模块里, 每个卡片都加一个按钮
+    page: /home
   - timestamp: 2025-10-04T01:11:17.926Z
     operation: page_update
     feedback: "Update the faq section: removing quotes around blocklet, and add docker related entry"

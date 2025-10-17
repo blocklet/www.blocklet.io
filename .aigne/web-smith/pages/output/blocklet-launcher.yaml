@@ -1,7 +1,7 @@
 id: 9def252e383a80a5
-createdAt: 2025-10-16T22:03:49.267Z
-updatedAt: 2025-10-16T22:03:49.267Z
-publishedAt: 2025-10-16T22:03:49.267Z
+createdAt: 2025-10-17T23:21:38.935Z
+updatedAt: 2025-10-17T23:21:38.935Z
+publishedAt: 2025-10-17T23:21:38.935Z
 isPublic: true
 locales:
   en:
@@ -1108,7 +1108,7 @@ dataSource:
               url: https://launcher.arcblock.io
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: Read the Docs
@@ -1132,7 +1132,7 @@ dataSource:
               url: https://launcher.arcblock.io
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: 阅读文档
@@ -1752,7 +1752,7 @@ dataSource:
               url: https://launcher.arcblock.io
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: See What You Can Build
@@ -1774,7 +1774,7 @@ dataSource:
               url: https://launcher.arcblock.io
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: 查看可构建的应用
@@ -1820,7 +1820,7 @@ dataSource:
               url: link:///home
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: Blocklet Server
@@ -1842,7 +1842,7 @@ dataSource:
               url: link:///home
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: Blocklet Server
@@ -1865,7 +1865,7 @@ dataSource:
               url: link:///blocklet-service
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: Blocklet SDK
@@ -1887,7 +1887,7 @@ dataSource:
               url: link:///blocklet-service
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: Blocklet SDK
@@ -1910,7 +1910,7 @@ dataSource:
               url: link:///blocklet-cli
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: Blocklet Store
@@ -1932,7 +1932,7 @@ dataSource:
               url: link:///blocklet-cli
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: Blocklet Store

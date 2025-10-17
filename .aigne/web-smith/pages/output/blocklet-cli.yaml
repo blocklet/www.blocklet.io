@@ -1,7 +1,7 @@
 id: ea3dcb114380f306
-createdAt: 2025-10-16T22:03:49.239Z
-updatedAt: 2025-10-16T22:03:49.239Z
-publishedAt: 2025-10-16T22:03:49.239Z
+createdAt: 2025-10-17T23:21:38.916Z
+updatedAt: 2025-10-17T23:21:38.916Z
+publishedAt: 2025-10-17T23:21:38.916Z
 isPublic: true
 locales:
   en:
@@ -1977,7 +1977,7 @@ dataSource:
               url: https://www.arcblock.io/docs/blocklet-sdk/latest/cli
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: View Source on GitHub
@@ -2001,7 +2001,7 @@ dataSource:
               url: https://www.arcblock.io/docs/blocklet-sdk/latest/cli
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: 在 GitHub 上查看源码
@@ -2774,7 +2774,7 @@ dataSource:
               url: https://www.arcblock.io/docs/blocklet-sdk/latest/ci-cd
               variant: text
               size: medium
-              target: _self
+              target: auto
               needLogin: false
               endIcon: ""
         v5utpm7bu9yvdpnq:
@@ -2791,7 +2791,7 @@ dataSource:
               url: https://www.arcblock.io/docs/blocklet-sdk/latest/ci-cd
               variant: text
               size: medium
-              target: _self
+              target: auto
               needLogin: false
               endIcon: ""
         v5utpm7bu9yvdpnq:
@@ -2872,7 +2872,7 @@ dataSource:
               url: https://www.arcblock.io/docs/blocklet-sdk/latest/cli
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: ""
@@ -2894,7 +2894,7 @@ dataSource:
               url: https://www.arcblock.io/docs/blocklet-sdk/latest/cli
               variant: contained
               size: large
-              target: _self
+              target: auto
               needLogin: false
             - id: btn-1759121436561-6r9xmg35x
               text: ""
